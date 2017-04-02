@@ -725,6 +725,8 @@ http://www.thesprintbook.com/sprint-week
 https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
 https://sprintstories.com/storyboarding-2-0-4e282b2da94d#.uo3zlqsnc
 
+https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25
+
 http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
 
 https://www.theguardian.com/info/developer-blog/2016/dec/02/the-art-of-the-design-sprint
@@ -857,6 +859,8 @@ Twitch Creative- Accounts
 * [Levelsio](http://www.twitch.tv/levelsio)
 
 <!--
+https://www.twitch.tv/aws
+
 https://www.twitch.tv/thepracticaldev
 
 https://www.twitch.tv/team/twilio
@@ -2131,6 +2135,10 @@ More GitHub Alternatives
 * [Codebase](https://www.codebasehq.com)  
 
 <!--
+https://opensource.google.com
+https://opensource.google.com/projects/explore/featured
+https://github.com/github/opensource.guide
+
 http://getgitorious.com
 https://github.com/tv42/gitosis
 
@@ -2150,6 +2158,10 @@ Types of Licenses
 * [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 * [Creative Commons](https://creativecommons.org/licenses)
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+<!--
+https://github.com/github/balanced-employee-ip-agreement
+-->
 
 #### Operating System, Browser, Layout Engine
 
@@ -2360,6 +2372,10 @@ Apple iOS
 
 MacPorts
 * [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
+
+<!--
+www.macports.org
+-->
 
 Mac OS X Directory Strucure and Listing Applications
 * [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
@@ -3249,6 +3265,23 @@ Web-Safe Fonts
 * [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
 
 <!--
+https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content
+
+https://instapage.com/blog/f-pattern-layout
+https://instapage.com/blog/z-pattern-layout
+https://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687
+https://webdesign.tutsplus.com/articles/understanding-the-z-layout-in-web-design--webdesign-28
+http://www.creativebloq.com/ux/how-human-eye-reads-website-111413463
+http://www.creativebloq.com/web-design/design-jargon-explained-z-pattern-71515717
+
+https://blog.kissmetrics.com/eye-tracking-studies/
+https://www.smashingmagazine.com/2015/04/design-principles-compositional-flow-and-rhythm/
+https://thenextweb.com/dd/2015/04/10/how-to-design-websites-that-mirror-how-our-eyes-work/#.tnw_POrR9KZ6
+https://99designs.com/blog/tips/visual-hierarchy-landing-page-designs/
+http://vanseodesign.com/web-design/3-design-layouts/
+https://writeclearlyblog.com/2016/01/27/does-the-f-shaped-pattern-for-reading-web-content-still-apply/
+
+
 https://brand.frontify.com/d/qAiubNBytHKf/style-guide
 
 Typical base is 16px
@@ -3602,6 +3635,14 @@ http://foundation.zurb.com/sites/docs/motion-ui.html
 https://github.com/daigofuji/jekyll-foundation-5-starter
 http://sass-lang.com/documentation
 http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+
+http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html
+http://foundation.zurb.com/sites/docs/media-queries.html
+https://thenounproject.com/search/?q=globe
+
+http://foundation.zurb.com/sites/docs/button.html
+https://webdesign.tutsplus.com/articles/foundation-for-beginners-buttons-and-dropdowns--webdesign-12465
+http://foundation.zurb.com/forum/posts/1115-centering-a-button-group
 -->
 
 Bootstrap, Font Awesome
@@ -8593,6 +8634,10 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://neuralink.com
+https://en.wikipedia.org/wiki/Beta_wave
+https://en.wikipedia.org/wiki/Consumer_brain%E2%80%93computer_interfaces
+
 http://pygame.org
 
 Gfx
@@ -9506,6 +9551,7 @@ https://plus.google.com/collection/gbVpb
 * [Luke Wroblewski](http://www.lukew.com)
 * [Marco Arment](http://www.marco.org) and [Marco Arment GitHub](https://github.com/marcoarment)
 * [Mark Otto GitHub](https://github.com/mdo)
+* [Werner Vogels](http://www.allthingsdistributed.com)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
@@ -10715,12 +10761,14 @@ https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crk
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=1072753661&serialid=h%2b%2fwLdU%2fTIaitAx1rnamfYsPRAuTFRGdTSF4HZIvTkA%3d
+
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d
+
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
 
 https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting
-
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
@@ -11861,6 +11909,9 @@ Encrypted Communication
 <!--
 Browse in private with Incognito mode
 https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
+
+https://brave.com/downloads.html
+https://www.torproject.org/docs/tor-doc-osx.html.en
 
 https://brave.com
 https://www.torproject.org
