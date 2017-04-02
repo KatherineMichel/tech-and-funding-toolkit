@@ -2708,6 +2708,10 @@ Microsoft Inclusion Approach
 * [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
 
 <!--
+https://en.wikipedia.org/wiki/Assistive_technology
+https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+https://www.ada.gov
+
 https://en.wikipedia.org/wiki/Screen_reader
 http://www.freedomscientific.com/Products/Blindness/JAWS
 
@@ -3257,13 +3261,6 @@ Design Teardowns and Style Tiles
 * [Product Teardown Wikipedia](https://en.wikipedia.org/wiki/Product_teardown)
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
 
-Typographic Scale and Vertical Rhythm
-* [Modular Scale](http://www.modularscale.com)
-* [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
-
-Web-Safe Fonts
-* [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
-
 <!--
 https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content
 
@@ -3281,7 +3278,18 @@ https://99designs.com/blog/tips/visual-hierarchy-landing-page-designs/
 http://vanseodesign.com/web-design/3-design-layouts/
 https://writeclearlyblog.com/2016/01/27/does-the-f-shaped-pattern-for-reading-web-content-still-apply/
 
+https://en.wikipedia.org/wiki/Heat_map
+https://www.crazyegg.com
+-->
 
+Typographic Scale and Vertical Rhythm
+* [Modular Scale](http://www.modularscale.com)
+* [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
+
+Web-Safe Fonts
+* [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
+
+<!--
 https://brand.frontify.com/d/qAiubNBytHKf/style-guide
 
 Typical base is 16px
@@ -3332,6 +3340,10 @@ Typography
 
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
+
+<!--
+http://www.cipsum.com
+-->
 
 Adobe (See also Edge Code and Brackets)
 * [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
@@ -3392,6 +3404,8 @@ Photo Editing (See also Adobe)
 * [Serif](http://www.serif.com)
 
 <!--
+http://www.pixelmator.com/mac
+
 https://en.wikipedia.org/wiki/Bokeh
 
 https://docs.gimp.org/en/gimp-pimping.html
@@ -11917,6 +11931,9 @@ https://brave.com
 https://www.torproject.org
 https://duckduckgo.com
 https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg/related?hl=en
+
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
+https://www.eff.org/https-everywhere
 -->
 
 Microsoft Office
@@ -12190,6 +12207,11 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://www.paymoapp.com
+https://www.freshbooks.com
+https://letsfreckle.com
+IIRC
+
 https://www.creditsesame.com
 
 https://mightybell.com
