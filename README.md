@@ -2142,6 +2142,9 @@ https://opensource.google.com
 https://opensource.google.com/projects/explore/featured
 https://github.com/github/opensource.guide
 
+https://blog.x.company
+https://x.company/graduated
+
 http://getgitorious.com
 https://github.com/tv42/gitosis
 
@@ -5001,6 +5004,8 @@ WordPress Theme Development (not "Using Themes")
 * [WordPress Theme Development](http://codex.wordpress.org/Theme_Development)
 
 <!--
+https://en.blog.wordpress.com/2017/03/23/premium-themes-in-the-premium-plan
+
 https://codex.wordpress.org/Installing_WordPress#Installing_WordPress_at_DigitalOcean
 https://codex.wordpress.org/Migrating_Plugins_and_Themes
 
@@ -9589,6 +9594,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+http://jvns.ca
+
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -10592,6 +10599,10 @@ Built With (Exluding Django; See also Squarespace)
 * [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 
+<!--
+http://webbyawards.com
+-->
+
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
 * [Nerdy Data](http://nerdydata.com)  
@@ -11411,6 +11422,8 @@ https://en.wikipedia.org/wiki/360-degree_feedback
 
 https://en.wikipedia.org/wiki/Institutional_memory
 https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
+
+https://en.wikipedia.org/wiki/Evolutionary_algorithm
 -->
 
 Computer Lore
@@ -12363,16 +12376,16 @@ Awesome Non-Code
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 <!--
+https://github.com/Idnan/bash-guide
+
 https://github.com/donnemartin/awesome-aws#python-sdk
 
 https://branch.io/resources/app-launch-checklist/#
-https://github.com/leereilly/games
 https://github.com/Hack-with-Github/Awesome-Hacking
 
 https://github.com/kdeldycke/awesome-falsehood
 https://github.com/jaywcjlove/awesome-mac
 https://github.com/herrbischoff/awesome-osx-command-line
-https://github.com/d3viant0ne/awesome-webpack
 https://github.com/AntBranch/awesome-github
 https://github.com/zazaalaza/awesome-ideation-tools
 https://github.com/tayllan/awesome-algorithms
