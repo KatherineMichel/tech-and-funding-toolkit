@@ -654,6 +654,10 @@ Code Review (See also Project Management)
 12 Factor App
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 
+<!--
+https://pivotal.io/beyond-the-twelve-factor-app
+-->
+
 Semver
 * [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
@@ -11953,14 +11957,17 @@ Encrypted Communication
 * [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
 
 <!--
+https://www.eff.org
+
 Browse in private with Incognito mode
 https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
 
+https://brave.com
 https://brave.com/downloads.html
+
+https://www.torproject.org
 https://www.torproject.org/docs/tor-doc-osx.html.en
 
-https://brave.com
-https://www.torproject.org
 https://duckduckgo.com
 https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg/related?hl=en
 
@@ -12116,6 +12123,11 @@ Group Communication/Chat
 * [Meetup](http://www.meetup.com)
 * [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
  
+<!--
+https://bluejeans.com
+https://zoom.us
+--> 
+ 
 Livestreaming, Video, Audio 
 * [Livestream](http://new.livestream.com) 
 * [SoundCloud](https://soundcloud.com)  
@@ -12239,6 +12251,8 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://www.eventbrite.com/
+
 https://www.paymoapp.com
 https://www.freshbooks.com
 https://letsfreckle.com
@@ -12311,6 +12325,9 @@ Salary/Compensation, Economic Graph
 * [How Much to Make an App](http://howmuchtomakeanapp.com)
 
 <!--
+https://engineering.linkedin.com/data/economic-graph-research
+https://engineering.linkedin.com/data/economic-graph-research/economic-graph-details
+
 Compensation
 * [CompStudy](https://www.compstudy.com)
 
