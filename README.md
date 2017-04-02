@@ -1760,6 +1760,9 @@ GitHub- Main
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
+<!--
+https://github.com/github/open-source-survey
+-->
 
 <!--
 https://docs.python.org/devguide/gitbootcamp.html
@@ -2830,6 +2833,11 @@ Facebook Developers
 * [Facebook Platform Insights (Going away)](https://developers.facebook.com/docs/platforminsights)
 
 <!--
+https://www.messenger.com
+http://newsroom.fb.com/news/2017/03/more-ways-to-support-causes
+-->
+
+<!--
 Facebook's Advertisers Tool
 https://developers.facebook.com/docs/javascript
 
@@ -2885,6 +2893,10 @@ Google Webmaster and Analytics (Web)
 * [Google U.K. Analytics](http://www.google.co.uk/analytics)
 * [Google Real-Time](https://support.google.com/analytics/answer/1638635?hl=en)
 * [Google Data Studio](https://www.google.com/analytics/data-studio)
+
+<!--
+https://github.com/googleanalytics/ga-dev-tools
+-->
 
 Google Rich Snippets
 * [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
@@ -3059,6 +3071,11 @@ Google
 
 Google Material Design (See also Facebook React)
 * [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+<!--
+https://material.io/guidelines/resources/roboto-noto-fonts.html
+https://material.io/guidelines/style/typography.html#typography-line-height
+-->
 
 Bootstrap Material Design
 * [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
@@ -8648,6 +8665,8 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
+https://cvdazzle.com/#style-tips
+
 https://neuralink.com
 https://en.wikipedia.org/wiki/Beta_wave
 https://en.wikipedia.org/wiki/Consumer_brain%E2%80%93computer_interfaces
