@@ -6817,8 +6817,6 @@ Malware and Encryption
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
 <!--
-https://www.hackerone.com
-
 https://www.us-cert.gov
 https://www.digicert.com
 http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
@@ -6827,6 +6825,83 @@ https://www.owasp.org/index.php/Main_Page
 
 https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
 https://github.com/FallibleInc/security-guide-for-developers
+
+https://en.wikipedia.org/wiki/Security_hacker
+https://en.wikipedia.org/wiki/Black_hat
+https://en.wikipedia.org/wiki/White_hat_(computer_security)
+
+http://exeinfo.atwebpages.com
+http://gnuwin32.sourceforge.net/packages/file.htm
+https://www.virustotal.com
+http://mark0.net/soft-trid-e.html
+https://upx.github.io
+https://en.wikipedia.org/wiki/UPX
+https://github.com/upx/upx
+https://gcc.gnu.org
+http://www.subisoft.net/computehash.aspx
+https://blog.didierstevens.com/programs/xorsearch
+https://www.mcafee.com/hk/downloads/free-tools/bintext.aspx
+https://www.winitor.com/
+http://www.ntcore.com/exsuite.php
+https://sourceforge.net/projects/yodap/files/Yoda%20Crypter/1.3
+https://en.wikipedia.org/wiki/Wireshark
+https://www.wireshark.org
+http://openmalware.org
+https://virusshare.com
+http://www.procdot.com/
+http://www.graphviz.org/
+https://technet.microsoft.com/en-us/sysinternals/processmonitor.aspx
+https://sourceforge.net/projects/regshot/
+https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
+https://cert.at/downloads/software/procdot_en.html
+
+https://en.wikipedia.org/wiki/Cryptographic_hash_function
+https://simple.wikipedia.org/wiki/Cryptographic_hash_function
+https://en.wikipedia.org/wiki/SHA-1
+https://en.wikipedia.org/wiki/MD5
+SHA-256
+https://en.wikipedia.org/wiki/SHA-2
+
+https://en.wikipedia.org/wiki/Collision_attack
+https://en.wikipedia.org/wiki/Collision_(computer_science)
+
+https://en.wikipedia.org/wiki/Portable_Executable
+https://en.wikipedia.org/wiki/Reverse_engineering
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms682589(v=vs.85).aspx
+https://support.microsoft.com/en-us/help/815065/what-is-a-dll
+https://en.wikipedia.org/wiki/Dynamic-link_library
+https://en.wikipedia.org/wiki/DOS_MZ_executable
+https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files
+https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Portable_Executable_32_bit_Structure_in_SVG_fixed.svg/500px-Portable_Executable_32_bit_Structure_in_SVG_fixed.svg.png
+https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portable_Executable_32_bit_Structure.png/661px-Portable_Executable_32_bit_Structure.png
+https://en.wikipedia.org/wiki/Slowloris_(computer_security)
+https://en.wikipedia.org/wiki/Hacking_tool
+https://en.wikipedia.org/wiki/Windows_Registry
+https://en.wikipedia.org/wiki/Denial-of-service_attack
+Packed and obfuscated malware 
+DOS Header, DOS stub
+OS X Malware
+https://en.wikipedia.org/wiki/Base64
+https://msdn.microsoft.com/en-us/library/ms809762.aspx
+https://en.wikipedia.org/wiki/Rootkit
+https://msdn.microsoft.com/en-us/library/windows/desktop/ms724946(v=vs.85).aspx
+https://www.ibm.com/support/knowledgecenter/en/SS5FJA_2.2.2/com.ibm.host.doc/concepts/sim_system_integrity_monitoring.htm
+https://en.wikipedia.org/wiki/File_integrity_monitoring
+https://www.reddit.com/r/Malware/
+https://en.wikipedia.org/wiki/DLL_injection
+http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
+Malware behavioral monitoring
+http://www.dummies.com/computers/operating-systems/windows-7/how-to-run-a-program-with-elevated-permissions/
+https://en.wikipedia.org/wiki/Exclusive_or
+https://en.wikipedia.org/wiki/XOR_gate
+https://en.wikipedia.org/wiki/XOR_cipher
+http://mathworld.wolfram.com/XOR.html
+https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
+https://en.wikipedia.org/wiki/Memory_forensics
+Memory Analysis
+https://technet.microsoft.com/en-us/library/cc709691(v=ws.10).aspx
+https://en.wikipedia.org/wiki/User_Account_Control
+https://msdn.microsoft.com/en-us/library/windows/desktop/dn742497(v=vs.85).aspx
 -->
 
 #### Deployment and Cloud
