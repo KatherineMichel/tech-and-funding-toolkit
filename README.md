@@ -1285,6 +1285,8 @@ Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
 <!--
+https://en.wikipedia.org/wiki/MAC_address
+
 https://en.wikipedia.org/wiki/UUID
 
 https://en.wikipedia.org/wiki/Codec
@@ -3283,6 +3285,10 @@ Color
 Color Model
 * [RGBA (red green blue alpha) Wikipedia](https://en.wikipedia.org/wiki/RGBA_color_space)
 
+<!--
+https://en.wikipedia.org/wiki/CMYK_color_model
+-->
+
 Design Teardowns and Style Tiles
 * [Product Teardown Wikipedia](https://en.wikipedia.org/wiki/Product_teardown)
 * [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
@@ -3786,6 +3792,10 @@ Cross Browser and Sniffing
 * [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
 * [User Agent Wikipedia](https://en.wikipedia.org/wiki/User_agent)
 * [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
+
+<!--
+https://en.wikipedia.org/wiki/Feature_detection_(web_development)
+-->
 
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
@@ -6885,6 +6895,11 @@ https://github.com/FallibleInc/security-guide-for-developers
 https://en.wikipedia.org/wiki/Security_hacker
 https://en.wikipedia.org/wiki/Black_hat
 https://en.wikipedia.org/wiki/White_hat_(computer_security)
+
+https://practicalmalwareanalysis.com/fakenet/
+https://www.vmware.com/support/ws55/doc/ws_net_configurations_hostonly.html
+https://www.virtualbox.org/manual/ch06.html
+http://kb.parallels.com/en/4948
 
 http://exeinfo.atwebpages.com
 http://gnuwin32.sourceforge.net/packages/file.htm
@@ -11006,6 +11021,10 @@ Nassim Nicholas Taleb's Teachings
 * [The Most Stubborn Wins: The Dominance of the Minority](https://dl.dropboxusercontent.com/u/50282823/minority.pdf)
 * [The Irrational Discussions of Rationality, Part I](https://dl.dropboxusercontent.com/u/50282823/rational.pdf)
 * [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
+
+<!--
+https://arxiv.org/abs/1609.02369
+-->
 
 #### Finance Extra
 
