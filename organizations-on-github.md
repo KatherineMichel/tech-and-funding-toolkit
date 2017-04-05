@@ -321,6 +321,7 @@ https://github.com/Medium/medium-policy
 * [Pixar Animation Studios](https://github.com/PixarAnimationStudios)
 * [Pixate](https://github.com/Pixate)
 * [Postmates](https://github.com/postmates) 
+* [Prezi](https://github.com/prezi)  
 * [Product Hunt](https://github.com/producthunt)  
 * [Quantopian](https://github.com/quantopian)  
 * [Quip](https://github.com/quip)  
