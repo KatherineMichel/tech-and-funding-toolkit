@@ -3593,6 +3593,8 @@ http://www.w3schools.com/browsers/default.asp
 #### Front-End Development
 
 <!--
+https://developers.google.com/speed/libraries/
+
 Semantic Site Audit
 -->
 
@@ -5904,6 +5906,10 @@ http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certif
 
 https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
+https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html
+
+https://simpleisbetterthancomplex.com/tutorial/2017/02/18/how-to-create-user-sign-up-view.html
+
 https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
 https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
 https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
@@ -6817,6 +6823,56 @@ Malware and Encryption
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
 <!--
+https://github.com/Hack-with-Github/Awesome-Hacking
+https://github.com/carpedm20/awesome-hacking
+https://github.com/onlurking/awesome-infosec
+https://github.com/rshipp/awesome-malware-analysis
+https://github.com/infoslack/awesome-web-hacking
+https://github.com/paragonie/awesome-appsec
+https://github.com/PaulSec/awesome-sec-talks
+https://github.com/sbilly/awesome-security
+https://github.com/meirwah/awesome-incident-response
+https://github.com/atinfo/awesome-test-automation
+https://github.com/hslatman/awesome-threat-intelligence
+https://github.com/jivoi/awesome-ml-for-cybersecurity
+https://github.com/zbetcheckin/Security_list
+https://github.com/joe-shenouda/awesome-cyber-skills
+https://github.com/apsdehal/awesome-ctf
+https://github.com/nixawk/pentest-wiki
+https://github.com/jekil/awesome-hacking
+https://github.com/Hack-with-Github/Free-Security-eBooks
+https://github.com/enaqx/awesome-pentest
+https://github.com/mostafahussein/awesome-security-checklist
+https://github.com/ashishb/osx-and-ios-security-awesome
+https://github.com/coreb1t/awesome-pentest-cheat-sheets
+https://github.com/hslatman/awesome-industrial-control-system-security
+https://github.com/rmusser01/Infosec_Reference
+
+https://github.com/awslabs/aws-security-benchmark
+https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
+https://github.com/awslabs/aws-security-automation
+https://github.com/WordPress/Security-White-Paper
+
+https://github.com/openstack/security-doc
+https://github.com/openstack/syntribos
+
+CIS Apple Security Guidelines
+https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
+https://benchmarks.cisecurity.org/
+
+https://www.cisecurity.org/training/resources/
+https://www.cisecurity.org/training/publications/
+
+https://github.com/w3c/webappsec
+
+https://github.com/usnistgov/applesec
+https://github.com/usnistgov
+
+https://github.com/OWASP
+https://www.owasp.org/index.php/Top_10_2013-Top_10
+
+
+
 https://www.us-cert.gov
 https://www.digicert.com
 http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
@@ -6865,6 +6921,13 @@ https://en.wikipedia.org/wiki/SHA-2
 https://en.wikipedia.org/wiki/Collision_attack
 https://en.wikipedia.org/wiki/Collision_(computer_science)
 
+https://www.isaca.org/pages/default.aspx
+https://en.wikipedia.org/wiki/ISACA
+
+http://www.forensicswiki.org/wiki/Memory_analysis
+http://forensicswiki.org/wiki/Main_Page
+
+https://en.wikipedia.org/wiki/Zero-day_(computing)
 https://en.wikipedia.org/wiki/Portable_Executable
 https://en.wikipedia.org/wiki/Reverse_engineering
 https://msdn.microsoft.com/en-us/library/windows/desktop/ms682589(v=vs.85).aspx
@@ -6931,6 +6994,11 @@ SaaS- General and Alternatives to GoogleApps
 #### AWS
 
 <!--
+https://www.createspace.com
+https://www.amazon.com/hz/wishlist/inf-interest?ref=producthunt
+https://aws.amazon.com/connect/
+
+
 New
 https://cloud.google.com/docs/compare/aws/
 http://cloudacademy.com/blog/aws-vs-microsoft-azure-google-cloud/
@@ -12018,6 +12086,12 @@ Mobile Two Factor Authentication
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
 <!--
+Google Permissions
+https://myaccount.google.com/permissions
+
+Google Activity
+https://myactivity.google.com/myactivity
+
 https://www.google.com/landing/2step
 -->
 
@@ -12067,13 +12141,15 @@ Google Account
 * [G Suite](https://gsuite.google.com)
 * [Google Gmail](http://gmail.com) 
 * [Google Inbox](https://www.google.com/inbox) and [Google Inbox Dashboard](https://inbox.google.com)
-* [Google My Activity](https://myactivity.google.com/myactivity)
 * [Google Drive](https://www.google.com/drive) 
 * [Google Slides](https://support.google.com/docs#topic=2811776)
 * [Google Drawings](https://docs.google.com/drawings)  
 * [Google Images](https://images.google.com) 
 * [Google Calendar](https://www.google.com/calendar) 
 * [Google Spaces](https://get.google.com/spaces)
+
+
+* [Google My Activity](https://myactivity.google.com/myactivity)
 
 <!--
 https://takeout.google.com/settings/takeout
