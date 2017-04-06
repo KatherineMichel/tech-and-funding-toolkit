@@ -2851,6 +2851,8 @@ Facebook Developers
 * [Facebook Platform Insights (Going away)](https://developers.facebook.com/docs/platforminsights)
 
 <!--
+https://analytics.facebook.com
+
 https://www.messenger.com
 http://newsroom.fb.com/news/2017/03/more-ways-to-support-causes
 -->
@@ -2941,6 +2943,10 @@ Yahoo and Bing- Developer, Webmaster
 * [Yahoo Development](http://developer.yahoo.com), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
 * [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
 * [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster) 
+
+<!--
+https://help.yahoo.com/kb/search/SLN2245.html?impressions=true
+-->
 
 Firefox SEO (See also Mozilla)
 * [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
@@ -12373,6 +12379,10 @@ Docs
 * [Streak](https://www.streak.com)
 * [Scribd](https://www.scribd.com)
 
+<!--
+https://www.gonitro.com/pdf-reader
+-->
+
 File Storage
 * [Box](https://www.box.com) 
 * [Dropbox](https://www.dropbox.com) and [Dropbox Paper](https://www.dropbox.com/paper)
@@ -12452,7 +12462,9 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
-https://www.eventbrite.com/
+https://svbtle.com
+
+https://www.eventbrite.com
 
 https://www.paymoapp.com
 https://www.freshbooks.com
