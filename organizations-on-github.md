@@ -213,6 +213,7 @@ https://github.com/BuzzFeedNews/everything
 * [21dotco](https://github.com/21dotco)
 * [AddThis](https://github.com/addthis)
 * [Adobe](https://github.com/adobe)  
+* [Adobe Fonts](https://github.com/adobe-fonts)
 * [Adobe Research](https://github.com/adobe-research)
 * [Airbnb](https://github.com/airbnb)  
 * [Alibaba](https://github.com/alibaba)  
