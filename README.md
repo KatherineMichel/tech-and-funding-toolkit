@@ -290,6 +290,10 @@ Agile Project Management Tools
 * [Kanban Development Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development)), [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban), and [Open Kanban GitHub](https://github.com/agilelion/Open-Kanban)
 * [Toyota Just-in-Time](http://www.toyota-global.com/company/vision_philosophy/toyota_production_system/just-in-time.html)
 
+<!--
+http://www.personalkanban.com/pk
+-->
+
 Software Project Management
 * [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
 
@@ -424,6 +428,7 @@ https://en.wikipedia.org/wiki/New_product_development#Fuzzy_Front_End
 
 https://link.springer.com/article/10.1007/s11219-017-9360-z
 
+https://en.wikipedia.org/wiki/Brooks%27s_law
 https://en.wikipedia.org/wiki/Progressive_enhancement
 https://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 https://en.wikipedia.org/wiki/Separation_of_concerns
@@ -1102,6 +1107,8 @@ History of Technology and Computer Science
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
 
 <!--
+http://www.computerhistory.org
+
 https://en.wikibooks.org/wiki/Open_Metadata_Handbook
 -->
 
@@ -2719,7 +2726,7 @@ https://blogs.msdn.microsoft.com/accessibility/2017/03/01/a-look-back-and-a-look
 -->
 
 Microsoft Inclusion Approach
-* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/design/practice)
+* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/Design/inclusive)
 
 <!--
 https://en.wikipedia.org/wiki/Assistive_technology
@@ -3135,6 +3142,10 @@ Design Publications
 * [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
 * [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
  
+ <!--
+ https://webdesign.tutsplus.com
+ -->
+ 
 Portfolio and Community Websites
 * [Behance](https://www.behance.net)  
 * [Dribbble](https://dribbble.com) and [Dribble Shots](https://dribbble.com/shots)
@@ -3388,6 +3399,9 @@ Adobe (See also Edge Code and Brackets)
 * [Adobe Spark](https://spark.adobe.com)
 
 <!--
+https://github.com/adobe
+https://github.com/adobe-fonts
+
 https://creative.adobe.com/plans
 
 WSWYG
@@ -3476,6 +3490,8 @@ Gifs
 * [Giphy](http://giphy.com) 
 
 <!--
+https://thenounproject.com/search/?q=globe
+
 https://vincentp.me/blog/my-front-end-development-process-start-to-finish
 
 https://speakerdeck.com/limedaring/pyladies-remote
@@ -3570,6 +3586,7 @@ Easy App Installation
 <!--
 http://updateyourfooter.com
 
+https://websitedownloader.io/wayback-machine-downloader
 https://websitedownloader.io
 https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
@@ -3676,17 +3693,18 @@ Foundation
 * [Zurb Library](http://zurb.com/library)
 
 <!--
-http://foundation.zurb.com/learn
-http://foundation.zurb.com/sites/docs/v/5.5.3/sass-files.html
-http://foundation.zurb.com/sites/docs/motion-ui.html
-
 https://github.com/daigofuji/jekyll-foundation-5-starter
 http://sass-lang.com/documentation
 http://sass-lang.com/documentation/file.SASS_REFERENCE.html
 
+http://foundation.zurb.com/learn
+http://foundation.zurb.com/sites/docs/v/5.5.3/sass-files.html
+http://foundation.zurb.com/sites/docs/sass.html#the-settings-file
+http://foundation.zurb.com/sites/docs/sass.html
+http://foundation.zurb.com/sites/docs/motion-ui.html
 http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html
+http://foundation.zurb.com/sites/docs/grid.html
 http://foundation.zurb.com/sites/docs/media-queries.html
-https://thenounproject.com/search/?q=globe
 
 http://foundation.zurb.com/sites/docs/button.html
 https://webdesign.tutsplus.com/articles/foundation-for-beginners-buttons-and-dropdowns--webdesign-12465
@@ -9759,6 +9777,7 @@ https://plus.google.com/collection/gbVpb
 
 <!--
 http://jvns.ca
+https://twitter.com/b0rk
 
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
@@ -9783,6 +9802,10 @@ Awards
 * [Pulitzer Prizes](http://www.pulitzer.org)
 * [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
+
+<!--
+https://en.wikipedia.org/wiki/Turing_Award
+-->
 
 #### Inventors, Economists, Philosophers
 
@@ -10958,6 +10981,7 @@ Mental Models
 Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 
 <!--
+https://www.farnamstreetblog.com/mental-models
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
 -->
 
@@ -12052,6 +12076,11 @@ Distribution, Growth, Sales Hacking
 * [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
 * [Saleshacker](http://www.saleshacker.com)
 
+<!--
+https://github.com/phodal/growth-ebook
+https://github.com/phodal/growth
+-->
+
 Marketing and Search Engine Land
 * [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
 * [Search Engine Land](http://searchengineland.com) and [Search Engine Land Slideshare](http://www.slideshare.net/searchengineland)
@@ -12715,6 +12744,11 @@ Public Speaking
 * [National Speakers Association](http://www.nsaspeaker.org)
 * [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
 
+<!--
+Memory Methods
+https://en.wikipedia.org/wiki/Method_of_loci
+-->
+
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
 * [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
@@ -12746,6 +12780,10 @@ The Happiness Project
 Bullet Journal and Pomodoro Technique (see also: Agile Project Management)
 * [Bullet Journal](http://bulletjournal.com)
 * [The Pomodoro Technique](http://pomodorotechnique.com) and [Cirillo Consulting Pomodoro Technique](http://cirillocompany.de/pages/pomodoro-technique)
+
+<!--
+Personal Kanban
+-->
 
 #### Journalism Handbooks and Grammatical Style Guides
 
