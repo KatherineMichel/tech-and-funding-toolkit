@@ -157,6 +157,7 @@ Kansas Non-Profit
 * [Make School](https://github.com/MakeSchool)
 * [O'Reilly Media](https://github.com/oreillymedia)
 * [Pluralsight](https://github.com/pluralsight)
+* [Pluralsight Guides](https://github.com/pluralsight/guides)
 * [Pluralsight Projects](https://github.com/pluralsight-projects)
 * [Udacity](https://github.com/udacity)  
 * [W3Schools](https://github.com/w3schools) 
