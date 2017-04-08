@@ -12608,21 +12608,29 @@ Awesome Non-Code
 <!--
 https://github.com/Idnan/bash-guide
 
+https://github.com/AntBranch/awesome-github
+https://github.com/noffle/art-of-readme
+
+https://github.com/jaywcjlove/awesome-mac
+https://github.com/herrbischoff/awesome-osx-command-line
+
+https://github.com/endymecy/awesome-deeplearning-resources
+https://github.com/tayllan/awesome-algorithms
+
+https://github.com/gztchan/awesome-design
+https://github.com/zazaalaza/awesome-ideation-tools
+
+https://github.com/jonathandion/awesome-emails
+https://github.com/Jolg42/awesome-typography
+https://github.com/neutraltone/awesome-stock-resources
+
+
 https://github.com/donnemartin/awesome-aws#python-sdk
 
 https://branch.io/resources/app-launch-checklist/#
 https://github.com/Hack-with-Github/Awesome-Hacking
-
+https://github.com/dastergon/awesome-sre
 https://github.com/kdeldycke/awesome-falsehood
-https://github.com/jaywcjlove/awesome-mac
-https://github.com/herrbischoff/awesome-osx-command-line
-https://github.com/AntBranch/awesome-github
-https://github.com/zazaalaza/awesome-ideation-tools
-https://github.com/tayllan/awesome-algorithms
-
-https://github.com/gztchan/awesome-design
-https://github.com/noffle/art-of-readme
-https://github.com/neutraltone/awesome-stock-resources
 https://github.com/KishanBagaria/awesome-standards
 https://github.com/zingchart/awesome-charting
 https://github.com/detailyang/awesome-cheatsheet
@@ -12686,6 +12694,10 @@ Book Lists
 * [Bookstck](http://bookstck.tumblr.com)
 
 #### Learning Resources
+
+<!--
+https://apps.ankiweb.net
+-->
 
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
