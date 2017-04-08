@@ -11613,6 +11613,18 @@ Models and Theories
 * [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 
 <!--
+https://en.wikipedia.org/wiki/Hero%27s_journey
+https://backchannel.com/how-the-tech-press-forces-a-narrative-on-companies-it-covers-5f89fdb7793e#.njs8p3ax7
+
+http://opensourceecology.org/gvcs
+https://www.amazon.com/Knowledge-Rebuild-Civilization-Aftermath-Cataclysm/dp/0143127047
+http://the-knowledge.org/en-gb/the-book
+
+http://www.cmo.com/opinion/articles/2016/10/11/understanding-the-roi-of-customer-journey-mapping.html#gs.iyTTcHo
+http://www.ribbonfarm.com/2016/09/27/mapping-organizational-realities/
+https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016
+https://johncarlosbaez.wordpress.com/2016/10/02/complex-adaptive-system-design-part-1/
+
 http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
 https://en.m.wikipedia.org/wiki/Anthropomorphism
 
