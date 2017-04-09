@@ -1,7 +1,7 @@
 Tech and Funding Toolkit
 ====================
 
-![](tech-and-venture-capital-toolkit.jpg)
+![](tech-and-funding-toolkit.jpg)
 [Photo Credit: Scott Liddell](http://www.morguefile.com/archive/display/877310)
 
 A :star::star::star::star::star: curated list of high quality resources (mostly free) made with :heart: by Kati Michel. See also...
