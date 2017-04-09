@@ -760,6 +760,11 @@ Programming Groups
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
 
+<!--
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+-->
+
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
@@ -1120,6 +1125,8 @@ Famous Literature
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
 
 <!--
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+
 http://www.catb.org/~esr/faqs/hacker-howto.html
 -->
 
@@ -9790,8 +9797,14 @@ https://plus.google.com/collection/gbVpb
 https://linux.conf.au/
 https://www.youtube.com/watch?v=W2AR1owg0ao
 https://www.slideshare.net/NadiaEghbal/consider-the-maintainer
-https://blog.darkmere.gen.nz/2017/01/linux-conf-au-2017-thursday-keynote-nadia-eghbal/
+https://blog.darkmere.gen.nz/2017/01/linux-conf-au-2017-thursday-keynote-nadia-eghbal
 https://medium.com/@nayafia/there-is-no-my-in-open-source-c3e5555390fa
+
+https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
+
+http://a16z.com/2017/04/08/culture-open-source-community
+http://a16z.com/tag/open-v-closed
+https://www.wired.com/tag/open-vs-closed
 
 http://jvns.ca
 https://twitter.com/b0rk
