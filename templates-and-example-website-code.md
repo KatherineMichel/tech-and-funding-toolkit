@@ -357,6 +357,7 @@ Free Code Camp
 * [Free Code Camp GitHub](https://github.com/FreeCodeCamp/FreeCodeCamp)
 
 <!--
+https://github.com/freeCodeCamp/donate
 https://github.com/FreeCodeCamp/nonprofit-email-service
 https://github.com/FreeCodeCamp/food-bank-app
 https://github.com/FreeCodeCamp/FreeCodeCamp
