@@ -2182,6 +2182,7 @@ Types of Licenses
 
 <!--
 https://github.com/github/balanced-employee-ip-agreement
+https://github.com/twitter/innovators-patent-agreement
 -->
 
 #### Operating System, Browser, Layout Engine
@@ -11006,6 +11007,8 @@ Mental Models
 Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 
 <!--
+https://en.m.wikipedia.org/wiki/List_of_cognitive_biases
+
 https://www.farnamstreetblog.com/mental-models
 https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
 -->
@@ -11761,6 +11764,9 @@ Unboxing
 #### Books and Courses
 
 <!--
+Rec from Tim Ferris
+http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
