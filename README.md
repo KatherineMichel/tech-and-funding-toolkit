@@ -1,4 +1,4 @@
-Tech and Venture Capital Toolkit
+Tech and Funding Toolkit
 ====================
 
 ![](tech-and-venture-capital-toolkit.jpg)
