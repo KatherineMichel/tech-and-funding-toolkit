@@ -9780,11 +9780,19 @@ https://plus.google.com/collection/gbVpb
 * [Luke Wroblewski](http://www.lukew.com)
 * [Marco Arment](http://www.marco.org) and [Marco Arment GitHub](https://github.com/marcoarment)
 * [Mark Otto GitHub](https://github.com/mdo)
+* [Mikeal Rogers](http://mikealrogers.com) and [Mikeal Rogers Medium](https://medium.com/@mikeal)
+* [Nadia Eghbal Medium](https://medium.com/@nayafia) and [Nadia Eghbal Slideshare](https://www.slideshare.net/NadiaEghbal)
 * [Werner Vogels](http://www.allthingsdistributed.com)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+https://linux.conf.au/
+https://www.youtube.com/watch?v=W2AR1owg0ao
+https://www.slideshare.net/NadiaEghbal/consider-the-maintainer
+https://blog.darkmere.gen.nz/2017/01/linux-conf-au-2017-thursday-keynote-nadia-eghbal/
+https://medium.com/@nayafia/there-is-no-my-in-open-source-c3e5555390fa
+
 http://jvns.ca
 https://twitter.com/b0rk
 
@@ -12391,6 +12399,10 @@ Livestreaming, Video, Audio
 * [Meerkat](http://meerkatapp.co)
 * [Periscope](https://www.periscope.tv)
 
+<!--
+YouTube Live
+-->
+
 Photo Hosting
 * [Amazon: Share Your Photos, Videos, & Albums](https://www.amazon.com/gp/help/customer/display.html?nodeId=201480990)
 * [Flickr](https://www.flickr.com) 
@@ -12426,9 +12438,8 @@ Docs
 * [Streak](https://www.streak.com)
 * [Scribd](https://www.scribd.com)
 
-<!--
-https://www.gonitro.com/pdf-reader
--->
+PDF Reader
+* [Nitro](https://www.gonitro.com/pdf-reader)
 
 File Storage
 * [Box](https://www.box.com) 
@@ -12599,6 +12610,7 @@ https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
 
 <!--
 https://www.producthunt.com/e/most-upvoted-in-tech
+
 http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
 http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
 https://www.producthunt.com/tech/freelancer-stack
@@ -12622,11 +12634,9 @@ https://www.producthunt.com/tech/makerbook-2
 https://productmap.co
 http://www.communitybuildingguide.com
 https://startuplaunchlist.com
-http://www.bookicious.com/collections
 https://entrepreneur-tools.zeef.com/keyhanimo
 https://balapastudio.co/frontendlist
 http://designforstartup.net
-http://bookstck.tumblr.com
 -->
 
 Awesome
@@ -12742,10 +12752,6 @@ Book Lists
 
 #### Learning Resources
 
-<!--
-https://apps.ankiweb.net
--->
-
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 
@@ -12760,6 +12766,9 @@ MOOCs
 * [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
 * [Udemy](https://www.udemy.com)
 * [NovoEd (Social Entrepreneurship)](https://novoed.com)  
+
+Flash Cards
+* [Anki](https://apps.ankiweb.net)
 
 Coursera Materials Downloader
 * [Coursera Materials Downloader](https://chrome.google.com/webstore/detail/coursera-materials-downlo/ijkboagofaehocnjacacdhdcbbcpilih/related?hl=en)
@@ -12866,7 +12875,6 @@ https://en.wikipedia.org/wiki/Parenthetical_referencing
 http://fieldguide.opennews.org
 https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide
 
-http://www.economist.com/styleguide
 http://www.economist.com/style-guide/inverted-commas-quotation-marks
 -->
 
@@ -12959,4 +12967,3 @@ http://origami.ft.com/docs/syntax
 #### Vocabulary
 
 [Back to Top](#)
-
