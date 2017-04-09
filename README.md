@@ -9748,6 +9748,8 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+https://www.danprimack.com
+
 https://www.slideshare.net/sblank/tagged/stanford
 https://www.slideshare.net/sblank/videos
 
@@ -9853,7 +9855,7 @@ http://www.greatachievements.org
 
 * [Ben Carlson](http://awealthofcommonsense.com)
 * [Barry Ritholtz](http://www.ritholtz.com/blog) and [Barry Ritholtz Masters in Business](http://www.bloombergview.com/topics/masters-in-business)
-* [Howard Marks (Chairman, Oaktree Capital) Memos](http://www.oaktreecapital.com/memo.aspx) and [It’s not Easy](http://www.oaktreecapital.com/MemoTree/It's%20Not%20Easy.pdf)
+* [Howard Marks (Chairman, Oaktree Capital) Memos](https://www.oaktreecapital.com/insights/howard-marks-memos)
 * [Jason Zweig](http://www.jasonzweig.com)
 * [Jeremy Grantham Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Grantham)
 * [Joshua M. Brown (CEO, Ritholtz Wealth Management and The Reformed Broker)](http://thereformedbroker.com/about)
@@ -9864,6 +9866,12 @@ http://www.greatachievements.org
 * [Tadas Viskanta (Abnormal Returns)](http://abnormalreturns.com)
 
 <!--
+https://www.oaktreecapital.com/docs/default-source/memos/expert-opinion.pdf
+https://www.oaktreecapital.com/docs/default-source/memos/2015-09-09-its-not-easy.pdf
+ 
+https://www.gmo.com/docs/default-source/public-commentary/gmo-quarterly-letter.pdf
+https://www.jpmorganchase.com/corporate/investor-relations/document/ar2016-ceolettershareholders.pdf
+
 https://en.wikipedia.org/wiki/Seth_Klarman
 
 https://twitter.com/EmanuelDerman
@@ -10473,12 +10481,21 @@ Document Web Services
 
 <!--
 https://captable.io/company/add
-
 https://blog.captable.io
-https://medium.com/@henrysward
+https://captable.io/company/8/scenarios
+https://blog.captable.io/a-four-step-plan-for-setting-up-and-running-your-startups-stock-option-process-82a76709ac27#.a8y66plma
+
 https://blog.esharesinc.com/latest
 https://esharesinc.com/investor-services
 https://tour.esharesinc.com/corporations/7/#start_demo
+
+https://medium.com/@henrysward
+https://medium.com/@henrysward/eshares-101-e96d792bdc69#.jcbgc4y8d
+https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.ntuvuyezc
+https://medium.com/@henrysward/eshares-series-a-c6bad9ad3721
+https://esharesinc.com/product/409a
+
+https://visible.vc/blog/financial-modeling-for-startups
 -->
 
 Cap Table
@@ -10965,6 +10982,8 @@ Long Bets
 * [Long Bets](https://longbets.org)
 
 <!--
+http://www.berkshirehathaway.com/letters/letters.html
+
 https://en.wikipedia.org/wiki/Mathematics_of_bookmaking
 -->
 
@@ -11027,6 +11046,12 @@ Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 * [Measuring the Moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
 * [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
 * [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
+
+<!--
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=x745112&serialid=knrGGNw%2bo620toTTx96qBQ%3d%3d
+
+http://www.valuewalk.com/wp-content/uploads/2014/02/document-805915460.pdf
+-->
 
 * [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
 
@@ -11803,8 +11828,12 @@ STEM and STEAM
 #### Business and Tech News Sources
 
 <!--
-https://www.techopedia.com
+http://www.nytimes.com/newsletters/morning-briefing
+https://www.vox.com/newsletters
+http://link.axios.com/join/signup-all
 https://www.axios.com
+
+https://www.techopedia.com
 https://pinboard.in/popular
 
 More News
