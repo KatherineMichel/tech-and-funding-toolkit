@@ -117,6 +117,7 @@ Python- Django- Python and Django official websites and code
 
 Python- Django- PyCon, DjangoCon, and PyData
 * [PyCon GitHub](https://github.com/PyCon/pycon) and [PyCon Read the Docs](https://pycon.readthedocs.org/en/latest)
+* [DjangoCon Europe 2017 GitHub](https://github.com/djangocon/2017.djangocon.eu)
 * [DjangoCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
 * [DjangoCon U.S. 2016 GitHub](https://github.com/djangocon/2016.djangocon.us)
 * [DjangoCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
