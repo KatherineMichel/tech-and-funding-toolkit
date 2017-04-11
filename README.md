@@ -137,6 +137,22 @@ Table of Content
 
 * [Appendix](#appendix)
 
+* [Built With and Search](#built-with-and-search)
+
+* [Brainstorming](#brainstorming)
+* [Surveys, Trends, Stats](#surveys-trends-stats)
+* [Site and App Research](#site-and-app-research)
+* [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
+* [Metrics](#metrics)
+
+* [Venture Analysis](#venture-analysis)
+* [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+* [Documents and Advice](#documents-and-advice)
+
+* [Company and Product Databases](#company-and-product-databases)
+* [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
+
+
 * [People](#people)
   * [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   * [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
@@ -150,21 +166,6 @@ Table of Content
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 
-
-
-* [Venture Analysis](#venture-analysis)
-* [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
-* [Documents and Advice](#documents-and-advice)
-* [Metrics](#metrics)
-* [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-* [Company and Product Databases](#company-and-product-databases)
-* [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-* [Surveys, Trends, Stats](#surveys-trends-stats)
-
-* [Site and App Research](#site-and-app-research)
-
-
-
 * [Economics, Models](#economics-models)
 * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
 * [Chance](#chance)
@@ -177,6 +178,7 @@ Table of Content
 * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
 * [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
 * [Lean Startup and Launchpad](#lean-startup-and-launchpad)
+
 * [Philosophies, Milestones](#philosophies-milestones)
 * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 * [Notable Quotes](#notable-quotes)
@@ -9600,6 +9602,535 @@ General Terminology
 
 #### Appendix
 
+#### Built With and Search
+
+Built With (Exluding Django; See also Squarespace)
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+* [Built With](http://builtwith.com)  
+* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+* [Built with Bootstrap](http://expo.getbootstrap.com)  
+* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+<!--
+http://webbyawards.com
+-->
+
+Code Search
+* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
+* [Nerdy Data](http://nerdydata.com)  
+
+Wayback Machine
+* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+
+<!--
+http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
+-->
+
+Archive Team
+* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
+
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me)  
+
+
+
+
+#### Brainstorming
+
+Tim Ferris Inspired- Ideas
+* [Amazon Best Sellers](http://www.amazon.com/gp/bestsellers) and [Amazon Interesting Finds](https://www.amazon.com/stream/hotpicks)
+* [eBay All Categories](http://www.ebay.com/sch/allcategories/all-categories) and [eBay Collections](http://www.ebay.com/cln)
+* [Craigslist Gigs](http://sfbay.craigslist.org/search/ggg)
+* [Kickstarter Discover](https://www.kickstarter.com/discover), [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced), and [Kickstarter Recommendations](https://www.kickstarter.com/recommendations)
+
+<!--
+https://medium.com/product-hunt/the-best-products-launched-in-2017-1498e7d02b41
+
+Amazon Customer Favorites
+https://www.amazon.com/b?ie=UTF8&node=13727921011
+
+https://www.amazon.com/gp/bestsellers/books/4749/ref=zg_b_bs_4749_1
+https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
+
+https://play.google.com/store/info/topic?id=merch_topic_b0000b2_apps_TopicPage_bestof2016
+https://vimeo.com/channels/staffpicks
+https://blog.slideshare.net/2014/12/17/the-must-see-slideshares-of-2014
+http://time.com/4549647/best-apps-year-2016/
+http://ssrnblog.com/2016/12/30/ssrn-top-papers-of-2016/
+-->
+
+Hobbies and Cool Tools
+* [Hobby Masters](http://hobbymasters.com)
+* [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
+* [Maker Faire Meet the Makers](http://makerfaire.com/new-york-2016/meet-the-makers/)
+
+<!--
+https://en.wikipedia.org/wiki/Do_it_yourself
+-->
+
+#### Surveys, Trends, Stats
+
+Surveys
+* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
+* [SurveyMonkey](https://www.surveymonkey.com)
+* [Typeform](https://subtraction.typeform.com)
+* [Polldaddy](https://polldaddy.com)
+
+Google Insights and Trends
+* [Google Insights](http://www.google.com/insights)
+* [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
+* [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
+
+#### Site and App Research
+
+Apple and Google Statistics
+* [Apple Store Charts](https://www.apple.com/itunes/charts)
+* [Google Play Top Apps](https://play.google.com/store/apps/top)  
+
+App and Website Statistics- General
+* [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
+* [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
+* [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
+* [Gallup](http://www.gallup.com/home.aspx)
+* [Moz Top 500](https://moz.com/top500)
+* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites)
+* [ComScore](http://www.comscore.com/Insights/Market-Rankings)
+
+<!--
+http://www.100bestwebsites.org
+http://www.100bestwebsites.org/criteria.htm
+-->
+
+Mobile and Browser
+* [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
+* [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
+* [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
+* [Apple Store](http://store.apple.com/us)
+* [Chrome Web Store](https://chrome.google.com/webstore)
+* [Google Play](https://play.google.com)
+* [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
+* [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
+* [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
+* [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
+* [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
+
+Browser Stats
+* [W3Counter](https://www.w3counter.com)
+
+<!--
+StatCounter
+http://statcounter.com
+
+Content Tracker
+https://stats.priceonomics.com/measure
+-->
+
+#### Market, Business Models, Pricing, Product Tiers
+
+Market
+* [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
+* [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
+* [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
+
+Market Analysis
+* [Target Market Wikipedia](https://en.wikipedia.org/wiki/Target_market)
+* [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
+* [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
+* [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
+* [Demography Wikipedia](https://en.wikipedia.org/wiki/Demography)
+
+Horizontal Market, Vertical Market, Vertical Integration
+* [Horizontal Market Wikipedia](http://en.wikipedia.org/wiki/Horizontal_market)  
+* [Vertical Market Wikipedia](http://en.wikipedia.org/wiki/Vertical_market)  
+* [Vertical Integration (Full Stack) Wikipedia](http://en.wikipedia.org/wiki/Vertical_integration)
+
+Business Models
+* [Business Model Wikipedia](https://en.wikipedia.org/wiki/Business_model)
+* [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
+* [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
+* [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
+* [Subscription Business Model Wikipedia](https://en.wikipedia.org/wiki/Subscription_business_model)
+* [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
+* [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
+
+Pricing Strategies
+* [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
+* [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
+
+Product Tiers
+* [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
+
+#### Metrics
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+Bill Gurley on Conversion and LTV
+* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
+* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
+* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
+* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
+
+Objectives and key Results (OKRs)
+* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
+* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
+* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
+
+KPIs
+* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
+
+Pirate Metrics
+* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
+* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
+  
+#### Venture Analysis
+
+* [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
+* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+* [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
+* [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
+* [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
+* [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
+* [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
+* [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
+* [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
+
+<!--
+https://medium.com/upside-partnership/a-seed-funds-investment-checklist-c6d5bd1ea65#.lsgeu2dgb
+
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
+http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
+http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
+http://fourhourworkweek.com/2016/03/04/5-million-week
+http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
+
+Trends Analysis
+-->
+
+Idea State Machine and Idea Maze
+* [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
+* [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+List
+* [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
+ 
+#### Notable Proposals and Pitch Decks
+
+* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
+
+Pitch Deck Search
+* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
+* [Pitch Envy](http://www.pitchenvy.com)
+* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
+
+Notable Proposals and Pitch Decks
+* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
+* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
+* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
+* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
+* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
+* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
+* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
+* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
+* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
+* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
+* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
+* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
+* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
+* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
+* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
+* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
+* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
+* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
+* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
+* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
+* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
+* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
+* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
+* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
+
+<!--
+https://www.slideshare.net/AlexanderJarvis/buffer-seriesa-term-sheet
+
+https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.tvtsh6on1
+
+https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.uz4h61j9c
+-->
+
+Templates
+* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
+* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
+* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
+* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
+* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
+* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
+* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
+* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
+
+The Prince's Trust
+* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
+* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
+* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
+* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
+
+#### Documents and Advice
+
+A16Z Funding and Valuation Advice
+* [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
+* [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
+
+Law and Transaction Services
+* [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+* [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
+* [Cooley Go](https://www.cooleygo.com)
+* [Gunderson Dettmer](http://www.gunder.com)
+* [Fenwick & West LLP](https://www.fenwick.com) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
+* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx) and [Ted Wang Medium](https://medium.com/@twang)
+* [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
+* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com), [Wilson Sonsini Goodrich & Rosati Publications](https://www.wsgr.com/publications), and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
+* [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
+* [Fortis](http://fortisrep.com) 
+
+VCs on Standard Docs and Terms
+* [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
+* [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
+* [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
+* [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
+* [Walker Corporate Law Group, PLLC: VC Term Sheets – Protective Provisions](http://walkercorporatelaw.com/vc-issues/vc-term-sheets-%E2%80%93-protective-provisions)
+
+Standard Docs and Terms
+* [500 Startups Keep It Simple Security](http://500.co/kiss)
+* [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
+* [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
+* [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF) and [Other Gunderson Dettmer](http://www.docracy.com/doc/showalluserdocs?page=1&userId=80)
+* [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
+* [Marc Andreessen on “Series Seed Documents,” and Why VCs Should Start Using Them](http://www.pehub.com/64825/marc-andreessen-on-series-seed-documents-and-why-vcs-should-start-using-them), [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
+* [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
+* [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
+* [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
+* [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
+* [Founder Institute Agreements (The Founder Agreement, Form of the Warrant, Form of Board Consent)](http://fi.co/agreements)
+* [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
+* [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
+
+Document Libraries- Free/Freemium
+* [Docracy Documents](http://www.docracy.com/application/dochome) 
+* [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
+* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Blog](http://www.shakelaw.com/blog), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
+* [Venture Docs](https://venturedocs.com/documents)  
+* [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
+
+Document Libraries- Not Free/Freemium
+* [LegalZoom](http://www.legalzoom.com)
+* [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
+
+Standard Docs- International
+* [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
+* [Full Stack Foundry Blog Post](http://fullstack.ca/tools/canadian-term-sheets) and [Full Stack Foundry GitHub](https://github.com/FullStackFoundry/common-seed-termsheets)
+* [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
+* [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
+
+VC Firm Pitch Deck and Operational Report Templates
+* [Rick Klau/Google Ventures: "Pitch perfect: Five elements of a great pitch"](https://library.gv.com/pitch-perfect-92a9ab5b5baa#.7ivbbvi0j)
+* [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
+* [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
+* [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
+
+Term Sheets 101
+* [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
+* [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
+
+Carried Interest 101
+* [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
+
+Document Web Services
+* [Captable.io](https://captable.io) and [Captable.io Blog](https://blog.captable.io)
+* [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
+* [Eshares Inc](https://www.esharesinc.com) and [Eshares Inc Blog](https://blog.esharesinc.com)
+* [Visible](https://visible.vc) 
+
+<!--
+https://captable.io/company/add
+https://blog.captable.io
+https://captable.io/company/8/scenarios
+https://blog.captable.io/a-four-step-plan-for-setting-up-and-running-your-startups-stock-option-process-82a76709ac27#.a8y66plma
+
+https://blog.esharesinc.com/latest
+https://esharesinc.com/investor-services
+https://tour.esharesinc.com/corporations/7/#start_demo
+
+https://medium.com/@henrysward
+https://medium.com/@henrysward/eshares-101-e96d792bdc69#.jcbgc4y8d
+https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.ntuvuyezc
+https://medium.com/@henrysward/eshares-series-a-c6bad9ad3721
+https://esharesinc.com/product/409a
+
+https://visible.vc/blog/financial-modeling-for-startups
+-->
+
+Cap Table
+* [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
+* [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
+
+Raising a Seed Round- The Spreadsheet
+* [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
+
+Equity Investment Simulation
+* [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
+
+<!--
+https://github.com/leonar15/startup-checklist
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
+
+https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
+https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
+http://also.roybahat.com/post/91847335194/the-trust-thing
+
+http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
+https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
+https://angel.co/max-simkoff/syndicate
+https://angel.co/shruti_gandhi/syndicate
+https://angel.co/pt/syndicate
+http://also.roybahat.com/post/82904179747/why-most-demos-confuse
+http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
+http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
+http://also.roybahat.com/post/102969262108/boreds
+http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
+https://www.ycombinator.com/handshake
+https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
+https://www.highly.co/hl/56e6f2323533356aeb5a0000
+
+http://www.gsbeclub.org/startup-resources
+https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
+http://www.seriesseed.com
+https://www.harrisonmetal.com
+
+https://www.rocketlawyer.com/document/web-hosting-agreement.rl
+-->
+
+#### Company and Product Databases
+
+Database List
+* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
+* [Betalist](https://betalist.com)
+* [CB Insights](https://www.cbinsights.com)
+* [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
+* [Datafox](http://www.datafox.co)
+* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
+* [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
+* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+* [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
+
+<!--
+https://www.producthunt.com/tech
+https://www.producthunt.com/topics/developer-tools
+https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
+
+https://www.producthunt.com/tech/product-hunt-3-0
+https://www.producthunt.com/tech/product-hunt-2-0
+https://www.producthunt.com/live
+https://www.producthunt.com/collections
+https://www.producthunt.com/topics
+https://www.producthunt.com/shop
+https://www.producthunt.com/podcasts
+https://www.producthunt.com/apps/mac
+https://www.producthunt.com/apps/chrome
+
+https://angel.co/spv
+http://blog.angel.co/post/131017147560/csc-upshot
+
+https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
+
+https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
+-->
+
+Databases and Benchmarking- Freemium
+* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
+* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [A-List](https://alist.co), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
+* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
+* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
+* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
+* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
+* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters), and [Product Hunt Today](http://ph.needles.me)
+* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
+
+<!--
+https://www.amazon.com/b/ref=s9_acss_bw_cg_alcolsu2_2c1?node=14865665011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=KVXE9BWJ4FTAGQ6G16KF&pf_rd_t=101&pf_rd_p=2578969862&pf_rd_i=12034488011
+
+http://beondeck.co
+-->
+
+Europe and U.K.
+* [AngelList U.K.](https://angel.co/uk)
+* [Tech EU App Database Companies](https://app.tech.eu/companies)
+
+Database APIs
+* [AngelList API](https://angel.co/api)
+* [CrunchBase API](https://developer.crunchbase.com)
+* [Mattermark API](https://mattermark.com/api)  
+* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+
+#### Unicorns, Companies, Industry and Product Classifications, Associations
+
+Unicorns
+* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
+* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+The Terms Behind the Unicorn Valuations
+* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+
+Breakout Companies
+* [Breakout List](https://breakoutlist.com)
+
+Companies and Indices
+* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
+* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
+* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
+* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
+* [Inc. 5000](http://www.inc.com/inc5000)
+* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
+* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
+* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
+* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
+* [London Stock Exchange](http://www.londonstockexchange.com)
+* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
+* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
+* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
+
+Industry and Product Classifications
+* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
+* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
+
 #### People
 
 #### Venture Capitalists and Angel Investors
@@ -9777,6 +10308,8 @@ https://plus.google.com/collection/EZT2b
 https://plus.google.com/collection/gbVpb
 -->
 
+
+
 #### High Profile Developers
 
 * [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
@@ -9819,6 +10352,8 @@ https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 https://m.signalvnoise.com
 https://m.signalvnoise.com/@jasonfried
 -->
+
+
 
 #### Schools of Thought
 
@@ -10336,530 +10871,6 @@ Federal Opportunities and Funding
 * [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 * [National Science Foundation Funding](https://www.nsf.gov/funding)
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
-
-
-
-
-#### Venture Analysis
-
-* [Google Ventures Research Sprint Questions to Ask Before Starting User Research](http://www.gv.com/lib/questions-to-ask-before-starting-user-research)  
-* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-* [Sten Tamkivi: Toolkit for Evaluating a New Venture](https://medium.com/@seikatsu/toolkit-for-evaluating-a-new-venture-c6ee623a4bca) based on [Some Thoughts on Business Plans, William A. Sahlman](http://www.i-net.ch/wp-content/uploads/2013/09/Sahlman-Business-Plans.pdf) 
-* [Tomasz Tunguz: Breaking Down a Typical VC Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process)
-* [Tomasz Tunguz: How To Analyze Your Startup Like A VC In 15 Minutes Or Less](http://tomtunguz.com/diagrams)
-* [Tomasz Tunguz: The 11 Risks VCs Evaluate](http://tomtunguz.com/the-11-risks-vcs-evaluate)
-* [Porter's Five Forces Wikipedia](http://en.wikipedia.org/wiki/Porter_five_forces_analysis), [PEST Analysis](http://en.wikipedia.org/wiki/PEST_analysis), and [SWOT Wikipedia](http://en.wikipedia.org/wiki/SWOT_analysis)
-* [Dave Nevogt: Test Your Startup Idea](http://blog.hubstaff.com/test-your-startup-idea)
-* [Mike Butcher: The Press Release is Dead](http://mbites.com/2015/07/01/the-press-release-is-dead)
-
-<!--
-https://medium.com/upside-partnership/a-seed-funds-investment-checklist-c6d5bd1ea65#.lsgeu2dgb
-
-http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
-http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc
-http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas
-http://fourhourworkweek.com/2016/03/04/5-million-week
-http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system
-
-Trends Analysis
--->
-
-Idea State Machine and Idea Maze
-* [The Idea State Machine](http://4.bp.blogspot.com/-RCxMdE8gF7w/UeZVFGPqBiI/AAAAAAAAAKA/Cxxwe40cSao/s1600/Idea+State+Machine.jpg)
-* [Visualizing the Idea Maze](http://1.bp.blogspot.com/-HOE9rpL0jeU/UeZXIMK-NtI/AAAAAAAAAKQ/8JNAWTxFwLg/s1600/The+Idea+Maze.jpg) via [Chris Dixon](http://cdixon.org/2013/08/04/the-idea-maze) via [Balaji Srinivasan](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-List
-* [Andrew Cohen: 20 Lists Every Entrepreneur Should Create](http://www.entrepreneur.com/article/244394)
- 
-#### Notable Proposals and Pitch Decks
-
-* [The Presentation Secrets of Steve Jobs: How to Be Insanely Great in Front of Any Audience](http://www.amazon.com/Presentation-Secrets-Steve-Jobs-Insanely/dp/0071636080)
-
-Pitch Deck Search
-* [The Awesome Pitch Co.](http://www.slideshare.net/benjaminevans/presentations)
-* [Pitch Envy](http://www.pitchenvy.com)
-* [Scribd Pitch Deck Search](https://www.scribd.com/search-documents?query=pitch+deck)
-
-Notable Proposals and Pitch Decks
-* [Airbnb First Pitch Deck](http://www.slideshare.net/PitchDeckCoach/airbnb-first-pitch-deck-editable)
-* [Airbnb Pitch Deck 2008](https://arenavc.com/wp-content/uploads/2015/07/airbnb-original-deck-2008.pdf), [Event and Growth Projections](https://arenavc.com/wp-content/uploads/2015/07/Airbnb-Events-and-Growth-Projections.jpg), and [Event Schedule](https://arenavc.com/wp-content/uploads/2015/07/AirbnbEventScheduleFinal.doc.pdf), taken from [Airbnb, My $1 Billion Lesson](https://arenavc.com/2015/07/airbnb-my-1-billion-lesson)
-* [App Nexus Pitch Deck](http://www.slideshare.net/firstround/first-round-first-pitch-appnexus) via [First Round Capital](http://firstround.com/review/appnexus-first-pitch-before-it-steered-around-the-cloud-to-win-big-in-adtech)
-* [Buzzfeed First Pitch Deck](http://qz.com/389752/here-is-buzzfeeds-first-pitch-deck-to-investors-in-2008)
-* [Buffer Seed Round Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck)  
-* [Dwolla Pitch Deck](http://www.slideshare.net/webjoe/dwolla)
-* [Facebook Media Kit, Spring 2004](http://digiday.com/platforms/how-eduardo-saverin-sold-facebook-ads-in-2004) and [Facebook First Proposal, 2005](https://www.dropbox.com/s/5klrw0zewdzru20/Facebook%20First%20Proposal%204.18.05.doc?dl=0)
-* [Facebook Video Ad Pitch Deck](http://techcrunch.com/2013/12/13/facebook-vs-tv-and-youtube)
-* [Foursquare First Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12)
-* [Foursquare Advertiser Pitch Deck](https://www.scribd.com/doc/138539570/Foursquare-s-Plan-to-Woo-Advertisers)
-* [Grindr Advertiser Pitch Document](http://www.businessinsider.com/grindr-ceo-joel-simkhai-on-advertising-pitch-deck-2014-11)
-* [Jack Ma in 1999: Selling Alibaba From His Apartment](http://www.bloomberg.com/video/jack-ma-s-original-alibaba-pitch-circa-1999-GlZ1kl_wT~uYI221Niialg.html)
-* [LinkedIn Pitch to Greylock Deck](http://reidhoffman.org/linkedin-pitch-to-greylock)  
-* [Mattermark First Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-1st-series-a-deck) and [Second Series A Pitch Deck](http://www.slideshare.net/DanielleMorrill/mattermark-2nd-final-series-a-deck)  
-* [Mint.com Pre-Launch Pitch Deck](http://www.slideshare.net/hnshah/mintcom-prelaunch-pitch-deck)  
-* [Mixpanel Pitch Deck Blog Post](https://mixpanel.com/blog/2014/12/18/open-sourcing-our-pitch-deck-that-helped-us-get-our-865m-valuation) and [Pitch Deck](http://www.slideshare.net/metrics1/mixpanel-our-pitch-deck-that-we-used-to-raise-65m) 
-* [MySpace Pitch Deck](http://www.slideshare.net/benjaminevans/myspace-investor-deck)
-* [Reddit Advertisement Sales Pitch Deck](http://www.slideshare.net/webjoe/reddit-26009093)
-* [SEOmoz Pitch Deck](http://www.slideshare.net/randfish/seomoz-pitch-deck-july-2011)
-* [Snapchat for Business Pitch Deck](http://www.scribd.com/doc/235629204/Snapchat-business-deck)
-* [Square Pitch Deck](http://www.slideshare.net/pitchenvy/square-pitch-deck)
-* [Tinder Pitch Deck](http://www.businessinsider.com.au/tinders-first-startup-pitch-deck-2014-7)
-* [Tumblr Ad Sales Pitch Deck](http://www.slideshare.net/webjoe/tumblr-ad-sales-pitch-deck)
-* [Zendesk Customer Satisfaction Index](http://www.slideshare.net/benjaminevans/zendesk-satisfactionreportslidesharepresentation)
-
-<!--
-https://www.slideshare.net/AlexanderJarvis/buffer-seriesa-term-sheet
-
-https://medium.com/@collinmathilde/front-series-a-deck-f2e2775a419b#.tvtsh6on1
-
-https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0#.uz4h61j9c
--->
-
-Templates
-* [Balaji Srinivasan Example Deal Analysis](http://a16z.com/2014/04/09/omada-health-behavior-change)
-* [Dave McClure: How to Pitch a VC or Angel](http://www.slideshare.net/dmc500hats/how-to-pitch-a-vc-or-angel-13504703)
-* [Rick Klau/Google Ventures Pitch Deck](https://docs.google.com/presentation/d/1aV1q7t5HGHq-JvttM-82asxI6NMosDWQ-D9FpHymvDs/edit#slide=id.gd5b09a965_5_0)
-* [Guy Kawasaki Pitch Deck Template (Unverified)](http://www.slideshare.net/QuintinAdamis/pitch-deck-template-by-guy-kawasaki)
-* [Peter Thiel Pitch Deck (Unverified)](https://www.scribd.com/doc/127461241/Peter-Thiel-Good-Pitch-Deck-Example)
-* [Sequoia Capital: Writing a Business Plan](http://www.sequoiacap.com/grove/posts/6bzx/writing-a-business-plan)
-* [Sequoia Capital Pitch Deck #1](http://www.slideshare.net/PitchDeckCoach/sequoia-capital-pitchdecktemplate) and [Sequoia Capital Pitch Deck #2](http://www.slideshare.net/clibou/sequoia-capital-newco-ppt-template-14578203)
-* [ZenPayroll Startup Deck Template](http://www.slideshare.net/webjoe/zenpayroll-startup-deck-template)
-
-The Prince's Trust
-* [The Prince's Trust Business Plan Templates](http://www.princes-trust.org.uk/need_help/enterprise_programme/explore_where_to_start/business_plans/business_plan_templates.aspx)
-* [The Prince's Trust Business Plan Pack](http://www.princes-trust.org.uk/pdf/the-princes-trust-business-plan-guide-may-2014.pdf)
-* [The Prince's Trust Business Plan Guide](http://www.princes-trust.org.uk/pdf/businessPlanGuide.pdf)
-* [The Prince's Trust Business Plan Template](http://www.princes-trust.org.uk/pdf/BusinessPlanPackDec12.pdf)
-
-#### Documents and Advice
-
-A16Z Funding and Valuation Advice
-* [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
-* [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
-
-Law and Transaction Services
-* [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-* [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
-* [Cooley Go](https://www.cooleygo.com)
-* [Gunderson Dettmer](http://www.gunder.com)
-* [Fenwick & West LLP](https://www.fenwick.com) and [Fenwick & West LLP Publications](http://www.fenwick.com/publications/pages/default.aspx)
-* [Ted Wang (Fenwick & West LLP/Series Seed)](http://www.fenwick.com/professionals/pages/tedwang.aspx) and [Ted Wang Medium](https://medium.com/@twang)
-* [Walker Corporate Law Group, PLLC (Highly Recommended by Someone)](http://walkercorporatelaw.com)
-* [Wilson Sonsini Goodrich & Rosati](https://www.wsgr.com), [Wilson Sonsini Goodrich & Rosati Publications](https://www.wsgr.com/publications), and [Wilson Sonsini Goodrich & Rosati Resources](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/entresources.htm)
-* [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
-* [Fortis](http://fortisrep.com) 
-
-VCs on Standard Docs and Terms
-* [Brad Feld: The Proliferation of Standardized Seed Financing Documents](http://www.feld.com/archives/2010/03/the-proliferation-of-standardized-seed-financing-documents.html), [Brad Feld: The Challenge of The Ideal First Round Term Sheet](http://www.feld.com/archives/2009/08/the-challenge-of-the-ideal-first-round-term-sheet.html), [Brad Feld and Jason Mendelsen: Terms, Terms, and First Round Terms](http://www.feld.com/archives/2009/08/terms-terms-and-first-round-terms.html), [Brad Feld and Jason Mendelsen: Term Sheet Series](http://www.feld.com/archives/category/term-sheet), [Brad Feld and Jason Mendelsen: (First) Term Sheet Series Wrap Up (2005)](http://www.feld.com/archives/2005/08/term-sheet-series-wrap-up.html), and [Brad Feld and Jason Mendelsen: Term Sheet Summary (by Greg Martin)](https://dl.dropboxusercontent.com/u/506322/Term%20Sheet%20Series_Brad%20Feld.pdf)
-* [Chris Dixon: Ideal First Round Funding Terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms)
-* [Fred Wilson: Standardized Venture Funding Docs](http://avc.com/2010/03/standardized-venture-funding-docs), [Fred Wilson: The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet), and [Fred Wilson: The Ideal First Round Term Sheet, Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued)
-* [TheFunded](http://thefunded.com), [Chris Dixon: TheFunded Term Sheet](http://cdixon.org/2009/08/24/thefunded-term-sheet), and [The Funded Publishes Ideal First Round Term Sheet](http://techcrunch.com/2009/08/23/the-funded-publishes-ideal-first-round-term-sheet)
-* [Walker Corporate Law Group, PLLC: VC Term Sheets – Protective Provisions](http://walkercorporatelaw.com/vc-issues/vc-term-sheets-%E2%80%93-protective-provisions)
-
-Standard Docs and Terms
-* [500 Startups Keep It Simple Security](http://500.co/kiss)
-* [Cooley Go Documents](http://www.cooleygo.com/info-hub/documents) and [Cooley Go Document Generator](http://www.cooleygo.com/documents/index-document-generators) 
-* [Foundry Group Docs via Ask the VC (Series A Term Sheet, Series A Restated Certificate of Incorporation, Series A Preferred Stock Purchase Agreement, Investor Rights Agreement, Co-Sale Agreement, Voting Agreement, Bylaws)](http://www.askthevc.com/wp/resources)
-* [Gunderson Dettmer Term Sheet](https://docs.google.com/file/d/0B-t8fu4AHTrqNDlkNmE2M2YtM2ZiZi00ZDYyLTk2YmUtMzhlODZiMzY2OTZh/edit?hl=en&authkey=CN_lw_EF) and [Other Gunderson Dettmer](http://www.docracy.com/doc/showalluserdocs?page=1&userId=80)
-* [Indie.vc Termsheets for LLCs and C Corps](https://github.com/indievc/indievc) and [Indie.vc Blog Post](http://bryce.stfi.re/post/120533439475/indie-vc-termsheets-on-github) (in Conjunction with Cooley Go)
-* [Marc Andreessen on “Series Seed Documents,” and Why VCs Should Start Using Them](http://www.pehub.com/64825/marc-andreessen-on-series-seed-documents-and-why-vcs-should-start-using-them), [Ted Wang (Fenwick & West) Series Seed (Term Sheet, Restated Certificate of Incorporation, Preferred Stock Investment Agreement)](http://www.seriesseed.com) and [SeriesSeed GitHub](https://github.com/seriesseed/equity) 
-* [National Venture Capital Association Model Legal Documents (Certificate Of Incorporation, Term Sheet, Indemnification Agreement, Investor Rights Agreement, Management Rights Letter, Model Legal Opinion, Right of First Refusal and Co-Sale Agreement, Stock Purchase Agreement, Voting Agreement)](http://nvca.org/resources/model-legal-documents)
-* [Sam Altman: A Founder Friendly Term Sheet](https://www.scribd.com/fullscreen/189391586?access_key=key-2midbynl7irxj1rrwhit&allow_share=false&escape=false&show_recommendations=false&view_mode=scroll) and [Sam Altman: A Founder Friendly Term Sheet Blog Post](http://blog.samaltman.com/a-founder-friendly-term-sheet)
-* [Tech Stars Docs (in Conjunction with Cooley Go) (Term Sheet, Convertible Promissory Note Purchase Agreement, Note, Restated Articles, Bylaws, Subscription Agreement, Board Member Election Consent)](http://www.techstars.com/docs) and [TechStars Equity Back Guarantee](http://www.techstars.com/equity-back-guarantee)  
-* [TheFunded Founder Institute Document List (Certificate of Incorporation, Plain Preferred Term Sheet, Bylaws, Initial Stockholder Consent, Invention Assignment Agreement, Restricted Stock Purchase Agreement, Indemnification Agreement, Initial Board Consent, Action by Incorporator)](http://www.thefunded.com/funds/item/6085), [TheFunded Founder Institute Ideal First Round Term Sheet Post](http://fi.co/posts/69), [Ideal First Round Term Sheet](http://www.docstoc.com/docs/10303638/FFI-Plain-Preferred-Term-Sheet), [Incorporation Documents](http://fi.co/information/agreements), and [Founder/Advisor Standard Template](http://fi.co/contents/fast#) (in Conjunction with Wilson Sonsini Goodrich & Rosati)
-* [Founder Institute Agreements (The Founder Agreement, Form of the Warrant, Form of Board Consent)](http://fi.co/agreements)
-* [Wilson Sonsini Goodrich & Rosati Incorporation Questionnaire](https://www.wsgr.com/WSGR/Display.aspx?SectionName=start/incorporation.htm), [Wilson Sonsini Goodrich & Rosati Term Sheet Generator](https://www.wsgr.com/wsgr/display.aspx?sectionname=practice/termsheet.htm), and [Wilson Sonsini Goodrich & Rosati Term Sheet Generator (Convertible Notes)](https://www.wsgr.com/WSGR/Display.aspx?SectionName=practice/termsheet-convertible.htm)
-* [YCombinator Library](http://www.ycombinator.com/resources), [YCombinator Docs (Safe Financing Documents, Series AA Equity Financing, Sales Template Agreement) (in Conjunction with Wilson Sonsini Goodrich & Rosati)](http://ycombinator.com/documents), [YCombinator Handshake](http://www.ycombinator.com/handshake)
-
-Document Libraries- Free/Freemium
-* [Docracy Documents](http://www.docracy.com/application/dochome) 
-* [Orrick's (Docracy) Documents](http://www.docracy.com/doc/search?query=orrick&s-submit=Submit), [Orrick's Start Up Forms Library (with Doc Explanations)](https://www.orrick.com/practices/corporate/emergingCompanies/startup/forms_index.asp), [Orrick's Start Up Toolkit](https://www.orrick.com/Practices/Emerging-Companies/Pages/Startup-Tool-Kit.aspx), and [Orrick's Term Sheet Creator](https://tsc.orrick.com)  
-* [Shake Simply Legal](http://www.shakelaw.com), [Shake Simple Blog](http://www.shakelaw.com/blog), [Shake Simple Legal Templates](http://www.shakelaw.com/agreements), and [Shake Simple Legal Startup Bundle](http://www.shakelaw.com/startup-contracts)
-* [Venture Docs](https://venturedocs.com/documents)  
-* [Wilmerhale Launch Build](https://launch.wilmerhale.com/build) and [Wilmerhale Document Generator](https://launch.wilmerhale.com/build/document-generator) 
-
-Document Libraries- Not Free/Freemium
-* [LegalZoom](http://www.legalzoom.com)
-* [Rocket Lawyer (Starts at $7/month)](https://www.rocketlawyer.com) 
-
-Standard Docs- International
-* [British Private Equity and Venture Capital Association Standard Industry Documemts](http://www.bvca.co.uk/ResearchPublications/Publications/StandardIndustryDocuments.aspx)
-* [Full Stack Foundry Blog Post](http://fullstack.ca/tools/canadian-term-sheets) and [Full Stack Foundry GitHub](https://github.com/FullStackFoundry/common-seed-termsheets)
-* [Passion Capital Plain English Term Sheet](https://www.dropbox.com/s/pc0208kjk3jti7c/20130620%20Passion%20Capital%20Plain%20English%20Term%20Sheet.pdf) and [Important Decisions](https://www.dropbox.com/s/7zdsri803ngepy4/20130619%20Important%20Decisions.pdf)
-* [Seedsummit Docs](http://seedsummit.org) and [Seedsummit Docs Article](http://techcrunch.com/2011/07/06/in-a-historic-move-15-european-investors-agree-on-standard-term-sheet-for-startups)
-
-VC Firm Pitch Deck and Operational Report Templates
-* [Rick Klau/Google Ventures: "Pitch perfect: Five elements of a great pitch"](https://library.gv.com/pitch-perfect-92a9ab5b5baa#.7ivbbvi0j)
-* [IA Ventures Resources](http://resources.iaventures.com), [IA Ventures Resources Board Deck](http://resources.iaventures.com/#board), [IA Ventures Resources Investor Update Deck](http://resources.iaventures.com/#investordeck), [IA Ventures Resources Investor Update Email](http://resources.iaventures.com/#investoremail), [IA Ventures Resources Operating Expenses Budget (Seed Stage)](http://resources.iaventures.com/#opex), and [IA Ventures Resources SaaS Dashboard](http://resources.iaventures.com/#saasdb)
-* [Next View Ventures Blog](http://nextviewventures.com/blog), [Next View Free Startup Resources](http://nextviewventures.com/blog/free-startup-resources), [Next View Ventures Pitch Deck Templates](http://nextviewventures.com/blog/free-startup-pitch-decks-template), [Next View Ventures Board Deck Templates](http://nextviewventures.com/blog/free-startup-board-decks-template), [Next View Ventures Post Fundraise Checklist](http://nextviewventures.com/blog/checklist-entrepreneurs-critical-tasks-after-seed-fundraise), and [Next View Ventures Growth Guide Content Marketing](https://s3.amazonaws.com/nextview/NextView+Ventures+Growth+Guide-Content+Marketing.pdf) 
-* [RRE Ventures: Update My VC Library](http://updatemyvc.com/library)  
-
-Term Sheets 101
-* [Term Sheets 101 by Justin Fishner-Wolfson, Founders Fund](http://www.slideshare.net/dmc500hats/term-sheets-101-by-justin-fishnerwolfson-founders-fund)
-* [Venture Hacks Top 10 Term Sheet Hacks](http://www.slideshare.net/venturehacks/top-10-term-sheet-hacks-presentation-725011)
-
-Carried Interest 101
-* [Wilson Sonsini Goodrich & Rosati: Venture Capital Fund Carried Interests](http://www.slideshare.net/Freddy56/venture-capital-fund-carried-interests)
-
-Document Web Services
-* [Captable.io](https://captable.io) and [Captable.io Blog](https://blog.captable.io)
-* [Clerky (Incorporation and Equity Compensation)](https://www.clerky.com) 
-* [Eshares Inc](https://www.esharesinc.com) and [Eshares Inc Blog](https://blog.esharesinc.com)
-* [Visible](https://visible.vc) 
-
-<!--
-https://captable.io/company/add
-https://blog.captable.io
-https://captable.io/company/8/scenarios
-https://blog.captable.io/a-four-step-plan-for-setting-up-and-running-your-startups-stock-option-process-82a76709ac27#.a8y66plma
-
-https://blog.esharesinc.com/latest
-https://esharesinc.com/investor-services
-https://tour.esharesinc.com/corporations/7/#start_demo
-
-https://medium.com/@henrysward
-https://medium.com/@henrysward/eshares-101-e96d792bdc69#.jcbgc4y8d
-https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.ntuvuyezc
-https://medium.com/@henrysward/eshares-series-a-c6bad9ad3721
-https://esharesinc.com/product/409a
-
-https://visible.vc/blog/financial-modeling-for-startups
--->
-
-Cap Table
-* [Random Cap Table Calculator](https://docs.google.com/spreadsheet/ccc?key=0ApLjGaZ3bDrCdFFfblQ3d0EweXNBUU9sOUh1ejM2ZEE#gid=0)
-* [Random Cap Table Template](https://docs.google.com/spreadsheet/ccc?key=0An5KLdDXKPNgdHJadEZ1eVJnV2JseEhGTGJVa2NhOXc&amp;amp;amp;hl=en_US&amp;amp;amp;ndplr=1#gid=0)
-
-Raising a Seed Round- The Spreadsheet
-* [Raising a Seed Round- The Spreadsheet](https://docs.google.com/spreadsheets/d/1X84uWEq0LGPMJYXOzOSfeKE8ywPLar85oYpbKDBR8vA/edit#gid=0) 
-
-Equity Investment Simulation
-* [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
-
-<!--
-https://github.com/leonar15/startup-checklist
-https://github.com/jlevy/og-equity-compensation
-https://github.com/holman/extended-exercise-windows
-
-https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
-https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
-http://also.roybahat.com/post/91847335194/the-trust-thing
-
-http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
-https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
-https://angel.co/max-simkoff/syndicate
-https://angel.co/shruti_gandhi/syndicate
-https://angel.co/pt/syndicate
-http://also.roybahat.com/post/82904179747/why-most-demos-confuse
-http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
-http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
-http://also.roybahat.com/post/102969262108/boreds
-http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
-https://www.ycombinator.com/handshake
-https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
-https://www.highly.co/hl/56e6f2323533356aeb5a0000
-
-http://www.gsbeclub.org/startup-resources
-https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
-http://www.seriesseed.com
-https://www.harrisonmetal.com
-
-https://www.rocketlawyer.com/document/web-hosting-agreement.rl
--->
-
-#### Metrics
-
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
-
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
-
-Bill Gurley on Conversion and LTV
-* [Bill Gurley: Conversion: The Most Important Internet Metric of All (Revisited)](http://abovethecrowd.com/2013/10/02/conversion-the-most-important-internet-metric-of-all-revisited)
-* [Bill Gurley: The Most Powerful Internet Metric of All](http://abovethecrowd.com/2000/03/06/the-most-powerful-internet-metric-of-all)
-* [Bill Gurley: The Dangerous Seduction of the Lifetime Value (LTV) Formula](http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula)
-* [Sabermetrics Wikipedia](https://en.wikipedia.org/wiki/Sabermetrics) and [Moneyball Wikipedia](https://en.wikipedia.org/wiki/Moneyball_(film))
-
-Objectives and key Results (OKRs)
-* [OKR Wikipedia](http://en.wikipedia.org/wiki/OKR)
-* [Superpowers at work: OKRs](https://library.gv.com/superpowers-at-work-okrs-8426c44a9d82#.qqb3v9f4i)
-* [How Google Sets Goals Objectives and Key Results OKRs (Andy Grove, Intel: High Output Management)](https://www.gv.com/lib/how-google-sets-goals-objectives-and-key-results-okrs) 
-
-KPIs
-* [Key Performance Indicators Wikipedia](http://en.wikipedia.org/wiki/Key_performance_indicators)
-
-Pirate Metrics
-* [Dave McClure: Slideshare Startup Metrics for Pirates](http://www.slideshare.net/dmc500hats/startup-metrics-for-pirates-long-version)  
-* [Edith Yeung: Slideshare Mobile Startup Metrics for Pirates](http://www.slideshare.net/EdithYeung/startup-metrics-for-mobile-pirates-moaarrr) 
-  
-#### Market, Business Models, Pricing, Product Tiers
-  
-Market
-* [The Secrets of Market Sizing](http://www.brekiri.com/blog/77/the-secrets-of-market-sizing) 
-* [Camels and Rubber Duckies](http://www.joelonsoftware.com/articles/CamelsandRubberDuckies.html)  
-* [Achieving Product Market Fit](http://practicetrumpstheory.com/2009/11/achievingproductmarketfit) 
-
-Market Analysis
-* [Target Market Wikipedia](https://en.wikipedia.org/wiki/Target_market)
-* [Market Analysis Wikipedia](https://en.wikipedia.org/wiki/Market_analysis)
-* [Market Research Wikipedia](https://en.wikipedia.org/wiki/Market_research)
-* [Market Segmentation Wikipedia](https://en.wikipedia.org/wiki/Market_segmentation)
-* [Demography Wikipedia](https://en.wikipedia.org/wiki/Demography)
-
-Horizontal Market, Vertical Market, Vertical Integration
-* [Horizontal Market Wikipedia](http://en.wikipedia.org/wiki/Horizontal_market)  
-* [Vertical Market Wikipedia](http://en.wikipedia.org/wiki/Vertical_market)  
-* [Vertical Integration (Full Stack) Wikipedia](http://en.wikipedia.org/wiki/Vertical_integration)
-
-Business Models
-* [Business Model Wikipedia](https://en.wikipedia.org/wiki/Business_model)
-* [Business Model Examples Wikipedia](http://en.wikipedia.org/wiki/Business_model#Examples_of_business_models) 
-* [List of Web Business Models GitHub](https://gist.github.com/ndarville/4295324) 
-* [HBR: What is a Business Model?](https://hbr.org/2015/01/what-is-a-business-model) 
-* [Subscription Business Model Wikipedia](https://en.wikipedia.org/wiki/Subscription_business_model)
-* [Data Monetization Wikipedia](http://en.wikipedia.org/wiki/Data_monetization)  
-* [Website Monetizing Wikipedia](http://en.wikipedia.org/wiki/Website_monetizing)  
-
-Pricing Strategies
-* [Pricing Wikipedia](http://en.wikipedia.org/wiki/Pricing) 
-* [Pricing Strategies Wikipedia](http://en.wikipedia.org/wiki/Pricing_strategies)   
-
-Product Tiers
-* [Product Tier Selection: A Conceptual Framework](https://camo.githubusercontent.com/a4b7ee4a662786d0af4c1eacb9b8b7bdd9eb6e6d/687474703a2f2f692e696d6775722e636f6d2f7139594e4939542e706e67) 
-
-#### Company and Product Databases
-
-Database List
-* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
-* [Betalist](https://betalist.com)
-* [CB Insights](https://www.cbinsights.com)
-* [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
-* [Datafox](http://www.datafox.co)
-* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
-* [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
-* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-* [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
-
-<!--
-https://www.producthunt.com/tech
-https://www.producthunt.com/topics/developer-tools
-https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
-
-https://www.producthunt.com/tech/product-hunt-3-0
-https://www.producthunt.com/tech/product-hunt-2-0
-https://www.producthunt.com/live
-https://www.producthunt.com/collections
-https://www.producthunt.com/topics
-https://www.producthunt.com/shop
-https://www.producthunt.com/podcasts
-https://www.producthunt.com/apps/mac
-https://www.producthunt.com/apps/chrome
-
-https://angel.co/spv
-http://blog.angel.co/post/131017147560/csc-upshot
-
-https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
-
-https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
--->
-
-Databases and Benchmarking- Freemium
-* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [A-List](https://alist.co), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
-* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
-* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
-* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters), and [Product Hunt Today](http://ph.needles.me)
-* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
-
-<!--
-https://www.amazon.com/b/ref=s9_acss_bw_cg_alcolsu2_2c1?node=14865665011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=KVXE9BWJ4FTAGQ6G16KF&pf_rd_t=101&pf_rd_p=2578969862&pf_rd_i=12034488011
-
-http://beondeck.co
--->
-
-Europe and U.K.
-* [AngelList U.K.](https://angel.co/uk)
-* [Tech EU App Database Companies](https://app.tech.eu/companies)
-
-Database APIs
-* [AngelList API](https://angel.co/api)
-* [CrunchBase API](https://developer.crunchbase.com)
-* [Mattermark API](https://mattermark.com/api)  
-* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
-
-#### Unicorns, Companies, Industry and Product Classifications, Associations
-
-Unicorns
-* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
-* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
-The Terms Behind the Unicorn Valuations
-* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-
-Breakout Companies
-* [Breakout List](https://breakoutlist.com)
-
-Companies and Indices
-* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
-* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
-* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
-* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
-* [Inc. 5000](http://www.inc.com/inc5000)
-* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
-* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
-* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
-* [London Stock Exchange](http://www.londonstockexchange.com)
-* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
-* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
-* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
-
-Industry and Product Classifications
-* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
-* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
-#### Surveys, Trends, Stats
-
-Surveys
-* [Google Consumer Surveys](http://www.google.com/insights/consumersurveys/home), [Pricing](http://www.google.com/insights/consumersurveys/pricing), and [Use Cases](www.google.com/insights/consumersurveys/use_cases)
-* [SurveyMonkey](https://www.surveymonkey.com)
-* [Typeform](https://subtraction.typeform.com)
-* [Polldaddy](https://polldaddy.com)
-
-Google Insights and Trends
-* [Google Insights](http://www.google.com/insights)
-* [Think with Google](https://www.thinkwithgoogle.com) and [Think with Google- Planning Tools](https://www.thinkwithgoogle.com/tools) 
-* [Google Trends](http://www.google.com/trends) and [Google Trends Top Charts by Year](http://www.google.com/trends/topcharts)  
-
-Tim Ferris Inspired- Ideas
-* [Amazon Best Sellers](http://www.amazon.com/gp/bestsellers) and [Amazon Interesting Finds](https://www.amazon.com/stream/hotpicks)
-* [eBay All Categories](http://www.ebay.com/sch/allcategories/all-categories) and [eBay Collections](http://www.ebay.com/cln)
-* [Craigslist Gigs](http://sfbay.craigslist.org/search/ggg)
-* [Kickstarter Discover](https://www.kickstarter.com/discover), [Kickstarter Discover Advanced](https://www.kickstarter.com/discover/advanced), and [Kickstarter Recommendations](https://www.kickstarter.com/recommendations)
-
-<!--
-https://medium.com/product-hunt/the-best-products-launched-in-2017-1498e7d02b41
-
-Amazon Customer Favorites
-https://www.amazon.com/b?ie=UTF8&node=13727921011
-
-https://www.amazon.com/gp/bestsellers/books/4749/ref=zg_b_bs_4749_1
-https://www.kickstarter.com/discover/advanced?woe_id=0&pledged=0&goal=4&sort=end_date
-
-https://play.google.com/store/info/topic?id=merch_topic_b0000b2_apps_TopicPage_bestof2016
-https://vimeo.com/channels/staffpicks
-https://blog.slideshare.net/2014/12/17/the-must-see-slideshares-of-2014
-http://time.com/4549647/best-apps-year-2016/
-http://ssrnblog.com/2016/12/30/ssrn-top-papers-of-2016/
--->
-
-Hobbies and Cool Tools
-* [Hobby Masters](http://hobbymasters.com)
-* [Kevin Kelly: Cool Tools: A Catalog of Possibilities](http://www.amazon.com/Cool-Tools-Possibilities-Kevin-Kelly/dp/1940689007/ref=sr_1_1?s=books&ie=UTF8&qid=1439417207&sr=1-1), and [Cool Tools](http://kk.org/cooltools)
-* [Maker Faire Meet the Makers](http://makerfaire.com/new-york-2016/meet-the-makers/)
-
-<!--
-https://en.wikipedia.org/wiki/Do_it_yourself
--->
-
-#### Site and App Research
-
-Apple and Google Statistics
-* [Apple Store Charts](https://www.apple.com/itunes/charts)
-* [Google Play Top Apps](https://play.google.com/store/apps/top)  
-
-App and Website Statistics- General
-* [List of Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/List_of_most_popular_websites) 
-* [Alexa Top 500 Most Visited Websites in the World](http://www.alexa.com/topsites), [Alexa Topsites Categories](http://www.alexa.com/topsites/category), [Alexa Tools](http://www.alexa.com/tools), and [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel)
-* [AppAnnie](http://www.appannie.com/), [AppAnnie Blog](http://blog.appannie.com), and [AppAnnie Twitter](https://twitter.com/appannie) 
-* [Gallup](http://www.gallup.com/home.aspx)
-* [Moz Top 500](https://moz.com/top500)
-* [Quantcast](https://www.quantcast.com) and [Quantcast Top Sites (Web and Mobile)](https://www.quantcast.com/top-sites)
-* [ComScore](http://www.comscore.com/Insights/Market-Rankings)
-
-<!--
-http://www.100bestwebsites.org
-http://www.100bestwebsites.org/criteria.htm
--->
-
-Mobile and Browser
-* [List of Mobile Software Distribution Platforms Wikipedia](https://en.wikipedia.org/wiki/List_of_mobile_software_distribution_platforms)
-* [Amazon Appstore Wikipedia](https://en.wikipedia.org/wiki/Amazon_Appstore)
-* [App Store iOS Wikipedia](https://en.wikipedia.org/wiki/App_Store_(iOS))
-* [Apple Store](http://store.apple.com/us)
-* [Chrome Web Store](https://chrome.google.com/webstore)
-* [Google Play](https://play.google.com)
-* [Mac App Store Wikipedia](https://en.wikipedia.org/wiki/Mac_App_Store)
-* [Microsoft Store Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Store)
-* [Salesforce App Exchange](https://appexchange.salesforce.com) and [Salesforce Developer](https://developer.salesforce.com)
-* [Ubuntu Software Center Wikipedia](https://en.wikipedia.org/wiki/Ubuntu_Software_Center)
-* [Windows Store Wikipedia](https://en.wikipedia.org/wiki/Windows_Store)
-
-Browser Stats
-* [W3Counter](https://www.w3counter.com)
-
-<!--
-StatCounter
-http://statcounter.com
-
-Content Tracker
-https://stats.priceonomics.com/measure
--->
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-Built With (Exluding Django; See also Squarespace)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-* [Built With](http://builtwith.com)  
-* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-* [Built with Bootstrap](http://expo.getbootstrap.com)  
-* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-<!--
-http://webbyawards.com
--->
-
-Code Search
-* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
-* [Nerdy Data](http://nerdydata.com)  
-
-Wayback Machine
-* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
-
-<!--
-http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
--->
-
-Archive Team
-* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
-
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me)  
-
 
 
 
