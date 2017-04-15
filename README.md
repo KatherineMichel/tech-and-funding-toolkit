@@ -10327,7 +10327,7 @@ https://plus.google.com/collection/gbVpb
 * [Mark Otto GitHub](https://github.com/mdo)
 * [Mikeal Rogers](http://mikealrogers.com) and [Mikeal Rogers Medium](https://medium.com/@mikeal)
 * [Nadia Eghbal Medium](https://medium.com/@nayafia) and [Nadia Eghbal Slideshare](https://www.slideshare.net/NadiaEghbal)
-* [Werner Vogels](http://www.allthingsdistributed.com)
+* [Werner Vogels](http://werner.blog) and [Werner Vogels](http://www.allthingsdistributed.com)
 * [Zac Holman](http://zachholman.com)
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
