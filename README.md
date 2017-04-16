@@ -251,7 +251,8 @@ Project Management- Less Obvious Software
 * [Trello](https://trello.com)
 
 <!--
-https://confluence.atlassian.com/agile067/jira-agile-user-s-guide/creating-a-board
+Slack Competitor
+https://products.office.com/en-US/microsoft-teams/group-chat-software
 
 https://chrome.google.com/webstore/detail/scrum-for-trello/jdbcdblgjdpmfninkoogcfpnkjmndgje
 http://scrumfortrello.com/
@@ -259,16 +260,15 @@ http://scrumfortrello.com/
 Trello Competitor
 https://blog.asana.com/2016/11/introducing-boards
 
-Slack Competitor
-https://products.office.com/en-US/microsoft-teams/group-chat-software
-
-https://quip.com/blog/slack-integration-slash-commands
-
-https://slackline.io
+https://confluence.atlassian.com/agile067/jira-agile-user-s-guide/creating-a-board
 
 https://get.slack.help/hc/en-us/articles/204145658-Creating-a-Snippet
 https://get.slack.help/hc/en-us/articles/204411433-Muting-a-channel
 https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders
+
+https://slackline.io
+
+https://quip.com/blog/slack-integration-slash-commands
 -->
 
 Agile and Waterfall Project Management Methodologies
@@ -763,6 +763,7 @@ Programming Groups
 * [PHP Women](https://phpwomen.org)
 
 <!--
+See also: Joni
 http://elaconf.com
 https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
 -->
@@ -787,7 +788,7 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
 * [Hour of Code](https://hourofcode.com)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Code School GitHub](https://github.com/codeschool) and [Code School GitHub](https://github.com/codeschool)
+* [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
 * [Khan Academy GitHub](https://github.com/Khan) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
@@ -1329,11 +1330,11 @@ https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
 
 <!--
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Coding_conventions
 
 Object Oriented Programming
 * [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
 https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
 
 https://en.wikipedia.org/wiki/Programming_style
@@ -2511,12 +2512,6 @@ Chrome Extensions
 * [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
 
 <!--
-https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
-https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US
-https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
-https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en
-https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
-
 chrome://apps
 
 https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
@@ -2615,7 +2610,6 @@ Google Chrome Doc Archive
 
 <!--
 https://www.udacity.com/course/website-performance-optimization--ud884
-https://zapier.com/blog/inspect-element-tutorial/
 
 Old Docs
 * [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
@@ -2634,6 +2628,8 @@ https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
 
 Miscellaneous
 https://bugs.chromium.org/p/v8/issues/list
+
+https://zapier.com/blog/inspect-element-tutorial/
 
 http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
 http://www.ibm.com/developerworks/library/os-extendchrome/
@@ -2662,15 +2658,9 @@ Microsoft Developer Tools
 #### Testing and Performance
 
 <!--
-browser market share
-
-https://github.com/WPO-Foundation/webpagetest
-
-Progressive Web app Testing
-https://github.com/GoogleChrome/lighthouse
-
-https://saucelabs.com
-https://saucelabs.com/blog/sauce-labs-joins-the-w3c
+https://en.wikipedia.org/wiki/Assistive_technology
+https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
+https://www.ada.gov
 -->
 
 Device Testing
@@ -2691,6 +2681,7 @@ Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
 * [Sentry](http://getsentry.com)
 
 <!--
+See also: Data Science
 https://github.com/keen/cohorts
 
 https://graphite.readthedocs.org
@@ -2730,39 +2721,38 @@ Accessibility
 * [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php) 
 * [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
 
-<!--
-https://ft-interactive.github.io/accessibility
-https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility
+Photosensitive Epilepsy
+* [Photosensitive Epilepsy Wikipedia](https://en.wikipedia.org/wiki/Photosensitive_epilepsy)
 
-https://blogs.msdn.microsoft.com/accessibility/2017/03/01/a-look-back-and-a-look-ahead-at-accessibility-at-microsoft/
+<!--
+seizure disorders, migraines, or ADD/ADHD
+https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
+http://webaim.org/articles/seizure/
+https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
 -->
 
 Microsoft Inclusion Approach
 * [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/Design/inclusive)
 
 <!--
-https://en.wikipedia.org/wiki/Assistive_technology
-https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
-https://www.ada.gov
+https://blogs.msdn.microsoft.com/accessibility/2017/03/01/a-look-back-and-a-look-ahead-at-accessibility-at-microsoft/
+
+https://ft-interactive.github.io/accessibility
+https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility
 
 https://en.wikipedia.org/wiki/Screen_reader
 http://www.freedomscientific.com/Products/Blindness/JAWS
-
-Accessibility
 http://webaim.org/techniques/screenreader/
 Screen Reader Outline
 http://www.chromevox.com/
 https://en.wikipedia.org/wiki/WAI-ARIA
 
 
+
+
 http://quirksmode.org/css/contents.html
 https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
 http://www.iecss.com/
-
-Normal Document Flow
-HTML5 Outliner
-https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
-https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/
 
 Accessibility in Internet Explorer 11
 https://www.microsoft.com/enable/products/ie11/
@@ -2798,14 +2788,16 @@ https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-reque
 https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
 -->
 
-Photosensitive Epilepsy
-* [Photosensitive Epilepsy Wikipedia](https://en.wikipedia.org/wiki/Photosensitive_epilepsy)
-
 <!--
-seizure disorders, migraines, or ADD/ADHD
-https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
-http://webaim.org/articles/seizure/
-https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
+browser market share
+
+https://github.com/WPO-Foundation/webpagetest
+
+Progressive Web app Testing
+https://github.com/GoogleChrome/lighthouse
+
+https://saucelabs.com
+https://saucelabs.com/blog/sauce-labs-joins-the-w3c
 -->
 
 #### Social Graph and Webmaster
@@ -3634,9 +3626,20 @@ http://www.w3schools.com/browsers/default.asp
 #### Front-End Development
 
 <!--
-https://developers.google.com/speed/libraries/
+https://html.spec.whatwg.org/multipage
 
 Semantic Site Audit
+
+Normal Document Flow
+HTML5 Outliner
+https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
+https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/
+
+https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
+https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US
+https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
+https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en
+https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 -->
 
 Web General (See also JavaScript) 
@@ -3783,6 +3786,8 @@ Responsiveness- and Media Queries
 * [CSS LINT](http://csslint.net)
 
 http://cssguidelin.es
+
+https://developers.google.com/speed/libraries/
 -->
 
 Compilation Resources (See also Gulp)
@@ -3813,8 +3818,6 @@ HTML5 and CSS3 Cheat Sheets
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
 
 <!--
-https://html.spec.whatwg.org/multipage
-
 https://modernizr.com/download?setclasses
 
 https://en.wikipedia.org/wiki/Polyfill
@@ -3847,40 +3850,71 @@ W3C DOM4
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
 <!--
-https://www.w3schools.com/tags/
-https://www.w3schools.com/cssref/
-https://www.w3schools.com/w3css/w3css_grid.asp
-https://www.w3schools.com/css/css_boxmodel.asp
+https://developer.mozilla.org/en-US/docs/Web
 
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
-https://www.w3schools.com/html/html_blocks.asp
+https://developer.mozilla.org/en-US/Apps
+https://developer.mozilla.org/en-US/docs/Web/Reference
+https://developer.mozilla.org/en-US/docs/Web/Guide
+https://developer.mozilla.org/en-US/docs/Web/Tutorials
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
+https://developer.mozilla.org/en-US/docs/Web/Security
+
+https://developer.mozilla.org/en-US/Learn
+
+https://developer.mozilla.org/en-US/docs/Web/API
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
+https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events
+https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
+https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
+https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
+https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
+
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+https://developer.mozilla.org/en-US/docs/Web/MathML
+https://developer.mozilla.org/en-US/docs/Glossary
 -->
 
 <!--
-https://developer.mozilla.org/en-US/docs/Web
-
-http://www.w3schools.com/css/css_boxmodel.asp
-
 http://www.w3schools.com/cssref/
 http://www.w3schools.com/cssref/default.asp
 
-https://v4-alpha.getbootstrap.com/layout/grid/
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+https://www.w3schools.com/tags/
 
 Cascade
 https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
 https://www.w3.org/TR/CSS2/cascade.html
 
+https://www.w3schools.com/w3css/w3css_grid.asp
+
+https://v4-alpha.getbootstrap.com/layout/grid/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+
+https://www.w3schools.com/css/css_boxmodel.asp
+
+Semantic Site Audit
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
+https://www.w3.org/TR/html401/struct/global.html
+http://html5doctor.com/outlines/
+
 Semantic Elements
 https://en.wikipedia.org/wiki/Semantic_HTML
-http://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.w3schools.com/html/html5_semantic_elements.asp
 
 HTML Elements/Sections
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
 http://blog.teamtreehouse.com/use-html5-sectioning-elements
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+https://www.w3schools.com/html/html_blocks.asp
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
 https://www.w3.org/TR/css3-selectors/
@@ -3892,41 +3926,28 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_C
 https://www.w3schools.com/css/css3_flexbox.asp
 https://www.w3.org/TR/css-flexbox-1/
 
-https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
-https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps#enable_source_maps_in_settings
-https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map
-http://blog.teamtreehouse.com/introduction-source-maps
+http://www.w3schools.com/tags/tag_pre.asp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
+-->
+
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
+https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
+https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
 
 
 
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
-https://developer.mozilla.org/en-US/docs/Web/API/Headers
-
-http://www.w3schools.com/js/js_hoisting.asp
-https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js
-
-Binary Operands
-https://www.techopedia.com/definition/23953/binary-operator
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
 
 http://www.w3schools.com/Sql/sql_quickref.asp
 
 http://www.w3schools.com/tags/ref_byfunc.asp
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
-https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
-
 https://www.w3schools.com/TAgs/att_meta_charset.asp
 https://www.w3schools.com/html/html_charset.asp
-
-http://www.w3schools.com/tags/tag_pre.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
-
-https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
-https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
-
 
 https://www.w3.org/standards/about.html
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
@@ -3963,20 +3984,20 @@ http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
-https://www.w3.org/TR/html401/struct/global.html
-http://html5doctor.com/outlines/
-Semantic Site Audit
-
 http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
 -->
 
 <!--
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+
+http://whatwg.github.io/loader
+
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
 -->
 
 <!--
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
+
 https://www.w3.org/DesignIssues/Uses.html
 
 https://www.w3.org/community/webed/wiki/Main_Page
@@ -3997,56 +4018,30 @@ https://www.w3.org/2002/03/tutorials.html
 * [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 http://www.w3.org/TR/CSS21/cover.html#minitoc
-
-https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
 -->
 
-<!--
-https://developer.mozilla.org/en-US/Apps
-https://developer.mozilla.org/en-US/docs/Web/Reference
-https://developer.mozilla.org/en-US/docs/Web/Guide
-https://developer.mozilla.org/en-US/docs/Web/Tutorials
-https://developer.mozilla.org/en-US/docs/Web/Accessibility
-https://developer.mozilla.org/en-US/docs/Web/Security
-
-https://developer.mozilla.org/en-US/Learn
-
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
-https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events
-https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
-https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
-https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
-https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
-
-https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
-https://developer.mozilla.org/en-US/docs/Web/MathML
-https://developer.mozilla.org/en-US/docs/Glossary
--->
+#### JavaScript
 
 <!--
-http://whatwg.github.io/loader
 
-https://developer.mozilla.org/en-US/docs/Web/API/Console/table
--->
+https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
+https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps#enable_source_maps_in_settings
+https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map
+http://blog.teamtreehouse.com/introduction-source-maps
 
-<!--
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+https://developer.mozilla.org/en-US/docs/Web/API/Headers
+
+http://www.w3schools.com/js/js_hoisting.asp
+https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js
+
+Binary Operands
+https://www.techopedia.com/definition/23953/binary-operator
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
+
 DOM Tree/Parent Child
 https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
 -->
-
-
-
-
-
-#### JavaScript
 
 JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
