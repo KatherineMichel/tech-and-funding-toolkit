@@ -3799,7 +3799,8 @@ Compilation Resources (See also Gulp)
 * [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass) 
 
 <!--
-https://www.npmjs.com/package/sass-lint
+* [Sass Lint](https://www.npmjs.com/package/sass-lint)
+
 https://github.com/sasstools/sass-lint/tree/master/docs/rules
 http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass
 -->
