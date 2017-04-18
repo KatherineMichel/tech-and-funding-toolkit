@@ -1025,6 +1025,7 @@ GitHub HTML and CSS Styleguides
 Google Styleguides
 * [Google Styleguides GitHub](https://github.com/google/styleguide)
 * [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 
 JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
