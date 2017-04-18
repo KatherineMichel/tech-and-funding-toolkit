@@ -3787,7 +3787,7 @@ Responsiveness- and Media Queries
 
 http://cssguidelin.es
 
-https://developers.google.com/speed/libraries/
+* [Google Libraries](https://developers.google.com/speed/libraries)
 -->
 
 Compilation Resources (See also Gulp)
