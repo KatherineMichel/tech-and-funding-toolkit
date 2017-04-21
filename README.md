@@ -748,6 +748,37 @@ https://www.theguardian.com/info/developer-blog/2016/dec/02/the-art-of-the-desig
 
 #### Programming Learning Tools
 
+<!--
+New
+https://en.wikipedia.org/wiki/Software_design_pattern
+-->
+
+<!--
+https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
+https://en.wikipedia.org/wiki/Coding_conventions
+
+Object Oriented Programming
+* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
+https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+
+https://en.wikipedia.org/wiki/Programming_style
+
+Category "Programming language comparisons"
+https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
+Comparison of basic instructions of programming languages
+https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
+Comparison of programming languages (string functions)
+Comparison of programming languages (strings)
+Comparison of programming languages (syntax)
+Comparison of programming languages (array)
+Comparison of programming languages (object-oriented programming)
+Comparison of programming languages (list comprehension)
+Comparison of programming languages (mapping)
+Comparison of programming paradigms
+Comparison of multi-paradigm programming languages
+Comparison of type systems
+-->
+
 Creativity and Tools
 * ["Creativity: It’s not about the tools"](http://www.creativethinkinghub.com/tools)
 * [David Gries (The Science of Programming: "You do not program in a language, you program _into_ a language") Wikipedia](https://en.m.wikipedia.org/wiki/David_Gries)
@@ -831,6 +862,47 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+
+<!--
+New
+https://medium.com/@_ericelliott/latest
+https://github.com/learn-javascript-courses/learn-javascript
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
+https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
+https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+
+https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
+https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
+https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
+https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
+
+http://playcanv.as/p/JtL2iqIH/
+https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
+https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
+
+https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
+https://github.com/jshomes/JSHomes-Platform
+
+Essential JavaScript Links
+https://gist.github.com/ericelliott/d576f72441fc1b27dace
+https://github.com/rsperberg/essential-javascript-links
+https://github.com/LewisJEllis/essential-javascript-links
+https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
+view-source:https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
+https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
+
+https://en.wikipedia.org/wiki/Turing_completeness
+https://en.wikipedia.org/wiki/Turing_machine
+https://en.wikipedia.org/wiki/Object_composition#Recursive_composition
+https://en.wikipedia.org/wiki/Lambda_calculus
+https://en.wikipedia.org/wiki/Programming_paradigm
+https://en.wikipedia.org/wiki/Prototype-based_programming
+https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
+https://en.wikipedia.org/wiki/Object-oriented_programming
+https://en.wikipedia.org/wiki/Functional_programming
+-->
 
 <!--
 https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
@@ -1070,6 +1142,10 @@ Ergonomics
 * [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
 * [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
 * [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
+
+<!--
+https://justgetflux.com/news/pages/macquickstart
+-->
 
 Keyboard Layout
 * [Ergonomic Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard)
@@ -1328,32 +1404,6 @@ https://en.wikipedia.org/wiki/Dependency_injection
 https://en.wikipedia.org/wiki/Inversion_of_control
 
 https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
--->
-
-<!--
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-https://en.wikipedia.org/wiki/Coding_conventions
-
-Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
-
-https://en.wikipedia.org/wiki/Programming_style
-
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
 -->
 
 <!--
