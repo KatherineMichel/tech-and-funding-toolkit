@@ -11851,6 +11851,8 @@ Unboxing
 Rec from Tim Ferris
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
 
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
