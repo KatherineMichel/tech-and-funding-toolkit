@@ -11,6 +11,15 @@ Table of Contents
 - [Newspaper Code and Style Guides](#newspaper-code-and-style-guides)
 - [Disqus](#disqus)
 
+<!--
+npm 
+https://github.com/OpenCollective/opencollective-website
+https://opencollective.com/
+
+Ruby, React
+https://github.com/tootsuite/mastodon
+-->
+
 ## Gov
 
 U.S. Gov.- WhiteHouse, U.S. Digital Service, C.I.O.
