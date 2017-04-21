@@ -10379,6 +10379,14 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+New
+https://twitter.com/nayafia/status/724616808704008192
+https://www.slideshare.net/NadiaEghbal
+https://github.com/nayafia/contributing-template
+http://a16z.com/2017/04/08/culture-open-source-community/
+-->
+
+<!--
 https://linux.conf.au/
 https://www.youtube.com/watch?v=W2AR1owg0ao
 https://www.slideshare.net/NadiaEghbal/consider-the-maintainer
