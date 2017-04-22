@@ -3973,63 +3973,58 @@ https://developer.mozilla.org/en-US/docs/Web/MathML
 https://developer.mozilla.org/en-US/docs/Glossary
 -->
 
-
-
 <!--
-http://www.w3schools.com/cssref/
-http://www.w3schools.com/cssref/default.asp
+* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
-https://www.w3schools.com/tags/
+https://www.w3.org/standards/webdesign
+https://www.w3.org/standards/webdesign/htmlcss
+https://www.w3.org/standards/webdesign/script.html
 
-Cascade
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-https://www.w3.org/TR/CSS2/cascade.html
+https://www.w3.org/standards/about.html
+https://www.w3.org/TR/CSS/#css
+https://www.w3.org/Style/CSS/
 
-https://www.w3schools.com/w3css/w3css_grid.asp
+http://www.w3schools.com/cssref
+https://www.w3schools.com/css
+https://www.w3schools.com/html
+http://www.w3schools.com/tags
+https://www.w3schools.com/css/css_boxmodel.asp
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://www.w3schools.com/bootstrap
+
+http://www.w3schools.com/tags/tag_pre.asp
+https://www.w3schools.com/tags/tag_span.asp
 
 https://v4-alpha.getbootstrap.com/layout/grid/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
 https://developer.mozilla.org/en-US/docs/Web/CSS/grid
-
-https://www.w3schools.com/css/css_boxmodel.asp
-
-Semantic Site Audit
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
-https://www.w3.org/TR/html401/struct/global.html
-http://html5doctor.com/outlines/
-
-Semantic Elements
-https://en.wikipedia.org/wiki/Semantic_HTML
-https://www.w3schools.com/html/html5_semantic_elements.asp
-
-HTML Elements/Sections
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
 http://blog.teamtreehouse.com/use-html5-sectioning-elements
-
 https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+
+http://html5doctor.com/outlines/
+https://www.w3schools.com/html/html5_semantic_elements.asp
+-->
+
+<!--
+Semantic Site Audit, Semantic Elements
+https://en.wikipedia.org/wiki/Semantic_HTML
+
+http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
+
+https://www.w3schools.com/w3css/w3css_grid.asp
 https://www.w3schools.com/html/html_blocks.asp
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
-https://www.w3.org/TR/css3-selectors/
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 https://www.w3schools.com/css/css_pseudo_classes.asp
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
 https://www.w3schools.com/css/css3_flexbox.asp
-https://www.w3.org/TR/css-flexbox-1/
-
-http://www.w3schools.com/tags/tag_pre.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
-
 
 http://www.w3schools.com/Sql/sql_quickref.asp
 http://www.w3schools.com/tags/ref_byfunc.asp
 https://www.w3schools.com/TAgs/att_meta_charset.asp
 https://www.w3schools.com/html/html_charset.asp
 https://www.w3schools.com/css/css_syntax.asp
-https://www.w3schools.com/tags/tag_span.asp
 http://www.w3schools.com/css/css_text.asp
 http://www.w3schools.com/css/css_howto.asp
 http://www.w3schools.com/cssref/pr_pos_z-index.asp
@@ -4039,70 +4034,120 @@ http://www.w3schools.com/tags/att_form_autocomplete.asp
 http://www.w3schools.com/tags/att_input_autocomplete.asp
 http://www.w3schools.com/cssref/pr_class_position.asp
 http://www.w3schools.com/css/css_positioning.asp
-http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
--->
 
-
-<!--
 https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
 https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
-
-https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
-https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
-
-https://www.w3.org/standards/about.html
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
 https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
 https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
-
-https://www.w3.org/TR/CSS/#css
-
-
 https://developer.mozilla.org/en-US/docs/Web/CSS/position
-
 https://developer.mozilla.org/en-US/docs/Web/CSS/@import
 https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
-https://www.w3.org/TR/CSS21/propidx.html
-https://www.w3.org/Style/CSS/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
+
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
-https://www.w3.org/People/Bos/Stylesheets/textfont.html
+-->
+
+<!--
+Some may be repeat
+
+https://www.w3.org/community/webed/wiki/Main_Page
+
+https://www.w3.org/TR/CSS2/cascade.html
+https://v4-alpha.getbootstrap.com/layout/grid/
+https://www.w3.org/TR/html401/struct/global.html
+http://html5doctor.com/outlines/
+https://www.w3.org/TR/css-flexbox-1/
+https://www.w3.org/TR/css3-selectors/
+
+https://www.w3.org/Mobile
+https://www.w3.org/standards/webofdevices
+https://www.w3.org/standards/webarch
+https://www.w3.org/standards/agents
+
+https://www.w3.org/2009/cheatsheet
+https://www.w3.org/2002/03/tutorials.html
+
+
+https://www.udacity.com/course/website-performance-optimization--ud884
+
+http://cssguidelin.es
+
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
+
+http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
+
+https://bradfrost.github.io/this-is-responsive/patterns.html
+https://bradfrost.github.io/this-is-responsive/resources.html
+https://responsivedesign.is/patterns
+
+http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
+http://glyphicons.bootstrapcheatsheets.com/
+
+https://zapier.com/blog/inspect-element-tutorial/
+
+* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
+https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
 http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
+
+https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
+
+https://developer.mozilla.org/en-US/docs/Web/API/Console/table
+
+http://www.w3schools.com/js/js_reserved.asp
+
+Microformats and meta tags
+
+* [W3C HTML GitHub](https://github.com/w3c/html)
+
+https://www.w3.org/People/Bos/Stylesheets/textfont.html
+https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
+
+http://www.w3.org/TR/CSS21/cover.html
+https://www.w3.org/TR/CSS21/propidx.html
+
+http://validator.w3.org/unicorn
+http://whatwg.github.io/loader
+
+https://github.com/whatwg/dom
+
+https://www.w3.org/DesignIssues/Uses.html
 -->
 
 <!--
 https://responsivedesign.is/develop/browser-feature-support/media-queries-for-common-device-breakpoints
 
-http://whatwg.github.io/loader
+http://stackoverflow.com/questions/12889362/difference-between-id-and-class-in-css-and-when-to-use-it
+
+https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
+
+https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
+https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
 https://developer.mozilla.org/en-US/docs/Web/API/Console/table
--->
 
-<!--
+https://www.w3.org/People/Bos/Stylesheets/textfont.html
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
-
-https://www.w3.org/DesignIssues/Uses.html
-
-https://www.w3.org/community/webed/wiki/Main_Page
-
-https://www.w3.org/standards/webdesign
-https://www.w3.org/standards/webdesign/htmlcss
-https://www.w3.org/standards/webdesign/script.html
-
-https://www.w3.org/standards/webofdevices
-https://www.w3.org/standards/webarch
-https://www.w3.org/standards/agents
-
-http://validator.w3.org/unicorn
-https://www.w3.org/2009/cheatsheet
-https://www.w3.org/Mobile
-https://www.w3.org/2002/03/tutorials.html
-
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
 
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 -->
