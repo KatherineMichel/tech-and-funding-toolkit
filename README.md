@@ -1136,6 +1136,32 @@ Swift Styleguide
 
 #### Computer Basics
 
+<!--
+New
+https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://en.wikipedia.org/wiki/Computer_architecture
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+
+https://en.wikibooks.org/wiki/A-level_Computing/AQA/Computer_Components,_The_Stored_Program_Concept_and_the_Internet/Machine_Level_Architecture/Machine_code_and_processor_instruction_set
+https://en.wikipedia.org/wiki/Binary_code
+https://en.wikipedia.org/wiki/Most_significant_bit
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Opcode
+https://en.wikipedia.org/wiki/Assembly_language
+https://en.wikipedia.org/wiki/Assembly_language#Assembler
+https://en.wikipedia.org/wiki/Processor_register
+https://en.wikipedia.org/wiki/Bus_(computing)
+https://en.wikipedia.org/wiki/Control_bus
+https://en.wikipedia.org/wiki/Address_bus
+https://en.wikipedia.org/wiki/Memory_address
+https://en.wikipedia.org/wiki/Random-access_memory
+https://en.wikipedia.org/wiki/Input/output
+https://en.wikipedia.org/wiki/Hexadecimal
+https://en.wikipedia.org/wiki/Octal
+https://en.wikipedia.org/wiki/Floating-point_arithmetic
+-->
+
 Ergonomics 
 * [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
 * [f.lux](https://justgetflux.com)
