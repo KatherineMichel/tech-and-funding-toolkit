@@ -1789,6 +1789,46 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 
 #### Git and Markdown
 
+<!--
+New
+https://classroom.github.com/classrooms/27039735-code-collaboration-and-review
+https://github.com/settings/connections/applications/64a051cf1598b9f0658f
+https://github.com/organizations/code-collaboration-and-review/invite
+https://github.com/settings/applications/511051
+
+https://en.wikipedia.org/wiki/Fork_and_pull_model
+https://en.wikipedia.org/wiki/Open-source_model
+https://opensource.guide/
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://help.github.com/enterprise/2.7/user/categories/collaborating-with-issues-and-pull-requests/
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/enterprise/2.7/user/articles/checking-out-pull-requests-locally/
+https://github.com/features
+https://education.github.com/guide/sandboxing
+https://classroom.github.com/#getting-started-video
+https://help.github.com/articles/creating-a-pull-request-from-a-fork/
+https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
+https://education.github.com/guide/assignments
+https://classroom.github.com/
+https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
+https://gist.github.com/seshness/3943237
+https://github.com/business/customers
+https://github.com/features
+https://help.github.com/articles/about-pull-request-reviews/
+
+https://help.github.com/articles/permission-levels-for-an-organization/
+https://help.github.com/articles/permission-levels-for-a-user-account-repository/
+https://help.github.com/articles/what-are-the-different-access-permissions/
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/articles/pushing-to-a-remote/
+https://help.github.com/
+https://guides.github.com/
+https://git-scm.com/documentation
+https://github.com/progit/progit2
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+https://help.github.com/articles/about-git-rebase/
+-->
+
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
 * [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
