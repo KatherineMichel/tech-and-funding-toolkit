@@ -3973,6 +3973,8 @@ https://developer.mozilla.org/en-US/docs/Web/MathML
 https://developer.mozilla.org/en-US/docs/Glossary
 -->
 
+
+
 <!--
 http://www.w3schools.com/cssref/
 http://www.w3schools.com/cssref/default.asp
@@ -4020,6 +4022,24 @@ https://www.w3.org/TR/css-flexbox-1/
 
 http://www.w3schools.com/tags/tag_pre.asp
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
+
+
+http://www.w3schools.com/Sql/sql_quickref.asp
+http://www.w3schools.com/tags/ref_byfunc.asp
+https://www.w3schools.com/TAgs/att_meta_charset.asp
+https://www.w3schools.com/html/html_charset.asp
+https://www.w3schools.com/css/css_syntax.asp
+https://www.w3schools.com/tags/tag_span.asp
+http://www.w3schools.com/css/css_text.asp
+http://www.w3schools.com/css/css_howto.asp
+http://www.w3schools.com/cssref/pr_pos_z-index.asp
+http://www.w3schools.com/html/html_entities.asp
+http://www.w3schools.com/html/html_form_input_types.asp
+http://www.w3schools.com/tags/att_form_autocomplete.asp
+http://www.w3schools.com/tags/att_input_autocomplete.asp
+http://www.w3schools.com/cssref/pr_class_position.asp
+http://www.w3schools.com/css/css_positioning.asp
+http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 -->
 
 
@@ -4031,38 +4051,14 @@ https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
 https://developer.mozilla.org/en-US/docs/Web/Security/Securing_your_site/Turning_off_form_autocompletion
 https://developers.google.com/web/updates/2015/06/checkout-faster-with-autofill
 
-
-
-
-http://www.w3schools.com/Sql/sql_quickref.asp
-
-http://www.w3schools.com/tags/ref_byfunc.asp
-
-https://www.w3schools.com/TAgs/att_meta_charset.asp
-https://www.w3schools.com/html/html_charset.asp
-
 https://www.w3.org/standards/about.html
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
-
-https://www.w3schools.com/css/css_syntax.asp
-
-https://www.w3schools.com/tags/tag_span.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
-
-http://www.w3schools.com/css/css_text.asp
-http://www.w3schools.com/css/css_howto.asp
-http://www.w3schools.com/cssref/pr_pos_z-index.asp
-http://www.w3schools.com/html/html_entities.asp
-http://www.w3schools.com/html/html_form_input_types.asp
-http://www.w3schools.com/tags/att_form_autocomplete.asp
-http://www.w3schools.com/tags/att_input_autocomplete.asp
-
 https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
 
 https://www.w3.org/TR/CSS/#css
 
-http://www.w3schools.com/cssref/pr_class_position.asp
-http://www.w3schools.com/css/css_positioning.asp
+
 https://developer.mozilla.org/en-US/docs/Web/CSS/position
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/@import
@@ -4072,7 +4068,6 @@ https://www.w3.org/Style/CSS/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
 https://www.w3.org/People/Bos/Stylesheets/textfont.html
 
-http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Images/Implementing_image_sprites_in_CSS
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
