@@ -1091,18 +1091,11 @@ Styleguides- Various
 * [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
 
 GitHub HTML and CSS Styleguides
-* [GitHub CSS Styleguide](http://primercss.io) 
-* [MDO Code Guide](http://codeguide.co) and [MDO Code Guide GitHub](https://github.com/mdo/code-guide) 
-
 Google Styleguides
-* [Google Styleguides GitHub](https://github.com/google/styleguide)
-* [Google HTML and CSS Styleguide](https://google.github.io/styleguide/htmlcssguide.html)
-* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
 
 JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript) 
-
+ 
 PHP Styleguides
 * [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
 * [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
@@ -1598,9 +1591,6 @@ Zsh (Bash Alternative)
 Brackets (a.k.a. Edge Code)
 * [Edge Code (commercial form of Brackets)](https://www.adobe.com/products/edge-code.html)
 * [Brackets](http://brackets.io)
-* [How to Use Brackets GitHub](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets)
-* [Brackets Shortcuts GitHub](https://github.com/adobe/brackets/wiki/Brackets-Shortcuts)
-* [Brackets Extension Registry](https://brackets-registry.aboutweb.com)
 
 <!--
 https://brackets-themes.github.io
@@ -3206,11 +3196,12 @@ Facebook
 * [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
 
 Google
-* [Google Fonts](https://fonts.google.com) and [Google Fonts List GitHub](https://github.com/google/fonts/tree/master/ofl) 
 * [Google Roboto GitHub](https://github.com/google/roboto) 
 * [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
+
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
 
 Google Material Design (See also Facebook React)
 * [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
@@ -3425,10 +3416,6 @@ Color Model
 https://en.wikipedia.org/wiki/CMYK_color_model
 -->
 
-Design Teardowns and Style Tiles
-* [Product Teardown Wikipedia](https://en.wikipedia.org/wiki/Product_teardown)
-* [Style Tiles](http://styletil.es) and [Style Tiles Examples](http://styletil.es/#examples)
-
 <!--
 https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content
 
@@ -3450,12 +3437,8 @@ https://en.wikipedia.org/wiki/Heat_map
 https://www.crazyegg.com
 -->
 
-Typographic Scale and Vertical Rhythm
-* [Modular Scale](http://www.modularscale.com)
-* [Vertical Rhythm](https://drewish.com/tools/vertical-rhythm)
 
-Web-Safe Fonts
-* [Web Safe Fonts Wikipedia](https://en.wikipedia.org/wiki/Web_typography#Web-safe_fonts)
+
 
 <!--
 https://brand.frontify.com/d/qAiubNBytHKf/style-guide
@@ -3513,38 +3496,7 @@ Lipsum
 http://www.cipsum.com
 -->
 
-Adobe (See also Edge Code and Brackets)
-* [Adobe Creative Cloud](http://www.adobe.com/creativecloud) and [Adobe Creative Cloud Blog](https://blogs.adobe.com/creativecloud)
-* [Adobe Lightroom](https://lightroom.adobe.com)
-* [Adobe Experience Design CC](https://www.adobe.com/products/experience-design.html)
-* [Adobe Photoshop](http://www.adobe.com/products/photoshop-lightroom.html)
-* [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
-* [Adobe Kuler Color Themes](https://helpx.adobe.com/illustrator/using/create-color-themes-kuler.html)
-* [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com)
-* [Adobe Spark](https://spark.adobe.com)
-
 <!--
-https://github.com/adobe
-https://github.com/adobe-fonts
-
-https://creative.adobe.com/plans
-
-WSWYG
-http://www.adobe.com/products/dreamweaver.html
- 
-https://offers.adobe.com/en/na/marketing/landings/_338365_finding_the_perfect_image.html
-
-https://typekit.com/fonts
-https://helpx.adobe.com/typekit/system-subscription-requirements.html
-http://www.adobe.com/creativecloud/catalog/desktop.html
-http://www.adobe.com/creativecloud/desktop-app.html
-
-Illustration (See also below), Serif DrawPlus, Adobe Illustrator
-https://www.canva.com
-http://www.adobe.com/products/fireworks.html
-http://www.adobe.com/products/illustrator.html
-https://affinity.serif.com/en-us/designer
-
 https://www.xquartz.org
 https://inkscape.org/en/download/mac-os
 
@@ -3569,9 +3521,7 @@ http://jonibologna.com/content/images/flexboxsheet.pdf
 -->
 
 Photo Editing (See also Adobe)
-* [Nik Collection](https://www.google.com/nikcollection)
-* [Gimp](http://www.gimp.org), [Gimp Docs](http://docs.gimp.org), and [Gimp Plugin Registry](http://registry.gimp.org/glossary/a)
-* [Inkscape](http://www.inkscape.org/en)  
+* [Nik Collection](https://www.google.com/nikcollection) 
 * [Serif](http://www.serif.com)
 
 <!--
@@ -3596,9 +3546,6 @@ https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
 
 Photo Placeholders
 * [Placeholder It](http://placehold.it)
-
-Free Photos
-* [MorgueFile](http://www.morguefile.com)  
 
 Flickr
 * [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
@@ -3746,10 +3693,6 @@ https://html.spec.whatwg.org/multipage
 Semantic Site Audit
 
 Normal Document Flow
-HTML5 Outliner
-https://chrome.google.com/webstore/detail/html5-outliner/afoibpobokebhgfnknfndkgemglggomo?hl=en
-https://addons.mozilla.org/en-US/firefox/addon/html5_outliner/
-
 https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
 https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US
 https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
@@ -3812,19 +3755,11 @@ HTML5 and CSS3- Info and Tutorials
 http://www.w3schools.com/css/css3_intro.asp
 -->
 
-
-
-CSS Zen Garden 
-* [CSS Zen Garden Homepage](http://www.csszengarden.com) and [CSS Zen Garden Design List](http://www.mezzoblue.com/zengarden/alldesigns)  
+CSS Zen Garden  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
 
-Responsive Design Examples
-* [Media Queries Examples](http://mediaqueri.es)
-* [Responsive Design Examples](https://responsivedesign.is/examples)
-
 Foundation
-* [Foundation GitHub](https://github.com/zurb/foundation-sites) and [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-* [Foundation Basic Templates](http://foundation.zurb.com/templates.html)
+* [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 * [Foundation for Emails](http://foundation.zurb.com/emails.html)
 * [Zurb Library](http://zurb.com/library)
 
@@ -3848,14 +3783,9 @@ http://foundation.zurb.com/forum/posts/1115-centering-a-button-group
 -->
 
 Bootstrap, Font Awesome
-* [Bootstrap](http://getbootstrap.com) and [Bootstrap GitHub](https://github.com/twbs/bootstrap) 
-* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com)
-* [Bootstrap Getting Started](http://getbootstrap.com/getting-started) and [Bootstrap Customize](http://getbootstrap.com/customize) 
+* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com) 
 * [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-* [Bootstrap Basic Templates](http://getbootstrap.com/getting-started/#examples)
-* [MaxCDN Bootstrap](http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css)
-* [Font Awesome](http://fontawesome.io/icons) and [Font Awesome GitHub](https://github.com/FortAwesome/Font-Awesome) 
 
 <!--
 http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
@@ -3865,35 +3795,23 @@ http://glyphicons.bootstrapcheatsheets.com/
 -->
 
 Other Kickstarters
-* [Bootstrap Magic GitHub](https://github.com/pikock/bootstrap-magic)  
-* [HTML5 Boilerplate](http://html5boilerplate.com) and [HTML5 Boilerplate GitHub](https://github.com/h5bp/html5-boilerplate)  
-* [Initializr](http://www.initializr.com), [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+* [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
 
 <!--
 https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
 https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
 -->
 
-Multi-Device Layout Patterns
-* [Multi-Device Layout Patterns by Luke Wroblewski](http://www.lukew.com/ff/entry.asp?1514)
-
 <!--
-https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns
-https://v4-alpha.getbootstrap.com/layout/overview/#responsive-breakpoints
-
 https://bradfrost.github.io/this-is-responsive/patterns.html
 https://bradfrost.github.io/this-is-responsive/resources.html
 https://responsivedesign.is/patterns
 -->
 
 Responsiveness- and Media Queries
-* [Bootstrap CSS](http://getbootstrap.com/css)
-* [Mozilla Developer Media Queries](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries) and [Mozilla Developer Using Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
 * [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 * [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [Google Developers Responsive Fundamentals- Use of Media Queries](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/use-media-queries?hl=en)
-* [Google Developers Responsive Fundamentals- How to Choose Breakpoints](https://developers.google.com/web/fundamentals/design-and-ui/responsive/fundamentals/how-to-choose-breakpoints?hl=en)
 
 #### CSS Helpers
 
@@ -3901,8 +3819,6 @@ Responsiveness- and Media Queries
 * [CSS LINT](http://csslint.net)
 
 http://cssguidelin.es
-
-* [Google Libraries](https://developers.google.com/speed/libraries)
 -->
 
 Compilation Resources (See also Gulp)
@@ -3910,8 +3826,6 @@ Compilation Resources (See also Gulp)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
 * [Less GitHub](https://github.com/less/less.js)  
 * [Less for Windows](http://winless.org)
-* [Sass (Syntactically Awesome Style Sheets)](http://sass-lang.com), [Sass GitHub](https://github.com/nex3/sass), and [Sass Guide](http://sass-lang.com/guide)
-* [Bootstrap Sass GitHub](https://github.com/twbs/bootstrap-sass) 
 
 <!--
 * [Sass Lint](https://www.npmjs.com/package/sass-lint)
@@ -3921,12 +3835,6 @@ http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and
 -->
 
 CSS Reset (HTML5 Compatibility Check/Normalization)
-* [Eric A. Meyer CSS Reset](http://meyerweb.com/eric/tools/css/reset)
-* [Normalize GitHub](https://github.com/necolas/normalize.css)  
-* [Modernizr](http://modernizr.com) and [Modernizr GitHub](https://github.com/Modernizr/Modernizr)  
-* [HTML5shiv GitHub](https://github.com/aFarkas/html5shiv)  
-* [Shim GitHub](https://github.com/marstall/shim)  
-* [Yahoo YUI CSS Reset](https://yuilibrary.com/yui/docs/cssreset)
 
 HTML5 and CSS3 Cheat Sheets
 * [HTML5- The Web platform: Browser technologies](https://platform.html5.org)
@@ -3934,8 +3842,6 @@ HTML5 and CSS3 Cheat Sheets
 * [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
 
 <!--
-https://modernizr.com/download?setclasses
-
 https://en.wikipedia.org/wiki/Polyfill
 -->
 
@@ -4027,7 +3933,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
 http://blog.teamtreehouse.com/use-html5-sectioning-elements
 https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
 
 http://html5doctor.com/outlines/
 https://www.w3schools.com/html/html5_semantic_elements.asp
@@ -4035,7 +3940,6 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
 <!--
 Semantic Site Audit, Semantic Elements
-https://en.wikipedia.org/wiki/Semantic_HTML
 
 http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 
@@ -4107,16 +4011,11 @@ https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
 
 http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
 
-https://bradfrost.github.io/this-is-responsive/patterns.html
-https://bradfrost.github.io/this-is-responsive/resources.html
-https://responsivedesign.is/patterns
-
 http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
 http://glyphicons.bootstrapcheatsheets.com/
 
 https://zapier.com/blog/inspect-element-tutorial/
 
-* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
 
 https://developer.mozilla.org/en-US/docs/Chrome_Registration
 
