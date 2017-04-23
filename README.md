@@ -2773,12 +2773,6 @@ Device Testing
 * [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
 * [Open Device Labs](http://OpenDeviceLab.com)
 
-Speed and Performance
-* [Google GWT (including Speedtracer)](http://www.gwtproject.org)
-* [Google PageSpeed (Score of 90+)](https://developers.google.com/speed/pagespeed)
-* [Netflix Fast](https://fast.com)
-* [Yahoo YSlow score of 85+](http://yslow.org)
-
 Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
@@ -2809,74 +2803,6 @@ Example
 * [Example Org](http://www.example.org)  
 * [Example Org Mobile](https://m.example.com) 
 
-W3 Validators
-* [W3C HTML Validator](http://validator.w3.org) and [W3C Nu HTML Validator](https://validator.w3.org/nu)
-* [W3C CSS Validator](http://jigsaw.w3.org/css-validator)
-* [W3C Semantic Extractor](http://www.w3.org/2003/12/semantic-extractor.html)
-* [W3C Link Checker](https://validator.w3.org/checklink)
-<!--* [iWebTool Broken Link Checker](http://iwebtool.com/broken_link_checker)-->
-* [W3C Mobile Validator](http://validator.w3.org/mobile)
-* [W3C i18n Checker](http://validator.w3.org/i18n-checker)
-
-Accessibility
-* [WebAIM](http://webaim.org)
-* [WebAIM Checklist](http://webaim.org/resources/evalquickref/#checklist)
-* [WebAIM Contrast Checker](http://webaim.org/resources/contrastchecker)
-* [Check My Colours (Color Contrast)](http://www.checkmycolours.com)
-* [IDI Web Accessibility Checker](http://achecker.ca/checker/index.php) 
-* [NV Access (Test Using a Screen Reader)](http://www.nvaccess.org)
-
-Photosensitive Epilepsy
-* [Photosensitive Epilepsy Wikipedia](https://en.wikipedia.org/wiki/Photosensitive_epilepsy)
-
-<!--
-seizure disorders, migraines, or ADD/ADHD
-https://www.epilepsy.org.uk/info/photosensitive-epilepsy/web-design
-http://webaim.org/articles/seizure/
-https://www.w3.org/TR/UNDERSTANDING-WCAG20/seizure.html
--->
-
-Microsoft Inclusion Approach
-* [Microsoft Inclusive Toolkit Manual and Activities](https://www.microsoft.com/en-us/Design/inclusive)
-
-<!--
-https://blogs.msdn.microsoft.com/accessibility/2017/03/01/a-look-back-and-a-look-ahead-at-accessibility-at-microsoft/
-
-https://ft-interactive.github.io/accessibility
-https://accessibility.blog.gov.uk/2016/09/02/dos-and-donts-on-designing-for-accessibility
-
-https://en.wikipedia.org/wiki/Screen_reader
-http://www.freedomscientific.com/Products/Blindness/JAWS
-http://webaim.org/techniques/screenreader/
-Screen Reader Outline
-http://www.chromevox.com/
-https://en.wikipedia.org/wiki/WAI-ARIA
-
-
-
-
-http://quirksmode.org/css/contents.html
-https://en.wikibooks.org/wiki/Internet_Explorer/Adding_User_Styles
-http://www.iecss.com/
-
-Accessibility in Internet Explorer 11
-https://www.microsoft.com/enable/products/ie11/
-https://en.wikipedia.org/wiki/Internet_Explorer_8
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
--->
-
-<!--
-Compat Inspector
-http://ie.microsoft.com/testdrive/HTML5
-modern.IE
-http://www.modern.ie/report
-
-https://developer.microsoft.com/en-us/microsoft-edge
-https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/compatinspector
-https://developer.microsoft.com/en-us/microsoft-edge/tools/staticscan
--->
-
 <!--
 HTTP Archive
 https://en.wikipedia.org/wiki/.har
@@ -2906,17 +2832,6 @@ https://saucelabs.com/blog/sauce-labs-joins-the-w3c
 -->
 
 #### Social Graph and Webmaster
-
-Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-* [Schema Creator](http://schema-creator.org)
-
-Open Search
-* [Open Search](http://www.opensearch.org/Home)
-
-Microformats
-* [Microformats](http://microformats.org)
 
 <!--
 http://www.seoconsultants.com/meta-tags/dublin
