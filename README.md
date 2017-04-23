@@ -1018,7 +1018,9 @@ http://www.oreilly.com/design/free/design-in-venture-capital.csp
 -->
 
 Documentation- Mozilla
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org), [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
 * [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
 
 Standards
@@ -2425,8 +2427,6 @@ Apple Presentation and Design (See also Keynotopia)
 * [Keynote](https://www.apple.com/mac/keynote)
 * [Paper and Pencil for iPhone and iPad](https://www.fiftythree.com) and [Think](http://www.fiftythree.com/think)
 * [Sketch](https://www.sketchapp.com)
-* [Keynotopia](http://keynotopia.com)
-* [Keynote Kung-Fu](http://keynotekungfu.com)
 
 <!--
 http://www.sketchappsources.com
@@ -3376,12 +3376,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
 http://www.font-face.com
 -->
 
-Fonts (See also Google Apps)
-* [Font Squirrel (Recommended by Susan Simkins)](https://www.fontsquirrel.com)
-* [dafont (Noted by Susan Simkins, less good)](http://www.dafont.com)
-* [Font Famous](http://fontfamous.com)
-* [Fontscape](http://www.fontscape.com)
-
 <!--
 https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer
 https://docs.gimp.org/en/gimp-tool-text.html
@@ -3397,12 +3391,6 @@ https://en.wikipedia.org/wiki/Italic_type
 https://en.wikipedia.org/wiki/Gill_Sans
 https://www.microsoft.com/typography/Fonts/family.aspx?FID=331
 -->
-
-Fallback Font
-* [Fallback Font Wikipedia](https://en.wikipedia.org/wiki/Fallback_font)
-
-Typography
-* [Serif Wikipedia](https://en.wikipedia.org/wiki/Serif) and [San Serif Wikipedia](https://en.wikipedia.org/wiki/Sans-serif)
 
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
@@ -3642,10 +3630,9 @@ CSS
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
 
-
 W3C HTML Standards
-* [W3C HTML](https://www.w3.org/html) and [W3C HTML GitHub](https://github.com/w3c/html)
-* [W3C HTML5](https://www.w3.org/TR/html5)
+* [W3C HTML GitHub](https://github.com/w3c/html)
+
 
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
@@ -3654,17 +3641,10 @@ HTML and CSS Tutorials- General
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 
 HTML and CSS Tutorials- Mozilla
-* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
-* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
-* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
 HTML5 and CSS3- Info and Tutorials
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 * [CSS3 Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
-* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
 
 <!--
 http://www.w3schools.com/css/css3_intro.asp
@@ -3699,7 +3679,6 @@ http://foundation.zurb.com/forum/posts/1115-centering-a-button-group
 
 Bootstrap, Font Awesome
 * [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com) 
-* [Bootstrap Lint GitHub](https://github.com/twbs/bootlint)
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
 <!--
@@ -3730,12 +3709,6 @@ Responsiveness- and Media Queries
 
 #### CSS Helpers
 
-<!--
-* [CSS LINT](http://csslint.net)
-
-http://cssguidelin.es
--->
-
 Compilation Resources (See also Gulp)
 * [Stylus](http://stylus-lang.com)
 * [Compass GitHub](https://github.com/chriseppstein/compass)  
@@ -3743,18 +3716,9 @@ Compilation Resources (See also Gulp)
 * [Less for Windows](http://winless.org)
 
 <!--
-* [Sass Lint](https://www.npmjs.com/package/sass-lint)
-
 https://github.com/sasstools/sass-lint/tree/master/docs/rules
 http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass
 -->
-
-CSS Reset (HTML5 Compatibility Check/Normalization)
-
-HTML5 and CSS3 Cheat Sheets
-* [HTML5- The Web platform: Browser technologies](https://platform.html5.org)
-* [HTML5 Please](http://html5please.com)
-* [Can I Use](http://caniuse.com) and [Can I Use GitHub](https://github.com/Fyrd/caniuse)
 
 <!--
 https://en.wikipedia.org/wiki/Polyfill
@@ -3776,9 +3740,10 @@ https://en.wikipedia.org/wiki/Feature_detection_(web_development)
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
+
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 W3C DOM4
 * [W3C DOM4](https://www.w3.org/TR/dom)
@@ -3819,35 +3784,10 @@ https://developer.mozilla.org/en-US/docs/Glossary
 -->
 
 <!--
-* [W3C Elements of HTML](http://w3c.github.io/elements-of-html) 
-
-https://www.w3.org/standards/webdesign
-https://www.w3.org/standards/webdesign/htmlcss
-https://www.w3.org/standards/webdesign/script.html
-
-https://www.w3.org/standards/about.html
-https://www.w3.org/TR/CSS/#css
-https://www.w3.org/Style/CSS/
-
-http://www.w3schools.com/cssref
-https://www.w3schools.com/css
-https://www.w3schools.com/html
-http://www.w3schools.com/tags
-https://www.w3schools.com/css/css_boxmodel.asp
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://www.w3schools.com/bootstrap
-
 http://www.w3schools.com/tags/tag_pre.asp
 https://www.w3schools.com/tags/tag_span.asp
 
 https://v4-alpha.getbootstrap.com/layout/grid/
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/grid
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_HTML_sections_and_outlines
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/section
-http://blog.teamtreehouse.com/use-html5-sectioning-elements
-https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
 
 http://html5doctor.com/outlines/
 https://www.w3schools.com/html/html5_semantic_elements.asp
@@ -5190,15 +5130,6 @@ https://azure.microsoft.com/en-us/pricing/calculator
 <!--
 https://blog.xamarin.com/net-standard-library-support-for-xamarin
 https://blogs.windows.com/buildingapps/2016/07/28/adding-color-to-your-design
-
-* [Mozilla Developer HTML Elements](https://developer.mozilla.org/en-US/docs/web/html/element)
-
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
 -->
 
 JavaScript- Microsoft
@@ -5207,6 +5138,8 @@ JavaScript- Microsoft
 
 Web Development- Microsoft
 * [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
+
+
 
 Microsoft General Resources
 * [Microsoft Support](https://support.microsoft.com)
