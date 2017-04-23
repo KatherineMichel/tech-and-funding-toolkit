@@ -1160,6 +1160,12 @@ https://en.wikipedia.org/wiki/Input/output
 https://en.wikipedia.org/wiki/Hexadecimal
 https://en.wikipedia.org/wiki/Octal
 https://en.wikipedia.org/wiki/Floating-point_arithmetic
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+https://en.wikipedia.org/wiki/Instruction_cycle
+https://en.wikipedia.org/wiki/Cache_(computing)
+https://en.wikipedia.org/wiki/Microprocessor
+https://en.wikipedia.org/wiki/Program_counter
+https://en.wikipedia.org/wiki/Instruction_register
 -->
 
 Ergonomics 
@@ -1408,28 +1414,20 @@ Anywhere on Earth
 
 <!--
 https://en.wikipedia.org/wiki/MAC_address
-
 https://en.wikipedia.org/wiki/UUID
-
 https://en.wikipedia.org/wiki/Codec
+https://en.wikipedia.org/wiki/Parsing
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+https://en.wikipedia.org/wiki/MIME
 
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
-
-https://en.wikipedia.org/wiki/Parsing
-
-https://en.wikipedia.org/wiki/HTTP_cookie
 
 HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
 
-https://en.wikipedia.org/wiki/File_Transfer_Protocol
-
-https://en.wikipedia.org/wiki/MIME
-
 https://en.wikipedia.org/wiki/Dependency_injection
 https://en.wikipedia.org/wiki/Inversion_of_control
-
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 -->
 
 <!--
