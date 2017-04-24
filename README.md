@@ -804,14 +804,15 @@ Guides for Development
 * [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
 <!--
-https://github.com/jwasham/coding-interview-university
-https://github.com/kamranahmedse/developer-roadmap
-https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
-https://github.com/donnemartin/system-design-primer
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
 https://github.com/donnemartin/interactive-coding-challenges
 https://github.com/kdn251/interviews
 https://github.com/poteto/hiring-without-whiteboards
-https://github.com/kamranahmedse/design-patterns-for-humans
 -->
 
 Programming and Math Learning Tools (See also MOOCs)
@@ -10951,17 +10952,13 @@ Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengri
 Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
 * [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
 
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-
 Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
 
-<!--
-https://en.m.wikipedia.org/wiki/List_of_cognitive_biases
-
-https://www.farnamstreetblog.com/mental-models
-https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d#.crkku2k68
--->
+Mental Models
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 #### Chance
 
@@ -12768,10 +12765,8 @@ Public Speaking
 * [National Speakers Association](http://www.nsaspeaker.org)
 * [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
 
-<!--
 Memory Methods
-https://en.wikipedia.org/wiki/Method_of_loci
--->
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
