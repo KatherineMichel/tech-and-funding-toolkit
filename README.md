@@ -4617,7 +4617,7 @@ Scripting and MVCs
 * [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
-Miscellaneous Programming Languages
+Programming Languages- Assembly
 * [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
 * [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
 * [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
@@ -4625,6 +4625,8 @@ Miscellaneous Programming Languages
 * [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
 * [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
 * [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
+
+Programming Languages- Miscellaneous
 * [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
 * [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
 * [Angular Dart GitHub](https://github.com/angular/angular.dart)  
@@ -9016,6 +9018,7 @@ Algorithms
 * [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
 * [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
 * [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
+
 Online- Machine Learning, Analysis
 * [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
 * [Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
