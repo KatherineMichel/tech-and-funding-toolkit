@@ -1231,6 +1231,18 @@ https://en.wikipedia.org/wiki/Cache_(computing)
 https://en.wikipedia.org/wiki/Microprocessor
 https://en.wikipedia.org/wiki/Program_counter
 https://en.wikipedia.org/wiki/Instruction_register
+
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/User_Datagram_Protocol
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Latency_(engineering)
+https://en.wikipedia.org/wiki/Branch_misprediction
+https://en.wikipedia.org/wiki/CPU_cache
+
+https://en.wikipedia.org/wiki/Alan_Turing
+https://en.wikipedia.org/wiki/John_von_Neumann
+https://en.wikipedia.org/wiki/Claude_Shannon
 -->
 
 Ergonomics 
