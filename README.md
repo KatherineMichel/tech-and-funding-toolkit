@@ -3276,13 +3276,29 @@ Turn Key Websites
 Miscellaneous
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
-Color
-* [Color Wikipedia](https://en.wikipedia.org/wiki/Color)
-* [List of Colors Wikipedia](http://en.wikipedia.org/wiki/List_of_colors)
-* [Color Scheme Wikipedia](https://en.wikipedia.org/wiki/Color_scheme)
+Lipsum
+* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
-Color Model
-* [RGBA (red green blue alpha) Wikipedia](https://en.wikipedia.org/wiki/RGBA_color_space)
+<!--
+http://www.cipsum.com
+-->
+
+Photo Editing (See also Adobe)
+* [Nik Collection](https://www.google.com/nikcollection) 
+* [Serif](http://www.serif.com)
+
+Photo Placeholders
+* [Placeholder It](http://placehold.it)
+
+Flickr
+* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
+
+Photo Enhancement
+* [Prisma](http://prisma-ai.com) and [Prisma iTunes](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
+
+Gifs
+* [Giphy](http://giphy.com) 
+
 
 <!--
 https://en.wikipedia.org/wiki/CMYK_color_model
@@ -3349,13 +3365,6 @@ https://en.wikipedia.org/wiki/Gill_Sans
 https://www.microsoft.com/typography/Fonts/family.aspx?FID=331
 -->
 
-Lipsum
-* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
-
-<!--
-http://www.cipsum.com
--->
-
 <!--
 https://www.xquartz.org
 https://inkscape.org/en/download/mac-os
@@ -3380,10 +3389,6 @@ http://jonibologna.com/flexbox-cheatsheet
 http://jonibologna.com/content/images/flexboxsheet.pdf
 -->
 
-Photo Editing (See also Adobe)
-* [Nik Collection](https://www.google.com/nikcollection) 
-* [Serif](http://www.serif.com)
-
 <!--
 http://www.pixelmator.com/mac
 
@@ -3403,23 +3408,6 @@ https://docs.gimp.org/en/gimp-using-web-transparency.html
 https://www.gimp.org/tutorials/ContrastMask
 https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
 -->
-
-Photo Placeholders
-* [Placeholder It](http://placehold.it)
-
-Flickr
-* [Flickr Explore](https://www.flickr.com/explore), [Flickr Commons](https://www.flickr.com/commons), [Flickr Creative Commons](https://www.flickr.com/creativecommons), [Flickr The Internet Archive Commons Blog Post](http://blog.flickr.net/en/2014/08/29/welcome-the-internet-archive-to-the-commons), and [Flickr Internet Archive Book Images](https://www.flickr.com/photos/internetarchivebookimages/with/14784850762) 
-
-Full Page Screen Shots
-* [Capture Webpage Screenshot Entirely](https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg/related)
-* [Full Page Screen Capture](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl?hl=en-US)
-* [Open Screenshot](https://chrome.google.com/webstore/detail/open-screenshot/akgpcdalpfphjmfifkmfbpdmgdmeeaeo/related?hl=en)
-
-Photo Enhancement
-* [Prisma](http://prisma-ai.com) and [Prisma iTunes](https://itunes.apple.com/us/app/prisma-art-filters-photo-effects/id1122649984?mt=8)
-
-Gifs
-* [Giphy](http://giphy.com) 
 
 <!--
 https://thenounproject.com/search/?q=globe
@@ -3547,6 +3535,8 @@ http://www.w3schools.com/browsers/default.asp
 
 #### Front-End Development
 
+
+
 <!--
 https://html.spec.whatwg.org/multipage
 
@@ -3636,6 +3626,7 @@ http://foundation.zurb.com/forum/posts/1115-centering-a-button-group
 
 Bootstrap, Font Awesome
 * [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com) 
+
 * [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
 
 <!--
@@ -3697,6 +3688,7 @@ https://en.wikipedia.org/wiki/Feature_detection_(web_development)
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+
 * [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
 * [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
