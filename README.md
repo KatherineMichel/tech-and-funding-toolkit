@@ -11726,6 +11726,10 @@ Unboxing
 Rec from Tim Ferris
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
 
+http://tim.blog/2017/01/25/tools-of-titans-index/
+https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
+
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
@@ -12091,8 +12095,11 @@ Distribution, Growth, Sales Hacking
 * [Saleshacker](http://www.saleshacker.com)
 
 <!--
-https://github.com/phodal/growth-ebook
+http://growth.ren/
 https://github.com/phodal/growth
+https://github.com/phodal/growth-ebook
+https://github.com/phodal/awesome-growth
+https://github.com/phodal/fe#%E5%85%B3%E4%BA%8E%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE
 -->
 
 Marketing and Search Engine Land
@@ -12621,9 +12628,6 @@ https://github.com/Idnan/bash-guide
 https://github.com/AntBranch/awesome-github
 https://github.com/noffle/art-of-readme
 
-https://github.com/jaywcjlove/awesome-mac
-https://github.com/herrbischoff/awesome-osx-command-line
-
 https://github.com/endymecy/awesome-deeplearning-resources
 https://github.com/tayllan/awesome-algorithms
 
@@ -12633,7 +12637,6 @@ https://github.com/zazaalaza/awesome-ideation-tools
 https://github.com/jonathandion/awesome-emails
 https://github.com/Jolg42/awesome-typography
 https://github.com/neutraltone/awesome-stock-resources
-
 
 https://github.com/donnemartin/awesome-aws#python-sdk
 
@@ -12670,12 +12673,23 @@ Awesome Apple
 * [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 * [Awesome WatchOS GitHub](https://github.com/yenchenlin1994/awesome-watchos)
 
+<!--
+https://github.com/jaywcjlove/awesome-mac
+-->
+
 Awesome Python and Django
 * [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
 * [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
 * [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 * [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
 * [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+
+* [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
+* [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
+* [Awesome Material GitHub](https://github.com/sachin1092/awesome-material)
+* [Awesome React GitHub](https://github.com/enaqx/awesome-react)
+* [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
+* [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin) 
 
 Awesome Data Science
 * [Awesome Data Science GitHub](https://github.com/okulbilisim/awesome-datascience)  
@@ -12684,15 +12698,8 @@ Awesome Data Science
 * [Awesome R GitHub](https://github.com/qinwf/awesome-R)  
 
 Awesome- More
-* [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
-* [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
 * [Awesome PostgreSQL GitHub](https://github.com/dhamaniasad/awesome-postgres)
-* [Awesome Go GitHub](https://github.com/avelino/awesome-go) 
-* [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
-* [Awesome Material GitHub](https://github.com/sachin1092/awesome-material)
-* [Awesome React GitHub](https://github.com/enaqx/awesome-react)
-* [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
-* [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin)  
+* [Awesome Go GitHub](https://github.com/avelino/awesome-go)  
 * [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php) 
 * [Awesome Scala GitHub](https://github.com/lauris/awesome-scala)  
 * [Awesome Hadoop GitHub](https://github.com/youngwookim/awesome-hadoop) 
