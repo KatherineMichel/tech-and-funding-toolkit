@@ -21,11 +21,6 @@ Table of Content
 * [Documents and Improvement](#documents-and-improvement)
 * [Software Engineering and Testing](#software-engineering-and-testing)
 
-* [Systems](#systems)
-  * [DevOps](#devops)
-  * [Startup Engineering MOOC](#startup-engineering-mooc)
-  * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)
-
 * [Research and Design Sprint Basics](#research-and-design-sprint-basics)
 * [Agile Sprints](#agile-sprints)
 
@@ -41,6 +36,12 @@ Table of Content
   * [Keyboard Shortcuts](#keyboard-shortcuts)
   * [Encoding](#encoding)
   * [Dot Files](#dot-files)
+  
+* [Systems](#systems)
+  * [DevOps](#devops)
+  * [Startup Engineering MOOC](#startup-engineering-mooc)
+  * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
+  
   * [Git and Markdown](#git-and-markdown)
   
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
@@ -487,190 +488,7 @@ Software Testing
 * [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
 * [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
 
-#### Systems
 
-#### DevOps
-
-DevOps- General
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-
-Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
-* [Trac](http://trac.edgewall.org)  
-* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-
-Phabricator
-* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
-
-GitLab (See also Project Management and Docker)
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
-* [GitLab Installation](https://about.gitlab.com/installation)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-<!--
-GitLab Enterprise Docs
-https://docs.gitlab.com/ee/README.html
-GitLab Org
-https://gitlab.com/groups/gitlab-org
--->
-
-#### Startup Engineering MOOC
-
-Deployment
-* [Lecture 2: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Lecture 3: Linux and Server Side Javascript](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf) or [Lecture 3: Linux and Server Side Javascript](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
-* [Lecture 4A: Linux Command Line](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf)
-* [Lecture 4B: Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
-* [Lecture 7: Deployment, DNS, and Custom Domains](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [Lecture 12: Node JS: Async, Flow Control, Node Debugging](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf)
-* [Lecture 6: Introduction to HTML/CSS/JS](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf)
-* [Lecture 10: Intermediate and Frontend JS](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf)
-* [Lecture 8: Mobile: HTTP, User Agents, and Responsive Design(https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf)
-* [Lecture 5: Market Research, Wireframing, Design](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-General
-* [Lecture 0: Course Overview](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)
-* [Lecture 1: Introduction](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf)
-* [Lecture 9: Why do VCs love mobile, local, and social? And what they love next?] (https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf)
-* [Lecture 11: Regulation, Disruption, and the Technologies of 2013.](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf)
-
-<!--
-Startup Mooc Staging Example: GitHub, AWS, Heroku
-* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
--->
-
-<!--
-http://web.stanford.edu/class/cs106b/
-
-https://github.com/heroku/node-js-sample
-
-Startup Class Dotfiles and AWS EC2 Setup
-* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-* [Course EC2 Setup](https://github.com/startup-class/setup)  
-* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
-
-https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
-
-http://www.html5rocks.com/en/mobile/
-
-AWS, Heroku, Git
-Lecture 2: Figure 2: Startup Engineering Dev and Deployment
-Lecture 2: Figure 84:
-Lecture 7: Figure 1-3: Dev, Staging, Production
-Lecture 7: Figure 20: Dev, Staging, Production
-
-Setup
-Lecture 2: Figure 1: Goal
-Lecture 2: Figure 4: Chrome User Agent Switcher
-Lecture 2: Figure 5: Closing using GUI
-Lecture 2: Figure 6: Closing using CLI
-Lecture 2: Figure 7-12: Apple Terminal
-Lecture 2: Figure 13-24: Cygwin
-Lecture 2: Figure 25: Ping
-Lecture 2: Figure 26-40: AWS
-Lecture 2: Figure 40-42: Gravatar
-Lecture 2: Figure 43-45: GitHub
-Lecture 2: Figure 46-51: Heroku
-Lecture 2: Figure 52-65: AWS
-Lecture 2: Figure 66: Apple
-Lecture 2: Figure 67-70: Cygwin
-Lecture 2: Figure 71-72: AWS
-Lecture 2: Figure 73: SSH
-Lecture 2: Figure 74: AWS Ubuntu
-Lecture 2: Figure 75: Local Versus Remote Commands
-Lecture 2: Figure 76-83: SSH
-Lecture 2: Figure 84: Goal
-
-Setup
-Lecture 3: Figure 1: Virtualization
-Lecture 3: Figure 2-6: SSH
-
-Setup
-Lecture 4a: Figures: All Technical
-Lecture 4b: Figures: All Technical
-
-Setup
-Lecture 7: Figure 4-19: SSH, including Bitstarter
-Lecture 7: Figure 20-34: SSH
-Lecture 7: Figure 35-43: Domize and DNSimple
-Lecture 7: Figure 44-46: SSH
-
-Lecture 5: Table 5: The Idea State Machine
-Lecture 5: Figure 1: Visualizing the Idea Maze
-Lecture 5: Figure 2-3: Implement the 'One-Thing’
-Lecture 5: Table 2: A Product that Exhibits an Economy of Scale
-Lecture 5: Figures 4 and 5: A Product with an Economy of Scale                              
-Lecture 5: Figure 6: Qualitative Graph of Market Size
-Lecture 5: Figure 7: Facebook Census Tool
-Lecture 5: Figure 8: Google Keyword Planner
-Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
-Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
-
-Lecture 1: Figure 1: Signoidal curve for the development of an industry
-Lecture 1: Table 1: Future and current/ongoing technological trends
-Lecture 1: Table 2: An overview of technologies used in the course                                
-Lecture 1: Figure 5: The Rise and Fall of Personal Computing
-
-No longer in existence
-Homework
-Deployment Assignments
--->
-
-#### Digital Agencies and Code Philosophies
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-
-<!--
-https://en.wikipedia.org/wiki/Red_team
-
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-Trello
-https://upcase.com/design-for-developers-resources/principles
-https://github.com/thoughtbot/guides
-https://github.com/thoughtbot/guides/tree/master/protocol
-
-https://github.com/hypenotic/hypelabs
-
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
--->
-
-A Successful Git Branching Model
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-
-12 Factor App
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-
-<!--
-https://pivotal.io/beyond-the-twelve-factor-app
--->
-
-Semver
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
-The Distributed Developer Stack Field Guide
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 
 #### Research and Design Sprint Basics
 
@@ -1885,6 +1703,211 @@ https://github.com/mitchty/src/blob/master/dotfiles/maid/rules.rb
 http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 -->
 
+
+
+#### Systems
+
+#### DevOps
+
+DevOps- General
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+
+Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
+* [Trac](http://trac.edgewall.org)  
+* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
+Phabricator
+* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
+
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
+* [GitLab Installation](https://about.gitlab.com/installation)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+<!--
+GitLab Enterprise Docs
+https://docs.gitlab.com/ee/README.html
+GitLab Org
+https://gitlab.com/groups/gitlab-org
+-->
+
+#### Startup Engineering MOOC
+
+Deployment
+* [Lecture 2: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Lecture 3: Linux and Server Side Javascript](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf) or [Lecture 3: Linux and Server Side Javascript](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
+* [Lecture 4A: Linux Command Line](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf)
+* [Lecture 4B: Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
+* [Lecture 7: Deployment, DNS, and Custom Domains](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+* [Lecture 12: Node JS: Async, Flow Control, Node Debugging](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf)
+* [Lecture 6: Introduction to HTML/CSS/JS](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf)
+* [Lecture 10: Intermediate and Frontend JS](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf)
+* [Lecture 8: Mobile: HTTP, User Agents, and Responsive Design(https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf)
+* [Lecture 5: Market Research, Wireframing, Design](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
+
+General
+* [Lecture 0: Course Overview](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)
+* [Lecture 1: Introduction](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf)
+* [Lecture 9: Why do VCs love mobile, local, and social? And what they love next?] (https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf)
+* [Lecture 11: Regulation, Disruption, and the Technologies of 2013.](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf)
+
+<!--
+Startup Mooc Staging Example: GitHub, AWS, Heroku
+* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
+* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
+* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
+* Illustration: Startup Engineering Dev, Staging, Production
+-->
+
+<!--
+http://web.stanford.edu/class/cs106b/
+
+https://github.com/heroku/node-js-sample
+
+Startup Class Dotfiles and AWS EC2 Setup
+* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
+* [Course EC2 Setup](https://github.com/startup-class/setup)  
+* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
+
+https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
+
+http://www.html5rocks.com/en/mobile/
+
+AWS, Heroku, Git
+Lecture 2: Figure 2: Startup Engineering Dev and Deployment
+Lecture 2: Figure 84:
+Lecture 7: Figure 1-3: Dev, Staging, Production
+Lecture 7: Figure 20: Dev, Staging, Production
+
+Setup
+Lecture 2: Figure 1: Goal
+Lecture 2: Figure 4: Chrome User Agent Switcher
+Lecture 2: Figure 5: Closing using GUI
+Lecture 2: Figure 6: Closing using CLI
+Lecture 2: Figure 7-12: Apple Terminal
+Lecture 2: Figure 13-24: Cygwin
+Lecture 2: Figure 25: Ping
+Lecture 2: Figure 26-40: AWS
+Lecture 2: Figure 40-42: Gravatar
+Lecture 2: Figure 43-45: GitHub
+Lecture 2: Figure 46-51: Heroku
+Lecture 2: Figure 52-65: AWS
+Lecture 2: Figure 66: Apple
+Lecture 2: Figure 67-70: Cygwin
+Lecture 2: Figure 71-72: AWS
+Lecture 2: Figure 73: SSH
+Lecture 2: Figure 74: AWS Ubuntu
+Lecture 2: Figure 75: Local Versus Remote Commands
+Lecture 2: Figure 76-83: SSH
+Lecture 2: Figure 84: Goal
+
+Setup
+Lecture 3: Figure 1: Virtualization
+Lecture 3: Figure 2-6: SSH
+
+Setup
+Lecture 4a: Figures: All Technical
+Lecture 4b: Figures: All Technical
+
+Setup
+Lecture 7: Figure 4-19: SSH, including Bitstarter
+Lecture 7: Figure 20-34: SSH
+Lecture 7: Figure 35-43: Domize and DNSimple
+Lecture 7: Figure 44-46: SSH
+
+Lecture 5: Table 5: The Idea State Machine
+Lecture 5: Figure 1: Visualizing the Idea Maze
+Lecture 5: Figure 2-3: Implement the 'One-Thing’
+Lecture 5: Table 2: A Product that Exhibits an Economy of Scale
+Lecture 5: Figures 4 and 5: A Product with an Economy of Scale                              
+Lecture 5: Figure 6: Qualitative Graph of Market Size
+Lecture 5: Figure 7: Facebook Census Tool
+Lecture 5: Figure 8: Google Keyword Planner
+Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
+Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
+
+Lecture 1: Figure 1: Signoidal curve for the development of an industry
+Lecture 1: Table 1: Future and current/ongoing technological trends
+Lecture 1: Table 2: An overview of technologies used in the course                                
+Lecture 1: Figure 5: The Rise and Fall of Personal Computing
+
+No longer in existence
+Homework
+Deployment Assignments
+-->
+
+#### Digital Agencies and Code Philosophies
+
+Digital Agency Playbook, Blog, Styleguide, Templates
+* [The Figure 53 Company Handbook](http://figure53.com/handbook)
+* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
+* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
+* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
+* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
+* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
+* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
+
+<!--
+https://en.wikipedia.org/wiki/Red_team
+
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
+Trello
+https://upcase.com/design-for-developers-resources/principles
+https://github.com/thoughtbot/guides
+https://github.com/thoughtbot/guides/tree/master/protocol
+
+https://github.com/hypenotic/hypelabs
+
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+-->
+
+A Successful Git Branching Model
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
+
+<!--
+https://guides.github.com/introduction/flow
+https://help.github.com/articles/github-flow-in-the-browser/
+http://scottchacon.com/2011/08/31/github-flow.html
+
+http://www.integralist.co.uk/posts/github-workflow.html
+
+New
+http://www.integralist.co.uk/posts/github-workflow.html
+https://www.atlassian.com/blog/archives/simple-git-workflow-simple
+https://docs.gitlab.com/ee/workflow/gitlab_flow.html
+https://about.gitlab.com/2014/09/29/gitlab-flow/
+https://www.gerritcodereview.com/
+http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
+-->
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+12 Factor App
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+
+<!--
+https://pivotal.io/beyond-the-twelve-factor-app
+-->
+
+Semver
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+The Distributed Developer Stack Field Guide
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+
+
+
 #### Git and Markdown
 
 <!--
@@ -1985,7 +2008,6 @@ https://docs.python.org/devguide/gitbootcamp.html
 
 https://help.github.com/articles/resolving-a-merge-conflict-on-github/
 
-http://www.integralist.co.uk/posts/github-workflow.html
 https://contribute.jquery.org/commits-and-pull-requests
 https://www.visualstudio.com/en-us/docs/git/pull-requests
 https://datasift.github.io/gitflow/
@@ -2097,10 +2119,6 @@ https://help.github.com/articles/set-up-git
 https://help.github.com/articles/caching-your-github-password-in-git
 
 https://github.com/blog/2164-introducing-unlimited-private-repositories
-
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/github-flow-in-the-browser/
-http://scottchacon.com/2011/08/31/github-flow.html
 
 https://help.github.com/articles/about-repository-graphs#traffic
 
