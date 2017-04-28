@@ -13,7 +13,7 @@ https://github.com/KatherineMichel/tech-and-funding-toolkit
 https://github.com/KatherineMichel/favorite-learning-resources
 https://github.com/KatherineMichel/front-end-development-process
 https://github.com/KatherineMichel/back-end-development-tools
-https://github.com/KatherineMichel/my-project-management-roadmaps
+https://github.com/KatherineMichel/project-management
 https://github.com/KatherineMichel/analysis-tools
 
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
