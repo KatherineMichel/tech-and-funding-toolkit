@@ -304,12 +304,6 @@ https://www.twitch.tv/aws
 https://www.twitch.tv/thepracticaldev
 
 https://www.twitch.tv/team/twilio
-https://github.com/TwilioDevEd
-https://github.com/TwilioDevEd/appointment-reminders-django
-https://www.twilio.com/blog/2016/03/how-to-build-and-design-ios-video-chat-apps-using-swift.html
-https://www.twilio.com/docs/api/video
-https://www.twilio.com/docs/tutorials
-https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0
 -->
 
 <!--
@@ -333,10 +327,6 @@ https://www.pluralsight.com/kids-courses
 https://github.com/FreeCodeCamp/hour-of-code
 
 https://egghead.io/tags/free
-https://egghead.io/series/learn-to-use-vim
-https://egghead.io/lessons/javascript-javascript-regular-expressions-find-plain-text-patterns?series=regex-in-javascript
-https://egghead.io/lessons/javascript-intro-to-webpack
-https://egghead.io/lessons/react-react-router-development-environment-setup?series=getting-started-with-react-router
 
 http://www.gnu.org/doc/other-free-books.html
 
@@ -360,14 +350,6 @@ Coding Conventions
 Object Oriented Programming
 Programming language comparisons
 Programming style
-
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/kdn251/interviews
-https://github.com/poteto/hiring-without-whiteboards
--->
-
-<!--
-http://www.oreilly.com/design/free/design-in-venture-capital.csp
 -->
 
 #### Programming Documentation and Standards
@@ -391,21 +373,6 @@ Standards
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
 
-
-
-* [WICG (Web Incubator CG)](https://github.com/WICG)
-
-<!--
-Standards
-https://wicg.github.io/admin/charter.html
-https://github.com/WICG/incubation-template/blob/gh-pages/index.html
-https://github.com/whatwg/dom
-
-https://github.com/tabatkins/bikeshed
-https://github.com/tabatkins?tab=repositories
--->
-
-
 Mozilla- General
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
 * [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
@@ -417,16 +384,6 @@ GNU Software and Manuals
 * [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
 * [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
 * [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
-
-<!--
-http://www.gnu.org/software/coreutils/manual/coreutils.html
-
-http://ftp.gnu.org
-http://gcc.gnu.org
-
-http://en.wikipedia.org/wiki/GNU_readline
-https://en.wikipedia.org/wiki/GNU_Hurd
--->
 
 KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
@@ -627,10 +584,6 @@ Ergonomics
 * [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
 * [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
 * [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
-
-<!--
-https://justgetflux.com/news/pages/macquickstart
--->
 
 Keyboard Layout
 * [Ergonomic Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard)
@@ -946,12 +899,6 @@ Ubuntu Terminal, Command Line, and Aptget
 * [Ubuntu Terminal](https://help.ubuntu.com/community/UsingTheTerminal)  
 * [Ubuntu AptGet](https://help.ubuntu.com/community/AptGet/Howto)  
 * [Advanced Packaging Tool Wikipedia](http://en.wikipedia.org/wiki/Advanced_Packaging_Tool)  
-
-<!--
-http://nixos.org
-https://github.com/NixOS/nixops
-https://github.com/NixOS/nixpkgs
--->
 
 Command Line
 * [Command Wikipedia](https://en.wikipedia.org/wiki/Command_(computing))
