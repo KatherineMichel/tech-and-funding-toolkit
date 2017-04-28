@@ -6,23 +6,16 @@ Tech and Funding Toolkit
 
 A :star::star::star::star::star: curated list of high quality resources (mostly free) made with :heart: by Kati Michel. See also...
 
+Update: This list has become larger than ever intended and is nearing a point of being too large to be rendered by GitHub. Parts of it are being spun out into smaller lists. 
+
+<!--
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
+-->
 
 Table of Content
 -----------------
-
-<!--
-* [Go-To Resources](#go-to-resources)
--->
-
-* [Project Management Tools and Software Engineering](#project-management-tools-and-software-engineering)
-* [Documents and Improvement](#documents-and-improvement)
-* [Software Engineering and Testing](#software-engineering-and-testing)
-
-* [Research and Design Sprint Basics](#research-and-design-sprint-basics)
-* [Agile Sprints](#agile-sprints)
 
 * [Programming Learning Tools](#programming-learning-tools) 
 * [Programming Documentation and Standards](#programming-documentation-and-standards) 
@@ -204,98 +197,24 @@ Table of Content
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
 
-
-#### Project Management Tools and Software Engineering
-
-#### Documents and Improvement 
-
-#### Software Engineering and Testing
-
-#### Research and Design Sprint Basics
-
-#### Agile Sprints
-
-Google and Google Ventures, Thoughtbot, Dockyard, Hanno, Gamestorming, IDEO, Nesta DIY, Nielson Norman and Various: See
-* [Agile Sprint Playbook](https://github.com/KatherineMichel/agile-sprint-playbook)
-
-<!--
-Effort vs. Impact Matrix
-value effort matrix
-Journey map, experience mapping
-
-https://en.wikipedia.org/wiki/Total_addressable_market
-https://en.wikipedia.org/wiki/Interaction_design
-https://en.wikipedia.org/wiki/Don't_Make_Me_Think
-
-https://en.wikipedia.org/wiki/Human%E2%80%93computer_interaction
-https://en.wikipedia.org/wiki/Psychographic
-
-
-Design Kit: Facilitator's Guide
-https://novoed.com/facilitators-guide-2016-2
-http://plusacumen.org/courses/design-kit-facilitators-guide-to-introducing-human-centered-design/
-
-http://www.ideou.com
-
-https://toolkit.mozilla.org
-https://medium.com/mozilla-open-innovation/introducing-the-open-innovation-toolkit-7a155b110255#.vqjdg4pwz
-
-https://s3.amazonaws.com/s3.sumofus.org/images/SUMOFUS_PROGRESSIVE-STYLEGUIDE.pdf
-https://medium.com/@Hanna.Thomas/a-progressives-style-guide-2e870f58ecaa#.4e6n2hn1z
-
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
-
-https://code.gov
-https://www.whitehouse.gov/blog/2016/08/08/peoples-code
-https://sourcecode.cio.gov
-
-https://sprintstories.com
-http://kit.com/jakek/the-sprint-kit
-http://www.thesprintbook.com/sprint-week
-https://medium.com/@jakek/sprint-story-template-2f1557896f6e#.sb3q6vnce
-https://sprintstories.com/storyboarding-2-0-4e282b2da94d#.uo3zlqsnc
-
-https://library.gv.com/the-gv-research-sprint-a-4-day-process-for-answering-important-startup-questions-97279b532b25
-
-http://www.dmi.org/general/custom.asp?page=WhatisDesignThink
-
-https://www.theguardian.com/info/developer-blog/2016/dec/02/the-art-of-the-design-sprint
--->
-
-
-
-
 #### Programming Learning Tools
 
 <!--
-New
-https://en.wikipedia.org/wiki/Software_design_pattern
--->
-
-<!--
-https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns
-https://en.wikipedia.org/wiki/Coding_conventions
-
+Software Design Patterns
+Coding Conventions
 Object Oriented Programming
-* [Object Oriented Programming Wikipedia](http://en.wikipedia.org/wiki/Object-oriented_programming)
-https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)
+Programming language comparisons
+Programming style
 
-https://en.wikipedia.org/wiki/Programming_style
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
 
-Category "Programming language comparisons"
-https://en.wikipedia.org/wiki/Category:Programming_language_comparisons
-Comparison of basic instructions of programming languages
-https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)
-Comparison of programming languages (string functions)
-Comparison of programming languages (strings)
-Comparison of programming languages (syntax)
-Comparison of programming languages (array)
-Comparison of programming languages (object-oriented programming)
-Comparison of programming languages (list comprehension)
-Comparison of programming languages (mapping)
-Comparison of programming paradigms
-Comparison of multi-paradigm programming languages
-Comparison of type systems
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/kdn251/interviews
+https://github.com/poteto/hiring-without-whiteboards
 -->
 
 Creativity and Tools
@@ -312,32 +231,12 @@ Programming Groups
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
 
-<!--
-See also: Joni
-http://elaconf.com
-https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
--->
-
 Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
-<!--
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/kdn251/interviews
-https://github.com/poteto/hiring-without-whiteboards
--->
-
 Programming and Math Learning Tools (See also MOOCs)
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)  
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language)  
-* [Hour of Code](https://hourofcode.com)
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)   
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Code School GitHub](https://github.com/codeschool)
 * [Codecademy](http://www.codecademy.com)  
@@ -345,13 +244,16 @@ Programming and Math Learning Tools (See also MOOCs)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
-* [Rosetta Code](http://rosettacode.org)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
 * [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+
+Programming Language Comparisons
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org)
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
@@ -460,6 +362,7 @@ Robotics and/or Geared toward Kids
 * [Kano Playground](http://art.kano.me/playground)
 * [Minecraft](https://minecraft.net)
 * [Scratch (MIT)](https://scratch.mit.edu)
+* [Hour of Code](https://hourofcode.com)
 
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
@@ -10977,15 +10880,6 @@ Argentina, Bolivia, Catalonia, Chile, Colombia, Ecuador, Guatemala, Mexico, Pana
 European Union
 International
 South Africa
-
-U.S. Gov.
-* [U.S. Aid](https://github.com/USAID)
-* [U.S.A. Gov](https://github.com/usagov)
-* [Open Gov](https://github.com/opengov)  
-
-U.S. Government- Agencies
-* [Department of Labor](https://github.com/USDepartmentofLabor) 
-* [Food and Drug Administration (FDA)](https://github.com/FDA) 
  
 U.K. Government
 * [Data Gov U.K.](https://github.com/datagovuk) 
