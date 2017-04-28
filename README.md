@@ -9,6 +9,13 @@ A :star::star::star::star::star: curated list of high quality resources (mostly 
 Update: This list has become larger than ever intended and is nearing a point of being too large to be rendered by GitHub. Parts of it are being spun out into smaller lists. 
 
 <!--
+https://github.com/KatherineMichel/tech-and-funding-toolkit
+https://github.com/KatherineMichel/favorite-learning-resources
+https://github.com/KatherineMichel/front-end-development-process
+https://github.com/KatherineMichel/back-end-development-tools
+https://github.com/KatherineMichel/my-project-management-roadmaps
+https://github.com/KatherineMichel/analysis-tools
+
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
@@ -199,24 +206,6 @@ Table of Content
 
 #### Programming Learning Tools
 
-<!--
-Software Design Patterns
-Coding Conventions
-Object Oriented Programming
-Programming language comparisons
-Programming style
-
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/kdn251/interviews
-https://github.com/poteto/hiring-without-whiteboards
--->
-
 Creativity and Tools
 * ["Creativity: It’s not about the tools"](http://www.creativethinkinghub.com/tools)
 * [David Gries (The Science of Programming: "You do not program in a language, you program _into_ a language") Wikipedia](https://en.m.wikipedia.org/wiki/David_Gries)
@@ -235,54 +224,73 @@ Guides for Development
 * [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
-Programming and Math Learning Tools (See also MOOCs)
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)   
-* [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Code School GitHub](https://github.com/codeschool)
-* [Codecademy](http://www.codecademy.com)  
-* [Khan Academy GitHub](https://github.com/Khan) 
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming)
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
+Courses (See also MOOCs)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
-* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
+* [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
+* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [Learn to Code the Hard Way](http://learncodethehardway.org)  
+* [Codecademy](http://www.codecademy.com) 
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
+* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
+* [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
-Programming Language Comparisons
+Programming Language Leveling Up and Comparisons
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
 * [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org)
+
+Math and General Knowledge
+* [Project Euler](http://www.projecteuler.net)  
+* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
+* [Project Euler Problems](http://projecteuler.net/problems)  
+* [Khan Academy](https://www.khanacademy.org)
+* [Math Overflow](http://mathoverflow.net)
+* [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 
+
+
+<!--
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+-->
+
+<!--
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
-Free Code Camp (CSS (Bootstrap), HTML, JavaScript)
-* [Free Code Camp](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
-* [Free Code Camp Wiki](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki) and [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
-* [Free Code Camp Medium](https://medium.freecodecamp.com)
-* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
-* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
-* [Free Code Camp YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ?sub_confirmation=1)
+* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
 
-<!--
-https://www.freecodecamp.com/map
+Software Design Patterns
+Coding Conventions
+Object Oriented Programming
+Programming language comparisons
+Programming style
 
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
+* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
+* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/kdn251/interviews
+https://github.com/poteto/hiring-without-whiteboards
 -->
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
 * [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Essential JavaScript Links GitHub](https://github.com/ericelliott/essential-javascript-links)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
 <!--
@@ -315,6 +323,16 @@ https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://githu
 view-source:https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
 https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
 
+https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
+
+https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
+https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
+https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
+https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
+-->
+
+<!--
 https://en.wikipedia.org/wiki/Turing_completeness
 https://en.wikipedia.org/wiki/Turing_machine
 https://en.wikipedia.org/wiki/Object_composition#Recursive_composition
@@ -326,16 +344,6 @@ https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Functional_programming
 -->
 
-<!--
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
--->
-
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 * [Humble Bundle](https://www.humblebundle.com)
@@ -343,26 +351,6 @@ Programming Books
 <!--
 https://github.com/devfreebooks/devfreebooks.github.io
 -->
-
-Math and General Knowledge
-* [Project Euler](http://www.projecteuler.net)  
-* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
-* [Project Euler Problems](http://projecteuler.net/problems)  
-* [Khan Academy](https://www.khanacademy.org)
-* [Math Overflow](http://mathoverflow.net)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-* [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
-
-Robotics and/or Geared toward Kids
-* [Arduino](https://www.arduino.cc)
-* [Code.org](https://code.org)
-* [Jam](https://jam.com)
-* [Raspberry PI](http://www.raspberrypi.org)
-* [Kano Playground](http://art.kano.me/playground)
-* [Minecraft](https://minecraft.net)
-* [Scratch (MIT)](https://scratch.mit.edu)
-* [Hour of Code](https://hourofcode.com)
 
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
@@ -426,6 +414,16 @@ https://github.com/MakeSchool
 http://www.theodinproject.com
 -->
 
+Robotics and/or Geared toward Kids
+* [Arduino](https://www.arduino.cc)
+* [Code.org](https://code.org)
+* [Jam](https://jam.com)
+* [Raspberry PI](http://www.raspberrypi.org)
+* [Kano Playground](http://art.kano.me/playground)
+* [Minecraft](https://minecraft.net)
+* [Scratch (MIT)](https://scratch.mit.edu)
+* [Hour of Code](https://hourofcode.com)
+
 #### Programming Documentation and Standards
 
 Documentation- General
@@ -439,6 +437,7 @@ Documentation- General
 http://www.oreilly.com/data/free/archive.html
 http://www.oreilly.com/design/free/design-in-venture-capital.csp
 -->
+
 
 Documentation- Mozilla
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
