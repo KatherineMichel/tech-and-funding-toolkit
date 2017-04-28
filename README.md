@@ -1405,6 +1405,7 @@ The Distributed Developer Stack Field Guide
 
 <!--
 http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
+http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github
 
 https://github.com/contact
 https://github.com/blog/subscribe
@@ -1415,6 +1416,14 @@ https://github.com/universe-2016
 https://git-for-windows.github.io
 
 https://github.com/features
+
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
+
+https://help.github.com/articles/github-glossary/
+https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
+
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 
 https://en.wikipedia.org/wiki/Open-source_model
 https://opensource.guide/
@@ -1455,6 +1464,11 @@ https://services.github.com/classnotes/
 https://services.github.com/resources/index.html
 https://services.github.com/on-demand/downloads/subversion-migration/
 
+https://help.github.com/enterprise
+
+https://developer.github.com
+https://pages.github.com
+
 Recommended
 https://www.git-tower.com
 https://git-scm.com/book
@@ -1466,19 +1480,26 @@ https://github.com/progit/progit2
 http://gitref.org
 http://www.atlassian.com/git/tutorial
 
-
-
-
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+
+https://github.com/git-ftp
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
+
 
 New
 https://classroom.github.com/classrooms/27039735-code-collaboration-and-review
 https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
-
-https://help.github.com/enterprise/2.7/user/categories/collaborating-with-issues-and-pull-requests/
-https://help.github.com/enterprise/2.7/user/articles/checking-out-pull-requests-locally/
 
 https://education.github.com/guide/sandboxing
 https://classroom.github.com/#getting-started-video
@@ -1496,58 +1517,25 @@ https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow
-
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-
-http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github
-https://ti.to/home
 
 https://github.com/joeblau/gitignore.io
 
-
 GitHub Cheatsheet
 https://gist.github.com/akras14/3d242d80af8388ebca60
-
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
 
 https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md
 
 https://www.youtube.com/githubguides
 http://learngitbranching.js.org/
 
-https://help.github.com/articles/ignoring-files/
-https://help.github.com/categories/writing-on-github/
-
-
+https://help.github.com/articles/ignoring-files
 
 Missing from Setting Up An Open Source Project?
 https://guides.github.com/features/issues/
 
-https://developer.github.com/webhooks/#ping-event
--->
-
-
-
-<!--
-https://help.github.com/articles/github-glossary/
-https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
-
 https://github.com/github-tools
 
-https://try.github.io/levels/1/challenges/1
-* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
-
-https://github.com/blog/2164-introducing-unlimited-private-repositories
-
-https://help.github.com/articles/about-github-wikis/
-https://help.github.com/categories/wiki/
-https://guides.github.com/features/wikis/
 https://github.com/showcases/projects-with-great-wikis
-
-https://guides.github.com/features/issues
 
 https://github.com/blog/1506-closing-issues-via-pull-requests
 https://github.com/blog/2243-rebase-and-merge-pull-requests
@@ -1555,37 +1543,16 @@ https://github.com/blog/2243-rebase-and-merge-pull-requests
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2097-improved-commenting-with-markdown
 
-https://pages.github.com/
-https://help.github.com/categories/github-pages-basics
-https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
 https://github.com/blog/2228-simpler-github-pages-publishing
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
-https://github.com/blog/1256-new-user-profile-pages
--->
-
-<!--
-http://goo.gl/sQ6OI
-
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-
-https://github.com/git-ftp
-https://github.com/github/git-lfs
-https://git-lfs.github.com
 
 http://ndpsoftware.com/git-cheatsheet.html
 
 https://www.producthunt.com/@jordan_gonen/collections/everything-github
 
 http://www.learnenough.com/git-tutorial#sec-getting_started
--->
 
-<!--
 https://github.com/ajaxorg/ace
 
 https://ifttt.com/github/recipes
