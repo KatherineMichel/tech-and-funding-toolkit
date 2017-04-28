@@ -3145,14 +3145,8 @@ Net Promoter
 
 #### Design Thinking
 
-Design- General
-* [Design Thinking Wikipedia](http://en.wikipedia.org/wiki/Design_thinking)  
+Design- General 
 * [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
-* [Atomic Web Design](http://bradfrost.com/blog/post/atomic-web-design) 
-* [Golden Ratio Wikipedia](http://en.wikipedia.org/wiki/Golden_ratio)
-
-Responsive Design (See also Media Queries Examples)
-* [Ethan Marcotte: Responsive Web Design](http://alistapart.com/article/responsive-web-design) and [Responsive Web Design Wikipedia](http://en.wikipedia.org/wiki/Responsive_web_design)
  
 Design Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
@@ -3397,30 +3391,6 @@ https://www.microsoft.com/typography/Fonts/family.aspx?FID=331
 -->
 
 <!--
-https://www.xquartz.org
-https://inkscape.org/en/download/mac-os
-
-https://twitter.com/JoniTrythall
-http://ela.community
-http://www.toptentypography.tips
-https://speakerdeck.com/jonibologna/just-enough-typography
-https://confreaks.tv/videos/djangoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
-https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
-http://svgpocketguide.com/book
-https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
-https://en.wikipedia.org/wiki/Scalable_Vector_Graphics
-https://www.w3schools.com/graphics/svg_intro.asp
-https://www.w3schools.com/html/html5_svg.asp
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://www.w3.org/Graphics/SVG
-
-http://jonibologna.com/flexbox-cheatsheet
-http://jonibologna.com/content/images/flexboxsheet.pdf
--->
-
-<!--
 http://www.pixelmator.com/mac
 
 https://en.wikipedia.org/wiki/Bokeh
@@ -3444,12 +3414,6 @@ https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
 https://thenounproject.com/search/?q=globe
 
 https://vincentp.me/blog/my-front-end-development-process-start-to-finish
-
-https://speakerdeck.com/limedaring/pyladies-remote
-https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
-https://hellowebapp.com/tutorial/intro/
-https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
-https://speakerdeck.com/limedaring/pycaribbean-1
 
 * ["How Might We"](https://hbr.org/2012/09/the-secret-phrase-top-innovato)  
 -->
