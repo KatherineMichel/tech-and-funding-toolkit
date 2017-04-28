@@ -267,6 +267,7 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 * [Humble Bundle](https://www.humblebundle.com)
+* [DevFreeBooks](https://github.com/devfreebooks/devfreebooks.github.io)
 
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
@@ -275,8 +276,13 @@ Live Coding
 
 Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
-* [Brent Schooley](https://www.twitch.tv/brentschooley)
-* [Levelsio](http://www.twitch.tv/levelsio)
+* [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
+* [Levelsio Twitch](http://www.twitch.tv/levelsio)
+
+<!--
+https://www.twitch.tv/aws
+https://www.twitch.tv/thepracticaldev
+-->
 
 Robotics and/or Geared toward Kids
 * [Arduino](https://www.arduino.cc)
@@ -294,19 +300,15 @@ Text Editor and Code Demonstration
 * [Cloud9](https://c9.io/katherinemichel)
 * [Codepen](http://codepen.io)
 
-<!--
-https://github.com/devfreebooks/devfreebooks.github.io
--->
+Mobile
+* [CodePath GitHub](https://github.com/codepath)
 
 <!--
-https://www.twitch.tv/aws
+http://www.appinventor.org
+https://www.pluralsight.com/kids-courses
 
-https://www.twitch.tv/thepracticaldev
+https://github.com/FreeCodeCamp/hour-of-code
 
-https://www.twitch.tv/team/twilio
--->
-
-<!--
 http://treehouse.github.io/installation-guides
 
 https://www.codecademy.com/courses/learn-the-command-line
@@ -322,10 +324,6 @@ https://www.khanacademy.org/computing/computer-programming/sql
 https://www.khanacademy.org/computing/computer-programming
 https://www.khanacademy.org/computing/computer-science
 
-http://www.appinventor.org
-https://www.pluralsight.com/kids-courses
-https://github.com/FreeCodeCamp/hour-of-code
-
 https://egghead.io/tags/free
 
 http://www.gnu.org/doc/other-free-books.html
@@ -340,9 +338,6 @@ https://github.com/FreeCodeCamp/design-style-guide
 -->
 
 <!--
-Mobile
-* [CodePath GitHub](https://github.com/codepath)
-
 * [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
 
 Software Design Patterns
@@ -350,6 +345,10 @@ Coding Conventions
 Object Oriented Programming
 Programming language comparisons
 Programming style
+-->
+
+<!--
+http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
 -->
 
 #### Programming Documentation and Standards
@@ -409,16 +408,12 @@ StackShare
 * [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
 
 Developer Surveys
+* [Stack Overflow Survey: What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends)
 * [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
 * [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
-
-<!--
-https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends
-http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
--->
 
 Company Design
 * [Airbnb Samara](http://samara.airbnb.com)
@@ -437,32 +432,26 @@ Designer/Developer Conferences
 * [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
 * [Twitter Flock](http://flock.fabric.io) 
 
-Salesforce Lightning Design System
-* [Lightning Design System](https://www.lightningdesignsystem.com) and [lightning Design System GitHub](https://github.com/salesforce-ux/design-system)
+Corporate Design Systems
 
 HubSpot
 * [HubSpot GitHub](https://github.com/HubSpot)
-
-Microsoft Design
-* [Microsoft Design](https://www.microsoft.com/en-us/design)
-
-IBM Design Language
-* [IBM Design Language](http://www.ibm.com/design/language)
 
 <!--
 https://console.ng.bluemix.net
 -->
 
-Watson Design Guide
-* [Watson Design Guide](http://watsondesign.guide) and [Watson Design Guide GitHub](https://github.com/IBM-Watson/design-guide)
-
 #### Programming Language Style Guides
+
+<!--
+https://github.com/kciter/awesome-style-guide
+-->
 
 GitHub StyleGuides
 * [GitHub StyleGuides](https://github.com/styleguide) 
 
-Google Styleguides
-AirBnb
+Google Style Guides
+* [Google Style Guides](https://google.github.io/styleguide)
 
 Mozilla Coding Style Guide
 * [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
@@ -487,7 +476,8 @@ Styleguides- Various
 
 JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
- 
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
+
 PHP Styleguides
 * [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
 * [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
@@ -501,8 +491,6 @@ PSR-0: Autoloader Standard
 PSR-1: Basic Coding Standard
 PSR-2: Coding Style Guide
 PSR-3: Logger Interface
-
-https://github.com/kciter/awesome-style-guide
 -->
 
 Ruby Styleguide
@@ -1533,9 +1521,6 @@ https://ti.to/home
 https://github.com/joeblau/gitignore.io
 
 
-
-https://help.github.com/articles/searching-repositories/#search-by-repository-topic
-
 GitHub Cheatsheet
 https://gist.github.com/akras14/3d242d80af8388ebca60
 
@@ -1576,10 +1561,6 @@ https://help.github.com/categories/writing-on-github/
 
 Missing from Setting Up An Open Source Project?
 https://guides.github.com/features/issues/
-https://help.github.com/articles/creating-an-issue/
-https://help.github.com/articles/about-milestones/
-https://help.github.com/articles/about-pull-requests/
-https://help.github.com/articles/about-topics
 https://github.com/blog/2309-introducing-topics
 https://github.com/blog/2272-introducing-projects-for-organizations
 
@@ -1620,14 +1601,7 @@ https://github.com/jlord/git-it
 https://try.github.io/levels/1/challenges/1
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 
-https://help.github.com/articles/set-up-git
-https://help.github.com/articles/caching-your-github-password-in-git
-
 https://github.com/blog/2164-introducing-unlimited-private-repositories
-
-https://help.github.com/articles/about-repository-graphs#traffic
-
-https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects
 
 https://help.github.com/articles/about-github-wikis/
 https://help.github.com/categories/wiki/
@@ -1635,34 +1609,12 @@ https://guides.github.com/features/wikis/
 https://github.com/showcases/projects-with-great-wikis
 
 https://github.com/blog/2267-introducing-github-community-guidelines
-https://help.github.com/articles/adding-a-code-of-conduct-to-your-project
-https://help.github.com/articles/setting-guidelines-for-repository-contributors/
 
 https://guides.github.com/features/issues
 https://github.com/blog/957-introducing-issue-mentions
-https://help.github.com/articles/creating-and-editing-milestones-for-issues-and-pull-requests
-https://help.github.com/articles/associating-milestones-with-issues-and-pull-requests
 https://github.com/blog/2178-multiple-assignees-on-issues-and-pull-requests
 
 https://github.com/blog/2111-issue-and-pull-request-templates
-https://help.github.com/articles/helping-people-contribute-to-your-project/
-https://help.github.com/articles/creating-an-issue-template-for-your-repository
-https://help.github.com/articles/creating-a-pull-request-template-for-your-repository
-
-https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line
-https://help.github.com/articles/adding-a-remote
-https://help.github.com/articles/removing-a-remote
-https://help.github.com/articles/changing-a-remote-s-url
-
-https://help.github.com/articles/fork-a-repo
-https://help.github.com/articles/syncing-a-fork
-https://help.github.com/articles/configuring-a-remote-for-a-fork
-https://help.github.com/articles/removing-a-remote
-https://help.github.com/articles/merging-an-upstream-repository-into-your-fork
-https://help.github.com/articles/pushing-to-a-remote
-
-https://help.github.com/articles/adding-a-file-to-a-repository
-https://help.github.com/articles/creating-a-pull-request
 https://github.com/blog/2224-change-the-base-branch-of-a-pull-request
 
 https://github.com/blog/1506-closing-issues-via-pull-requests
@@ -1671,50 +1623,21 @@ https://help.github.com/articles/checking-out-pull-requests-locally/#modifying-a
 https://help.github.com/articles/merging-a-pull-request
 https://github.com/blog/2243-rebase-and-merge-pull-requests
 
-https://help.github.com/articles/approving-a-pull-request-with-required-reviews
-
-https://help.github.com/articles/about-github-mirrors/
-https://help.github.com/articles/duplicating-a-repository/
-
 https://guides.github.com/features/mastering-markdown
 https://github.com/blog/2097-improved-commenting-with-markdown
-https://help.github.com/articles/creating-and-highlighting-code-blocks
 
 https://pages.github.com/
 https://help.github.com/categories/github-pages-basics
 https://github.com/blog/2277-what-s-new-in-github-pages-with-jekyll-3-3
 https://github.com/blog/2228-simpler-github-pages-publishing
-https://help.github.com/articles/using-a-custom-domain-with-github-pages
-https://help.github.com/articles/adding-or-removing-a-custom-domain-for-your-github-pages-site/
-
-https://help.github.com/articles/managing-team-access-to-an-organization-repository/
-https://help.github.com/articles/inviting-users-to-join-your-organization/
-https://help.github.com/categories/setting-up-and-managing-organizations-and-teams/
 
 * [Setting Up Teams](https://help.github.com/articles/setting-up-teams)
 * [Maintaining Teams](https://help.github.com/articles/maintaining-teams)
 
-https://help.github.com/articles/creating-a-team/
-https://help.github.com/articles/adding-organization-members-to-a-team/
-https://help.github.com/articles/repository-permission-levels-for-an-organization/
-https://help.github.com/articles/what-are-the-different-access-permissions/
-https://help.github.com/categories/managing-repository-collaborators/
-https://help.github.com/articles/adding-outside-collaborators-to-repositories-in-your-organization/
-https://help.github.com/articles/permission-levels-for-a-user-account-repository/
-https://help.github.com/articles/inviting-collaborators-to-a-personal-repository/
-
-https://help.github.com/articles/remove-sensitive-data
 https://github.com/blog/1986-announcing-git-large-file-storage-lfs
 https://github.com/blog/2104-working-with-submodules
 https://github.com/blog/2041-improving-map-data-on-github
 https://github.com/blog/2046-github-desktop-is-now-available
-
-https://help.github.com/articles/why-are-my-commits-linked-to-the-wrong-user/
-https://help.github.com/articles/what-are-the-limits-for-viewing-content-and-diffs-in-my-repository/
-https://help.github.com/articles/setting-your-email-in-git
-
-https://help.github.com/articles/signing-commits-using-gpg/
-https://help.github.com/articles/generating-a-new-gpg-key/
 
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
