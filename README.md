@@ -228,6 +228,7 @@ Courses (See also MOOCs)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
 * [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
@@ -258,99 +259,14 @@ Fave Pluralsight Authors
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 
-
-
-<!--
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
--->
-
-<!--
-Mobile
-* [CodePath GitHub](https://github.com/codepath)
-
-* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
-
-Software Design Patterns
-Coding Conventions
-Object Oriented Programming
-Programming language comparisons
-Programming style
-
-* [Developer Roadmap GitHub](https://github.com/kamranahmedse/developer-roadmap)
-* [Become a Full Stack Web Developer GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-
-https://github.com/donnemartin/interactive-coding-challenges
-https://github.com/kdn251/interviews
-https://github.com/poteto/hiring-without-whiteboards
--->
-
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
-<!--
-New
-https://medium.com/@_ericelliott/latest
-https://github.com/learn-javascript-courses/learn-javascript
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3
-https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-
-https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021
-https://medium.com/javascript-scene/inside-the-dev-team-death-spiral-6a7ea255467b
-https://medium.com/javascript-scene/the-single-biggest-mistake-programmers-make-every-day-62366b432308
-https://medium.com/javascript-scene/are-programmer-brains-different-2068a52648a7
-
-http://playcanv.as/p/JtL2iqIH/
-https://medium.com/javascript-scene/why-native-apps-really-are-doomed-native-apps-are-doomed-pt-2-e035b43170e9
-https://medium.com/javascript-scene/native-apps-are-doomed-ac397148a2c0
-
-https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
-https://github.com/jshomes/JSHomes-Platform
-
-Essential JavaScript Links
-https://gist.github.com/ericelliott/d576f72441fc1b27dace
-https://github.com/rsperberg/essential-javascript-links
-https://github.com/LewisJEllis/essential-javascript-links
-https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
-view-source:https://webcache.googleusercontent.com/search?q=cache:lxD6dD8yJIwJ:https://github.com/ericelliott/essential-javascript-links/blob/master/src/data/essential-javascript-links.md+&cd=2&hl=en&ct=clnk&gl=us
-https://web.archive.org/web/20170104081026/https://github.com/ericelliott/essential-javascript-links
-
-https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef
-
-https://medium.com/javascript-scene/the-software-developer-s-library-a-treasure-trove-of-books-for-people-who-love-code-f9bc92c7883b#.94ob5ifyp
-https://medium.com/javascript-scene/learn-javascript-b631a4af11f2
-https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.pc4ttgkcf
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00#.qfid5eic4
-https://medium.com/javascript-scene/the-outrageous-cost-of-skipping-tdd-code-reviews-57887064c412#.o0uwf9oi1
--->
-
-<!--
-https://en.wikipedia.org/wiki/Turing_completeness
-https://en.wikipedia.org/wiki/Turing_machine
-https://en.wikipedia.org/wiki/Object_composition#Recursive_composition
-https://en.wikipedia.org/wiki/Lambda_calculus
-https://en.wikipedia.org/wiki/Programming_paradigm
-https://en.wikipedia.org/wiki/Prototype-based_programming
-https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
-https://en.wikipedia.org/wiki/Object-oriented_programming
-https://en.wikipedia.org/wiki/Functional_programming
--->
-
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 * [Humble Bundle](https://www.humblebundle.com)
-
-<!--
-https://github.com/devfreebooks/devfreebooks.github.io
--->
 
 Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
@@ -361,6 +277,26 @@ Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
 * [Brent Schooley](https://www.twitch.tv/brentschooley)
 * [Levelsio](http://www.twitch.tv/levelsio)
+
+Robotics and/or Geared toward Kids
+* [Arduino](https://www.arduino.cc)
+* [Code.org](https://code.org)
+* [Jam](https://jam.com)
+* [Raspberry PI](http://www.raspberrypi.org)
+* [Kano Playground](http://art.kano.me/playground)
+* [Minecraft](https://minecraft.net)
+* [Scratch (MIT)](https://scratch.mit.edu)
+* [Hour of Code](https://hourofcode.com)
+
+Text Editor and Code Demonstration
+* [Fiddle](https://fiddles.io)
+* [JSFiddle](http://jsfiddle.net)
+* [Cloud9](https://c9.io/katherinemichel)
+* [Codepen](http://codepen.io)
+
+<!--
+https://github.com/devfreebooks/devfreebooks.github.io
+-->
 
 <!--
 https://www.twitch.tv/aws
@@ -375,12 +311,6 @@ https://www.twilio.com/docs/api/video
 https://www.twilio.com/docs/tutorials
 https://www.twilio.com/docs/tutorials/walkthrough/appointment-reminders/python/flask#0
 -->
-
-Text Editor and Code Demonstration
-* [Fiddle](https://fiddles.io)
-* [JSFiddle](http://jsfiddle.net)
-* [Cloud9](https://c9.io/katherinemichel)
-* [Codepen](http://codepen.io)
 
 <!--
 http://treehouse.github.io/installation-guides
@@ -414,15 +344,31 @@ https://github.com/MakeSchool
 http://www.theodinproject.com
 -->
 
-Robotics and/or Geared toward Kids
-* [Arduino](https://www.arduino.cc)
-* [Code.org](https://code.org)
-* [Jam](https://jam.com)
-* [Raspberry PI](http://www.raspberrypi.org)
-* [Kano Playground](http://art.kano.me/playground)
-* [Minecraft](https://minecraft.net)
-* [Scratch (MIT)](https://scratch.mit.edu)
-* [Hour of Code](https://hourofcode.com)
+<!--
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+-->
+
+<!--
+Mobile
+* [CodePath GitHub](https://github.com/codepath)
+
+* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
+
+Software Design Patterns
+Coding Conventions
+Object Oriented Programming
+Programming language comparisons
+Programming style
+
+https://github.com/donnemartin/interactive-coding-challenges
+https://github.com/kdn251/interviews
+https://github.com/poteto/hiring-without-whiteboards
+-->
+
+<!--
+http://www.oreilly.com/design/free/design-in-venture-capital.csp
+-->
 
 #### Programming Documentation and Standards
 
@@ -432,12 +378,6 @@ Documentation- General
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
-<!--
-http://www.oreilly.com/data/free/archive.html
-http://www.oreilly.com/design/free/design-in-venture-capital.csp
--->
-
 
 Documentation- Mozilla
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
@@ -450,6 +390,8 @@ Standards
 
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+
 
 * [WICG (Web Incubator CG)](https://github.com/WICG)
 
@@ -562,6 +504,9 @@ Watson Design Guide
 GitHub StyleGuides
 * [GitHub StyleGuides](https://github.com/styleguide) 
 
+Google Styleguides
+AirBnb
+
 Mozilla Coding Style Guide
 * [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 
@@ -582,9 +527,6 @@ Styleguides- Various
 * [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
 * [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 * [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
-
-GitHub HTML and CSS Styleguides
-Google Styleguides
 
 JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
@@ -621,6 +563,19 @@ Swift Styleguide
 #### Basics
 
 #### Computer Basics
+
+<!--
+From Eric Elliot
+https://en.wikipedia.org/wiki/Turing_completeness
+https://en.wikipedia.org/wiki/Turing_machine
+https://en.wikipedia.org/wiki/Object_composition#Recursive_composition
+https://en.wikipedia.org/wiki/Lambda_calculus
+https://en.wikipedia.org/wiki/Programming_paradigm
+https://en.wikipedia.org/wiki/Prototype-based_programming
+https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
+https://en.wikipedia.org/wiki/Object-oriented_programming
+https://en.wikipedia.org/wiki/Functional_programming
+-->
 
 <!--
 New
