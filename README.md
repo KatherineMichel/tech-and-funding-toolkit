@@ -1406,6 +1406,7 @@ The Distributed Developer Stack Field Guide
 <!--
 http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
 http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github
+https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
 https://github.com/contact
 https://github.com/blog/subscribe
@@ -1416,6 +1417,9 @@ https://github.com/universe-2016
 https://git-for-windows.github.io
 
 https://github.com/features
+https://github.com/business/customers
+https://github.com/github-tools
+https://github.com/showcases/projects-with-great-wikis
 
 https://github.com/KatherineMichel/personal-goals/settings/installations
 https://github.com/github/github-services/tree/master/docs
@@ -1445,6 +1449,10 @@ https://help.github.com/articles/checking-out-pull-requests-locally/#modifying-a
 https://help.github.com/articles/merging-a-pull-request
 https://help.github.com/articles/resolving-a-merge-conflict-on-github/
 https://help.github.com/articles/about-git-rebase
+
+https://github.com/blog/1506-closing-issues-via-pull-requests
+https://github.com/blog/2243-rebase-and-merge-pull-requests
+https://help.github.com/articles/ignoring-files
 
 https://github.com/github/training-kit
 https://github.com/github/training-utils
@@ -1480,6 +1488,8 @@ https://github.com/progit/progit2
 http://gitref.org
 http://www.atlassian.com/git/tutorial
 
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
@@ -1493,6 +1503,11 @@ https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
 
+https://classroom.github.com/
+https://classroom.github.com/#getting-started-video
+https://education.github.com/guide/sandboxing
+https://education.github.com/guide/assignments
+
 
 
 New
@@ -1501,19 +1516,11 @@ https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
 
-https://education.github.com/guide/sandboxing
-https://classroom.github.com/#getting-started-video
-https://education.github.com/guide/assignments
-https://classroom.github.com/
 https://gist.github.com/seshness/3943237
-https://github.com/business/customers
--->
 
-<!--
 https://contribute.jquery.org/commits-and-pull-requests
 https://www.visualstudio.com/en-us/docs/git/pull-requests
 https://datasift.github.io/gitflow/
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
@@ -1528,24 +1535,8 @@ https://github.com/cfpb/open-source-project-template/blob/master/opensource-chec
 https://www.youtube.com/githubguides
 http://learngitbranching.js.org/
 
-https://help.github.com/articles/ignoring-files
-
 Missing from Setting Up An Open Source Project?
 https://guides.github.com/features/issues/
-
-https://github.com/github-tools
-
-https://github.com/showcases/projects-with-great-wikis
-
-https://github.com/blog/1506-closing-issues-via-pull-requests
-https://github.com/blog/2243-rebase-and-merge-pull-requests
-
-https://guides.github.com/features/mastering-markdown
-https://github.com/blog/2097-improved-commenting-with-markdown
-
-https://github.com/blog/2228-simpler-github-pages-publishing
-
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
 http://ndpsoftware.com/git-cheatsheet.html
 
