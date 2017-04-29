@@ -532,6 +532,7 @@ https://en.wikipedia.org/wiki/Immutable_object
 https://en.wikipedia.org/wiki/Monad_(functional_programming)
 
 https://en.wikipedia.org/wiki/Abstract_syntax_tree
+https://en.wikipedia.org/wiki/Parse_tree
 -->
 
 <!--
@@ -539,6 +540,7 @@ https://en.wikipedia.org/wiki/Computer_architecture
 https://en.wikipedia.org/wiki/Von_Neumann_architecture
 https://en.wikipedia.org/wiki/John_von_Neumann
 https://en.wikipedia.org/wiki/Alan_Turing
+https://en.wikipedia.org/wiki/Alonzo_Church
 https://en.wikipedia.org/wiki/Claude_Shannon
 
 New
@@ -3402,6 +3404,37 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 #### JavaScript Frameworks
 
+<!--
+https://vimeo.com/101269995
+
+https://babeljs.io
+https://en.wikipedia.org/wiki/WebAssembly
+http://wsl-guide.org/en/latest/
+http://webassembly.org/
+https://developer.mozilla.org/en-US/docs/WebAssembly
+https://github.com/webassembly
+https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
+
+https://en.wikibooks.org/wiki/JavaScript/Strict_mode
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
+https://www.w3schools.com/js/js_strict.asp
+https://docs.microsoft.com/en-us/scripting/javascript/advanced/strict-mode-javascript
+
+https://developers.google.com/web/fundamentals/getting-started/primers/promises
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
+
+https://www.w3schools.com/js/js_hoisting.asp
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+https://www.w3schools.com/js/js_function_closures.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/deterministic-and-nondeterministic-functions
+-->
+
 #### JavaScript Tools
 
 Node.js
@@ -3431,6 +3464,7 @@ Node Forks (IO.js merged with Node again)
 
 Node Version Manager
 * [Node Version Manager GitHub](https://github.com/creationix/nvm)
+
 
 Node.js Package Managers (npm (build-step))
 * [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
