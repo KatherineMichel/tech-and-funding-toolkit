@@ -1675,6 +1675,10 @@ Linux- Ubuntu (Debian)
 * [Ubuntu](http://www.ubuntu.com)  
 * [Ubuntu Wikipedia](http://en.wikipedia.org/wiki/Ubuntu_(operating_system)) 
 
+<!--
+http://www.ubuntu.com/server
+-->
+
 Linux- Ubuntu Dual Boot
 * [Windows Dual Boot](https://help.ubuntu.com/community/WindowsDualBoot)  
 * [Pendrivelinux Universal USB Installer](http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3)  
@@ -5768,91 +5772,6 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 * [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
 * [Replay](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 
-
-
-<!--
-https://2017.djangocon.eu/call-for-proposals
-
-DjangoCon 2015 Playlist
-https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t
-
-Python Guides
-https://github.com/python/pycon-code-of-conduct
-http://london.pydata.org
-
-https://groups.google.com/forum/#!msg/django-users/-iTZB7K1QI4/TTVXd9Y6EwAJ
-https://groups.google.com/forum/#!topic/djangocon-organizers/-I4dLxPYXM8
-https://groups.google.com/forum/#!topic/djangocon-organizers/whBrRrNnxQA
-
-https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8
-
-https://2016.djangocon.us/speaking
-https://2016.djangocon.us/financialaid
-
-https://www.djangocon.us/sprints/
-https://2015.djangocon.us/blog/2015/05/08/announcing-our-call-reviewers/
-https://2015.djangocon.us/volunteers/
-https://trello.com/b/zBpdDpe7/djangcon-us-2012
-djangocon us trello board
-
-https://github.com/DEFNA/defna.org
-https://twitter.com/webology/status/699277088256163840
-https://2016.djangocon.us/blog/2016/03/18/what-difference-year-makes
-https://2015.djangocon.us/blog/2015/06/10/call-conference-venues
-
-https://www.djangoproject.com/weblog/2016/mar/04/host-djangocon-europe-2017/
-
-https://github.com/PyCon/2015/wiki/PyCon-2105-Sponsorship-Prospectus
-https://github.com/PyCon/2015/wiki/
-https://github.com/djangocon/djangocon-us-docs/wiki/DjangoCon-2015-Checklist
-https://github.com/djangocon/djangocon-us-docs
-
-https://twitter.com/pycon/status/695409083847868418
-https://twitter.com/MassHaste/status/694988623209299968
-https://us.pycon.org/2016/schedule/presentation/2082/
-https://us.pycon.org/2016/schedule/
-https://us.pycon.org/2016/events/keynotes/
-
-https://github.com/PyCon
-https://github.com/PyCon/pycon
-https://github.com/PyCon/2015/wiki#tentative-dates
-https://github.com/PyCon/2015
-https://github.com/PyCon/2016/issues
-https://github.com/PyCon/best-practices/blob/master/presentation_slides.md
-https://github.com/PyCon/2015-slides
-https://us.pycon.org/2016/assistance
-
-https://us.pycon.org/2016/schedule/presentation/1473/
-https://us.pycon.org/2016/venue/accessibility/
-http://pycon.blogspot.com/2016/03/why-not-join-sprints-this-year-at-pycon.html
-http://pycon.blogspot.com/2016/02/full-schedule-is-up-and-financial-aid.html
-https://us.pycon.org/2016/schedule/conference.json
-
-http://www.pydanny.com/beginners-guide-pycon-2014.html
-
-https://2016.djangocon.us/reviewerguidelines/
-https://2016.djangocon.eu/team/
-https://2016.djangocon.eu/schedule/#workshops
-https://2016.djangocon.eu/speakers/schedule
-https://2016.djangocon.eu/venue/#workshops
-https://2016.djangocon.eu/cfp/workshop
-https://2016.djangocon.eu/faq
-
-https://ep2016.europython.eu/en/call-for-proposals/
-
-http://www.writethedocs.org/conf/na/2016/cfp/
-
-http://scipy2016.scipy.org/ehome/146062/332968/?&&
-http://scipy2016.scipy.org
-
-
-http://2016.pyconuk.org/diversity-accessibility-inclusion/
-https://github.com/PyconUK/2016.pyconuk.org
-https://us.pycon.org/2016/schedule/presentation/2266/
-https://us.pycon.org/2016/schedule/talks/
-http://il.pycon.org/2016/about/speakers.html
--->
-
 #### Web Host Newsletters
 
 * [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
@@ -5860,20 +5779,6 @@ http://il.pycon.org/2016/about/speakers.html
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 #### Dashboards
-
-
-<!--
-https://code.google.com/p/browsersec/wiki/Main
-
-https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-
-http://www.ubuntu.com/server
-
-http://en.wikipedia.org/wiki/Cross-site_scripting
-http://en.wikipedia.org/wiki/Two_factor_authentication
-https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
--->
-
 
 <!--
 Browser Statistics
@@ -5986,6 +5891,15 @@ https://www.godaddy.com/help/what-is-a-subdomain-296
 -->
 
 #### Security
+
+<!--
+https://code.google.com/p/browsersec/wiki/Main
+
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
+
+http://en.wikipedia.org/wiki/Two_factor_authentication
+https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
+-->
 
 Malware and Encryption
 * [hackerone](https://hackerone.com)
