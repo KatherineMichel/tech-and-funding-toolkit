@@ -264,6 +264,11 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
+<!--
+The Practical Dev
+https://dev.to
+-->
+
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 * [Humble Bundle](https://www.humblebundle.com)
@@ -278,13 +283,14 @@ Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
 * [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
+* [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
 
 <!--
 https://www.twitch.tv/aws
-https://www.twitch.tv/thepracticaldev
 -->
 
 Robotics and/or Geared toward Kids
+* [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
 * [Arduino](https://www.arduino.cc)
 * [Code.org](https://code.org)
 * [Jam](https://jam.com)
@@ -305,7 +311,6 @@ Mobile
 
 <!--
 http://www.appinventor.org
-https://www.pluralsight.com/kids-courses
 
 https://github.com/FreeCodeCamp/hour-of-code
 
@@ -511,23 +516,28 @@ Swift Styleguide
 
 <!--
 From Eric Elliot
+https://en.wikipedia.org/wiki/Object-oriented_programming
+https://en.wikipedia.org/wiki/Functional_programming
+https://en.wikipedia.org/wiki/Programming_paradigm
+https://en.wikipedia.org/wiki/Prototype-based_programming
+https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
+
 https://en.wikipedia.org/wiki/Turing_completeness
 https://en.wikipedia.org/wiki/Turing_machine
 https://en.wikipedia.org/wiki/Object_composition#Recursive_composition
 https://en.wikipedia.org/wiki/Lambda_calculus
-https://en.wikipedia.org/wiki/Programming_paradigm
-https://en.wikipedia.org/wiki/Prototype-based_programming
-https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
-https://en.wikipedia.org/wiki/Object-oriented_programming
-https://en.wikipedia.org/wiki/Functional_programming
 -->
 
 <!--
-New
-https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
 https://en.wikipedia.org/wiki/Computer_architecture
 https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/John_von_Neumann
+https://en.wikipedia.org/wiki/Alan_Turing
+https://en.wikipedia.org/wiki/Claude_Shannon
+
+New
+Write Great Code: Volume I: Understanding the Machine
+https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 https://en.wikibooks.org/wiki/A-level_Computing/AQA/Computer_Components,_The_Stored_Program_Concept_and_the_Internet/Machine_Level_Architecture/Machine_code_and_processor_instruction_set
 https://en.wikipedia.org/wiki/Binary_code
@@ -560,10 +570,6 @@ https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Latency_(engineering)
 https://en.wikipedia.org/wiki/Branch_misprediction
 https://en.wikipedia.org/wiki/CPU_cache
-
-https://en.wikipedia.org/wiki/Alan_Turing
-https://en.wikipedia.org/wiki/John_von_Neumann
-https://en.wikipedia.org/wiki/Claude_Shannon
 -->
 
 Ergonomics 
@@ -698,7 +704,7 @@ IP
 http://whatismyipaddress.com
 http://whatismyipaddress.com/ip-basics
 http://tcpipguide.com/free/index.htm
-https://howdns.works/
+https://howdns.works
 -->
 
 Domain Name
