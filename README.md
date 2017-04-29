@@ -506,16 +506,32 @@ Swift Styleguide
 
 <!--
 From Eric Elliot
+https://en.wikipedia.org/wiki/Programming_paradigm
+
 https://en.wikipedia.org/wiki/Object-oriented_programming
 https://en.wikipedia.org/wiki/Functional_programming
-https://en.wikipedia.org/wiki/Programming_paradigm
+https://en.wikipedia.org/wiki/Function_composition
+https://en.wikipedia.org/wiki/Higher-order_function
+https://en.wikipedia.org/wiki/First-class_function
+https://en.wikipedia.org/wiki/Pure_function
+https://en.wikipedia.org/wiki/Purely_functional_programming
 https://en.wikipedia.org/wiki/Prototype-based_programming
 https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
 
 https://en.wikipedia.org/wiki/Turing_completeness
 https://en.wikipedia.org/wiki/Turing_machine
+https://en.wikipedia.org/wiki/Recursion_(computer_science)
 https://en.wikipedia.org/wiki/Object_composition#Recursive_composition
 https://en.wikipedia.org/wiki/Lambda_calculus
+
+https://en.wikipedia.org/wiki/Closure_(computer_programming)
+https://en.wikipedia.org/wiki/Currying
+https://en.wikipedia.org/wiki/Functor
+https://en.wikipedia.org/wiki/Partial_application
+https://en.wikipedia.org/wiki/Immutable_object
+https://en.wikipedia.org/wiki/Monad_(functional_programming)
+
+https://en.wikipedia.org/wiki/Abstract_syntax_tree
 -->
 
 <!--
