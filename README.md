@@ -264,10 +264,8 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 
-<!--
 The Practical Dev
-https://dev.to
--->
+* [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
@@ -1478,29 +1476,17 @@ Git- Official Learning Resources
 * [Try Git](https://try.github.io)
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-* [Git Book](http://www.git-scm.com/book/en)  
-* [Git Docs](https://git-scm.com/docs) 
-* [Git Documentation](https://git-scm.com/documentation)
-* [Git Videos](http://www.git-scm.com/videos)  
-* [Git Downloads](http://git-scm.com/downloads) 
 
 Git Cheat Sheets and Tutorials
-* [GitHub Development Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)  
-* [Atlassian Git](https://www.atlassian.com/git) and [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)  
-* [Digital Ocean Git Tutorial Series](https://www.digitalocean.com/community/tutorial_series/introduction-to-git-installation-usage-and-branches)
-* [Bitbucket Learn Git with Bitbucket Cloud](https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html) 
 * [Git Index](http://gitref.org)  
 * [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
 * [GitHub Features (Code Review, ect.)](https://github.com/features)
-* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
-* [GitHub Help](https://help.github.com)  
-* [GitHub Training](http://training.github.com)  
+* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git) 
 * [GitHub Bootcamp](https://help.github.com/categories/bootcamp) 
 * [GitHub Blog](https://github.com/blog)  
-* [GitHub Guides](https://guides.github.com) 
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
