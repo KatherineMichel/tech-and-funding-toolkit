@@ -346,10 +346,6 @@ Programming language comparisons
 Programming style
 -->
 
-<!--
-http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
--->
-
 #### Programming Documentation and Standards
 
 Documentation- General
@@ -671,11 +667,6 @@ Preethi Kasireddy: How The Web Works
 * ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
 * ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
 * ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-Client Server
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 
 Internet Service Provider
 * [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
@@ -6939,6 +6930,7 @@ Servers
 
 Client and Server-Side
 * [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
 * [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
 * [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
 * [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
@@ -11677,6 +11669,10 @@ Compensation
 
 https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
 https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
+-->
+
+<!--
+http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
 -->
 
 #### Other Enormous Tool Lists
