@@ -285,10 +285,6 @@ Twitch Creative- Accounts
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 * [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
 
-<!--
-https://www.twitch.tv/aws
--->
-
 Robotics and/or Geared toward Kids
 * [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
 * [Arduino](https://www.arduino.cc)
@@ -1237,108 +1233,7 @@ https://gitlab.com/groups/gitlab-org
 
 #### Startup Engineering MOOC
 
-Deployment
-* [Lecture 2: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Lecture 3: Linux and Server Side Javascript](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture3-linux-ssjs-v2.pdf) or [Lecture 3: Linux and Server Side Javascript](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture3-linux-ssjs-v2.pdf)
-* [Lecture 4A: Linux Command Line](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4a-linux-command-line.pdf)
-* [Lecture 4B: Development Environment](https://d396qusza40orc.cloudfront.net/startup/lecture_slides%2Flecture4b-developer-environment.pdf)
-* [Lecture 7: Deployment, DNS, and Custom Domains](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [Lecture 12: Node JS: Async, Flow Control, Node Debugging](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture12-node-latency-async-debugging.pdf)
-* [Lecture 6: Introduction to HTML/CSS/JS](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture6-html-css-js.pdf)
-* [Lecture 10: Intermediate and Frontend JS](https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture10-intermediate-js.pdf)
-* [Lecture 8: Mobile: HTTP, User Agents, and Responsive Design(https://d396qusza40orc.cloudfront.net/startup%2Flecture_slides%2Flecture8-mobile-v2.pdf)
-* [Lecture 5: Market Research, Wireframing, Design](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture5-market-wireframing-design.pdf)
-
-General
-* [Lecture 0: Course Overview](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture0-v3-logistics.pdf)
-* [Lecture 1: Introduction](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture1-v2-introduction.pdf)
-* [Lecture 9: Why do VCs love mobile, local, and social? And what they love next?] (https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture9-social-local-mobile-growth-virality.pdf)
-* [Lecture 11: Regulation, Disruption, and the Technologies of 2013.](https://d28rh4a8wq0iu5.cloudfront.net/startup/lecture_slides/lecture11-regulation-disruption-technologies-2013.pdf)
-
-<!--
-Startup Mooc Staging Example: GitHub, AWS, Heroku
-* [Startup MOOC: Interactive Start](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture2-interactive-start.pdf)
-* [Startup MOOC: Deployment, DNS, and Custom Domains from Startup Engineering (by Balaji S. Srinivasan)](https://spark-public.s3.amazonaws.com/startup/lecture_slides/lecture7-deployment-dns-custom-domains.pdf)
-* [GitHub, AWS, Heroku Deployment Illustrated](http://3.bp.blogspot.com/-KeRwCxCg6TY/UcVwmEWwerI/AAAAAAAAAoM/cDYc7EO1g70/s1600/Untitled.png)  
-* Illustration: Startup Engineering Dev, Staging, Production
--->
-
-<!--
-http://web.stanford.edu/class/cs106b/
-
-https://github.com/heroku/node-js-sample
-
-Startup Class Dotfiles and AWS EC2 Setup
-* [Course Dotfiles](https://github.com/startup-class/dotfiles)  
-* [Course EC2 Setup](https://github.com/startup-class/setup)  
-* [Course EC2 Setup Blob](https://github.com/startup-class/setup/blob/master/setup.sh) 
-
-https://github.com/startup-class/dotfiles/blob/master/.bashrc#L207
-
-http://www.html5rocks.com/en/mobile/
-
-AWS, Heroku, Git
-Lecture 2: Figure 2: Startup Engineering Dev and Deployment
-Lecture 2: Figure 84:
-Lecture 7: Figure 1-3: Dev, Staging, Production
-Lecture 7: Figure 20: Dev, Staging, Production
-
-Setup
-Lecture 2: Figure 1: Goal
-Lecture 2: Figure 4: Chrome User Agent Switcher
-Lecture 2: Figure 5: Closing using GUI
-Lecture 2: Figure 6: Closing using CLI
-Lecture 2: Figure 7-12: Apple Terminal
-Lecture 2: Figure 13-24: Cygwin
-Lecture 2: Figure 25: Ping
-Lecture 2: Figure 26-40: AWS
-Lecture 2: Figure 40-42: Gravatar
-Lecture 2: Figure 43-45: GitHub
-Lecture 2: Figure 46-51: Heroku
-Lecture 2: Figure 52-65: AWS
-Lecture 2: Figure 66: Apple
-Lecture 2: Figure 67-70: Cygwin
-Lecture 2: Figure 71-72: AWS
-Lecture 2: Figure 73: SSH
-Lecture 2: Figure 74: AWS Ubuntu
-Lecture 2: Figure 75: Local Versus Remote Commands
-Lecture 2: Figure 76-83: SSH
-Lecture 2: Figure 84: Goal
-
-Setup
-Lecture 3: Figure 1: Virtualization
-Lecture 3: Figure 2-6: SSH
-
-Setup
-Lecture 4a: Figures: All Technical
-Lecture 4b: Figures: All Technical
-
-Setup
-Lecture 7: Figure 4-19: SSH, including Bitstarter
-Lecture 7: Figure 20-34: SSH
-Lecture 7: Figure 35-43: Domize and DNSimple
-Lecture 7: Figure 44-46: SSH
-
-Lecture 5: Table 5: The Idea State Machine
-Lecture 5: Figure 1: Visualizing the Idea Maze
-Lecture 5: Figure 2-3: Implement the 'One-Thing’
-Lecture 5: Table 2: A Product that Exhibits an Economy of Scale
-Lecture 5: Figures 4 and 5: A Product with an Economy of Scale                              
-Lecture 5: Figure 6: Qualitative Graph of Market Size
-Lecture 5: Figure 7: Facebook Census Tool
-Lecture 5: Figure 8: Google Keyword Planner
-Lecture 5: Figure 9: Product Tier Section- A Conceptual Framework                               
-Lecture 5: Figure 10: A Survey of Four Useful Wireframing Tools
-
-Lecture 1: Figure 1: Signoidal curve for the development of an industry
-Lecture 1: Table 1: Future and current/ongoing technological trends
-Lecture 1: Table 2: An overview of technologies used in the course                                
-Lecture 1: Figure 5: The Rise and Fall of Personal Computing
-
-No longer in existence
-Homework
-Deployment Assignments
--->
+Currently out of commission. 
 
 #### Digital Agencies and Code Philosophies
 
@@ -1443,6 +1338,7 @@ https://github.com/github/maturity-model
 https://github.com/github/open-source-survey
 
 https://docs.python.org/devguide/gitbootcamp.html
+https://docs.python.org/devguide/
 
 https://en.wikipedia.org/wiki/Fork_and_pull_model
 
@@ -1493,6 +1389,10 @@ https://github.com/blog
 https://github.com/progit/progit2
 http://gitref.org
 http://www.atlassian.com/git/tutorial
+
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+https://www.youtube.com/user/GitHubGuides
+https://www.git-tower.com/blog/git-cheat-sheet/
 
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
@@ -6513,6 +6413,15 @@ Amazon Web Services
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers)
 
 <!--
+* [AWS Twitch](https://www.twitch.tv/aws)
+-->
+
+<!--
+Also: Awesome AWS
+https://github.com/open-guides/og-aws
+https://github.com/donnemartin/awesome-aws
+https://github.com/aws
+
 https://enterprise.github.com/aws
 
 https://live.awsevents.com
@@ -6531,11 +6440,6 @@ AWS- Developer and Documentation
 * [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
 <!--
-Also: Awesome AWS
-https://github.com/open-guides/og-aws
-https://github.com/donnemartin/awesome-aws
-
-https://github.com/aws
 https://www.youtube.com/user/AmazonWebServices/videos
 https://medium.com/aws-enterprise-collection
 
