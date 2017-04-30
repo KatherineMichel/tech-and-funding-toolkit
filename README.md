@@ -243,6 +243,13 @@ Courses (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
+Forums
+
+<!--
+https://discuss.codecademy.com/top/all
+https://teamtreehouse.com/community
+-->
+
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
 * [Learn X in Y Minutes](https://learnxinyminutes.com)
@@ -269,16 +276,11 @@ Fave Pluralsight Authors
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
 * [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook)
+* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook) and [Eric Elliot Programming JavaScript Applications GitHub](https://github.com/learn-javascript-courses/programming-javascript-applications)
 * [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
 * [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
 * [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 * [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
-
-<!--
-https://github.com/learn-javascript-courses/programming-javascript-applications
-https://ericelliottjs.com/product/programming-javascript-applications-ebook
--->
 
 The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
@@ -813,9 +815,6 @@ https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
 HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
-
-https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Inversion_of_control
 -->
 
 <!--
@@ -3293,6 +3292,11 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 #### JavaScript Tools
 
+<!--
+https://en.wikipedia.org/wiki/Dependency_injection
+https://en.wikipedia.org/wiki/Inversion_of_control
+-->
+
 Node.js
 * [Node.js](http://nodejs.org)  
 * [Node.js Docs/API](http://nodejs.org/api/)  
@@ -3303,10 +3307,9 @@ Node.js
 * [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
 * [Node Beginner](http://www.nodebeginner.org) 
 
-<!--
-https://github.com/nodejs/nodejs.org/issues
-https://github.com/nodejs/CTC
--->
+Contributing
+* [Node Core Technical Committee & Collaborators](https://github.com/nodejs/CTC)
+* [node.js.org Issues](https://github.com/nodejs/nodejs.org/issues)
 
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
@@ -3336,14 +3339,10 @@ Security Scanning (checking all the packages for any known vulnerabilities)
 * retire.js
 
 Automation
-* npm scripts
+* [npm scripts](https://docs.npmjs.com/misc/scripts)
+* [Cory House: "Why I Left Gulp and Grunt for npm Scripts"](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
 * [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
 * [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
-
-<!--
-https://docs.npmjs.com/misc/scripts
-https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.xurj4qvis
--->
 
 Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
 * [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
@@ -3434,19 +3433,6 @@ https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
 https://angular.io/docs
 
 https://github.com/vuejs/vue-hackernews
-
-Semantic UI
-http://semantic-ui.com
-https://github.com/Semantic-Org/Semantic-UI 
-
-
-
-https://babeljs.io
-https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
-https://babeljs.io/docs/plugins
-
-http://www.typescriptlang.org/play/
-https://en.wikipedia.org/wiki/TypeScript
 -->
 
 <!--
@@ -3475,6 +3461,9 @@ Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package 
 * [Browserify](http://browserify.org)
 * [rollup.js](http://rollupjs.org) 
 * JSPM 
+
+Semantic UI
+* [Semantic UI](http://semantic-ui.com) and [Semantic UI GitHub](https://github.com/Semantic-Org/Semantic-UI)
 
 Other React Stack Helpers (See also ESLint and JSX)
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
