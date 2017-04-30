@@ -2477,10 +2477,6 @@ https://marvelapp.com
 -->
 
 Quickie Websites
-* [Google Domains](https://domains.google.com/about), [Google Sites](https://sites.google.com) and [Google Sites Templates](https://sites.google.com/site/arctemplates/templates) 
-* [Squarespace Templates](https://www.squarespace.com/websites), [Squarespace Customers](https://www.squarespace.com/customers), and [Squarespace Local Development](http://developers.squarespace.com/local-development) 
-* [Weebly Themes](http://www.weebly.com/themes)
-* [Wix Templates](http://www.wix.com/website/templates) and [Wix Premium Plans](http://www.wix.com/upgrade/premium-plans)
 
 <!--
 https://github.com/Squarespace/base-template
@@ -3094,34 +3090,18 @@ DevCenter (Developer Center/API)
 #### Facebook and Google Design and Development Approaches
 
 Facebook and Google Design
-* [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
 
 Google
 * [Google Roboto GitHub](https://github.com/google/roboto) 
-* [Google Design](https://design.google.com) and [Google Design Resources](https://design.google.com/resources)  
-
+  
 * [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
 
 
 Google Material Design (See also Facebook React)
-* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-<!--
-https://material.io/guidelines/resources/roboto-noto-fonts.html
-https://material.io/guidelines/style/typography.html#typography-line-height
--->
-
 Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
 Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit)   
-
+ 
 Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
@@ -3194,6 +3174,9 @@ ECMA Standards
 * [ECMA International](http://www.ecma-international.org)
 
 <!--
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+
 http://standardjs.com/index.html
 
 https://nodejs.org/en/docs/es6
