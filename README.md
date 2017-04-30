@@ -3396,31 +3396,13 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 https://vimeo.com/101269995
 
 https://babeljs.io
+
 https://en.wikipedia.org/wiki/WebAssembly
 http://wsl-guide.org/en/latest/
 http://webassembly.org/
 https://developer.mozilla.org/en-US/docs/WebAssembly
 https://github.com/webassembly
 https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
-
-https://en.wikibooks.org/wiki/JavaScript/Strict_mode
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
-https://www.w3schools.com/js/js_strict.asp
-https://docs.microsoft.com/en-us/scripting/javascript/advanced/strict-mode-javascript
-
-https://developers.google.com/web/fundamentals/getting-started/primers/promises
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise
-
-https://www.w3schools.com/js/js_hoisting.asp
-https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
-
-https://www.w3schools.com/js/js_function_closures.asp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-https://docs.microsoft.com/en-us/sql/relational-databases/user-defined-functions/deterministic-and-nondeterministic-functions
 -->
 
 #### JavaScript Tools
@@ -3519,7 +3501,8 @@ Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react)
 
 See: Eric Elliot-inspired React Stack
-https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711
+[Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
+Progressive Web Apps
 Facebook- React
 Create React App
 React Bootstrap
