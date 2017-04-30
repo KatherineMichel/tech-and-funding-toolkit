@@ -3511,61 +3511,37 @@ https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app/
 -->
 
-Facebook- React (JavaScript)
-* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
-* [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
-* [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
-* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
-* [React Components](http://react-components.com)
-* [React JSFiddle](https://jsfiddle.net/reactjs)
-
 <!--
 https://microsoft.github.io/reactxp
 -->
 
+Facebook- React (JavaScript)
+* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react)
+
+See: Eric Elliot-inspired React Stack
+https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711
+Facebook- React
 Create React App
-* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
+React Bootstrap
+React-Router
+Flux
+Redux
+RxJS 
+Next
+Velocity React
+Tern
+Flow
+Angular 2+
+Babel, TypeScript
+Lodash
+Vue
+Node/Express (based on Sinatra)
 
 React Relay (React Stack)
 * [Facebook Relay GitHub](https://github.com/facebook/relay)
 
-React Bootstrap (React Stack)
-* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
-
-React-Router (React Stack)
-* [React-Router GitHub](https://github.com/reactjs/react-router)
-
-Flux (React Stack)
-* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
+Reflux (React Stack)
 * [Reflux](https://github.com/reflux/refluxjs)
-
-<!--
-http://facebook.github.io/flux/docs/testing-flux-applications.html
--->
-
-Redux (React Stack)
-* [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
-
-<!--
-http://redux.js.org/docs/basics/UsageWithReact.html
--->
-
-RxJS (React Stack)
-* [RxJS](http://reactivex.io/rxjs) and [RxJS GitHub](https://github.com/ReactiveX/rxjs)
-
-Next
-* [Next 2.0](https://zeit.co/blog/next2) and [Next 2.0 GitHub](https://github.com/zeit/next.js)
-
-Velocity React
-* [Velocity React](https://github.com/twitter-fabric/velocity-react)
-* [Velocity](http://velocityjs.org)
-
-Tern
-* [Tern](https://ternjs.net)
-
-Flow
-* [Flow](https://flow.org)
 
 Facebook- React Native (React Stack)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
@@ -3586,13 +3562,11 @@ http://www.sitepoint.com/getting-started-react-jsx
 Ionic Framework (React Stack)
 * [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
 
-Angular (React Stack)
-* [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
-* [Angular](http://angularjs.org), [Angular](https://angular.io) and [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
-* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
-* [Angular Protractor GitHub](https://github.com/angular/protractor)
-
 <!--
+http://facebook.github.io/flux/docs/testing-flux-applications.html
+
+http://redux.js.org/docs/basics/UsageWithReact.html
+
 https://www.npmjs.com/~angular
 https://github.com/angular/quickstart
 https://github.com/angular/angular-cli
@@ -3600,23 +3574,19 @@ https://github.com/angular/angular-cli
 https://www.gitbook.com/book/rangle-io/ngcourse2/details
 https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
 https://angular.io/docs
--->
 
-Vue
-* [Vue.js (Competitor to Ember, Knockout, Polymer)](https://vuejs.org) and [Vue.js GitHub](https://github.com/vuejs)
-* Polymer
-* Semantic UI
-
-<!--
 https://github.com/vuejs/vue-hackernews
 
 Semantic UI
 http://semantic-ui.com
 https://github.com/Semantic-Org/Semantic-UI 
--->
 
-Lodash
-* [Lodash GitHub](https://github.com/lodash/lodash)
+https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
+https://babeljs.io/docs/plugins
+
+http://www.typescriptlang.org/play/
+https://en.wikipedia.org/wiki/TypeScript
+-->
 
 Express (based on Sinatra) (React Stack)
 * [Express (based on Sinatra)](http://expressjs.com) 
@@ -3641,18 +3611,6 @@ Minimizing CSS and JavaScript
 
 <!--
 * [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
--->
-
-Transpiling (Babel (React Stack), TypeScript (superset of JavaScript, enhancements/opinionated), Elm)
-* [Babel GitHub](https://github.com/babel/babel)
-* [TypeScript](https://www.typescriptlang.org) and [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript)
-
-<!--
-https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
-https://babeljs.io/docs/plugins
-
-http://www.typescriptlang.org/play/
-https://en.wikipedia.org/wiki/TypeScript
 -->
 
 More
