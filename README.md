@@ -270,6 +270,11 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 * [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
 
+<!--
+https://github.com/learn-javascript-courses/programming-javascript-applications
+https://ericelliottjs.com/product/programming-javascript-applications-ebook
+-->
+
 The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 
@@ -2120,9 +2125,6 @@ browser market share
 
 https://github.com/WPO-Foundation/webpagetest
 
-Progressive Web app Testing
-https://github.com/GoogleChrome/lighthouse
-
 https://saucelabs.com
 https://saucelabs.com/blog/sauce-labs-joins-the-w3c
 -->
@@ -2498,11 +2500,7 @@ Miscellaneous
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
 Lipsum
-* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
-
-<!--
-http://www.cipsum.com
--->
+* [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), [Corporate Ipsum](http://www.cipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
 Photo Editing (See also Adobe)
 * [Nik Collection](https://www.google.com/nikcollection) 
@@ -2595,15 +2593,7 @@ https://docs.gimp.org/en/gimp-pimping.html
 
 https://www.gimp.org/unix/howtos/tile_cache.html
 https://docs.gimp.org/en/gimp-using-setup-tile-cache.html
-https://docs.gimp.org/en/gimp-document-dialog.html
-
-https://docs.gimp.org/en/gimp-tutorial-quickie-separate.html
-https://docs.gimp.org/en/gimp-layer-alpha-selection-add.html
-https://www.gimp.org/tutorials/Straight_Line
-https://docs.gimp.org/en/script-fu-addborder.html
-https://docs.gimp.org/en/gimp-using-web-transparency.html
-https://www.gimp.org/tutorials/ContrastMask
-https://docs.gimp.org/en/gimp-tool-brightness-contrast.html
+https://docs.gimp.org
 -->
 
 <!--
@@ -2731,14 +2721,8 @@ http://www.w3schools.com/browsers/default.asp
 <!--
 https://html.spec.whatwg.org/multipage
 
-Semantic Site Audit
-
+Semantic Site Audit, Semantic Elements
 Normal Document Flow
-https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en
-https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US
-https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en
-https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en
-https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en
 -->
 
 Web General (See also JavaScript) 
@@ -2934,8 +2918,6 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 -->
 
 <!--
-Semantic Site Audit, Semantic Elements
-
 http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
 
 https://www.w3schools.com/w3css/w3css_grid.asp
@@ -3126,11 +3108,7 @@ JavaScript Books and Tutorials
 * [You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS)
 
 <!--
-http://eloquentjavascript.net/Eloquent_JavaScript.pdf
-http://shop.oreilly.com/product/9780596517748.do
-
-http://learnjsthehardway.com/
-https://github.com/ericelliott/essential-javascript-links
+http://learnjsthehardway.com
 -->
 
 JavaScript Tutorials- Mozilla
@@ -3190,6 +3168,9 @@ https://github.com/sgaurav/understanding-es6
 * CommonJS (CJS) (var jquery = require('jquery'))
 * ES6 Modules (import jQuery from 'jquery') (best choice)
 -->
+
+* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
@@ -3262,7 +3243,6 @@ XML, XHTML
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 -->
 
-
 #### JavaScript Ecosystem
 
 DOM (Document Object Model) (JavaScript, async, AJAX)
@@ -3276,11 +3256,6 @@ Build Tools (hot reloading, sourcemap)
 Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 #### JavaScript Frameworks
-
-<!--
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
--->
 
 #### JavaScript Tools
 
@@ -3297,8 +3272,6 @@ Node.js
 <!--
 https://github.com/nodejs/nodejs.org/issues
 https://github.com/nodejs/CTC
-
-https://github.com/maxogden/art-of-node
 -->
 
 Node.js Launch and Ryan Dahl
@@ -3349,18 +3322,23 @@ Progressive Web Apps
 * [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
 
 <!--
+https://developers.google.com/web/ilt/pwa/
+https://developers.google.com/web/tools/starter-kit/
+
+Progressive Web app Testing
+https://github.com/GoogleChrome/lighthouse
+
 https://developers.google.com/web/showcase
 https://github.com/TalAter/awesome-progressive-web-apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app/
 -->
 
-<!--
-https://microsoft.github.io/reactxp
--->
-
 Facebook- React (JavaScript)
 * [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react)
+
+Microsoft React
+* [Microsoft ReactXP](https://microsoft.github.io/reactxp)
 
 See: Eric Elliot-inspired React Stack
 [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
@@ -3378,6 +3356,7 @@ Tern
 Flow
 Angular 2+
 Babel, TypeScript
+Webpack
 Lodash
 Vue
 Node/Express (based on Sinatra)
@@ -3436,11 +3415,6 @@ http://www.typescriptlang.org/play/
 https://en.wikipedia.org/wiki/TypeScript
 -->
 
-Express (based on Sinatra) (React Stack)
-* [Express (based on Sinatra)](http://expressjs.com) 
-* [Sinatra GitHub](https://github.com/sinatra/sinatra)
-* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com) 
-
 <!--
 Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
@@ -3449,16 +3423,6 @@ https://github.com/browsersync/recipes
 
 Minimizing CSS and JavaScript
 * [RequireJS](http://requirejs.org)
--->
-
- Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package manager))
-* [webpack](https://webpack.js.org), [webpack GitHub](https://github.com/webpack/webpack), and [webpack docs](https://webpack.github.io/docs)
-* [Browserify](http://browserify.org)
-* [rollup.js](http://rollupjs.org) 
-* JSPM 
-
-<!--
-* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
 -->
 
 More
@@ -3473,10 +3437,19 @@ MVCs General, Backbone, Ember
 * [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
 * [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
 
+Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package manager))
+* [Browserify](http://browserify.org)
+* [rollup.js](http://rollupjs.org) 
+* JSPM 
+
 Other React Stack Helpers (See also ESLint and JSX)
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
 * [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
 * [Relax (CMS) GitHub](https://github.com/relax/relax)
+
+Express (based on Sinatra) (React Stack)
+* [Sinatra GitHub](https://github.com/sinatra/sinatra)
+* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)
 
 Hapi, Koa (Express competitors) (React Stack) 
 * [Hapi](http://hapijs.com) and [Hapi GitHub](https://github.com/hapijs/hapi)
@@ -3587,18 +3560,12 @@ https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configurati
 https://github.com/necolas/react-native-web
 
 http://buildwithreact.com
-http://facebook.github.io/react/docs/events.html
 https://facebook.github.io/react/docs/tutorial.html
 https://facebook.github.io/react/docs/thinking-in-react.html
 https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
-http://facebook.github.io/react/docs/multiple-components.html
 -->
 
 <!--
-https://medium.com/@preethikasireddy
-https://medium.freecodecamp.com/javascript-modules-a-beginner-s-guide-783f7d7a5fcc#.qo6wgf171
-https://medium.freecodecamp.com/javascript-modules-part-2-module-bundling-5020383cf306#.3g76ocmc5
-
 * [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 
@@ -11354,6 +11321,7 @@ Presentations (Including JavaScript Presentations Frameworks)
 See also GitHub
 https://github.com/integrations/gitpitch
 https://gitpitch.com/gitpitch/gitpitch
+https://gitpitch.com/gitpitch/in-60-seconds
 -->
 
 Docs
