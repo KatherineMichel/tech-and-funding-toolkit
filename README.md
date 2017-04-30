@@ -3146,18 +3146,6 @@ Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
-Progressive Web Apps
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-
-<!--
-https://developers.google.com/web/showcase
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app/
--->
-
 
 
 
@@ -3465,7 +3453,6 @@ Node Forks (IO.js merged with Node again)
 Node Version Manager
 * [Node Version Manager GitHub](https://github.com/creationix/nvm)
 
-
 Node.js Package Managers (npm (build-step))
 * [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
 * [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
@@ -3474,10 +3461,6 @@ Node.js Package Managers (npm (build-step))
 * [NPM Package Search](https://www.npmjs.org)  
 * [Yarn](https://yarnpkg.com) and [Yarn GitHub](https://github.com/yarnpkg/yarn)
 * ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
-
-Lesser Used Package Managers (Bower, JSPM, Jam, volo)
-* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
-* JSPM (JavaScript Package Manager, also bundles code)
 
 Check Update
 * [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
@@ -3495,6 +3478,207 @@ Automation
 https://docs.npmjs.com/misc/scripts
 https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.xurj4qvis
 -->
+
+Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
+* [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
+* [JSHint](http://jshint.com)
+* [JSLint](http://jslint.org)
+
+<!--
+https://github.com/google/eslint-config-google
+
+http://eslint.org/docs/2.0.0/user-guide/configuring
+http://eslint.org/docs/rules/
+https://www.npmjs.com/package/eslint-plugin-react
+https://www.npmjs.com/package/eslint-plugin-angular
+https://www.npmjs.com/package/eslint-plugin-node
+
+Preset: ESLint standard rules
+https://www.npmjs.com/package/eslint-config-airbnb
+https://www.npmjs.com/package/eslint-config-defaults
+https://www.npmjs.com/package/eslint-config-standard
+-->
+
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+
+<!--
+https://developers.google.com/web/showcase
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app/
+-->
+
+Facebook- React (JavaScript)
+* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
+* [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
+* [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
+* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
+* [React How-To GitHub](https://github.com/petehunt/react-howto)
+* [React Components](http://react-components.com)
+* [React JSFiddle](https://jsfiddle.net/reactjs)
+
+<!--
+https://microsoft.github.io/reactxp
+-->
+
+Create React App
+* [Create React App GitHub](https://github.com/facebookincubator/create-react-app)
+
+React Relay (React Stack)
+* [Facebook Relay GitHub](https://github.com/facebook/relay)
+
+React Bootstrap (React Stack)
+* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
+
+React-Router (React Stack)
+* [React-Router GitHub](https://github.com/reactjs/react-router)
+
+Flux (React Stack)
+* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
+* [Reflux](https://github.com/reflux/refluxjs)
+
+<!--
+http://facebook.github.io/flux/docs/testing-flux-applications.html
+-->
+
+Redux (React Stack)
+* [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
+
+<!--
+http://redux.js.org/docs/basics/UsageWithReact.html
+-->
+
+RxJS (React Stack)
+* [RxJS](http://reactivex.io/rxjs) and [RxJS GitHub](https://github.com/ReactiveX/rxjs)
+
+Next
+* [Next 2.0](https://zeit.co/blog/next2) and [Next 2.0 GitHub](https://github.com/zeit/next.js)
+
+Velocity React
+* [Velocity React](https://github.com/twitter-fabric/velocity-react)
+* [Velocity](http://velocityjs.org)
+
+Tern
+* [Tern](https://ternjs.net)
+
+Flow
+* [Flow](https://flow.org)
+
+Facebook- React Native (React Stack)
+* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
+
+JSX
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
+
+<!--
+https://www.npmjs.com/package/jsx
+http://buildwithreact.com/tutorial/jsx
+https://babeljs.io/docs/plugins/transform-react-jsx/
+http://www.sitepoint.com/getting-started-react-jsx
+-->
+
+Ionic Framework (React Stack)
+* [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
+
+Angular (React Stack)
+* [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
+* [Angular](http://angularjs.org), [Angular](https://angular.io) and [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
+* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
+* [Angular Protractor GitHub](https://github.com/angular/protractor)
+
+<!--
+https://www.npmjs.com/~angular
+https://github.com/angular/quickstart
+https://github.com/angular/angular-cli
+
+https://www.gitbook.com/book/rangle-io/ngcourse2/details
+https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
+https://angular.io/docs
+-->
+
+Vue
+* [Vue.js (Competitor to Ember, Knockout, Polymer)](https://vuejs.org) and [Vue.js GitHub](https://github.com/vuejs)
+* Polymer
+* Semantic UI
+
+<!--
+https://github.com/vuejs/vue-hackernews
+
+Semantic UI
+http://semantic-ui.com
+https://github.com/Semantic-Org/Semantic-UI 
+-->
+
+Lodash
+* [Lodash GitHub](https://github.com/lodash/lodash)
+
+Express (based on Sinatra) (React Stack)
+* [Express (based on Sinatra)](http://expressjs.com) 
+* [Sinatra GitHub](https://github.com/sinatra/sinatra)
+* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com) 
+
+<!--
+Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
+Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
+
+https://github.com/browsersync/recipes
+
+Minimizing CSS and JavaScript
+* [RequireJS](http://requirejs.org)
+-->
+
+ Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package manager))
+* [webpack](https://webpack.js.org), [webpack GitHub](https://github.com/webpack/webpack), and [webpack docs](https://webpack.github.io/docs)
+* [Browserify](http://browserify.org)
+* [rollup.js](http://rollupjs.org) 
+* JSPM 
+
+<!--
+* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
+-->
+
+Transpiling (Babel (React Stack), TypeScript (superset of JavaScript, enhancements/opinionated), Elm)
+* [Babel GitHub](https://github.com/babel/babel)
+* [TypeScript](https://www.typescriptlang.org) and [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript)
+
+<!--
+https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
+https://babeljs.io/docs/plugins
+
+http://www.typescriptlang.org/play/
+https://en.wikipedia.org/wiki/TypeScript
+-->
+
+More
+
+TodoMVC (See also JavaScript)
+* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples), and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
+
+MVCs General, Backbone, Ember
+* [Backbone](http://backbonejs.org)  
+* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
+* [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
+* [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
+* [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
+
+Other React Stack Helpers (See also ESLint and JSX)
+* [Facebook Immutable](https://facebook.github.io/immutable-js)
+* [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
+* [Relax (CMS) GitHub](https://github.com/relax/relax)
+
+Hapi, Koa (Express competitors) (React Stack) 
+* [Hapi](http://hapijs.com) and [Hapi GitHub](https://github.com/hapijs/hapi)
+* [Koa](http://koajs.com)
+
+Lesser Used Package Managers (Bower, JSPM, Jam, volo)
+* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
+* JSPM (JavaScript Package Manager, also bundles code)
 
 Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
@@ -3526,185 +3710,6 @@ Helper libraries (JSDOM, Cheerio)
 Assertion Libraries (Chai (most popular), should.js, expect)
 * [Chai](http://chaijs.com)
 
-Express (based on Sinatra), Hapi, Koa (React Stack)
-* [Express (based on Sinatra)](http://expressjs.com)  
-* [Sinatra GitHub](https://github.com/sinatra/sinatra)
-* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)  
-* [Hapi](http://hapijs.com) and [Hapi GitHub](https://github.com/hapijs/hapi)
-* [Koa](http://koajs.com)
-
-<!--
-Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
-Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
-
-https://github.com/browsersync/recipes
-
-Minimizing CSS and JavaScript
-* [RequireJS](http://requirejs.org)
--->
-
- Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package manager))
-* [webpack](https://webpack.js.org), [webpack GitHub](https://github.com/webpack/webpack), and [webpack docs](https://webpack.github.io/docs)
-* [Browserify](http://browserify.org)
-* [rollup.js](http://rollupjs.org) 
-* JSPM 
-
-<!--
-* [webpack How-To GitHub](https://github.com/petehunt/webpack-howto)
--->
-
-Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
-* [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
-* [JSHint](http://jshint.com)
-* [JSLint](http://jslint.org)
-
-<!--
-https://github.com/google/eslint-config-google
-
-http://eslint.org/docs/2.0.0/user-guide/configuring
-http://eslint.org/docs/rules/
-https://www.npmjs.com/package/eslint-plugin-react
-https://www.npmjs.com/package/eslint-plugin-angular
-https://www.npmjs.com/package/eslint-plugin-node
-
-Preset: ESLint standard rules
-https://www.npmjs.com/package/eslint-config-airbnb
-https://www.npmjs.com/package/eslint-config-defaults
-https://www.npmjs.com/package/eslint-config-standard
--->
-
-Transpiling (Babel (React Stack), TypeScript (superset of JavaScript, enhancements/opinionated), Elm)
-* [Babel GitHub](https://github.com/babel/babel)
-* [TypeScript](https://www.typescriptlang.org) and [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript)
-* [Elm](http://elm-lang.org) and [Elm GitHub](https://github.com/elm-lang)
-
-<!--
-https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
-https://babeljs.io/docs/plugins
-
-http://www.typescriptlang.org/play/
-https://en.wikipedia.org/wiki/TypeScript
--->
-
-TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples), and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
-
-MVCs General, Backbone, Ember
-* [Backbone](http://backbonejs.org)  
-* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
-* [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
-* [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
-* [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
-* [Vue.js (Competitor to Ember, Knockout, Polymer)](https://vuejs.org) and [Vue.js GitHub](https://github.com/vuejs)
-* Polymer
-
-<!--
-https://github.com/vuejs/vue-hackernews
-
-Semantic UI
-http://semantic-ui.com
-https://github.com/Semantic-Org/Semantic-UI 
--->
-
-Extension Languages
-* [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
-* [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
-* [HTML to Jade Converter](http://html2jade.aaron-powell.com)  
-* [Bootstrap Jade GitHub](https://github.com/SeraphimSerapis/Bootstrap-for-Jade)  
-* [Bootstrap for Jade (Node, Express, Grunt) GitHub](https://github.com/ALT-F1/bootstrap3-jade-node-express-grunt)  
-* [Handlebars](http://handlebarsjs.com) and [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
-* [Mustache](https://mustache.github.io/) and [Mustache GitHub](https://github.com/janl/mustache.js)  
-* [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
-* [Underscore](http://underscorejs.org)  
-* [Underscore GitHub](https://github.com/jashkenas/underscore)
-
-
-
-Angular (React Stack)
-* [W3Schools Angular Tutorial](http://www.w3schools.com/angular/default.asp)
-* [Angular](http://angularjs.org), [Angular](https://angular.io) and [Angular (Example Website) GitHub](https://github.com/angular/angularjs.org)  
-* [Angular Material](https://material.angularjs.org) and [Angular Material GitHub](https://github.com/angular/material)
-* [Angular Protractor GitHub](https://github.com/angular/protractor)
-
-<!--
-https://www.npmjs.com/~angular
-https://github.com/angular/quickstart
-https://github.com/angular/angular-cli
-
-https://www.gitbook.com/book/rangle-io/ngcourse2/details
-https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
-https://angular.io/docs
--->
-
-Facebook- React (JavaScript)
-* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react) 
-* [Facebook React Dev Tools GitHub](https://github.com/facebook/react-devtools)
-* [Facebook React- Getting Started](http://facebook.github.io/react/docs/getting-started.html)
-* [React Community](http://reactjs.net) and [React Community GitHub](https://github.com/reactjs)
-* [React How-To GitHub](https://github.com/petehunt/react-howto)
-* [React Components](http://react-components.com)
-* [React JSFiddle](https://jsfiddle.net/reactjs)
-
-<!--
-https://microsoft.github.io/reactxp
--->
-
-React Relay (React Stack)
-* [Facebook Relay GitHub](https://github.com/facebook/relay)
-
-React Bootstrap (React Stack)
-* [React Bootstrap](http://react-bootstrap.github.io) and [React Bootstrap GitHub](https://github.com/react-bootstrap/react-bootstrap)
-
-React-Router (React Stack)
-* [React-Router GitHub](https://github.com/reactjs/react-router)
-
-Facebook- React Native (React Stack)
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
-
-
-
-
-JSX
-* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
-* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
-
-<!--
-https://www.npmjs.com/package/jsx
-http://buildwithreact.com/tutorial/jsx
-https://babeljs.io/docs/plugins/transform-react-jsx/
-http://www.sitepoint.com/getting-started-react-jsx
--->
-
-
-Ionic Framework (React Stack)
-* [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
-
-Flux (React Stack)
-* [Facebook Flux](https://facebook.github.io/flux), [Facebook Flux Overview](https://facebook.github.io/flux/docs/overview.html), and [Facebook React Flux Overview](https://facebook.github.io/react/docs/flux-overview.html)
-* [Reflux](https://github.com/reflux/refluxjs)
-
-<!--
-http://facebook.github.io/flux/docs/testing-flux-applications.html
--->
-
-Redux (React Stack)
-* [Redux](http://redux.js.org/index.html) and [Redux GitHub](https://github.com/reactjs/redux)
-
-<!--
-http://redux.js.org/docs/basics/UsageWithReact.html
--->
-
-Other React Stack Helpers (See also ESLint and JSX)
-* [Facebook Immutable](https://facebook.github.io/immutable-js)
-* [JSON Web Tokens (JWT)](https://jwt.io) based on [RFC 7519](https://tools.ietf.org/html/rfc7519)
-* [ReactiveX](http://reactivex.io/rxjs) and [ReactiveX GitHub](https://github.com/ReactiveX/rxjs)
-* [Relax (CMS) GitHub](https://github.com/relax/relax)
-
-
-
-
 Node Add-ons
 * [Node GeoIP GitHub](https://github.com/bluesmoon/node-geoip)  
 * [Nodemon GitHub](https://github.com/remy/nodemon)  
@@ -3723,9 +3728,23 @@ Yo/Yeoman (Bower, Grunt)
 * [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
 
 Other JavaScript Helpers
-* [Lodash GitHub](https://github.com/lodash/lodash)
 * [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
+
+Elm
+* [Elm](http://elm-lang.org) and [Elm GitHub](https://github.com/elm-lang)
+
+Extension Languages
+* [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
+* [Jade Syntax Documentation by Example](http://naltatis.github.io/jade-syntax-docs)  
+* [HTML to Jade Converter](http://html2jade.aaron-powell.com)  
+* [Bootstrap Jade GitHub](https://github.com/SeraphimSerapis/Bootstrap-for-Jade)  
+* [Bootstrap for Jade (Node, Express, Grunt) GitHub](https://github.com/ALT-F1/bootstrap3-jade-node-express-grunt)  
+* [Handlebars](http://handlebarsjs.com) and [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
+* [Mustache](https://mustache.github.io/) and [Mustache GitHub](https://github.com/janl/mustache.js)  
+* [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
+* [Underscore](http://underscorejs.org)  
+* [Underscore GitHub](https://github.com/jashkenas/underscore)
 
 Meteor
 * [Meteor](https://www.meteor.com)
