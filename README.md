@@ -3208,7 +3208,8 @@ ECMAScript and ES6, ES7 Forthcoming
 <!--
 Standards Org
 http://www.ecmascript.org
-
+http://www.ecma-international.org
+Ecma International - European association for standardizing information and communication systems.
 http://standardjs.com/index.html
 
 5 Module Formats
@@ -3221,74 +3222,6 @@ http://standardjs.com/index.html
 
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
-
-
-
-<!--
-http://eloquentjavascript.net/13_dom.html
-
-http://webmasters.stackexchange.com/questions/8525/how-to-open-the-javascript-console-in-different-browsers
-http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/
-Advanced Debugging with Chrome
-https://docs.google.com/presentation/d/17HjGp4pQlNh2WIwKiTcUpDLIuOdkUcRmALFuoytQsjU/preview?slide=id.p
-
-Misc. Possibly duplicates
-http://www.w3schools.com/jsref/jsref_split.asp
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Array_comprehensions
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random
--->
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Details_of_the_Object_Model
-
-https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-Prototype-based Programming
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
-https://developer.mozilla.org/en-US/docs/DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
-
-https://www.mathsisfun.com/combinatorics/combinations-permutations.html
-https://www.mathsisfun.com/least-common-multiple.html
-http://www.mathsisfun.com/roman-numerals.html
-
-https://dev.w3.org/html5/html-author/charref
-https://www.youtube.com/watch?v=PxffSUQRkG4
-
-https://en.wikipedia.org/wiki/Unobtrusive_JavaScript
-
-https://en.wikipedia.org/wiki/JavaScript_syntax
-https://en.wikipedia.org/wiki/JavaScript_library
-https://en.wikipedia.org/wiki/JavaScript_engine
-
-https://en.wikipedia.org/wiki/List_of_Ajax_frameworks#JavaScript
-https://en.wikipedia.org/wiki/Comparison_of_web_frameworks#JavaScript
-https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
-
-Eloquent JavaScript
-http://eloquentjavascript.net/chapter6.html
-http://eloquentjavascript.net/chapter8.html  
-
-http://chimera.labs.oreilly.com/books/1234000000262/pr01.html#who_this_book_is_for
-
-https://developers.google.com/web/updates/2016/02/es2015-proxies
-
-http://www.ecma-international.org
-Ecma International - European association for standardizing information and communication systems.
-
-https://nodejs.org/en/docs/es6
-
-https://es5.github.io
-https://github.com/es5/es5.github.io
-https://github.com/sgaurav/understanding-es6
-
-https://twitter.com/kentcdodds/status/710701170268831744
--->
 
 #### AJAX, jQuery, JSON
 
@@ -3666,10 +3599,7 @@ Extension Languages
 Meteor
 * [Meteor](https://www.meteor.com)
 
-JavaScript Presentations Frameworks
-* [Slides.com (reveal.js)](https://slides.com)
-* [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
-* [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
+
 
 <!--
 https://github.com/airbnb/enzyme
@@ -11466,8 +11396,10 @@ Photo Editing, Video, Music
 * [Instagram Hyperlapse](http://hyperlapse.instagram.com)
 * [Jukedeck](https://www.jukedeck.com)
 
-Presentations (See also JavaScript Presentations Frameworks)
+Presentations (Including JavaScript Presentations Frameworks)
 * [Slides.com (reveal.js)](https://slides.com)
+* [Reveal.js](https://github.com/hakimel/reveal.js) and [Reveal.js Example Presentations](https://github.com/hakimel/reveal.js/wiki/Example-Presentations)
+* [Chartbuilder Slides](http://yanofsky.info/demos/chartbuilder/slides)
 * [SlideShare](www.slideshare.net)
 * [Slideshare Developers](http://www.slideshare.net/developers), [Slideshare Insight](http://www.slideshare.net/insight), [Slideshare Features](http://www.slideshare.net/features)
 * [Slideshare Creator Tools](http://www.slideshare.net/ss/creators/tools), [Slideshare Haiku Deck](https://www.slideshare.net/create), and [Haiku Deck](https://www.haikudeck.com)
