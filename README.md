@@ -301,6 +301,10 @@ Twitch Creative- Accounts
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 * [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
 
+<!--
+https://code.google.com/codejam
+-->
+
 Robotics and/or Geared toward Kids
 * [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
 * [Arduino](https://www.arduino.cc)
@@ -2772,6 +2776,7 @@ Foundation
 * [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 * [Foundation for Emails](http://foundation.zurb.com/emails.html)
 * [Zurb Library](http://zurb.com/library)
+* [Foundation Building Blocks](http://foundation.zurb.com/building-blocks)
 
 <!--
 https://github.com/daigofuji/jekyll-foundation-5-starter
@@ -3559,19 +3564,16 @@ https://github.com/caolan/async
 -->
 
 <!--
+New
+http://andrewhfarmer.com/starter-project/
+https://github.com/facebook/react-devtools
+https://github.com/airbnb/react-sketchapp
 https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
-
-https://github.com/necolas/react-native-web
 
 http://buildwithreact.com
 https://facebook.github.io/react/docs/tutorial.html
 https://facebook.github.io/react/docs/thinking-in-react.html
 https://facebook.github.io/react/docs/getting-started.html#quick-start-without-npm
--->
-
-<!--
-* [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
-* [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 
 https://reactcommunity.org/
 https://github.com/reactjs/react-basic
@@ -3580,24 +3582,37 @@ https://github.com/reactjs/react-router-redux
 https://github.com/reactjs/react-tutorial
 
 https://github.com/petehunt/react-webpack-template
+https://github.com/elementalui/elemental
+
+https://github.com/wix
+https://github.com/wix/react-templates-transform-boilerplate
+https://github.com/wix/generator-react-templates
+https://github.com/wix/hello-react-templates
+http://wix.github.io/react-templates
+-->
+
+<!--
+* [React Toolbox GitHub](https://github.com/react-toolbox/react-toolbox)
+* [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
+
+https://github.com/andrewliebchen/prototyper-deux
+https://github.com/ericvicenti/intro-to-react
+https://github.com/react-community/create-react-native-app
+https://github.com/jevakallio/redux-offline
+https://github.com/vasanthk/react-bits
+https://github.com/reactide/reactide
+https://github.com/coryhouse/ps-react
+https://github.com/necolas/react-native-web
 
 https://github.com/mjackson/web-starter
 https://github.com/bonniee/react-starter
 https://github.com/gaearon/react-transform-boilerplate
-https://github.com/gaearon/react-hot-boilerplate
 https://github.com/mxstbr/react-boilerplate
 https://github.com/tj/frontend-boilerplate
 https://github.com/pheuter/essential-react
-https://github.com/RickWong/react-isomorphic-starterkit
 https://github.com/benoitvallon/react-native-nw-react-calculator
-https://github.com/kriasoft/react-starter-kit
-https://github.com/krasimir/react-webpack-starter
 https://github.com/geniuscarrier/webpack-boilerplate
 https://github.com/ruanyf/react-babel-webpack-boilerplate
-https://github.com/erikras/react-redux-universal-hot-example
-https://github.com/davezuko/react-redux-starter-kit
-https://github.com/coryhouse/react-slingshot
-https://github.com/elementalui/elemental
 https://github.com/ryanflorence/react-project
 
 https://github.com/gaearon/redux-devtools
@@ -3615,12 +3630,6 @@ https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongo
 
 http://www.sitepoint.com/introduction-gulp-js/
 http://isomorphic.net
-
-https://github.com/wix
-https://github.com/wix/react-templates-transform-boilerplate
-https://github.com/wix/generator-react-templates
-https://github.com/wix/hello-react-templates
-http://wix.github.io/react-templates/
 
 https://github.com/react-native-material-design/demo-app
 -->
@@ -3813,6 +3822,11 @@ Jekyll
 * [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
+New
+https://help.shopify.com/themes/liquid/filters
+https://github.com/planetjekyll/awesome-jekyll-plugins
+
+
 http://jekyllbootstrap.com/lessons/jekyll-introduction.html
 https://jekyll.github.io/jekyll-assets
 
@@ -11013,6 +11027,9 @@ Payments
 * [Dwolla](https://www.dwolla.com) 
 
 <!--
+https://stripe.com/docs/sources/ideal
+https://www.paypal.com/de/webapps/mpp/ua/third-parties-list?locale.x=en_US
+
 https://www.paypal.com/webapps/mpp/get-started/donate-button
 https://developer.paypal.com/docs/classic/payflow/gs_ppa_hosted_pages
 
@@ -11348,6 +11365,10 @@ Exploration
 Google for Education
 * [Google Classroom](https://www.google.com/edu/products/productivity-tools/classroom)
 * [Google Course Builder](https://code.google.com/p/course-builder)
+
+<!--
+https://classroom.google.com/u/0/h
+-->
 
 Foreign Language
 * [Duolingo](https://en.duolingo.com), [Duolingo Words](https://www.duolingo.com/words), and [Duolingo Mobile](https://www.duolingo.com/mobile)
