@@ -9,6 +9,7 @@ A :star::star::star::star::star: curated list of high quality resources (mostly 
 Update: This list has become larger than ever intended and is nearing a point of being too large to be rendered by GitHub. Parts of it are being spun out into smaller lists. 
 
 <!--
+JavaScript Stack
 https://github.com/KatherineMichel/tech-and-funding-toolkit
 https://github.com/KatherineMichel/favorite-learning-resources
 https://github.com/KatherineMichel/front-end-development-process
@@ -261,8 +262,12 @@ Fave Pluralsight Authors
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook)
+* [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
+* [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
+* [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
+* [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
 
 The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
@@ -503,37 +508,6 @@ Swift Styleguide
 #### Basics
 
 #### Computer Basics
-
-<!--
-From Eric Elliot
-https://en.wikipedia.org/wiki/Programming_paradigm
-
-https://en.wikipedia.org/wiki/Object-oriented_programming
-https://en.wikipedia.org/wiki/Functional_programming
-https://en.wikipedia.org/wiki/Function_composition
-https://en.wikipedia.org/wiki/Higher-order_function
-https://en.wikipedia.org/wiki/First-class_function
-https://en.wikipedia.org/wiki/Pure_function
-https://en.wikipedia.org/wiki/Purely_functional_programming
-https://en.wikipedia.org/wiki/Prototype-based_programming
-https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
-
-https://en.wikipedia.org/wiki/Turing_completeness
-https://en.wikipedia.org/wiki/Turing_machine
-https://en.wikipedia.org/wiki/Recursion_(computer_science)
-https://en.wikipedia.org/wiki/Object_composition#Recursive_composition
-https://en.wikipedia.org/wiki/Lambda_calculus
-
-https://en.wikipedia.org/wiki/Closure_(computer_programming)
-https://en.wikipedia.org/wiki/Currying
-https://en.wikipedia.org/wiki/Functor
-https://en.wikipedia.org/wiki/Partial_application
-https://en.wikipedia.org/wiki/Immutable_object
-https://en.wikipedia.org/wiki/Monad_(functional_programming)
-
-https://en.wikipedia.org/wiki/Abstract_syntax_tree
-https://en.wikipedia.org/wiki/Parse_tree
--->
 
 <!--
 https://en.wikipedia.org/wiki/Computer_architecture
@@ -3209,6 +3183,24 @@ CommonJS
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
 * [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
 
+<!--
+Web Assembly
+https://en.wikipedia.org/wiki/WebAssembly
+http://wsl-guide.org/en/latest/
+http://webassembly.org/
+https://developer.mozilla.org/en-US/docs/WebAssembly
+https://github.com/webassembly
+https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
+
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+
+Comparison of Layout Engines (By DOM and ECMA Script)
+* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
+* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
+* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
+* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
+-->
+
 ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
@@ -3230,18 +3222,7 @@ http://standardjs.com/index.html
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
 
-<!--
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
--->
 
 <!--
 http://eloquentjavascript.net/13_dom.html
@@ -3393,16 +3374,8 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 #### JavaScript Frameworks
 
 <!--
-https://vimeo.com/101269995
-
-https://babeljs.io
-
-https://en.wikipedia.org/wiki/WebAssembly
-http://wsl-guide.org/en/latest/
-http://webassembly.org/
-https://developer.mozilla.org/en-US/docs/WebAssembly
-https://github.com/webassembly
-https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
+* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 -->
 
 #### JavaScript Tools
@@ -3564,6 +3537,9 @@ Semantic UI
 http://semantic-ui.com
 https://github.com/Semantic-Org/Semantic-UI 
 
+
+
+https://babeljs.io
 https://babeljs.io/docs/plugins/#stage-x-experimental-presets-
 https://babeljs.io/docs/plugins
 
