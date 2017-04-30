@@ -254,6 +254,7 @@ Math and General Knowledge
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
+* [Math is Fun](http://www.mathsisfun.com)
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
@@ -1291,14 +1292,12 @@ http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-
 https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
 
 https://github.com/contact
-https://github.com/blog/subscribe
 
 http://githubuniverse.com/watch
 https://github.com/universe-2016
 
 https://git-for-windows.github.io
 
-https://github.com/features
 https://github.com/business/customers
 https://github.com/github-tools
 https://github.com/showcases/projects-with-great-wikis
@@ -1312,7 +1311,6 @@ https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
 * [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
 
 https://en.wikipedia.org/wiki/Open-source_model
-https://opensource.guide/
 https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 https://github.com/github/open-source-guide
 https://github.com/github/maturity-model
@@ -1357,18 +1355,8 @@ https://services.github.com/on-demand/downloads/subversion-migration/
 
 https://help.github.com/enterprise
 
-https://developer.github.com
 https://pages.github.com
 
-Recommended
-https://www.git-tower.com
-https://git-scm.com/book
-https://git-scm.com/book/en/v2
-https://git-scm.com/docs
-https://git-scm.com/documentation
-https://github.com/blog
-https://github.com/progit/progit2
-http://gitref.org
 http://www.atlassian.com/git/tutorial
 
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing
@@ -1439,6 +1427,8 @@ https://ifttt.com/github/recipes
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
 * [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
+* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1) 
 
 Git Origin
 * [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
@@ -1448,17 +1438,14 @@ Git Origin
 
 Git
 * [Git Homepage](https://git-scm.com)
-* [Git Book](http://git-scm.com/book)
-* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1)  
- 
-Learn X in Y Minutes Git
-* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
-
+  
 Git- Official Learning Resources
 * [Try Git](https://try.github.io)
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+
+Learn X in Y Minutes Git
+* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
 
 Git Cheat Sheets and Tutorials
 * [Git Index](http://gitref.org)  
@@ -3128,27 +3115,6 @@ Accelerated Mobile Pages (AMP HTML)
 
 #### JavaScript
 
-<!--
-
-https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps
-https://developers.google.com/web/tools/chrome-devtools/javascript/source-maps#enable_source_maps_in_settings
-https://developer.mozilla.org/en-US/docs/Tools/Debugger/How_to/Use_a_source_map
-http://blog.teamtreehouse.com/introduction-source-maps
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode
-https://developer.mozilla.org/en-US/docs/Web/API/Headers
-
-http://www.w3schools.com/js/js_hoisting.asp
-https://github.com/mdn/beginner-html-site-scripted/blob/gh-pages/scripts/main.js
-
-Binary Operands
-https://www.techopedia.com/definition/23953/binary-operator
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence
-
-DOM Tree/Parent Child
-https://www.google.com/search?q=node+parent+child&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiBmrGNu6jMAhXmloMKHWbVBmAQ_AUIBygB&biw=1365&bih=543#tbm=isch&q=dom+parent+child
--->
-
 JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
@@ -3205,12 +3171,17 @@ ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
+ECMA Standards
+* [ECMA International](http://www.ecma-international.org)
+
 <!--
-Standards Org
-http://www.ecmascript.org
-http://www.ecma-international.org
-Ecma International - European association for standardizing information and communication systems.
 http://standardjs.com/index.html
+
+https://nodejs.org/en/docs/es6
+https://github.com/mjavascript/practical-es6
+https://github.com/lukehoban/es6features
+http://es6-features.org/#Constants
+https://github.com/sgaurav/understanding-es6
 
 5 Module Formats
 * IIFE (thing of the past)
@@ -3371,21 +3342,6 @@ Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLin
 * [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
 * [JSHint](http://jshint.com)
 * [JSLint](http://jslint.org)
-
-<!--
-https://github.com/google/eslint-config-google
-
-http://eslint.org/docs/2.0.0/user-guide/configuring
-http://eslint.org/docs/rules/
-https://www.npmjs.com/package/eslint-plugin-react
-https://www.npmjs.com/package/eslint-plugin-angular
-https://www.npmjs.com/package/eslint-plugin-node
-
-Preset: ESLint standard rules
-https://www.npmjs.com/package/eslint-config-airbnb
-https://www.npmjs.com/package/eslint-config-defaults
-https://www.npmjs.com/package/eslint-config-standard
--->
 
 Progressive Web Apps
 * [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
@@ -3599,24 +3555,26 @@ Extension Languages
 Meteor
 * [Meteor](https://www.meteor.com)
 
-
-
 <!--
+New
+https://www.codecademy.com/learn/react-101
+
+Node.js Debugger
+http://nodejs.org/api/debugger.html#debugger_breakpoints
+http://nodejs.org/api/debugger.html
+
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
 https://github.com/airbnb/enzyme
 
 https://github.com/touchstonejs/touchstonejs
 https://github.com/feathersjs/feathers
 
-https://www.npmjs.com/package/eslint-config-airbnb
-
 https://github.com/nodejs/node-eps/pull/3
 https://github.com/nodejs/node-eps
 
 http://redux.js.org/docs/basics/Reducers.html
-
-Node.js Debugger
-http://nodejs.org/api/debugger.html#debugger_breakpoints
-http://nodejs.org/api/debugger.html
 
 https://nodejs.org/metrics/#versions
 https://github.com/sequelize/sequelize
@@ -3624,18 +3582,7 @@ https://github.com/caolan/async
 -->
 
 <!--
-New
-https://www.codecademy.com/learn/react-101
-
-https://github.com/facebookincubator/create-react-app
--->
-
-<!--
 https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
-
-https://github.com/enaqx/awesome-react#example-apps
-https://github.com/jondot/awesome-react-native
-https://github.com/xgrommx/awesome-redux
 
 https://github.com/necolas/react-native-web
 
@@ -3685,9 +3632,6 @@ https://github.com/ryanflorence/react-project
 https://github.com/gaearon/redux-devtools
 
 https://github.com/iSimar/HackerNews-React-Native
-https://github.com/mjavascript/practical-es6
-https://github.com/lukehoban/es6features
-http://es6-features.org/#Constants
 https://github.com/markerikson/react-redux-links
 https://github.com/ruanyf/react-demos
 https://github.com/ele828/react-native-guide
@@ -3701,6 +3645,7 @@ https://hackhands.com/building-instagram-clone-angularjs-satellizer-nodejs-mongo
 http://www.sitepoint.com/introduction-gulp-js/
 http://isomorphic.net
 
+https://github.com/wix
 https://github.com/wix/react-templates-transform-boilerplate
 https://github.com/wix/generator-react-templates
 https://github.com/wix/hello-react-templates
@@ -3714,9 +3659,6 @@ https://facebook.github.io/react-native/docs/embedded-app-ios.html
 -->
 
 <!--
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
 Minimizing CSS and JavaScript
 https://django-pipeline.readthedocs.org/en/latest
 http://django-compressor.readthedocs.org/en/latest
@@ -6885,6 +6827,8 @@ Types of Databases
 * [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
 
 <!--
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+
 http://en.wikipedia.org/wiki/Database_normalization
 http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 
@@ -11716,6 +11660,7 @@ Awesome Python and Django
 * [Awesome Material GitHub](https://github.com/sachin1092/awesome-material)
 * [Awesome React GitHub](https://github.com/enaqx/awesome-react)
 * [Awesome React Native GitHub](https://github.com/jondot/awesome-react-native)
+* [Awesome Redux GitHub](https://github.com/xgrommx/awesome-redux)
 * [Awesome Node.js GitHub](https://github.com/sindresorhus/awesome-nodejs#bloggin) 
 
 Awesome Data Science
