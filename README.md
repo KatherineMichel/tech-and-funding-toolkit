@@ -1363,7 +1363,6 @@ https://help.github.com/enterprise
 https://pages.github.com
 
 http://www.atlassian.com/git/tutorial
-
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing
 https://www.youtube.com/user/GitHubGuides
 https://www.git-tower.com/blog/git-cheat-sheet/
@@ -1496,32 +1495,22 @@ https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-no
 GitHub Business
 * [GitHub Business](https://github.com/business)
 
-GitHub Organizations
+GitHub Organizations Dashboard
 * [GitHub Organizations](https://github.com/account/organizations/new)
 
-<!--
-https://help.github.com/articles/about-organizations
-https://help.github.com/articles/publicizing-or-hiding-organization-membership
--->
+GitHub Organizations
+* [About Organizations](https://help.github.com/articles/about-organizations)
 
 Gist
 * [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
 
-<!--
-https://hub.github.com
-https://hub.github.com/hub.1.html
-https://github.com/github/hub
--->
+Hub
+* [Hub](https://hub.github.com) and [Hub GitHub](https://github.com/github/hub)
 
 GitHub- More
 * [GitHub DCMA](https://github.com/github/dmca)
 * [Octokit](https://github.com/octokit) 
 * [Education Pack](https://education.github.com/pack)
-
-<!--
-Student Developer Pack
-Atom, AWS Educate, Bitnami, CrowdFlower, DataDog, Hack Hands, Taplytics, Thinkful, Transifex
--->
 
 GitHub- Trending
 * [GitHub Trending](https://github.com/trending)
@@ -1580,6 +1569,10 @@ http://getgitorious.com
 https://github.com/tv42/gitosis
 
 One Click Deploy
+
+https://bitbucket.org/product/features
+https://about.gitlab.com/
+https://sourceforge.net/p/forge/documentation/Git/
 
 https://www.atlassian.com/software-trends
 -->
@@ -1812,10 +1805,6 @@ Apple iOS
 
 MacPorts
 * [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
-
-<!--
-www.macports.org
--->
 
 Mac OS X Directory Strucure and Listing Applications
 * [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
