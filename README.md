@@ -3088,7 +3088,7 @@ DevCenter (Developer Center/API)
 
 #### Facebook and Google Design and Development Approaches
 
-Facebook
+Facebook and Google Design
 * [Facebook Design](http://facebook.design) and [Facebook Design GitHub](http://facebook.github.io/design) 
 
 Google
@@ -3137,10 +3137,9 @@ JavaScript Books and Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
 
-* [Eloquent JavaScript](http://eloquentjavascript.net) and [Eloquent JavaScript Code Sandbox](http://eloquentjavascript.net/code)
-* [You Don't Know JavaScript GitHub](https://github.com/getify/You-Dont-Know-JS)
-
 <!--
+http://www.w3schools.com/js/js_reserved.asp
+
 http://learnjsthehardway.com
 -->
 
@@ -3150,10 +3149,6 @@ JavaScript Tutorials- Mozilla
 * [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-
-<!--
-http://www.w3schools.com/js/js_reserved.asp
--->
 
 CommonJS
 * [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
@@ -3349,22 +3344,8 @@ Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLin
 * [JSHint](http://jshint.com)
 * [JSLint](http://jslint.org)
 
-Progressive Web Apps
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps), [Google Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp)
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-
 <!--
-https://developers.google.com/web/ilt/pwa/
-https://developers.google.com/web/tools/starter-kit/
-
-Progressive Web app Testing
-https://github.com/GoogleChrome/lighthouse
-
 https://developers.google.com/web/showcase
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app/
 -->
 
 See: Eric Elliot-inspired React Stack
