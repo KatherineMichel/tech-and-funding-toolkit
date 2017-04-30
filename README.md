@@ -3146,6 +3146,14 @@ JavaScript Books and Tutorials
 http://www.w3schools.com/js/js_reserved.asp
 
 http://learnjsthehardway.com
+
+https://jsfiddle.net
+https://developer.mozilla.org/en-US/docs/Tools/Scratchpad
+
+https://github.com/myshov/history-of-javascript
+https://github.com/verekia/js-stack-from-scratch
+https://github.com/sorrycc/awesome-javascript
+https://github.com/ryanmcdermott/clean-code-javascript
 -->
 
 JavaScript Tutorials- Mozilla
@@ -3567,7 +3575,6 @@ https://github.com/caolan/async
 New
 http://andrewhfarmer.com/starter-project/
 https://github.com/facebook/react-devtools
-https://github.com/airbnb/react-sketchapp
 https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html
 
 http://buildwithreact.com
@@ -3581,6 +3588,9 @@ https://github.com/reactjs/react-redux
 https://github.com/reactjs/react-router-redux
 https://github.com/reactjs/react-tutorial
 
+https://github.com/ericvicenti/intro-to-react
+https://github.com/coryhouse/ps-react
+
 https://github.com/petehunt/react-webpack-template
 https://github.com/elementalui/elemental
 
@@ -3589,6 +3599,8 @@ https://github.com/wix/react-templates-transform-boilerplate
 https://github.com/wix/generator-react-templates
 https://github.com/wix/hello-react-templates
 http://wix.github.io/react-templates
+
+https://github.com/airbnb/react-sketchapp
 -->
 
 <!--
@@ -3596,12 +3608,10 @@ http://wix.github.io/react-templates
 * [React Material-UI (Google Material Design)](https://github.com/callemall/material-ui)
 
 https://github.com/andrewliebchen/prototyper-deux
-https://github.com/ericvicenti/intro-to-react
 https://github.com/react-community/create-react-native-app
 https://github.com/jevakallio/redux-offline
 https://github.com/vasanthk/react-bits
 https://github.com/reactide/reactide
-https://github.com/coryhouse/ps-react
 https://github.com/necolas/react-native-web
 
 https://github.com/mjackson/web-starter
