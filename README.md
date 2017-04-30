@@ -3176,6 +3176,7 @@ ECMA Standards
 <!--
 http://www.ecma-international.org/publications/standards/Ecma-262.htm
 http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
 
 http://standardjs.com/index.html
 
