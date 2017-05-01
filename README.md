@@ -246,6 +246,8 @@ Courses (See also MOOCs)
 Forums
 
 <!--
+https://github.com/pluralsight-projects
+
 https://discuss.codecademy.com/top/all
 https://teamtreehouse.com/community
 -->
@@ -272,6 +274,7 @@ Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
+* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
@@ -284,6 +287,9 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 
 The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+
+Competitions
+* [Code Jam](https://code.google.com/codejam)
 
 Programming Books
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
@@ -300,10 +306,6 @@ Twitch Creative- Accounts
 * [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 * [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
-
-<!--
-https://code.google.com/codejam
--->
 
 Robotics and/or Geared toward Kids
 * [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
@@ -1910,9 +1912,10 @@ Chrome Extensions
 * [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
 * [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
 * [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
 * [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 * [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
 
 <!--
 chrome://apps
@@ -2343,17 +2346,6 @@ Net Promoter
 Design- General 
 * [Matt Mullenweg: "Designer's Creed"](http://ma.tt/2015/01/designers-creed)
  
-Design Publications
-* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-* [Smashing Magazine](http://www.smashingmagazine.com) 
-* [Tympanus](http://tympanus.net)
-* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
- 
- <!--
- https://webdesign.tutsplus.com
- -->
- 
 Portfolio and Community Websites
 * [Behance](https://www.behance.net)  
 * [Dribbble](https://dribbble.com) and [Dribble Shots](https://dribbble.com/shots)
@@ -2511,11 +2503,6 @@ Photo Enhancement
 Gifs
 * [Giphy](http://giphy.com) 
 
-
-<!--
-https://en.wikipedia.org/wiki/CMYK_color_model
--->
-
 <!--
 https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content
 
@@ -2549,29 +2536,11 @@ https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c
 Fonts
 http://www.cssfontstack.com
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
-
-Em
-http://www.w3schools.com/tags/tag_em.asp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/em
-https://en.wikipedia.org/wiki/Em_(typography)
-
-@font-face
-https://www.w3schools.com/cssref/css3_pr_font-face_rule.asp
-https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face
-http://www.font-face.com
 -->
 
 <!--
 https://developers.google.com/fonts/faq#can_i_download_the_fonts_on_google_fonts_to_my_own_computer
 https://docs.gimp.org/en/gimp-tool-text.html
-
-https://en.wikipedia.org/wiki/X-height
-Line height
-https://en.wikipedia.org/wiki/Leading
-https://en.wikipedia.org/wiki/Kerning
-Tracking text
-https://en.wikipedia.org/wiki/Letter-spacing
-https://en.wikipedia.org/wiki/Italic_type
 
 https://en.wikipedia.org/wiki/Gill_Sans
 https://www.microsoft.com/typography/Fonts/family.aspx?FID=331
@@ -3093,10 +3062,6 @@ Facebook and Google Design
 
 Google
 * [Google Roboto GitHub](https://github.com/google/roboto) 
-  
-* [Google Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals: GitHub](https://github.com/google/WebFundamentals), and [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
 
 Google Material Design (See also Facebook React)
 Bootstrap Material Design
@@ -3105,12 +3070,6 @@ Polymer (See also Facebook React)
 Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
-
-
-
-
-
 
 #### JavaScript
 
@@ -3128,6 +3087,7 @@ http://www.w3schools.com/js/js_reserved.asp
 http://learnjsthehardway.com
 
 https://jsfiddle.net
+https://jsbin.com
 https://developer.mozilla.org/en-US/docs/Tools/Scratchpad
 
 https://github.com/myshov/history-of-javascript
@@ -3137,11 +3097,6 @@ https://github.com/ryanmcdermott/clean-code-javascript
 -->
 
 JavaScript Tutorials- Mozilla
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [A Re-introduction to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 
 CommonJS
 * [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
@@ -3158,13 +3113,13 @@ https://github.com/webassembly
 https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
 
 * [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
+-->
 
 Comparison of Layout Engines (By DOM and ECMA Script)
 * [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
 * [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
 * [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
 * [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
--->
 
 ECMAScript and ES6, ES7 Forthcoming
 * [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
@@ -3194,6 +3149,7 @@ https://github.com/sgaurav/understanding-es6
 * ES6 Modules (import jQuery from 'jquery') (best choice)
 -->
 
+JavaScript Libraries/Frameworks
 * [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 
@@ -3330,44 +3286,39 @@ Security Scanning (checking all the packages for any known vulnerabilities)
 * [Node Security Platform](https://nodesecurity.io)
 * retire.js
 
-Automation
-* [npm scripts](https://docs.npmjs.com/misc/scripts)
-* [Cory House: "Why I Left Gulp and Grunt for npm Scripts"](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
-* [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
-* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
-
-Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
-* [ESLint](http://eslint.org), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
-* [JSHint](http://jshint.com)
-* [JSLint](http://jslint.org)
-
 <!--
 https://developers.google.com/web/showcase
 -->
 
 See: Eric Elliot-inspired React Stack
 [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
-Progressive Web Apps
-Facebook- React
-Create React App
-React Bootstrap
-React-Router
-Flux
-Redux
-RxJS 
-Next
-Velocity React
-Tern
-Flow
-Angular 2+
-Babel, TypeScript
-Webpack
-Lodash
-Vue
-Node/Express (based on Sinatra)
+* Progressive Web Apps
+* Node, Yarn
+* NPM
+* ESLint
+* Facebook- React
+* Create React App
+* React Bootstrap
+* React-Router
+* Flux
+* Redux
+* RxJS 
+* Next
+* Velocity React
+* Tern
+* Flow
+* Angular 2+
+* Babel, TypeScript
+* Webpack
+* Lodash
+* Vue
+* Node/Express (based on Sinatra)
+
+See: Cory House-inspired React Stack
+* npm Scripts
+* JSX
 
 Facebook- React (JavaScript)
-* [Facebook React](http://facebook.github.io/react) and [Facebook React GitHub](https://github.com/facebook/react)
 
 Microsoft React
 * [Microsoft ReactXP](https://microsoft.github.io/reactxp)
@@ -3382,20 +3333,6 @@ Facebook- React Native (React Stack)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
-
-JSX
-* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
-* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://facebook.github.io/react/docs/jsx-in-depth.html)
-
-<!--
-https://www.npmjs.com/package/jsx
-http://buildwithreact.com/tutorial/jsx
-https://babeljs.io/docs/plugins/transform-react-jsx/
-http://www.sitepoint.com/getting-started-react-jsx
--->
-
-Ionic Framework (React Stack)
-* [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
 
 <!--
 http://facebook.github.io/flux/docs/testing-flux-applications.html
@@ -3435,6 +3372,14 @@ MVCs General, Backbone, Ember
 * [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
 * [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
 
+Automation
+* [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
+* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
+
+Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
+* [JSHint](http://jshint.com), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
+* [JSLint](http://jslint.org)
+
 Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package manager))
 * [Browserify](http://browserify.org)
 * [rollup.js](http://rollupjs.org) 
@@ -3442,6 +3387,9 @@ Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package 
 
 Semantic UI
 * [Semantic UI](http://semantic-ui.com) and [Semantic UI GitHub](https://github.com/Semantic-Org/Semantic-UI)
+
+Ionic Framework (React Stack)
+* [Ionic](http://ionicframework.com) and [Ionicons GitHub](https://github.com/driftyco/ionicons)
 
 Other React Stack Helpers (See also ESLint and JSX)
 * [Facebook Immutable](https://facebook.github.io/immutable-js)
@@ -3460,11 +3408,12 @@ Lesser Used Package Managers (Bower, JSPM, Jam, volo)
 * [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
 * JSPM (JavaScript Package Manager, also bundles code)
 
+
 Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
 * [Mocha GitHub](https://github.com/visionmedia/mocha)  
+* [Jest](https://facebook.github.io/jest)
 * [Jasmine GitHub](https://github.com/pivotal/jasmine)  
 * [Karma](https://karma-runner.github.io)
-* [Jest](https://facebook.github.io/jest)
 
 <!--
 https://mochajs.org/#reporters
