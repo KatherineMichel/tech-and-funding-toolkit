@@ -2346,8 +2346,6 @@ Portfolio and Community Websites
 
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2017](https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017)
-* [KPCB Design in Tech Report 2016](http://www.kpcb.com/blog/design-in-tech-report-2016)
-* [KPCB Design in Tech Report 2015](http://www.kpcb.com/blog/design-in-tech-report-2015) and [John Maeda: Playbook for Publishing a Research Report](http://blog.slideshare.net/2015/03/24/john-maeda-the-playbook-for-publishing-a-research-report) 
 
 #### Pretotyping and Prototyping
 
@@ -2449,13 +2447,6 @@ Quickie Mobile Apps
 
 Turn Key Websites
 * [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
-
-Miscellaneous
-* [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
-
-<!--
-http://stylifyme.com/
--->
 
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), [Corporate Ipsum](http://www.cipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
@@ -2872,10 +2863,7 @@ Cross Browser and Sniffing
 * [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
 * [User Agent Wikipedia](https://en.wikipedia.org/wiki/User_agent)
 * [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
-
-<!--
-https://en.wikipedia.org/wiki/Feature_detection_(web_development)
--->
+* [Feature Detection Wikipedia](https://en.wikipedia.org/wiki/Feature_detection_(web_development))
 
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
@@ -3307,6 +3295,9 @@ Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package 
 * [Browserify](http://browserify.org)
 * [rollup.js](http://rollupjs.org) 
 * JSPM 
+
+Web Components
+* [Web Components GitHub](https://github.com/webcomponents/webcomponentsjs)
 
 Semantic UI
 * [Semantic UI](http://semantic-ui.com) and [Semantic UI GitHub](https://github.com/Semantic-Org/Semantic-UI)
