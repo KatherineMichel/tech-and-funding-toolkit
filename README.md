@@ -2067,6 +2067,15 @@ https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
 https://www.ada.gov
 -->
 
+<!--
+browser market share
+
+https://github.com/WPO-Foundation/webpagetest
+
+https://saucelabs.com
+https://saucelabs.com/blog/sauce-labs-joins-the-w3c
+-->
+
 Device Testing
 * [AWS Device Farm](https://aws.amazon.com/device-farm)
 * [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
@@ -2116,15 +2125,6 @@ https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
 https://www.maxcdn.com/one/visual-glossary/har-file
 https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
 https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
--->
-
-<!--
-browser market share
-
-https://github.com/WPO-Foundation/webpagetest
-
-https://saucelabs.com
-https://saucelabs.com/blog/sauce-labs-joins-the-w3c
 -->
 
 #### Social Graph and Webmaster
@@ -2453,6 +2453,10 @@ Turn Key Websites
 Miscellaneous
 * [Website Style Analyzer GitHub](https://github.com/micmro/Stylify-Me)
 
+<!--
+http://stylifyme.com/
+-->
+
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), [Corporate Ipsum](http://www.cipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
@@ -2492,9 +2496,6 @@ https://writeclearlyblog.com/2016/01/27/does-the-f-shaped-pattern-for-reading-we
 https://en.wikipedia.org/wiki/Heat_map
 https://www.crazyegg.com
 -->
-
-
-
 
 <!--
 https://brand.frontify.com/d/qAiubNBytHKf/style-guide
@@ -2623,13 +2624,6 @@ https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 
 #### Built With and Search
 
-<!--
-https://html.spec.whatwg.org/multipage
-
-Semantic Site Audit, Semantic Elements
-Normal Document Flow
--->
-
 Built With (Exluding Django; See also Squarespace)
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 * [Built With](http://builtwith.com)  
@@ -2739,6 +2733,9 @@ Responsiveness- and Media Queries
 * [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 * [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
+JavaScript
+* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
+
 JavaScript Books and Tutorials
 * [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
 * [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
@@ -2751,6 +2748,14 @@ http://learnjsthehardway.com
 -->
 
 <!--
+AJAX
+* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [W3Schools AJAX Tutorials](http://www.w3schools.com/ajax/default.asp)
+* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
+
+* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
+
 JSON
 * [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
 * [W3Schools JSON Tutorial](http://www.w3schools.com/json)
@@ -3059,8 +3064,14 @@ http://www.w3.org/TR/CSS21/cover.html#minitoc
 
 #### JavaScript
 
+<!--
+https://html.spec.whatwg.org/multipage
+
+Semantic Site Audit, Semantic Elements
+Normal Document Flow
+-->
+
 JavaScript
-* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
 <!--
@@ -3076,14 +3087,12 @@ CommonJS
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
 * [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
 
-Web Assembly
+WebAssembly
+* [WebAssembly](http://webassembly.org), [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly), and [WebAssembly GitHub](https://github.com/webassembly
 
 <!--
-https://en.wikipedia.org/wiki/WebAssembly
-http://wsl-guide.org/en/latest/
-http://webassembly.org/
 https://developer.mozilla.org/en-US/docs/WebAssembly
-https://github.com/webassembly
+
 https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
 -->
 
@@ -3131,17 +3140,12 @@ JavaScript Event Keycodes
 
 #### AJAX, jQuery, JSON
 
-AJAX
-* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [W3Schools AJAX Tutorials](http://www.w3schools.com/ajax/default.asp)
-* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
-
 jQuery
-* [jQuery](https://jquery.com)
-* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) and [jQuery GitHub](https://github.com/jquery/jquery)  
+* [jQuery](https://jquery.com) and [jQuery GitHub](https://github.com/jquery/jquery)  
 * [jQuery API](http://api.jquery.com)
-* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
 * [jQuery Learning Center](http://learn.jquery.com)
+* [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
+* [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
 
 <!--
 http://easings.net
@@ -3162,9 +3166,7 @@ Learn jQueryMobile
 http://learn.jquery.com/using-jquery-core
 -->
 
-jQuery Extras
-* [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
-* [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
+jQuery Bootstrap and Boilerplate
 * [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
 * [jQuery UI Bootstrap GitHub](https://github.com/jquery-ui-bootstrap/jquery-ui-bootstrap) 
