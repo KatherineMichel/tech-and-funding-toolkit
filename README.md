@@ -2955,23 +2955,6 @@ http://www.w3schools.com/tags/att_form_autocomplete.asp
 http://www.w3schools.com/tags/att_input_autocomplete.asp
 http://www.w3schools.com/cssref/pr_class_position.asp
 http://www.w3schools.com/css/css_positioning.asp
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/overflow
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Properties_Reference
-https://developer.mozilla.org/en-US/docs/Glossary/Vendor_Prefix
-https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity
-https://developer.mozilla.org/en-US/docs/Web/CSS/Shorthand_properties
-https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
-https://developer.mozilla.org/en-US/docs/Web/CSS/position
-https://developer.mozilla.org/en-US/docs/Web/CSS/@import
-https://teamtreehouse.com/library/css-basics/getting-started-with-css/importing-style-sheets-with-import
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Universal_selectors
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/pre
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals
 -->
 
 <!--
