@@ -1914,17 +1914,10 @@ Chrome Extensions
 * [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
 * [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
 
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-
 <!--
 chrome://apps
 
 https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
 
 http://docs.ionic.io/docs/chrome-inspector
 -->
@@ -2655,30 +2648,7 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
-<!--
-HTML Graphics
-http://www.w3schools.com/canvas/default.asp
-Learn Canvas
-http://www.w3schools.com/canvas/default.asp
-Learn SVG
-http://www.w3schools.com/svg/default.asp
-Learn Icons
-http://www.w3schools.com/icons/default.asp
-Learn Google Maps
-http://www.w3schools.com/googleapi/default.asp
-Learn HTML Games
-http://www.w3schools.com/games/default.asp
-
-http://www.w3schools.com/appml/default.asp
-
-http://www.w3schools.com/website/default.asp
-http://www.w3schools.com/browsers/default.asp
--->
-
-
 #### Front-End Development
-
-
 
 <!--
 https://html.spec.whatwg.org/multipage
@@ -2717,22 +2687,60 @@ CSS
 W3C HTML Standards
 * [W3C HTML GitHub](https://github.com/w3c/html)
 
-
+<!--
 HTML and CSS Tutorials- General
 * [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
 * [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
 * [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
 * [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+
+Responsiveness- and Media Queries
+* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+
+JavaScript Books and Tutorials
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
+* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
+
+http://www.w3schools.com/js/js_reserved.asp
+
+http://learnjsthehardway.com
+-->
+
+<!--
+HTML Graphics
+http://www.w3schools.com/canvas/default.asp
+Learn Canvas
+http://www.w3schools.com/canvas/default.asp
+Learn SVG
+http://www.w3schools.com/svg/default.asp
+Learn Icons
+http://www.w3schools.com/icons/default.asp
+Learn Google Maps
+http://www.w3schools.com/googleapi/default.asp
+Learn HTML Games
+http://www.w3schools.com/games/default.asp
+
+http://www.w3schools.com/appml/default.asp
+
+http://www.w3schools.com/website/default.asp
+http://www.w3schools.com/browsers/default.asp
+-->
+
+<!--
+http://www.w3schools.com/css/css3_intro.asp
+-->
+
 HTML and CSS Tutorials- Mozilla
 
 HTML5 and CSS3- Info and Tutorials
 * [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
 * [CSS3 Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
-
-<!--
-http://www.w3schools.com/css/css3_intro.asp
--->
 
 CSS Zen Garden  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
@@ -2765,8 +2773,6 @@ http://foundation.zurb.com/forum/posts/1115-centering-a-button-group
 Bootstrap, Font Awesome
 * [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com) 
 
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-
 <!--
 http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
 
@@ -2787,11 +2793,6 @@ https://bradfrost.github.io/this-is-responsive/patterns.html
 https://bradfrost.github.io/this-is-responsive/resources.html
 https://responsivedesign.is/patterns
 -->
-
-Responsiveness- and Media Queries
-* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 #### CSS Helpers
 
@@ -2826,9 +2827,6 @@ https://en.wikipedia.org/wiki/Feature_detection_(web_development)
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
-
-* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
-* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
@@ -3071,21 +3069,17 @@ Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
+<!--
+https://developers.google.com/web/showcase
+-->
+
 #### JavaScript
 
 JavaScript
 * [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
-JavaScript Books and Tutorials
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-
 <!--
-http://www.w3schools.com/js/js_reserved.asp
-
-http://learnjsthehardway.com
-
 https://jsfiddle.net
 https://jsbin.com
 https://developer.mozilla.org/en-US/docs/Tools/Scratchpad
@@ -3286,10 +3280,6 @@ Security Scanning (checking all the packages for any known vulnerabilities)
 * [Node Security Platform](https://nodesecurity.io)
 * retire.js
 
-<!--
-https://developers.google.com/web/showcase
--->
-
 See: Eric Elliot-inspired React Stack
 [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 * Progressive Web Apps
@@ -3316,9 +3306,23 @@ See: Eric Elliot-inspired React Stack
 
 See: Cory House-inspired React Stack
 * npm Scripts
+* CommonJS
 * JSX
+* Mocha, Jest
 
 Facebook- React (JavaScript)
+
+React and Redux Developer Tools
+<!--
+* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+
+https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
+
+React Developer Tools
+https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
+https://facebook.github.io/react-native/docs/debugging.html
+-->
 
 Microsoft React
 * [Microsoft ReactXP](https://microsoft.github.io/reactxp)
@@ -3408,29 +3412,25 @@ Lesser Used Package Managers (Bower, JSPM, Jam, volo)
 * [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
 * JSPM (JavaScript Package Manager, also bundles code)
 
-
-Testing (Mocha, Jasmine (assertion library built in), Tape, Karma, QUnit, AVA, Jest (wrapper over Jasmine))
-* [Mocha GitHub](https://github.com/visionmedia/mocha)  
-* [Jest](https://facebook.github.io/jest)
+Testing (Jasmine (assertion library built in), Tape, Karma, QUnit, AVA)
 * [Jasmine GitHub](https://github.com/pivotal/jasmine)  
 * [Karma](https://karma-runner.github.io)
 
 <!--
-https://mochajs.org/#reporters
-
 Continuous Integration Options: Travis, Appveyor, Jenkins, CircleCI, Semaphore, SnapCI
 
+http://www.protractortest.org
+-->
+
 Selenium (Automated Testing), phantomjs  (Testing, Automation, Scraping))
-
-http://docs.seleniumhq.org
-https://github.com/seleniumbase/SeleniumBase
-
 * [SeleniumHQ](http://www.seleniumhq.org)  
 * [SeleniumHQ Docs](http://www.seleniumhq.org/docs) 
 * [PhantomJS](http://phantomjs.org)  
 * [PhantomJS GitHub](https://github.com/ariya/phantomjs) 
 
-http://www.protractortest.org
+<!--
+http://docs.seleniumhq.org
+https://github.com/seleniumbase/SeleniumBase
 -->
 
 Helper libraries (JSDOM, Cheerio)
@@ -3522,7 +3522,6 @@ https://github.com/reactjs/react-router-redux
 https://github.com/reactjs/react-tutorial
 
 https://github.com/ericvicenti/intro-to-react
-https://github.com/coryhouse/ps-react
 
 https://github.com/petehunt/react-webpack-template
 https://github.com/elementalui/elemental
