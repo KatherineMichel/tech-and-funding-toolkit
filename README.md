@@ -2066,12 +2066,6 @@ Microsoft Developer Tools
 #### Testing and Performance
 
 <!--
-https://en.wikipedia.org/wiki/Assistive_technology
-https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines
-https://www.ada.gov
--->
-
-<!--
 browser market share
 
 https://github.com/WPO-Foundation/webpagetest
