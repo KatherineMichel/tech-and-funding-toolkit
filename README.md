@@ -2499,9 +2499,6 @@ https://www.crazyegg.com
 <!--
 https://brand.frontify.com/d/qAiubNBytHKf/style-guide
 
-Typical base is 16px
-https://medium.freecodecamp.com/how-to-choose-and-pair-typefaces-98fee945d13c#.c9d6lv6lj
-
 Fonts
 http://www.cssfontstack.com
 https://www.w3schools.com/cssref/css_websafe_fonts.asp
@@ -2624,7 +2621,7 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
-#### Front-End Development
+#### Built With and Search
 
 <!--
 https://html.spec.whatwg.org/multipage
@@ -2633,6 +2630,66 @@ Semantic Site Audit, Semantic Elements
 Normal Document Flow
 -->
 
+Built With (Exluding Django; See also Squarespace)
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+* [Built With](http://builtwith.com)  
+* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+* [Built with Bootstrap](http://expo.getbootstrap.com)  
+* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+<!--
+http://webbyawards.com
+-->
+
+Code Search
+* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
+* [Nerdy Data](http://nerdydata.com)  
+
+Wayback Machine
+* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+
+<!--
+http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
+-->
+
+Archive Team
+* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
+
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
+
+#### Facebook and Google Design and Development Approaches
+
+Facebook and Google Design
+
+Google
+* [Google Roboto GitHub](https://github.com/google/roboto) 
+
+Google Material Design (See also Facebook React)
+Bootstrap Material Design
+Polymer (See also Facebook React)
+ 
+Accelerated Mobile Pages (AMP HTML)
+* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
+* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
+
+<!--
+https://developers.google.com/web/showcase
+-->
+
+#### Front-End Development
+
+<!--
 Web General (See also JavaScript) 
 * [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 * [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
@@ -2659,9 +2716,14 @@ CSS
 * [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
 * [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
+HTML5 and CSS3- Info and Tutorials
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3 Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 
-W3C HTML Standards
-* [W3C HTML GitHub](https://github.com/w3c/html)
+Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+-->
 
 <!--
 HTML and CSS Tutorials- General
@@ -2686,6 +2748,27 @@ JavaScript Books and Tutorials
 http://www.w3schools.com/js/js_reserved.asp
 
 http://learnjsthehardway.com
+-->
+
+<!--
+JSON
+* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
+* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
+
+W3Schools
+Learn XML
+http://www.w3schools.com/xml/default.asp
+Learn XSLT
+http://www.w3schools.com/xsl/default.asp
+
+http://www.w3schools.com/xml/xsl_intro.asp
+http://www.w3schools.com/xml/xquery_intro.asp
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 -->
 
 <!--
@@ -2714,10 +2797,6 @@ http://www.w3schools.com/css/css3_intro.asp
 
 HTML and CSS Tutorials- Mozilla
 
-HTML5 and CSS3- Info and Tutorials
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [CSS3 Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
-
 CSS Zen Garden  
 * [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
 
@@ -2725,7 +2804,6 @@ Foundation
 * [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
 * [Foundation for Emails](http://foundation.zurb.com/emails.html)
 * [Zurb Library](http://zurb.com/library)
-* [Foundation Building Blocks](http://foundation.zurb.com/building-blocks)
 
 <!--
 https://github.com/daigofuji/jekyll-foundation-5-starter
@@ -2764,12 +2842,6 @@ https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
 https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
 -->
 
-<!--
-https://bradfrost.github.io/this-is-responsive/patterns.html
-https://bradfrost.github.io/this-is-responsive/resources.html
-https://responsivedesign.is/patterns
--->
-
 #### CSS Helpers
 
 Compilation Resources (See also Gulp)
@@ -2799,10 +2871,6 @@ Cross Browser and Sniffing
 <!--
 https://en.wikipedia.org/wiki/Feature_detection_(web_development)
 -->
-
-Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
 
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
@@ -2989,66 +3057,6 @@ https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 -->
 
-#### Built With and Search
-
-Built With (Exluding Django; See also Squarespace)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-* [Built With](http://builtwith.com)  
-* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-* [Built with Bootstrap](http://expo.getbootstrap.com)  
-* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-<!--
-http://webbyawards.com
--->
-
-Code Search
-* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
-* [Nerdy Data](http://nerdydata.com)  
-
-Wayback Machine
-* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
-
-<!--
-http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
--->
-
-Archive Team
-* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
-
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
-
-
-#### Facebook and Google Design and Development Approaches
-
-Facebook and Google Design
-
-Google
-* [Google Roboto GitHub](https://github.com/google/roboto) 
-
-Google Material Design (See also Facebook React)
-Bootstrap Material Design
-Polymer (See also Facebook React)
- 
-Accelerated Mobile Pages (AMP HTML)
-* [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
-* [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
-
-<!--
-https://developers.google.com/web/showcase
--->
-
 #### JavaScript
 
 JavaScript
@@ -3065,23 +3073,24 @@ https://github.com/ryanmcdermott/clean-code-javascript
 JavaScript Tutorials- Mozilla
 
 CommonJS
-
-* [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
 * [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
 
-<!--
 Web Assembly
+
+<!--
 https://en.wikipedia.org/wiki/WebAssembly
 http://wsl-guide.org/en/latest/
 http://webassembly.org/
 https://developer.mozilla.org/en-US/docs/WebAssembly
 https://github.com/webassembly
 https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
-
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
 -->
+
+JavaScript Libraries/Frameworks/Engine
+* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
+* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
+* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
 
 Comparison of Layout Engines (By DOM and ECMA Script)
 * [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
@@ -3116,10 +3125,6 @@ https://github.com/sgaurav/understanding-es6
 * CommonJS (CJS) (var jquery = require('jquery'))
 * ES6 Modules (import jQuery from 'jquery') (best choice)
 -->
-
-JavaScript Libraries/Frameworks
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
@@ -3167,29 +3172,8 @@ jQuery Extras
 Another JavaScript Library
 * [Zepto GitHub](https://github.com/madrobby/zepto) 
 
-JSON
-* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
-* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
-
 <!--
 http://www.json.org/xml.html
--->
-
-<!--
-W3Schools
-Learn XML
-http://www.w3schools.com/xml/default.asp
-Learn XSLT
-http://www.w3schools.com/xsl/default.asp
-
-http://www.w3schools.com/xml/xsl_intro.asp
-http://www.w3schools.com/xml/xquery_intro.asp
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 -->
 
 #### JavaScript Ecosystem
