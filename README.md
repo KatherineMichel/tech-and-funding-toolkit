@@ -384,9 +384,6 @@ Documentation- General
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 
-Documentation- Mozilla
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
@@ -395,6 +392,9 @@ Standards
 
 Better Reference than W3C
 * [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Documentation- Mozilla
+* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 
 Mozilla- General
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
@@ -1200,8 +1200,6 @@ https://github.com/mitchty/src/blob/master/dotfiles/maid/rules.rb
 http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 -->
 
-
-
 #### Systems
 
 #### DevOps
@@ -1922,6 +1920,12 @@ Chrome Extensions
 <!--
 chrome://apps
 
+google chrome experiments tab
+chrome://flags/#enable-devtools-experiments
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
 https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
 
 http://docs.ionic.io/docs/chrome-inspector
@@ -2087,17 +2091,6 @@ Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
 * [New Relic](http://newrelic.com)
 * [Sentry](http://getsentry.com)
 
-<!--
-See also: Data Science
-https://github.com/keen/cohorts
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
--->
-
 A/B Testing
 * [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
 * [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
@@ -2125,6 +2118,19 @@ https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
 https://www.maxcdn.com/one/visual-glossary/har-file
 https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
 https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+-->
+
+#### Dashboard
+
+<!--
+See also: Data Science
+https://github.com/keen/cohorts
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
 -->
 
 #### Social Graph and Webmaster
