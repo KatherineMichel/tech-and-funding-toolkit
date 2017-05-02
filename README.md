@@ -321,8 +321,13 @@ Robotics and/or Geared toward Kids
 Text Editor and Code Demonstration
 * [Fiddle](https://fiddles.io)
 * [JSFiddle](http://jsfiddle.net)
+* [JS Bin](https://jsbin.com)
 * [Cloud9](https://c9.io/katherinemichel)
 * [Codepen](http://codepen.io)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Tools/Scratchpad
+-->
 
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
@@ -2328,12 +2333,6 @@ YouTube (Google)
 Net Promoter
 * [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
 
-
-
-
-
-
-
 #### Design Thinking
 
 Design- General 
@@ -2402,29 +2401,6 @@ Prototyping Software- Keynote- Docs
 * [Keynote for Mac: Keynote for Mac keyboard shortcuts](https://support.apple.com/kb/PH24313?locale=en_US&viewlocale=en_US)
 * [Keynote for Mac: Add and edit master slides](https://support.apple.com/kb/PH16978?locale=en_US)
 * [Keynote for Mac: Animate objects](https://support.apple.com/kb/ph16960?locale=en_US)
-
-<!--
-http://keynotopia.com/guides-ppt/?mc_cid=0b813fc8c6&mc_eid=2008dfea31
-
-http://keynotopia.com/#how
-http://keynotopia.com/guides
-http://keynotopia.com/bootstrap
-http://keynotopia.com/keynote-mockups-templates
-http://keynotopia.com/web-prototyping
-
-http://keynotopia.com/tutorials
-http://keynotopia.com/keynote-and-powerpoint-mockup-templates
-http://keynotopia.com/how-to-design-a-web-or-mobile-app-in-7-steps
-http://keynotopia.com/how-to-create-ui-animations-with-keynote
-http://keynotopia.com/how-to-design-and-prototype-user-interfaces-using-keynote-on-icloud-com
-
-https://support.apple.com/en-us/HT202220
-
-https://help.apple.com/keynote/mac
-https://support.apple.com/kb/PH24334?locale=en_US&viewlocale=en_US
-
-https://www.youtube.com/watch?v=HPjwv056FbA&index=1&list=PLchknTmv2KcsHjMvWtfOuZT4kIZUbVWcX
--->
 
 Prototyping Software- Others
 * [Keynote Kung-Fu](http://keynotekungfu.com)
@@ -3080,10 +3056,6 @@ JavaScript
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
 <!--
-https://jsfiddle.net
-https://jsbin.com
-https://developer.mozilla.org/en-US/docs/Tools/Scratchpad
-
 https://github.com/myshov/history-of-javascript
 https://github.com/verekia/js-stack-from-scratch
 https://github.com/sorrycc/awesome-javascript
@@ -3093,7 +3065,9 @@ https://github.com/ryanmcdermott/clean-code-javascript
 JavaScript Tutorials- Mozilla
 
 CommonJS
+
 * [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS) and [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
 * [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
 
@@ -3338,31 +3312,7 @@ Facebook- React Native (React Stack)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
-<!--
-http://facebook.github.io/flux/docs/testing-flux-applications.html
 
-http://redux.js.org/docs/basics/UsageWithReact.html
-
-https://www.npmjs.com/~angular
-https://github.com/angular/quickstart
-https://github.com/angular/angular-cli
-
-https://www.gitbook.com/book/rangle-io/ngcourse2/details
-https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
-https://angular.io/docs
-
-https://github.com/vuejs/vue-hackernews
--->
-
-<!--
-Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
-Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
-
-https://github.com/browsersync/recipes
-
-Minimizing CSS and JavaScript
-* [RequireJS](http://requirejs.org)
--->
 
 More
 
@@ -3477,6 +3427,32 @@ Extension Languages
 
 Meteor
 * [Meteor](https://www.meteor.com)
+
+<!--
+http://facebook.github.io/flux/docs/testing-flux-applications.html
+
+http://redux.js.org/docs/basics/UsageWithReact.html
+
+https://www.npmjs.com/~angular
+https://github.com/angular/quickstart
+https://github.com/angular/angular-cli
+
+https://www.gitbook.com/book/rangle-io/ngcourse2/details
+https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
+https://angular.io/docs
+
+https://github.com/vuejs/vue-hackernews
+-->
+
+<!--
+Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
+Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
+
+https://github.com/browsersync/recipes
+
+Minimizing CSS and JavaScript
+* [RequireJS](http://requirejs.org)
+-->
 
 <!--
 New
