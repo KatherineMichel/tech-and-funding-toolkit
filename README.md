@@ -2906,37 +2906,10 @@ https://developer.mozilla.org/en-US/docs/Glossary
 -->
 
 <!--
-http://www.w3schools.com/tags/tag_pre.asp
-https://www.w3schools.com/tags/tag_span.asp
-
 https://v4-alpha.getbootstrap.com/layout/grid/
 
 http://html5doctor.com/outlines/
 https://www.w3schools.com/html/html5_semantic_elements.asp
--->
-
-<!--
-http://www.w3schools.com/bootstrap/bootstrap_ref_all_classes.asp
-
-https://www.w3schools.com/w3css/w3css_grid.asp
-https://www.w3schools.com/html/html_blocks.asp
-https://www.w3schools.com/css/css_pseudo_classes.asp
-https://www.w3schools.com/css/css3_flexbox.asp
-
-http://www.w3schools.com/Sql/sql_quickref.asp
-http://www.w3schools.com/tags/ref_byfunc.asp
-https://www.w3schools.com/TAgs/att_meta_charset.asp
-https://www.w3schools.com/html/html_charset.asp
-https://www.w3schools.com/css/css_syntax.asp
-http://www.w3schools.com/css/css_text.asp
-http://www.w3schools.com/css/css_howto.asp
-http://www.w3schools.com/cssref/pr_pos_z-index.asp
-http://www.w3schools.com/html/html_entities.asp
-http://www.w3schools.com/html/html_form_input_types.asp
-http://www.w3schools.com/tags/att_form_autocomplete.asp
-http://www.w3schools.com/tags/att_input_autocomplete.asp
-http://www.w3schools.com/cssref/pr_class_position.asp
-http://www.w3schools.com/css/css_positioning.asp
 -->
 
 <!--
@@ -3065,6 +3038,52 @@ WebAssembly
 https://developer.mozilla.org/en-US/docs/WebAssembly
 
 https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
+
+
+
+https://developers.google.com/web/updates/2017/04/headless-chrome
+https://developers.google.com/web/fundamentals/performance/rendering/avoid-large-complex-layouts-and-layout-thrashing
+
+https://googlechrome.github.io/samples/arrows-es6/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+Vanilla Web Components
+sub-dom tree
+
+https://www.webcomponents.org/specs
+https://www.webcomponents.org/
+
+https://developers.google.com/web/fundamentals/getting-started/primers/customelements
+https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom
+
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements/Custom_Elements_with_Classes
+https://www.w3.org/TR/custom-elements/
+https://www.webcomponents.org/community/articles/introduction-to-custom-elements
+http://blog.teamtreehouse.com/create-custom-html-elements-2
+https://github.com/webcomponents/custom-elements
+
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Shadow_DOM
+https://www.w3.org/TR/shadow-dom/
+https://www.webcomponents.org/community/articles/introduction-to-shadow-dom
+https://github.com/Polymer/ShadowDOM
+https://webkit.org/blog/4096/introducing-shadow-dom-api/
+
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/HTML_Imports
+https://www.w3.org/TR/html-imports/
+http://blog.teamtreehouse.com/introduction-html-imports
+https://www.webcomponents.org/community/articles/introduction-to-html-imports
+https://github.com/webcomponents/html-imports
+https://github.com/Polymer/HTMLImports
+
+
+https://learn.jquery.com/using-jquery-core/faq/how-do-i-pull-a-native-dom-element-from-a-jquery-object/
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element
+https://www.w3schools.com/jsref/dom_obj_all.asp
+https://www.w3schools.com/js/js_htmldom_elements.asp
+https://api.jquery.com/category/miscellaneous/dom-element-methods/
 -->
 
 JavaScript Libraries/Frameworks/Engine
