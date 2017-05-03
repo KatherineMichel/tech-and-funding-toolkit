@@ -357,12 +357,9 @@ Text Editor and Code Demonstration
 * [Fiddle](https://fiddles.io)
 * [JSFiddle](http://jsfiddle.net)
 * [JS Bin](https://jsbin.com)
+* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
 * [Cloud9](https://c9.io/katherinemichel)
 * [Codepen](http://codepen.io)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Tools/Scratchpad
--->
 
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
