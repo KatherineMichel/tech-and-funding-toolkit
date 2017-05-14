@@ -1425,10 +1425,12 @@ https://help.github.com/enterprise
 
 https://pages.github.com
 
+
 http://www.atlassian.com/git/tutorial
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing
 https://www.youtube.com/user/GitHubGuides
 https://www.git-tower.com/blog/git-cheat-sheet/
+
 
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
