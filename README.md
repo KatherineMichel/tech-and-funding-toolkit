@@ -323,6 +323,10 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 
+<!--
+https://hackernoon.com
+-->
+
 Competitions
 * [Code Jam](https://code.google.com/codejam)
 
@@ -470,6 +474,10 @@ Developer Surveys
 * [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
+
+<!--
+https://insights.stackoverflow.com/trends
+-->
 
 Company Design
 * [Airbnb Samara](http://samara.airbnb.com)
@@ -10257,6 +10265,38 @@ Unboxing
 #### Books and Courses
 
 <!--
+https://www.amazon.com/gp/product/0307353133
+http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
+http://tim.blog/2017/03/19/ricardo-semler/
+http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
+http://tim.blog/2017/04/26/murray-carter
+http://tim.blog/2017/03/30/cheryl-strayed/
+http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/
+
+IT and Ethics
+https://plato.stanford.edu/entries/it-moral-values/
+https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
+http://www.tristanharris.com/
+https://medium.com/@tristanharris
+http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+
+Learning Transfer
+https://en.wikipedia.org/wiki/Transfer_of_learning
+https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+Neuroplasticity
+* [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
+* [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
+
+<!--
+https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-change-your-brain
+-->
+
+
+<!--
 Rec from Tim Ferris
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
 
@@ -11172,8 +11212,6 @@ Awesome Non-Code
 * [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
 
 <!--
-https://github.com/Idnan/bash-guide
-
 https://github.com/AntBranch/awesome-github
 https://github.com/noffle/art-of-readme
 
@@ -11337,17 +11375,6 @@ Public Speaking
 * [Dale Carnegie Public Speaking](http://www.dalecarnegie.com/events/public-speaking-courses)
 * [National Speakers Association](http://www.nsaspeaker.org)
 * [ToasterMasters](https://www.toastmasters.org) and [ToastMasters Public Speaking Tips](https://www.toastmasters.org/Resources/Public-Speaking-Tips)
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Neuroplasticity
-* [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
-* [Neuroplasticity Wikipedia](https://en.wikipedia.org/wiki/Neuroplasticity)
-
-<!--
-https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-change-your-brain
--->
 
 Unconscious Bias
 * [Facebook: Managing Unconscious Bias](http://managingbias.fb.com) and [Google: Unconscious Bias at Work](https://www.gv.com/lib/unconscious-bias-at-work)
