@@ -8422,6 +8422,11 @@ Database List
 * [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
 <!--
+New
+https://betalist.com/trends
+https://betalist.com/jobs/collections
+
+
 https://www.producthunt.com/tech
 https://www.producthunt.com/topics/developer-tools
 https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
@@ -9343,6 +9348,10 @@ Document Web Services
 * [Visible](https://visible.vc) 
 
 <!--
+New
+https://blog.esharesinc.com/the-eshares-option-value-calculator-2/
+
+
 https://captable.io/company/add
 https://blog.captable.io
 https://captable.io/company/8/scenarios
@@ -10286,9 +10295,12 @@ Books
 
 <!--
 New
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1&_branch_match_id=345698913933613519
+
 https://docs.google.com/forms/d/e/1FAIpQLScQwu-EpUYWYrfTKXxYNB2htxd8qgui7_CoTbdgwD9_dMh-WQ/viewform?c=0&w=1
 https://continuingstudies.stanford.edu/courses/courses-overview
 http://online.stanford.edu/course/upside-stress
+
 
 https://www.amazon.com/Venture-Capital-Private-Financing-Entrepreneurship/dp/0470591439
 
