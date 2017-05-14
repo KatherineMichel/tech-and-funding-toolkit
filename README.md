@@ -325,6 +325,9 @@ The Practical Dev
 
 <!--
 https://hackernoon.com
+
+(Categorize with Strategyzer?)
+https://www.freshtilledsoil.com
 -->
 
 Competitions
@@ -574,6 +577,13 @@ Swift Styleguide
 #### Computer Basics
 
 <!--
+New
+https://en.wikipedia.org/wiki/Natural_user_interface
+https://en.wikipedia.org/wiki/Graphical_user_interface
+
+https://en.wikipedia.org/wiki/Display_resolution
+https://en.wikipedia.org/wiki/Graphics_display_resolution
+
 https://en.wikipedia.org/wiki/Computer_architecture
 https://en.wikipedia.org/wiki/Von_Neumann_architecture
 https://en.wikipedia.org/wiki/John_von_Neumann
@@ -2893,6 +2903,7 @@ http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and
 
 <!--
 https://en.wikipedia.org/wiki/Polyfill
+https://polyfill.io/v2/docs
 -->
 
 Vendor-prefixed CSS Property Overview
@@ -7429,6 +7440,10 @@ IDE
 Emulator
 * [Genymotion](http://www.genymotion.com) 
 
+<!--
+http://www.bluestacks.com
+-->
+
 Tools (Parse is Going Bye-Bye)
 * [Parse (Backend aaS)](https://www.parse.com) and [Parse Docs](https://www.parse.com/docs)
 * [Parse Alternatives](https://github.com/relatedcode/ParseAlternatives)
@@ -7464,6 +7479,8 @@ Miscellaneous
 * [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
 
 <!--
+https://en.wikipedia.org/wiki/Computer-aided_design
+
 iPhone app development
 http://www.stanford.edu/class/cs193p/cgi-bin/drupal
 
@@ -8691,6 +8708,9 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+Nir Eyal
+http://www.nirandfar.com
+
 https://www.danprimack.com
 
 https://www.slideshare.net/sblank/tagged/stanford
@@ -8732,6 +8752,8 @@ https://plus.google.com/collection/gbVpb
 
 <!--
 New
+https://medium.com/@tjholowaychuk
+https://medium.com/@dan_abramov
 https://twitter.com/nayafia/status/724616808704008192
 https://www.slideshare.net/NadiaEghbal
 https://github.com/nayafia/contributing-template
@@ -10265,6 +10287,10 @@ Unboxing
 #### Books and Courses
 
 <!--
+https://www.nirandfar.com/download/hooked-workbook.pdf
+
+https://en.wikipedia.org/wiki/Sunk_cost
+
 https://www.amazon.com/gp/product/0307353133
 http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
 http://tim.blog/2017/03/19/ricardo-semler/
