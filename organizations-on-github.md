@@ -212,9 +212,12 @@ https://github.com/BuzzFeedNews/everything
 
 ## Investment
 * [a16z](https://github.com/a16z)
+* [Agile Ventures](https://github.com/AgileVentures)
 * [AngelList](https://github.com/AngelList) 
 * [Bloomberg Finance L.P.](https://github.com/bloomberg)
 * [Expa](https://github.com/expa)
+* [Indie.vc](https://github.com/indievc)
+* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
 
 ## More
 * [3D Robotics](https://github.com/3drobotics)
