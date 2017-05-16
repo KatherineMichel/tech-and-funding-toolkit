@@ -200,6 +200,7 @@ https://github.com/BuzzFeedNews/everything
 * [NYT Labs](https://github.com/nytlabs)  
 * [NYT Newsroom Developers](https://github.com/newsdev)
 * [Propublica](https://github.com/propublica)  
+* [Stanford Journalism](https://github.com/stanfordjournalism)
 * [TechCrunch](https://github.com/techcrunch)  
 * [The New York Times](https://github.com/NYTimes) 
 * [The Telegraph](https://github.com/telegraph)  
