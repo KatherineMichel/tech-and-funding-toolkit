@@ -1415,13 +1415,13 @@ https://github.com/github/training-utils
 https://github.com/github-archive
 https://github.com/github-archive/training.github.com
 https://github.com/github/teach.github.com
-https://github.com/jlord/git-it
+https://github.com/githubteacher
 
 http://jlord.us/git-it
+https://github.com/jlord/git-it
 http://jlord.us/patchwork
 https://github.com/jlord/reporobot
 https://github.com/jlord/patchwork/tree/gh-pages/contributors
-https://github.com/githubteacher
 
 https://services.github.com/resources/
 https://services.github.com/classnotes/
@@ -1433,29 +1433,11 @@ https://classroom.github.com/#getting-started-video
 https://education.github.com/guide/sandboxing
 https://education.github.com/guide/assignments
 
-
-
-
-
-
 New
 https://classroom.github.com/classrooms/27039735-code-collaboration-and-review
 https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
-
-https://github.com/joeblau/gitignore.io
-
-https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md
-
-http://learngitbranching.js.org/
-
-Missing from Setting Up An Open Source Project?
-https://guides.github.com/features/issues/
-
-http://ndpsoftware.com/git-cheatsheet.html
-
-http://www.learnenough.com/git-tutorial#sec-getting_started
 -->
 
 Concurrent Version System
@@ -1473,6 +1455,7 @@ Git Origin
 Git Homepage, Resources
 * [Git Homepage](https://git-scm.com)
 * [Git Documentation (Docs and Pro Git Book](https://git-scm.com/doc)
+* [Git Pro Git Book](https://git-scm.com/book/en/v2)
 * [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
 * [Git Index](http://gitref.org) 
 * [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
@@ -1499,6 +1482,10 @@ Git Ignore and Licenses
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
 * [GitHub Choose a License](http://choosealicense.com)
 * [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+
+<!--
+https://github.com/joeblau/gitignore.io
+-->
 
 Ribbons, Buttons, Octicons, Shields
 * [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
