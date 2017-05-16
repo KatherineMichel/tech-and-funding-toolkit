@@ -1346,14 +1346,13 @@ https://docs.python.org/devguide/gitbootcamp.html
 https://docs.python.org/devguide/
 
 
-
-https://git-scm.com/book/en/v2
 https://www.git-tower.com/blog/git-cheat-sheet/
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
 
 http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
@@ -1364,6 +1363,9 @@ https://gist.github.com/seshness/3943237
 https://contribute.jquery.org/commits-and-pull-requests
 https://www.visualstudio.com/en-us/docs/git/pull-requests
 https://datasift.github.io/gitflow/
+
+https://confluence.atlassian.com/bbkb
+https://confluence.atlassian.com/bitbucket
 
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
@@ -1411,6 +1413,8 @@ https://github.com/KatherineMichel/personal-goals/settings/installations
 https://github.com/github/github-services/tree/master/docs
 
 https://github.com/github/training-kit
+https://services.github.com/on-demand
+
 https://github.com/github/training-utils
 https://github.com/github-archive
 https://github.com/github-archive/training.github.com
@@ -1464,6 +1468,7 @@ Git Homepage, Resources
 <!--
 GitHub Docs
 https://www.digitalocean.com/community/tutorials
+https://www.digitalocean.com/community/tutorials?q=git
 -->
 
 Git- Official Learning Resources
