@@ -9280,11 +9280,6 @@ VC Firm Alpha and Beta
 * [Betaworks Openbeta](https://betaworks.com/openbeta)
 * [Lowercase Alpha](http://lowercasealpha.com)
 
-Investors on GitHub
-* [Agile Ventures](https://github.com/AgileVentures)
-* [Indie.vc](https://github.com/indievc)
-* [O'Reilly AlphaTech Ventures](https://github.com/OATV)
-
 Crowdfunding
 * [Kickstarter](https://www.kickstarter.com) and [Kickstarter Live](https://live.kickstarter.com)
 * [Patreon](https://www.patreon.com)
