@@ -1345,12 +1345,10 @@ https://github.com/github/open-source-survey
 https://docs.python.org/devguide/gitbootcamp.html
 https://docs.python.org/devguide/
 
-http://www.atlassian.com/git/tutorial
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing
-https://www.youtube.com/user/GitHubGuides
-https://www.git-tower.com/blog/git-cheat-sheet/
 
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+https://git-scm.com/book/en/v2
+https://www.git-tower.com/blog/git-cheat-sheet/
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
@@ -1440,12 +1438,6 @@ https://education.github.com/guide/assignments
 
 
 
-
-
-https://github.com/git-ftp
-https://github.com/github/git-lfs
-https://git-lfs.github.com
-
 New
 https://classroom.github.com/classrooms/27039735-code-collaboration-and-review
 https://github.com/settings/connections/applications/64a051cf1598b9f0658f
@@ -1454,12 +1446,8 @@ https://github.com/settings/applications/511051
 
 https://github.com/joeblau/gitignore.io
 
-GitHub Cheatsheet
-https://gist.github.com/akras14/3d242d80af8388ebca60
-
 https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md
 
-https://www.youtube.com/githubguides
 http://learngitbranching.js.org/
 
 Missing from Setting Up An Open Source Project?
@@ -1467,13 +1455,7 @@ https://guides.github.com/features/issues/
 
 http://ndpsoftware.com/git-cheatsheet.html
 
-https://www.producthunt.com/@jordan_gonen/collections/everything-github
-
 http://www.learnenough.com/git-tutorial#sec-getting_started
-
-https://github.com/ajaxorg/ace
-
-https://ifttt.com/github/recipes
 -->
 
 Concurrent Version System
@@ -1490,7 +1472,16 @@ Git Origin
 
 Git Homepage, Resources
 * [Git Homepage](https://git-scm.com)
+* [Git Documentation (Docs and Pro Git Book](https://git-scm.com/doc)
+* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
 * [Git Index](http://gitref.org) 
+* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
+* [Git Tower Learn](https://www.git-tower.com/learn)
+
+<!--
+GitHub Docs
+https://www.digitalocean.com/community/tutorials
+-->
 
 Git- Official Learning Resources
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
@@ -1630,8 +1621,18 @@ Types of Licenses
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 <!--
+https://github.com/git-ftp
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
 https://github.com/github/balanced-employee-ip-agreement
 https://github.com/twitter/innovators-patent-agreement
+
+https://github.com/ajaxorg/ace
+
+https://ifttt.com/github/recipes
+
+https://www.producthunt.com/@jordan_gonen/collections/everything-github
 -->
 
 #### Operating System, Browser, Layout Engine
