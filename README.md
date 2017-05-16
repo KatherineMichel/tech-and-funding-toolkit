@@ -1333,6 +1333,42 @@ https://docs.gitlab.com/ee/workflow/gitlab_flow.html
 https://about.gitlab.com/2014/09/29/gitlab-flow/
 https://www.gerritcodereview.com/
 http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
+
+
+
+https://en.wikipedia.org/wiki/Open-source_model
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://github.com/github/open-source-guide
+https://github.com/github/maturity-model
+https://github.com/github/open-source-survey
+
+https://docs.python.org/devguide/gitbootcamp.html
+https://docs.python.org/devguide/
+
+http://www.atlassian.com/git/tutorial
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing
+https://www.youtube.com/user/GitHubGuides
+https://www.git-tower.com/blog/git-cheat-sheet/
+
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+
+https://gist.github.com/seshness/3943237
+
+https://contribute.jquery.org/commits-and-pull-requests
+https://www.visualstudio.com/en-us/docs/git/pull-requests
+https://datasift.github.io/gitflow/
+
+https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
 -->
 
 Code Review (See also Project Management)
@@ -1358,10 +1394,6 @@ The Distributed Developer Stack Field Guide
 #### Git and Markdown
 
 <!--
-http://stackoverflow.com/questions/3640764/can-i-recover-branch-after-its-deletion-in-git
-http://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github
-https://github.com/pinax/symposion/blob/master/symposion/sponsorship/views.py#L76
-
 https://github.com/contact
 
 http://githubuniverse.com/watch
@@ -1373,38 +1405,12 @@ https://github.com/business/customers
 https://github.com/github-tools
 https://github.com/showcases/projects-with-great-wikis
 
+https://help.github.com/enterprise
+
+https://pages.github.com
+
 https://github.com/KatherineMichel/personal-goals/settings/installations
 https://github.com/github/github-services/tree/master/docs
-
-https://help.github.com/articles/github-glossary/
-https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
-
-* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
-
-https://en.wikipedia.org/wiki/Open-source_model
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/github/open-source-guide
-https://github.com/github/maturity-model
-https://github.com/github/open-source-survey
-
-https://docs.python.org/devguide/gitbootcamp.html
-https://docs.python.org/devguide/
-
-https://en.wikipedia.org/wiki/Fork_and_pull_model
-
-https://help.github.com/articles/about-pull-requests
-https://help.github.com/articles/creating-a-pull-request-from-a-fork
-https://help.github.com/articles/about-pull-request-reviews/
-
-https://help.github.com/articles/checking-out-pull-requests-locally
-https://help.github.com/articles/checking-out-pull-requests-locally/#modifying-an-inactive-pull-request-locally
-https://help.github.com/articles/merging-a-pull-request
-https://help.github.com/articles/resolving-a-merge-conflict-on-github/
-https://help.github.com/articles/about-git-rebase
-
-https://github.com/blog/1506-closing-issues-via-pull-requests
-https://github.com/blog/2243-rebase-and-merge-pull-requests
-https://help.github.com/articles/ignoring-files
 
 https://github.com/github/training-kit
 https://github.com/github/training-utils
@@ -1424,32 +1430,6 @@ https://services.github.com/classnotes/
 https://services.github.com/resources/index.html
 https://services.github.com/on-demand/downloads/subversion-migration/
 
-https://help.github.com/enterprise
-
-https://pages.github.com
-
-
-http://www.atlassian.com/git/tutorial
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing
-https://www.youtube.com/user/GitHubGuides
-https://www.git-tower.com/blog/git-cheat-sheet/
-
-
-https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-
-https://github.com/git-ftp
-https://github.com/github/git-lfs
-https://git-lfs.github.com
-
 https://classroom.github.com/
 https://classroom.github.com/#getting-started-video
 https://education.github.com/guide/sandboxing
@@ -1457,20 +1437,20 @@ https://education.github.com/guide/assignments
 
 
 
+
+
+
+
+
+https://github.com/git-ftp
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
 New
 https://classroom.github.com/classrooms/27039735-code-collaboration-and-review
 https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
-
-https://gist.github.com/seshness/3943237
-
-https://contribute.jquery.org/commits-and-pull-requests
-https://www.visualstudio.com/en-us/docs/git/pull-requests
-https://datasift.github.io/gitflow/
-
-https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
-https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
 
 https://github.com/joeblau/gitignore.io
 
@@ -1508,26 +1488,18 @@ Git Origin
 * [Git Mojombo GitHub](https://github.com/mojombo/git)  
 * [Git GitHub](https://github.com/xlymian/git) 
 
-Git
+Git Homepage, Resources
 * [Git Homepage](https://git-scm.com)
-  
+* [Git Index](http://gitref.org) 
+
 Git- Official Learning Resources
-* [Try Git](https://try.github.io)
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-
-Learn X in Y Minutes Git
-* [Learn X in Y Minutes Git](https://learnxinyminutes.com/docs/git)
-
-Git Cheat Sheets and Tutorials
-* [Git Index](http://gitref.org)  
-* [Stanford Git Magic](http://www-cs-students.stanford.edu/~blynn/gitmagic) 
 
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
 * [GitHub Features (Code Review, ect.)](https://github.com/features)
 * [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git) 
-* [GitHub Bootcamp](https://help.github.com/categories/bootcamp) 
 * [GitHub Blog](https://github.com/blog)  
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
