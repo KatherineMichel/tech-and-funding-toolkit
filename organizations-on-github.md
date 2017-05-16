@@ -210,6 +210,12 @@ https://github.com/BuzzFeedNews/everything
 * [Washington Post](https://github.com/washingtonpost)  
 * [Washington Times](https://github.com/washingtontimes)  
 
+## Investment
+* [a16z](https://github.com/a16z)
+* [AngelList](https://github.com/AngelList) 
+* [Bloomberg Finance L.P.](https://github.com/bloomberg)
+* [Expa](https://github.com/expa)
+
 ## More
 * [3D Robotics](https://github.com/3drobotics)
 * [23andMe](https://github.com/23andMe) 
@@ -222,8 +228,7 @@ https://github.com/BuzzFeedNews/everything
 * [Alibaba](https://github.com/alibaba)  
 * [Alibaba-IntlUED-FD](https://github.com/sdc-alibaba) 
 * [Alibaba Tech](https://github.com/alibabatech)  
-* [Android](https://github.com/android)  
-* [AngelList](https://github.com/AngelList)  
+* [Android](https://github.com/android)   
 * [App.net](https://github.com/appdotnet)  
 * [Artsy](https://github.com/artsy)  
 * [Asana](https://github.com/asana)
@@ -233,7 +238,6 @@ https://github.com/BuzzFeedNews/everything
 * [Bitcoin](https://github.com/bitcoin)  
 * [BitTorrent](https://github.com/bittorrent)
 * [Blackrock Digital](https://github.com/BlackrockDigital)
-* [Bloomberg Finance L.P.](https://github.com/bloomberg)
 * [Box](https://github.com/box)  
 * [Braintree](https://github.com/braintree)
 * [Brave](https://github.com/brave)
@@ -265,7 +269,6 @@ https://github.com/BuzzFeedNews/everything
 * [Etsy](https://github.com/etsy)  
 * [Eventbrite](https://github.com/eventbrite)  
 * [Evernote](https://github.com/evernote)  
-* [Expa](https://github.com/expa)
 * [Fasholista](https://github.com/Fashiolista)
 * [FiftyThree](https://github.com/fiftythree)
 * [Flickr](https://github.com/flickr)  
