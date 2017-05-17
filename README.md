@@ -1342,9 +1342,14 @@ https://github.com/github/open-source-guide
 https://github.com/github/maturity-model
 https://github.com/github/open-source-survey
 
+https://en.wikipedia.org/wiki/Collaborative_software_development_model
+https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
+https://en.wikipedia.org/wiki/Capability_Maturity_Model
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://martinfowler.com/bliki/MaturityModel.html
+
 https://docs.python.org/devguide/gitbootcamp.html
 https://docs.python.org/devguide/
-
 
 https://www.git-tower.com/blog/git-cheat-sheet/
 
