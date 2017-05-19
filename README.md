@@ -314,6 +314,28 @@ Fave Pluralsight Authors
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
+<!--
+https://twitter.com/housecor/status/858870694326800385
+
+* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
+
+https://www.pluralsight.com/teach
+https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
+https://www.pluralsight.com/blog/news/authoring-for-pluralsight
+
+Mac: ScreenFlow
+https://www.telestream.net/screenflow/overview.htm
+Camtasia
+
+YouTube Livestreaming Info
+https://support.google.com/youtube/answer/2474026?hl=en
+https://support.google.com/youtube/answer/2907883
+https://support.google.com/youtube/answer/2524549
+
+https://obsproject.com
+http://www.telestream.net/wirecastplay/landing.htm
+-->
+
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
 * [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
@@ -408,8 +430,6 @@ https://github.com/FreeCodeCamp/design-style-guide
 -->
 
 <!--
-* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
-
 Software Design Patterns
 Coding Conventions
 Object Oriented Programming
