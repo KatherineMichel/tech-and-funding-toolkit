@@ -322,6 +322,7 @@ https://github.com/Medium/medium-policy
 * [Oculus VR](https://github.com/OculusVR) 
 * [OpenBazaar](https://github.com/openbazaar)
 * [OpenStack](https://github.com/openstack)  
+* [Optimizely](https://github.com/optimizely) 
 * [Palantir](https://github.com/palantir)
 * [Patreon](https://github.com/patreon)  
 * [PayPal](https://github.com/paypal)  
