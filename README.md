@@ -1354,7 +1354,8 @@ https://about.gitlab.com/2014/09/29/gitlab-flow/
 https://www.gerritcodereview.com/
 http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
 
-
+https://en.wikipedia.org/wiki/Fork_and_pull_model
+https://en.wikipedia.org/wiki/Collaborative_software_development_model
 
 https://en.wikipedia.org/wiki/Open-source_model
 https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
@@ -1382,6 +1383,7 @@ https://robots.thoughtbot.com/tags/git
 http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
 
 https://gist.github.com/seshness/3943237
 
