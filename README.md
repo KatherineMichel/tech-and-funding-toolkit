@@ -315,6 +315,9 @@ Fave Pluralsight Authors
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
 <!--
+New
+https://github.com/pluralsight-projects/HelloPluralsightProject
+
 https://twitter.com/housecor/status/858870694326800385
 
 * [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
@@ -463,6 +466,12 @@ Better Reference than W3C
 
 Documentation- Mozilla
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
+
+<!--
+New
+https://github.com/mdn/learning-area
+https://www.ibm.com/developerworks/learn
+-->
 
 Mozilla- General
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
@@ -9316,6 +9325,10 @@ Federal Opportunities and Funding
 * [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
 * [National Science Foundation Funding](https://www.nsf.gov/funding)
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
+
+<!--
+https://www.nsf.gov/awardsearch
+-->
 
 #### Documents and Advice
 
