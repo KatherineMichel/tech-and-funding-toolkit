@@ -345,6 +345,12 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
 * [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
 
+<!--
+https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
+
+https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
+-->
+
 The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 
@@ -1653,6 +1659,11 @@ Types of Licenses
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 <!--
+Code of Conduct
+http://contributor-covenant.org
+https://github.com/ContributorCovenant/contributor_covenant
+http://citizencodeofconduct.org
+
 https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
