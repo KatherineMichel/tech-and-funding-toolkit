@@ -10327,6 +10327,12 @@ https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
+http://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
+http://tim.blog/2016/12/20/becoming-the-best-version-of-you/
+http://tim.blog/2016/01/15/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes/
+http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
+http://tim.blog/2017/05/12/art-de-vany
+
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
 https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
