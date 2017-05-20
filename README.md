@@ -1496,6 +1496,16 @@ Git Homepage, Resources
 * [Git Tower Learn](https://www.git-tower.com/learn)
 
 <!--
+https://docs.gitlab.com
+http://gitready.com
+http://gitref.org
+https://git-scm.com/documentation/external-links
+https://git-scm.com/docs/git-difftool
+
+https://www.atlassian.com/git/tutorials
+https://www.atlassian.com/git
+https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html
+
 GitHub Docs
 https://www.digitalocean.com/community/tutorials
 https://www.digitalocean.com/community/tutorials?q=git
@@ -9624,6 +9634,8 @@ http://theoatmeal.com/comics/believe
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
+https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1074677761&serialid=4nVFWyrExy%2blOirO84AqroGIVWY2NAeugIptVGTw2Fc%3d
+
 https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=1072753661&serialid=h%2b%2fwLdU%2fTIaitAx1rnamfYsPRAuTFRGdTSF4HZIvTkA%3d
 
 https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d
