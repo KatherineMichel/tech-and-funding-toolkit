@@ -1411,6 +1411,13 @@ https://confluence.atlassian.com/bitbucket
 
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+
+
+https://github.com/blog/2360-git-2-13-has-been-released
+https://education.github.com/git-cheat-sheet-education.pdf
+
+https://zachholman.com/talk/git-github-secrets
+https://github.com/git-tips/tips
 -->
 
 Code Review (See also Project Management)
@@ -1642,6 +1649,8 @@ More GitHub Alternatives
 * [Codebase](https://www.codebasehq.com)  
 
 <!--
+https://github.com/open-source
+
 https://opensource.google.com
 https://opensource.google.com/projects/explore/featured
 https://github.com/github/opensource.guide
