@@ -1630,6 +1630,12 @@ Atlassian: Bitbucket and SourceTree
 * [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
 * [Atlassian SourceTree](https://www.sourcetreeapp.com)
 
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
 More GitHub Alternatives
 * [Google Code](https://code.google.com)  
 * [Sourceforge](http://sourceforge.net)  
