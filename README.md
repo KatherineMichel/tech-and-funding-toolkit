@@ -1361,8 +1361,10 @@ http://scottchacon.com/2011/08/31/github-flow.html
 
 http://www.integralist.co.uk/posts/github-workflow.html
 
+https://github.com/Originate/git-town
+
 New
-http://www.integralist.co.uk/posts/github-workflow.html
+https://www.atlassian.com/git/tutorials/comparing-workflows
 https://www.atlassian.com/blog/archives/simple-git-workflow-simple
 https://docs.gitlab.com/ee/workflow/gitlab_flow.html
 https://about.gitlab.com/2014/09/29/gitlab-flow/
@@ -1378,7 +1380,6 @@ https://github.com/github/open-source-guide
 https://github.com/github/maturity-model
 https://github.com/github/open-source-survey
 
-https://en.wikipedia.org/wiki/Collaborative_software_development_model
 https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
 https://en.wikipedia.org/wiki/Capability_Maturity_Model
 https://en.wikipedia.org/wiki/Free_and_open-source_software
