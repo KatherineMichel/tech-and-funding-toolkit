@@ -4863,27 +4863,6 @@ Django Girls- Help
 * [Django Girls Store](https://store.djangogirls.org)
 
 <!--
-PyLadies
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
-
-* [PyLadies GitHub](https://github.com/pyladies/pyladies)
-
-https://github.com/pythonkc
-
-https://github.com/DjangoGirls/wiki
-
-https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
-http://blog.djangogirls.org/post/141142700298/potato-joining-django-girls-as-global-partner
-
-http://remote.pyladies.com/resources
-https://github.com/pyladies/pyladies
-https://github.com/pyladies-remote/website
-https://github.com/pyladies/pyladies-maintainers
-https://github.com/socalpyladies/socalpyladies.github.io
-http://socalpyladies.github.io/
-https://github.com/PanPacificPyLadiesConf/PPPCwebsite
-https://github.com/DutchDjangoAssociation/djangovereniging.nl
-
 Make movies the same way Ola makes Coding is for Girls
 https://twitter.com/CodingIsForGirl/status/695712398024511490
 https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
@@ -4893,6 +4872,9 @@ Make movies the same way Ola makes Coding is for Girls
 https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
 http://www.apple.com/mac/imovie
 -->
+
+PyLadies
+* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
 
 #### Python and Django Books and Tutorials
 
