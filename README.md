@@ -4805,24 +4805,15 @@ Python- Users and Members
 * [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
 
 <!--
-http://wiki.python.org/moin/LocalUserGroups
-http://www.python.org/community/irc
-https://www.python.org/community/workshops
-
 Guido van Rossum
 https://docs.python.org/devguide
 https://github.com/python/devguide
-
-http://www.meetup.com/topics/python
 
 https://www.djangoproject.com/foundation/developer-members
 
 https://wiki.python.org/moin/FrontPage
 https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
 
-http://lanyrd.com/search/?context=future&q=django&type=conference
-
-https://github.com/python/community-starter-kit
 https://www.djangoproject.com/fundraising/campaign/django-fellowship
 -->
 
@@ -10242,6 +10233,10 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 * [SXSW](http://sxsw.com) 
 * [KC Addys](http://aafkc.com/addys)
+
+<!--
+http://lanyrd.com
+-->
 
 Mobile (See also Mobile)
 * [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
