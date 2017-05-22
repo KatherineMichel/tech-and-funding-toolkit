@@ -1388,8 +1388,11 @@ https://en.wikipedia.org/wiki/Capability_Maturity_Model
 https://en.wikipedia.org/wiki/Free_and_open-source_software
 https://martinfowler.com/bliki/MaturityModel.html
 
+http://cpython-devguide.readthedocs.io
+https://github.com/python/devguide
+https://github.com/python/devguide/issues/129
 https://docs.python.org/devguide/gitbootcamp.html
-https://docs.python.org/devguide/
+https://docs.python.org/devguide
 
 https://www.git-tower.com/blog/git-cheat-sheet/
 
@@ -10654,7 +10657,9 @@ Labs, Kitchens, Garages
 * [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
 
 <!--
-http://www.ll.mit.edu/
+https://www.bell-labs.com
+
+http://www.ll.mit.edu
 https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory
 https://en.wikipedia.org/wiki/Information_Processing_Techniques_Office
 https://www.google.com/search?q=first+prototype+of+a+computer+mouse&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgutW008jSAhWo5IMKHSdnDpUQ_AUICCgB&biw=1366&bih=585
