@@ -1425,6 +1425,13 @@ https://education.github.com/git-cheat-sheet-education.pdf
 
 https://zachholman.com/talk/git-github-secrets
 https://github.com/git-tips/tips
+
+https://github.com/isaacs/github/issues/248
+https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
+https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
+https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
+https://github.com/v8/v8/wiki/Triaging-issues
+http://docs.hood.ie/en/latest/developers/TRIAGING.html
 -->
 
 Code Review (See also Project Management)
