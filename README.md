@@ -1432,6 +1432,11 @@ https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
 https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
 https://github.com/v8/v8/wiki/Triaging-issues
 http://docs.hood.ie/en/latest/developers/TRIAGING.html
+
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://gist.github.com/PurpleBooth
+https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
 -->
 
 Code Review (See also Project Management)
