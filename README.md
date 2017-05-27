@@ -329,8 +329,16 @@ https://www.pluralsight.com/teach
 https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
 https://www.pluralsight.com/blog/news/authoring-for-pluralsight
 
+http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
+https://en.wikipedia.org/wiki/Made_to_Stick
+https://en.wikipedia.org/wiki/Story_arc
+
+
 Mac: ScreenFlow
 https://www.telestream.net/screenflow/overview.htm
+https://www.telestream.net/screenflow/resources.htm
+https://www.telestream.net/pdfs/user-guides/ScreenFlow-6-Tutorial.pdf
+
 Camtasia
 
 YouTube Livestreaming Info
@@ -1394,6 +1402,9 @@ https://github.com/python/devguide/issues/129
 https://docs.python.org/devguide/gitbootcamp.html
 https://docs.python.org/devguide
 
+https://github.com/python/devguide/pulls
+https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
+
 https://www.git-tower.com/blog/git-cheat-sheet/
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
@@ -1457,7 +1468,28 @@ Semver
 The Distributed Developer Stack Field Guide
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 
+<!--
+https://cloud.google.com/source-repositories/pricing
 
+https://www.atlassian.com/software/jira
+https://github.com/gitlabhq/gitlabhq
+
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+https://github.com/blog/2123-more-code-review-tools
+
+http://blog.udacity.com/2015/06/become-github-pro.html
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+https://github.com/marketplace/category/code-review
+
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+https://help.github.com/articles/backing-up-a-repository
+
+https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
+https://github.com/updates
+https://github.com/marketplace
+
+-->
 
 #### Git and Markdown
 
@@ -11054,6 +11086,13 @@ https://blogs.dropbox.com/business/2016/04/announcing-project-infinite
 Links
 * [Bitly](https://bitly.com)
 
+<!--
+https://git.io/
+https://github.com/isaacs/github/issues/165
+https://goo.gl/
+http://ow.ly/url/shorten-url
+-->
+
 API
 * [Blockspring](https://www.blockspring.com)
 
@@ -11076,6 +11115,13 @@ Payments
 * [Dwolla](https://www.dwolla.com) 
 
 <!--
+http://coincap.io
+https://xapo.com
+https://exchange.gemini.com
+https://ripple.com/xrp
+
+https://transferwise.com/borderless
+
 https://stripe.com/docs/sources/ideal
 https://www.paypal.com/de/webapps/mpp/ua/third-parties-list?locale.x=en_US
 
