@@ -7820,6 +7820,10 @@ http://cs.stanford.edu/people/karpathy
 
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
  
+https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
+https://github.com/janishar/mit-deep-learning-book-pdf
+https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
+
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
  
@@ -7840,14 +7844,31 @@ https://developer.nvidia.com/
 https://devblogs.nvidia.com
 https://developer.nvidia.com/devbox
  
+http://www.darkbluelabs.com
+
 https://deepmind.com
 https://github.com/deepmind
 
 https://www.tensorflow.org
 https://github.com/tensorflow
 
+http://www.paddlepaddle.org
+https://github.com/PaddlePaddle/Paddle
+
+http://www.ibm.com/watson
+https://www.ibm.com/analytics/us/en/watson-data-platform
+
 http://pytorch.org
 https://github.com/pytorch/pytorch
+
+https://github.com/torch
+https://github.com/torch/torch7/wiki/Cheatsheet
+https://github.com/torchnet/torchnet
+
+https://github.com/caffe2/caffe2
+http://caffe.berkeleyvision.org
+https://github.com/BVLC/caffe
+https://github.com/yahoo/CaffeOnSpark
 
 https://aws.amazon.com/blogs/aws/
 
@@ -7867,6 +7888,8 @@ https://www.facebook.com/spaces
 
 * [Google VR](https://github.com/googlevr)
  
+https://www.assetstore.unity3d.com/en/#!/content/64218
+ 
 https://google.ai/
 https://aiexperiments.withgoogle.com/
  
@@ -7879,6 +7902,15 @@ https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API
 
 https://blogs.unity3d.com
  
+https://blog.google/products/google-vr/paint-friends-tilt-brushs-latest-prototype-creations/
+http://livestream.com/pixologic/2016ZBrushSummit
+http://summit.pixologic.com/
+http://store.pixologic.com/
+http://zbrushcore.com/features
+http://pixologic.com/blog/
+http://pixologic.com/
+http://www.zbrushcentral.com/
+
 https://www.oculus.com
 https://developer.oculus.com
 
@@ -7904,6 +7936,14 @@ Data Scientists
 * [Hilary Mason](http://www.hilarymason.com)  
 * [Nate Silver](http://fivethirtyeight.blogs.nytimes.com)  
 * [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
+
+<!--
+https://github.com/karpathy/arxiv-sanity-preserver
+
+Andrej Karpathy
+* [NeuralTalk2 GitHub](https://github.com/karpathy/neuraltalk2)  
+* [NeuralTalk GitHub](https://github.com/karpathy/neuraltalk) 
+-->
 
 Machine Learning (Andrew Ng, Stanford)
 * [Machine Learning (Stanford)](https://www.coursera.org/course/ml)  
@@ -8159,74 +8199,6 @@ Open-Source Machine Learning and Infrastructure
 * [Samsung: Veles GitHub](https://github.com/Samsung/veles) and [Samsung: Veles GitHub](https://github.com/Samsung/veles.znicz)
 * [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
-
-<!--
-http://www.paddlepaddle.org
-
-http://www.ibm.com/watson
-
-https://github.com/facebookresearch/darkforestGo
-https://github.com/tensorflow/playground
-https://github.com/tensorflow/magenta
-https://github.com/tensorflow/models
-https://github.com/amznlabs/amazon-dsstne
-
-http://tensorflow.github.io/serving/setup
-https://www.tensorflow.org/versions/master/how_tos/image_retraining/index.html
-https://github.com/adatao/tensorspark
-
-https://github.com/torch/nn
-https://github.com/torch/nn/tree/master/doc
-https://github.com/torch/torch7/wiki/Cheatsheet
-https://github.com/jcjohnson/torch-rnn/blob/master/LanguageModel.lua
-
-https://github.com/karpathy/char-rnn
-https://github.com/karpathy/arxiv-sanity-preserver
-
-https://github.com/yahoo/CaffeOnSpark
-http://caffe.berkeleyvision.org
-https://github.com/BVLC/caffe
-
-https://github.com/Rochester-NRT/AlphaGo
-https://github.com/Rochester-NRT/AlphaGo.data
-
-http://googleresearch.blogspot.com/2016/03/machine-learning-in-cloud-with.html
-
-http://libccv.org
-https://github.com/liuliu/ccv Computer Vision library
-
-http://h2o.ai
-https://github.com/h2oai/h2o-3
-
-https://research.facebook.com/ai
-https://facebook.github.io/fbcunn/fbcunn
-
-http://research.baidu.com/warp-ctc/
-
-http://www.partiallyderivative.com
-
-https://docs.google.com/spreadsheets/d/1YArw5RAnUxivUnlJFyKCjpBZVB-oDby0HwMwmvlZd6I/pub?output=html
-https://github.com/amplab/SparkNet
-http://www.lua.org
-http://arxiv.org/abs/1412.7580
-http://infolab.stanford.edu/~backrub/google.html
-
-http://opendataday.org
-http://www.datasciencebowl.com
-
-http://www.whitehouse.gov/issues/technology/big-data-review
-
-* https://gigaom.com/2015/01/16/facebook-open-sources-tools-for-bigger-faster-deep-learning-models 
-* http://techcrunch.com/2015/01/16/facebook-open-sources-some-of-its-deep-learning-tools 
-* https://research.facebook.com/blog/879898285375829/fair-open-sources-deep-learning-modules-for-torch 
-* https://www.facebook.com/Engineering/posts/10152495827632200
-
-https://s3.amazonaws.com/OM-SHARE/cia-ath.pdf
--->
-
-Andrej Karpathy
-* [NeuralTalk2 GitHub](https://github.com/karpathy/neuraltalk2)  
-* [NeuralTalk GitHub](https://github.com/karpathy/neuraltalk) 
 
 Lambda Architecture
 * [Lambda Architecture](http://lambda-architecture.net)  
