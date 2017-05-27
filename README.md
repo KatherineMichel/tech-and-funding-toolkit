@@ -7085,6 +7085,9 @@ Developer Playground/IDE (Similar to Fiddle)
 
 <!--
 https://glitch.com
+https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
+https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
+
 -->
 
 Cross Platform Dev Environment
@@ -10917,8 +10920,11 @@ Google News Publisher
 Twitter Advanced Search
 * [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
 
-Reddit Advertising
+Reddit and Quora Advertising
 * [Reddit Advertising](https://www.reddit.com/advertising)
+
+<!--
+https://business.quora.com/Quoras-advertising-platform-is-now-open-to-all-businesses
 -->
 
 Google World
