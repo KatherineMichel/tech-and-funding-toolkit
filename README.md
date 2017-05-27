@@ -7816,6 +7816,8 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 #### Data Science
 
 <!--
+http://cs.stanford.edu/people/karpathy
+
 http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
  
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
@@ -7846,6 +7848,19 @@ https://github.com/tensorflow
 
 http://pytorch.org
 https://github.com/pytorch/pytorch
+
+https://aws.amazon.com/blogs/aws/
+
+https://cloudplatform.googleblog.com
+https://research.googleblog.com
+https://code.facebook.com
+http://googleresearch.blogspot.com
+
+https://cloud.google.com
+https://cloud.google.com/certification/
+https://cloud.google.com/vision
+https://cloud.google.com/natural-language/
+https://cloud.google.com/ml/
 
 https://github.com/facebook/react-vr
 https://www.facebook.com/spaces
