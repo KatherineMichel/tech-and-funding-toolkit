@@ -7745,14 +7745,36 @@ Platforms
 Tilt Brush
 * [Tilt Brush](https://www.tiltbrush.com)
 
+<!--
+https://blog.google/products/google-vr/paint-friends-tilt-brushs-latest-prototype-creations/
+http://livestream.com/pixologic/2016ZBrushSummit
+http://summit.pixologic.com/
+http://store.pixologic.com/
+http://pixologic.com/blog/
+http://pixologic.com/
+http://zbrushcore.com/features
+http://www.zbrushcentral.com/
+-->
+
 Software
 * [Epic Games](https://epicgames.com), [Unreal Engine](https://www.unrealengine.com), and [Unreal Engine Docs](https://docs.unrealengine.com) 
-* [Unity 3D](http://unity3d.com/unity) and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
+* [Unity 3D](http://unity3d.com/unity), [Unity 3D Blogs](https://blogs.unity3d.com), and [Unity Oculus Docs](http://docs.unity3d.com/Manual/VRDevices-Oculus.html)
+
+<!--
+https://www.udemy.com/unrealcourse
+https://www.unrealengine.com/ue4-on-github
+https://github.com/EpicGames
+https://wiki.unrealengine.com/GitHub_Setup
+
+https://docs.unrealengine.com/latest/INT/Engine/Blueprints
+https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
+https://www.unrealengine.com/blog/blueprint-basics
+-->
 
 Hardware
 * [GoPro](https://gopro.com)
 * [Google VR Cardboard iOS](https://developers.google.com/cardboard/ios/get-started) and [Google VR Cardboard Jump](https://www.google.com/get/cardboard/jump)
-* [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
+* [OculusVR](https://www.oculus.com), [OculusVR Developer](https://developer.oculus.com), [OculusVR Developer Download](https://developer.oculus.com/downloads), and [OculusVR Developer Kit GitHub](https://github.com/OculusVR) 
 * [Vive](https://developer.htcvive.com/us/hero.php)
 
 Equipment
@@ -7761,27 +7783,51 @@ Equipment
 * [Video Card (GFX) Wikipedia](https://en.wikipedia.org/wiki/Video_card)
 
 <!--
-https://cvdazzle.com/#style-tips
+https://devblogs.nvidia.com
+https://developer.nvidia.com/devbox
+-->
 
-https://neuralink.com
-https://en.wikipedia.org/wiki/Beta_wave
-https://en.wikipedia.org/wiki/Consumer_brain%E2%80%93computer_interfaces
+Processing Units
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [Graphics Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Graphics_processing_unit)
+
+Google and Facebook VR
+* [Facebook Spaces](https://www.facebook.com/spaces)
+* [Facebook React VR GitHub](https://github.com/facebook/react-vr)
+* [Google VR](http://googlevr.github.io) and [Google VR GitHub](https://github.com/googlevr)
+
+WebVR APIs
+* [Google Developer WebVR API](https://developers.google.com/web/fundamentals/vr)
+* [Google Developer WebVR Polyfill GitHub](https://github.com/googlevr/webvr-polyfill)
+* [Mozilla Developer WebVR API](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API)
+
+Neuralink
+* [Neuralink](https://neuralink.com)
+* [Beta Wave Wikipedia](https://en.wikipedia.org/wiki/Beta_wave)
+* [Consumer Brain Computer Interfaces Wikipedia](https://en.wikipedia.org/wiki/Consumer_brain%E2%80%93computer_interfaces)
+
+Self-Driving Cars
+
+<!--
+https://www.udacity.com/drive
+
+http://research.comma.ai
+https://github.com/commaai/research
+-->
+
+<!--
+https://www.assetstore.unity3d.com/en/#!/content/64218
+
+https://vr.google.com/earth/
+https://earth.google.com/web
+ 
+https://cvdazzle.com/#style-tips
 
 http://pygame.org
 
 Gfx
 https://www.amazon.com/Graphics-Cards-Computer-Add-Ons-Computers/b?ie=UTF8&node=284822
 external graphics card holder for your macbook
-
-https://en.wikipedia.org/wiki/Central_processing_unit
-https://en.wikipedia.org/wiki/Graphics_processing_unit
-
-https://www.pluralsight.com/authors/justin-marshall
-
-https://www.udemy.com/unrealcourse
-https://www.unrealengine.com/ue4-on-github
-https://github.com/EpicGames
-https://wiki.unrealengine.com/GitHub_Setup
 
 https://developer.apple.com/reference/scenekit
 
@@ -7794,15 +7840,9 @@ http://www.industrialthemes.com/steam/support/credits
 https://media.fb.com/2016/08/10/new-publisher-tools-for-360-video
 https://code.facebook.com/posts/265413023819735/surround-360-is-now-open-source
 
-https://docs.unrealengine.com/latest/INT/Engine/Blueprints
-https://docs.unrealengine.com/latest/INT/Engine/Blueprints/GettingStarted
-https://www.unrealengine.com/blog/blueprint-basics
-
 https://3dr.com
 
 https://www.vaultproject.io
-
-https://www.udacity.com/drive
 
 https://github.com/mamedev/mame
 http://mamedev.org/?p=422
@@ -7816,10 +7856,6 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 #### Data Science
 
 <!--
-http://cs.stanford.edu/people/karpathy
-
-http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
- 
 https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
 https://github.com/janishar/mit-deep-learning-book-pdf
 https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
@@ -7827,13 +7863,6 @@ https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Y
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
  
-http://www.partiallyderivative.com
-
-https://www.reddit.com/r/learnmachinelearning/
-https://www.producthunt.com/posts/machine-learnings-newsletter
-http://vrar.inside.com/
-http://www.datasciencecentral.com/page/previous-digests
-
 http://aiplaybook.a16z.com
 https://github.com/a16z/ai
  
@@ -7841,34 +7870,10 @@ http://course.fast.ai
 
 https://openai.com
 https://github.com/openai
-
-https://developer.nvidia.com/
-https://devblogs.nvidia.com
-https://developer.nvidia.com/devbox
  
-http://www.darkbluelabs.com
-
-https://deepmind.com
-https://github.com/deepmind
-
-https://www.tensorflow.org
-https://github.com/tensorflow
-
-https://github.com/adatao/tensorspark
-
-https://github.com/amznlabs/amazon-dsstne
-
-http://www.paddlepaddle.org
-https://github.com/PaddlePaddle/Paddle
-
-http://www.ibm.com/watson
-https://www.ibm.com/analytics/us/en/watson-data-platform
-
 http://pytorch.org
 https://github.com/pytorch/pytorch
 
-https://github.com/torch
-https://github.com/torch/torch7/wiki/Cheatsheet
 https://github.com/torchnet/torchnet
 
 https://github.com/caffe2/caffe2
@@ -7878,53 +7883,15 @@ https://github.com/yahoo/CaffeOnSpark
 
 https://aws.amazon.com/blogs/aws/
 
-http://research.baidu.com
-https://www.facebook.com/Engineering
-https://cloudplatform.googleblog.com
-https://research.googleblog.com
-https://code.facebook.com
-http://googleresearch.blogspot.com
-
 https://cloud.google.com
 https://cloud.google.com/certification/
 https://cloud.google.com/vision
 https://cloud.google.com/natural-language/
 https://cloud.google.com/ml/
 
-https://github.com/facebook/react-vr
-https://www.facebook.com/spaces
-
-* [Google VR](https://github.com/googlevr)
- 
-https://www.assetstore.unity3d.com/en/#!/content/64218
- 
 https://google.ai/
 https://aiexperiments.withgoogle.com/
  
-https://vr.google.com/earth/
-https://earth.google.com/web
- 
-https://github.com/googlevr/webvr-polyfill
-https://developers.google.com/web/fundamentals/vr/
-https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API
-
-https://blogs.unity3d.com
- 
-https://blog.google/products/google-vr/paint-friends-tilt-brushs-latest-prototype-creations/
-http://livestream.com/pixologic/2016ZBrushSummit
-http://summit.pixologic.com/
-http://store.pixologic.com/
-http://zbrushcore.com/features
-http://pixologic.com/blog/
-http://pixologic.com/
-http://www.zbrushcentral.com/
-
-https://www.oculus.com
-https://developer.oculus.com
-
-http://research.comma.ai/
-https://github.com/commaai/research
-
 http://libccv.org
 https://github.com/liuliu/ccv Computer Vision library
  
@@ -7956,6 +7923,7 @@ Data Scientists
 * [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
 
 <!--
+http://cs.stanford.edu/people/karpathy
 https://github.com/karpathy/arxiv-sanity-preserver
 
 Andrej Karpathy
@@ -7982,15 +7950,24 @@ Data Science Websites
 * [Deep Learning News (The "Hacker News" of Deep Learning)](http://news.startup.ml)
 
 <!--
-https://github.com/boozallen
-https://github.com/booz-allen-hamilton
-http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
-https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+http://www.partiallyderivative.com
+
+https://www.producthunt.com/posts/machine-learnings-newsletter
+http://vrar.inside.com/
+http://www.datasciencecentral.com/page/previous-digests
 -->
 
 Analyst Group Resources
 * [Booz Allen Hamilton Data Science](http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science), [Booz Allen Hamilton Field Guide to Data Science Post](http://www.boozallen.com/insights/2015/12/data-science-field-guide-second-edition), [Booz Allen Hamilton Field Guide to Data Science](http://www.boozallen.com/content/dam/boozallen/documents/2015/12/2015-FIeld-Guide-To-Data-Science.pdf), and [Booz Allen Hamilton: Tips for Building a Data Science Capability](http://www.boozallen.com/content/dam/boozallen/documents/2015/07/DS-Capability-Handbook.pdf)
 * [McKinsey & Company: An executive’s guide to machine learning](http://www.mckinsey.com/insights/high_tech_telecoms_internet/an_executives_guide_to_machine_learning)
+
+<!--
+https://github.com/boozallen
+https://github.com/booz-allen-hamilton
+http://www.boozallen.com/content/dam/boozallen/insights/2016/07/agile_playbook.pdf
+https://www.boozallen.com/content/dam/boozallen/media/file/mena-cloud-analytics-playbook.pdf
+http://www.boozallen.com/consulting/strategic-innovation/nextgen-analytics-data-science/building-a-data-science-capability
+-->
 
 Data Styleguide GitHub
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
@@ -8020,192 +7997,40 @@ Roadmaps and Cheat Sheets
 * [Scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Strata Conference Cheat Sheet](https://twitter.com/furukama/status/411986586726064128)
 
-Hypothesis
-* [Inquiry Wikipedia](https://en.wikipedia.org/wiki/Inquiry)
-* [False Positives and False Negatives (True Positives and True Negatives) Wikipedia](http://en.wikipedia.org/wiki/False_positives_and_false_negatives)
-* [False Positive Rate Wikipedia](http://en.wikipedia.org/wiki/False_positive_rate)
-* [Type I aand Type II Errors Wikipedia](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
-
-Mathematics
-* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
-* [Relational Algebra Wikipedia](http://en.wikipedia.org/wiki/Relational_algebra)  
-* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus)  
-* [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
-* [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
-
-Linear/Regression (Supervised Learning)
-* [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
-* [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
-* [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
-* [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
-* [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
-
-Statistics- General
-* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
-* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
  
-Probability
-* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
-* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory)  
-* [Independence (Probability Theory) Wikipedia](http://en.wikipedia.org/wiki/Independence_(probability_theory))  
-* [Prior Probability Wikipedia](http://en.wikipedia.org/wiki/Prior_probability)  
-* [Conditional Probability Wikipedia](http://en.wikipedia.org/wiki/Conditional_probability)  
 
-Distributions
-* [Distribution Wikipedia](http://en.wikipedia.org/wiki/Distribution)  
-* [Probability Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Probability_distribution) 
-
-Common Probability Distributions and Tests
-* [Normal (Gaussian/Bell Curve) Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Normal_distribution)  
-* [Bell Curve Wikipedia](http://en.wikipedia.org/wiki/Bell_curve) and [Gaussian Function Wikipedia](http://en.wikipedia.org/wiki/Gaussian_function)
-* [Chi-Squared Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_distribution), [Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_test), and [Pearson's Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Pearson%27s_chi-squared_test)
-* [Exponential Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Exponential_distribution)  
-* [F Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/F-distribution) and [F-Test Wikipedia](http://en.wikipedia.org/wiki/F-test)
-* [Gamma Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Gamma_distribution) 
-* [Lognormal Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Log-normal_distribution)  
-* [(Student’s) T Distribution(Excel) Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-distribution) and [Student's T-Test Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-test) 
-* [Weibull Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Weibull_distribution) 
-
-More Distributions, Logarithms, Transformations
-* [Beta Distribution Wikipedia](http://en.wikipedia.org/wiki/Beta_distribution) 
-* [Binomial Distribution Wikipedia](http://en.wikipedia.org/wiki/Binomial_distribution) 
-* [Geometric Distribution Wikipedia](http://en.wikipedia.org/wiki/Geometric_distribution) 
-* [Hypergeometric Distribution Wikipedia](http://en.wikipedia.org/wiki/Hypergeometric_distribution) 
-* [Poisson Distribution Wikipedia](http://en.wikipedia.org/wiki/Poisson_distribution) 
-* [Sampling Distribution Wikipedia](http://en.wikipedia.org/wiki/Sampling_distribution) 
-* [Natural Logarithm Wikipedia](http://en.wikipedia.org/wiki/Natural_logarithm) 
-* [Fisher Transformation Wikipedia](http://en.wikipedia.org/wiki/Fisher_transformation) 
-
-More Tests
-* [Mann–Whitney U Test Wikipedia](http://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U)
-* [Wald Test Wikipedia](http://en.wikipedia.org/wiki/Wald_test)
-* [Z-Test Wikipedia](http://en.wikipedia.org/wiki/Z-test)
-
-Standard Deviation, Error, Normalization, Standard Score
-* [Standard Deviation (Excel) Wikipedia](http://en.wikipedia.org/wiki/Standard_deviation)  
-* [Standard Error (Excel) Wikipedia](http://en.wikipedia.org/wiki/Standard_error_(statistics))  
-* [Normalization Wikipedia](http://en.wikipedia.org/wiki/Normalization)  
-* [Standard Score Wikipedia](http://en.wikipedia.org/wiki/Standard_score)  
-
-Confidence and Confidence Interval
-* [Confidence (Excel) Wikipedia](http://en.wikipedia.org/wiki/Confidence)  
-* [Confidence Interval (Excel) Wikipedia](http://en.wikipedia.org/wiki/Confidence_interval) 
-
-Stochastic Calculus, Stochastic Neural Network, Stochastic Gradient Descent (SGD)
-* [Stochastic Calculus Wikipedia](http://en.wikipedia.org/wiki/Stochastic_calculus)  
-* [Stochastic Process Wikipedia](http://en.wikipedia.org/wiki/Stochastic_process)  
-* [Stochastic Neural Network Wikipedia](http://en.wikipedia.org/wiki/Stochastic_neural_network)  
-* [Stochastic Gradient Descent (Used in Machine Learning) Wikipedia](http://en.wikipedia.org/wiki/Stochastic_gradient_descent)  
-
-The Science of Viral (See also Stochastic Calculus)
-* [Viral Phenomenon Wikipedia](http://en.wikipedia.org/wiki/Viral_phenomenon)  
-* [Viral Marketing Wikipedia](http://en.wikipedia.org/wiki/Viral_marketing)  
-* [Viral Marketing (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Viral_marketing) 
-
-Artificial Intelligence- General
-* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
-* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
-* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
-* [List of Programming Languages for Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence)  
-* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)  
-
-Data, Data Science, Big Data
-* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
-* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
-* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
-* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
-
-Data Mining and Machine Learning- General
-* [Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
-* [Data Mining (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
-* [Data Mining and Machine Learning Software (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
-* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
-* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
-* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
-
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
-* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
-* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
-
-Online- Machine Learning, Analysis
-* [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
-* [Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
-* [Online Analytical Wikipedia](http://en.wikipedia.org/wiki/Online_analytical_processing)  
-* [Competitive Analysis Wikipedia](http://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))  
-
-Supervised and Unsupervised Learning
-* [Supervised Learning Wikipedia](http://en.wikipedia.org/wiki/Supervised_learning)  
-* [Unsupervised Learning ("program must discover hidden structure in unlabeled data") Wikipedia](http://en.wikipedia.org/wiki/Unsupervised_learning)  
-* [Semi-Supervised Learning ("Semi-supervised approaches make use of both labeled and unlabeled training data.") Wikipedia](http://en.wikipedia.org/wiki/Semi-supervised_learning)  
-
-Bayesian (Supervised Learning)
-* [Bayesian Statistics Wikipedia](http://en.wikipedia.org/wiki/Bayesian_statistics)  
-* [Bayesian Probability Wikipedia](http://en.wikipedia.org/wiki/Bayesian_probability)  
-* [Bayesian Inference Wikipedia](http://en.wikipedia.org/wiki/Bayesian_inference)  
-* [Bayes' Theory Wikipedia](http://en.wikipedia.org/wiki/Bayes'_theorem)  
-
-Deep Learning and Neural Networks
-* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
-* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
-* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
-
-Recommendations and Filtering
-* [Cold Start Problem Wikipedia](http://en.wikipedia.org/wiki/Cold_start)  
-* [Recommendation Wikipedia](http://en.wikipedia.org/wiki/Recommendation)  
-* [Recommender System Wikipedia](http://en.wikipedia.org/wiki/Recommender_system)  
-* [Information Filtering System Wikipedia](http://en.wikipedia.org/wiki/Information_filtering_system)  
-* [Collaborative Filtering Wikipedia](http://en.wikipedia.org/wiki/Collaborative_filtering)  
-
-Natural Language Processing- General
-* [Natural Language Processing Wikipedia](http://en.wikipedia.org/wiki/Natural_language_processing)  
-
-Text Mining, Sentiment Analysis- General
-* [Text Mining Wikipedia](http://en.wikipedia.org/wiki/Text_mining)  
-* [List of Text Mining Software Wikipedia](http://en.wikipedia.org/wiki/List_of_text_mining_software)  
-* [Sentiment Analysis (Opinion Mining) Wikipedia)](http://en.wikipedia.org/wiki/Sentiment_analysis)  
-
-Web Crawling and Scraping
-* [Web Scraping Wikipedia](http://en.wikipedia.org/wiki/Web_scraping)  
-* [Web Crawler Wikipedia](http://en.wikipedia.org/wiki/Web_crawler)  
-* [Web Indexing Wikipedia](http://en.wikipedia.org/wiki/Web_indexing)  
-* [Data Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping)  
-* [Open Content Wikipedia](http://en.wikipedia.org/wiki/Open_content)  
-* [Scraper Site Wikipedia](http://en.wikipedia.org/wiki/Scraper_site)  
-* [Contact Scraping Wikipedia](http://en.wikipedia.org/wiki/Contact_scraping)  
-* [Screen Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping#Screen_scraping)  
-* [Wrapper (Data Mining) Wikipedia](http://en.wikipedia.org/wiki/Wrapper_(data_mining))  
-
-Graph and Tree Traversal
-* [Graph Traversal Wikipedia](http://en.wikipedia.org/wiki/Graph_traversal)  
-* [Tree Traversal Wikipedia](http://en.wikipedia.org/wiki/Tree_traversal) 
-
-Statistical Packages
-* [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
-* [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
-* [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages)  
-
-Facebook and Google Research
+Baid, Facebook, and Google Research
+* [Baidu Research](http://research.baidu.com)
+* [Facebook Engineering Facebook Page](https://www.facebook.com/Engineering)
 * [Facebook Research](https://research.facebook.com)  
 * [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
 * [Facebook Open Compute](http://www.opencompute.org)  
 * [Facebook Code](https://code.facebook.com)
-* [Google Research](http://research.google.com/index.html), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
+* [Google Research](http://research.google.com), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
 * [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
+
+<!--
+https://cloudplatform.googleblog.com
+https://research.googleblog.com
+http://googleresearch.blogspot.com
+-->
+
+Labs
+* [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
+* [Deep Mind (Google)](https://deepmind.com) and [Deep Mind (Google) GitHub](https://github.com/deepmind)
 
 Open-Source Machine Learning and Infrastructure
 * [AddThis: Hydra GitHub](https://github.com/addthis/hydra)
 * [Airbnb: Aerosolve GitHub](https://github.com/airbnb/aerosolve)
 * [Amazon Web Services: Machine Learning Samples GitHub](https://github.com/awslabs/machine-learning-samples)
+* [Baidu: Paddle](http://www.paddlepaddle.org) and [Baidu: Paddle GitHub](https://github.com/PaddlePaddle/Paddle)
 * [Cisco Systems: Cognitive GitHub](https://github.com/CiscoSystems/cognitive)
 * [Cloudera: ML GitHub](https://github.com/cloudera/ml)
 * [Cloudera: Oryx GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryx 2 GitHub](https://github.com/OryxProject/oryx)
 * [EdX: EASE](https://github.com/edx/ease)
 * [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials), and [Facebook: Torch Cheatsheet GitHub](https://github.com/torch/torch7/wiki/Cheatsheet)
 * [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
-* [Twitter Torch Autograd GitHub](https://github.com/twitter/torch-autograd)
+* [Twitter: Torch Autograd GitHub](https://github.com/twitter/torch-autograd)
 * [Google: DeepDream](https://github.com/google/deepdream) 
 * [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
 * [Google: TensorFlow Scikit Flow GitHub](https://github.com/google/skflow) and [Introduction to Scikit Flow and why you want to start learning TensorFlow](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.1bodcv3y9)
@@ -8217,6 +8042,17 @@ Open-Source Machine Learning and Infrastructure
 * [Samsung: Veles GitHub](https://github.com/Samsung/veles) and [Samsung: Veles GitHub](https://github.com/Samsung/veles.znicz)
 * [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
+
+<!--
+https://github.com/torch/torch7/wiki/Cheatsheet
+
+https://github.com/adatao/tensorspark
+
+https://github.com/amznlabs/amazon-dsstne
+
+http://www.ibm.com/watson
+https://www.ibm.com/analytics/us/en/watson-data-platform
+-->
 
 Lambda Architecture
 * [Lambda Architecture](http://lambda-architecture.net)  
@@ -8494,6 +8330,176 @@ RapidMiner (Open Source) and IBM SPSS
 Import.io and Kimono Labs
 * [Import.io](https://import.io)
 * [Kimono Labs (Palantir)](https://www.kimonolabs.com)  
+
+
+Artificial Intelligence- General
+* [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
+* [Applications of Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Applications_of_artificial_intelligence)
+* [Artificial Intelligence (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Artificial_intelligence)  
+* [List of Programming Languages for Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/List_of_programming_languages_for_artificial_intelligence)  
+* [List of Artificial Intelligence Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)  
+
+Data, Data Science, Big Data
+* [Data Wikipedia](http://en.wikipedia.org/wiki/Data)  
+* [Data (Computing) Wikipedia](http://en.wikipedia.org/wiki/Data_(computing))  
+* [Data Science Wikipedia](http://en.wikipedia.org/wiki/Data_science)  
+* [Big Data Wikipedia](http://en.wikipedia.org/wiki/Big_data)  
+
+Data Mining and Machine Learning- General
+* [Data Mining Series ("Knowledge Discovery in Databases" process, or KDD) Wikipedia](http://en.wikipedia.org/wiki/Data_mining)  
+* [Data Mining (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining)  
+* [Data Mining and Machine Learning Software (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Data_mining_and_machine_learning_software)  
+* [Machine Learning Series Wikipedia](http://en.wikipedia.org/wiki/Machine_learning)  
+* [List of Machine Learning Concepts Wikipedia](https://en.wikipedia.org/wiki/List_of_machine_learning_concepts) 
+* [Wikipedia Book: Machine Learning – The Complete Guide](https://en.wikipedia.org/wiki/Book:Machine_Learning_%E2%80%93_The_Complete_Guide)
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+* [List of Machine Learning Algorithms Wikipedia](http://en.wikipedia.org/wiki/List_of_machine_learning_algorithms) *   [List of Algorithms- Machine Learning and Statistical Classification Wikipedia](http://en.wikipedia.org/wiki/List_of_algorithms#Machine_learning_and_statistical_classification)  
+* [Statistical Classification Algorithms Wikipedia](http://en.wikipedia.org/wiki/Statistical_classification#Algorithms)  
+* [Machine Learning Algorithms (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Machine_learning_algorithms)  
+
+Online- Machine Learning, Analysis
+* [Online Machine Learning Wikipedia](http://en.wikipedia.org/wiki/Online_machine_learning)  
+* [Online (and Off-Line) Wikipedia](http://en.wikipedia.org/wiki/Online_algorithm)  
+* [Online Analytical Wikipedia](http://en.wikipedia.org/wiki/Online_analytical_processing)  
+* [Competitive Analysis Wikipedia](http://en.wikipedia.org/wiki/Competitive_analysis_(online_algorithm))  
+
+Deep Learning and Neural Networks
+* [Deep Learning Wikipedia](http://en.wikipedia.org/wiki/Deep_learning)  
+* [Neural Networks Wikipedia](http://en.wikipedia.org/wiki/Neural_network)  
+* [Artificial Neural Networks Wikibook](http://en.wikibooks.org/wiki/Artificial_Neural_Networks)  
+
+
+Hypothesis
+* [Inquiry Wikipedia](https://en.wikipedia.org/wiki/Inquiry)
+* [False Positives and False Negatives (True Positives and True Negatives) Wikipedia](http://en.wikipedia.org/wiki/False_positives_and_false_negatives)
+* [False Positive Rate Wikipedia](http://en.wikipedia.org/wiki/False_positive_rate)
+* [Type I aand Type II Errors Wikipedia](http://en.wikipedia.org/wiki/Type_I_and_type_II_errors)
+
+Mathematics
+* [Linear Algebra Wikipedia](http://en.wikipedia.org/wiki/Linear_algebra)  
+* [Relational Algebra Wikipedia](http://en.wikipedia.org/wiki/Relational_algebra)  
+* [Calculus Wikipedia](http://en.wikipedia.org/wiki/Calculus)  
+* [Trigonometry Series Wikipedia](http://en.wikipedia.org/wiki/Trigonometric_functions)  
+* [Computational Physics Series Wikipedia](http://en.wikipedia.org/wiki/Computational_physics)  
+
+Linear/Regression (Supervised Learning)
+* [Regression (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression)  
+* [Regression Analysis Series (Excel) Wikipedia](http://en.wikipedia.org/wiki/Regression_analysis)  
+* [Linear Regression (Best Fit Line) (Excel) Wikipedia](http://en.wikipedia.org/wiki/Linear_regression)  
+* [Simple Linear Regression Wikipedia](http://en.wikipedia.org/wiki/Simple_linear_regression)  
+* [Linear Function Wikipedia](http://en.wikipedia.org/wiki/Linear_function)  
+
+Statistics- General
+* [Statistics Wikipedia](http://en.wikipedia.org/wiki/Statistics)  
+* [Statistics (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Statistics)  
+ 
+Probability
+* [Probability Wikipedia](http://en.wikipedia.org/wiki/Probability)  
+* [Probability Theory Series Wikipedia](http://en.wikipedia.org/wiki/Probability_theory)  
+* [Independence (Probability Theory) Wikipedia](http://en.wikipedia.org/wiki/Independence_(probability_theory))  
+* [Prior Probability Wikipedia](http://en.wikipedia.org/wiki/Prior_probability)  
+* [Conditional Probability Wikipedia](http://en.wikipedia.org/wiki/Conditional_probability)  
+
+Distributions
+* [Distribution Wikipedia](http://en.wikipedia.org/wiki/Distribution)  
+* [Probability Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Probability_distribution) 
+
+Common Probability Distributions and Tests
+* [Normal (Gaussian/Bell Curve) Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Normal_distribution)  
+* [Bell Curve Wikipedia](http://en.wikipedia.org/wiki/Bell_curve) and [Gaussian Function Wikipedia](http://en.wikipedia.org/wiki/Gaussian_function)
+* [Chi-Squared Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_distribution), [Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Chi-squared_test), and [Pearson's Chi-Squared Test Wikipedia](http://en.wikipedia.org/wiki/Pearson%27s_chi-squared_test)
+* [Exponential Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Exponential_distribution)  
+* [F Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/F-distribution) and [F-Test Wikipedia](http://en.wikipedia.org/wiki/F-test)
+* [Gamma Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Gamma_distribution) 
+* [Lognormal Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Log-normal_distribution)  
+* [(Student’s) T Distribution(Excel) Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-distribution) and [Student's T-Test Wikipedia](http://en.wikipedia.org/wiki/Student%27s_t-test) 
+* [Weibull Distribution (Excel) Wikipedia](http://en.wikipedia.org/wiki/Weibull_distribution) 
+
+More Distributions, Logarithms, Transformations
+* [Beta Distribution Wikipedia](http://en.wikipedia.org/wiki/Beta_distribution) 
+* [Binomial Distribution Wikipedia](http://en.wikipedia.org/wiki/Binomial_distribution) 
+* [Geometric Distribution Wikipedia](http://en.wikipedia.org/wiki/Geometric_distribution) 
+* [Hypergeometric Distribution Wikipedia](http://en.wikipedia.org/wiki/Hypergeometric_distribution) 
+* [Poisson Distribution Wikipedia](http://en.wikipedia.org/wiki/Poisson_distribution) 
+* [Sampling Distribution Wikipedia](http://en.wikipedia.org/wiki/Sampling_distribution) 
+* [Natural Logarithm Wikipedia](http://en.wikipedia.org/wiki/Natural_logarithm) 
+* [Fisher Transformation Wikipedia](http://en.wikipedia.org/wiki/Fisher_transformation) 
+
+More Tests
+* [Mann–Whitney U Test Wikipedia](http://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U)
+* [Wald Test Wikipedia](http://en.wikipedia.org/wiki/Wald_test)
+* [Z-Test Wikipedia](http://en.wikipedia.org/wiki/Z-test)
+
+Standard Deviation, Error, Normalization, Standard Score
+* [Standard Deviation (Excel) Wikipedia](http://en.wikipedia.org/wiki/Standard_deviation)  
+* [Standard Error (Excel) Wikipedia](http://en.wikipedia.org/wiki/Standard_error_(statistics))  
+* [Normalization Wikipedia](http://en.wikipedia.org/wiki/Normalization)  
+* [Standard Score Wikipedia](http://en.wikipedia.org/wiki/Standard_score)  
+
+Confidence and Confidence Interval
+* [Confidence (Excel) Wikipedia](http://en.wikipedia.org/wiki/Confidence)  
+* [Confidence Interval (Excel) Wikipedia](http://en.wikipedia.org/wiki/Confidence_interval) 
+
+Stochastic Calculus, Stochastic Neural Network, Stochastic Gradient Descent (SGD)
+* [Stochastic Calculus Wikipedia](http://en.wikipedia.org/wiki/Stochastic_calculus)  
+* [Stochastic Process Wikipedia](http://en.wikipedia.org/wiki/Stochastic_process)  
+* [Stochastic Neural Network Wikipedia](http://en.wikipedia.org/wiki/Stochastic_neural_network)  
+* [Stochastic Gradient Descent (Used in Machine Learning) Wikipedia](http://en.wikipedia.org/wiki/Stochastic_gradient_descent)  
+
+The Science of Viral (See also Stochastic Calculus)
+* [Viral Phenomenon Wikipedia](http://en.wikipedia.org/wiki/Viral_phenomenon)  
+* [Viral Marketing Wikipedia](http://en.wikipedia.org/wiki/Viral_marketing)  
+* [Viral Marketing (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Viral_marketing) 
+
+Supervised and Unsupervised Learning
+* [Supervised Learning Wikipedia](http://en.wikipedia.org/wiki/Supervised_learning)  
+* [Unsupervised Learning ("program must discover hidden structure in unlabeled data") Wikipedia](http://en.wikipedia.org/wiki/Unsupervised_learning)  
+* [Semi-Supervised Learning ("Semi-supervised approaches make use of both labeled and unlabeled training data.") Wikipedia](http://en.wikipedia.org/wiki/Semi-supervised_learning)  
+
+Bayesian (Supervised Learning)
+* [Bayesian Statistics Wikipedia](http://en.wikipedia.org/wiki/Bayesian_statistics)  
+* [Bayesian Probability Wikipedia](http://en.wikipedia.org/wiki/Bayesian_probability)  
+* [Bayesian Inference Wikipedia](http://en.wikipedia.org/wiki/Bayesian_inference)  
+* [Bayes' Theory Wikipedia](http://en.wikipedia.org/wiki/Bayes'_theorem)  
+
+Recommendations and Filtering
+* [Cold Start Problem Wikipedia](http://en.wikipedia.org/wiki/Cold_start)  
+* [Recommendation Wikipedia](http://en.wikipedia.org/wiki/Recommendation)  
+* [Recommender System Wikipedia](http://en.wikipedia.org/wiki/Recommender_system)  
+* [Information Filtering System Wikipedia](http://en.wikipedia.org/wiki/Information_filtering_system)  
+* [Collaborative Filtering Wikipedia](http://en.wikipedia.org/wiki/Collaborative_filtering)  
+
+Natural Language Processing- General
+* [Natural Language Processing Wikipedia](http://en.wikipedia.org/wiki/Natural_language_processing)  
+
+Text Mining, Sentiment Analysis- General
+* [Text Mining Wikipedia](http://en.wikipedia.org/wiki/Text_mining)  
+* [List of Text Mining Software Wikipedia](http://en.wikipedia.org/wiki/List_of_text_mining_software)  
+* [Sentiment Analysis (Opinion Mining) Wikipedia)](http://en.wikipedia.org/wiki/Sentiment_analysis)  
+
+Web Crawling and Scraping
+* [Web Scraping Wikipedia](http://en.wikipedia.org/wiki/Web_scraping)  
+* [Web Crawler Wikipedia](http://en.wikipedia.org/wiki/Web_crawler)  
+* [Web Indexing Wikipedia](http://en.wikipedia.org/wiki/Web_indexing)  
+* [Data Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping)  
+* [Open Content Wikipedia](http://en.wikipedia.org/wiki/Open_content)  
+* [Scraper Site Wikipedia](http://en.wikipedia.org/wiki/Scraper_site)  
+* [Contact Scraping Wikipedia](http://en.wikipedia.org/wiki/Contact_scraping)  
+* [Screen Scraping Wikipedia](http://en.wikipedia.org/wiki/Data_scraping#Screen_scraping)  
+* [Wrapper (Data Mining) Wikipedia](http://en.wikipedia.org/wiki/Wrapper_(data_mining))  
+
+Graph and Tree Traversal
+* [Graph Traversal Wikipedia](http://en.wikipedia.org/wiki/Graph_traversal)  
+* [Tree Traversal Wikipedia](http://en.wikipedia.org/wiki/Tree_traversal) 
+
+Statistical Packages
+* [Comparison of Numerical Analysis Software Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_numerical_analysis_software)  
+* [List of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/List_of_statistical_packages)  
+* [Comparison of Statistical Packages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_statistical_packages) 
+
 
 Unstructured Data and Data Structures- General
 * [Unstructured Data Wikipedia](http://en.wikipedia.org/wiki/Unstructured_data)  
