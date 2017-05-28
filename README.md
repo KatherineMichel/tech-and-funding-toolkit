@@ -7952,12 +7952,18 @@ Practical Deep Learning Jeremy Howard
 http://course.fast.ai/
 
 Blogs and sites
+Andrej Karpathy
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+KDNuggets
 http://www.kdnuggets.com/
 https://algobeans.com
+Arthur Chan
 http://thegrandjanitor.com/
+Andrew Gibiansky
 http://andrew.gibiansky.com
+Christopher Olah
 http://colah.github.io/
+Ujjwal Karn
 https://ujjwalkarn.me/
 https://blog.cardiogr.am/three-challenges-for-artificial-intelligence-in-medicine-dfb9993ae750
 
@@ -7971,13 +7977,15 @@ http://us13.campaign-archive1.com/home/?u=67bd06787e84d73db24fb0aa5&amp;id=6c9d9
 http://www.oreilly.com/ai/newsletter.html?
 http://www.oreilly.com/data/newsletter.html
 https://inside.com/technically-sentient
+Sam DeBrule
 http://subscribe.machinelearnings.co/
 http://www.thevisionary.com/
 https://a16z.com/
 http://ben-evans.com/newsletter
 
 Podcasts
-https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c">Top 10 Best AI, Data Science and Machine Learning Podcasts</a></li>
+https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c
+nVidia
 https://blogs.nvidia.com/ai-podcast
 http://lineardigressions.com/
 https://twimlai.com/
