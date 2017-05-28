@@ -7926,7 +7926,9 @@ http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-m
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
 http://www.creativeai.net/
 https://www.instagram.com/hardmaru/
+-->
 
+<!--
 References Links
 https://youtu.be/ob_GX50Za6c?t=24
 https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
@@ -7966,8 +7968,7 @@ http://cs231n.github.io/convolutional-networks/">http://cs231n.github.io/convolu
 Andrej Karpathy
 http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
 https://arxiv.org/abs/1311.2901
-Asimov's Institute Neural Network Zoo
-http://www.asimovinstitute.org/neural-network-zoo/
+
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://www.researchgate.net/publication/13853244_Long_Short-term_Memory
 http://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
@@ -7993,7 +7994,7 @@ http://incompleteideas.net/sutton/book/the-book-2nd.html
 -->
 
 Data Scientists- Machine Learning
-* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), [Andrej Karpathy GitHub](https://github.com/karpathy)
+* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), and [Andrej Karpathy GitHub](https://github.com/karpathy)
 * [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
 * [Clare Corthell GitHub](https://github.com/clarecorthell)  
 * [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
@@ -8042,7 +8043,7 @@ Courses
 * [Practical Deep Learning For Coders (Jeremy Howard)](http://course.fast.ai)
 
 Machine Learning (Andrew Ng, Stanford)
-* [Machine Learning (Stanford)](https://www.coursera.org/course/ml)  
+* [Machine Learning (Stanford)](https://www.coursera.org/learn/machine-learning)  
 * [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/materials.html)  
 * [Stanford Open Classroom- Unsupervised Future Learning and Deep Learning (Andrew Ng)](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl) 
 
@@ -8050,18 +8051,50 @@ Mining Massive Datasets (Stanford)
 * [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
 * [Mining Massive Datasets Book (Stanford)](http://www.mmds.org) 
 
+Books
+* [Artificial Intelligence, 3rd edition (Stuart Russell and Peter Norvig)](http://aima.cs.berkeley.edu)
+* [Deep Learning Textbook (Ian Goodfellow and Yoshua Bengio and Aaron Courville)](http://www.deeplearningbook.org)
+* [Deep Learning Yearning (Andrew Ng)](http://www.mlyearning.org)
+* [Neural Networks and Deep Learning (Michael Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)
+* [Reinforcement Learning and its Relationship to Supervised Learning (Andrew G. Barto and Thomas G. Dietterich](http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf)
+
 <!--
 Books
-Artificial Intelligence, 3rd edition by Stuart Russell and Peter Norvig
-http://aima.cs.berkeley.edu/
-Neural Networks and Deep Learning by Michael Nielsen
-http://neuralnetworksanddeeplearning.com/index.html
-Deep Learning Yearning by Andrew Ng
-http://www.mlyearning.org/
-Textbook: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-http://www.deeplearningbook.org/
-Reinforcement Learning and its Relationship to Supervised Learning
-http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
+
+https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
+https://github.com/janishar/mit-deep-learning-book-pdf
+https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
+
+MOOCs
+Udacity Introduction to Machine Learning (Katie Malone and Sebastian Thrun)
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+Udacity Deep Learning by Google (Vincent Vanhoucke and Arpan Chakraborty)
+https://www.udacity.com/course/deep-learning--ud730
+
+Stanford class CS221: Artificial Intelligence: Principles and Techniques by Percy Liang
+http://web.stanford.edu/class/cs221/
+Stanford class CS224N Natural Language Processing with Deep Learning by Christopher Manning and Richard Socher
+http://web.stanford.edu/class/cs224n/
+YouTube Playlist
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
+http://cs231n.stanford.edu/
+GitHub Repo
+http://cs231n.github.io
+EdX Introduction to AI
+https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
+Carnegie Mellon's Introduction to Machine Learning
+http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
+Statistical Machine Learning
+http://www.stat.cmu.edu/~larry/=sml/
+MIT's Artificial Intelligence with Patrick Henry Winston
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+"The hard one": Coursera's Neural Networks for Machine Learning with Geoff Hinton
+https://www.coursera.org/learn/neural-networks
+University of Iowa AI class on unsupervised learning
+http://homepage.cs.uiowa.edu/~hzhang/c145/notes/18-unsupervised-6p.pdf
+Arthur Chan
+http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
 
 Videos, Tutorials, and Blogs
 Jeff Dean
@@ -8090,46 +8123,8 @@ http://videolectures.net/site/search/?q=MLSS
 2016 Deep Learning Summer School
 http://videolectures.net/deeplearning2016_montreal/
 
-MOOCs
-Andrew Ng: Coursera Machine Learning
-https://www.coursera.org/learn/machine-learning
-Udacity Introduction to Machine Learning
-https://www.udacity.com/course/intro-to-machine-learning--ud120
-Udacity Deep Learning by Google
-https://www.udacity.com/course/deep-learning--ud730
-Stanford class CS221: Artificial Intelligence: Principles and Techniques by Percy Liang
-http://web.stanford.edu/class/cs221/
-Stanford class CS224N Natural Language Processing with Deep Learning by Christopher Manning and Richard Socher
-http://web.stanford.edu/class/cs224n/
-YouTube Playlist
-https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
-CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
-http://cs231n.stanford.edu/
-GitHub Repo
-http://cs231n.github.io
-EdX Introduction to AI
-https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
-Carnegie Mellon's Introduction to Machine Learning
-http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
-Statistical Machine Learning
-http://www.stat.cmu.edu/~larry/=sml/
-MIT's Artificial Intelligence with Patrick Henry Winston
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
-"The hard one": Coursera's Neural Networks for Machine Learning with Geoff Hinton
-https://www.coursera.org/learn/neural-networks
-University of Iowa AI class on unsupervised learning
-http://homepage.cs.uiowa.edu/~hzhang/c145/notes/18-unsupervised-6p.pdf
-Arthur Chan
-http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
-
-https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
-
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
- 
-https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
-https://github.com/janishar/mit-deep-learning-book-pdf
-https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
 -->
 
 Ethics
@@ -8151,13 +8146,9 @@ https://research.googleblog.com
 http://googleresearch.blogspot.com
 -->
 
-nVidia
-
-<!--
-http://devblogs.nvidia.com
-nVidia
-https://blogs.nvidia.com/ai-podcast
--->
+NVIDIA
+* [NVIDIA AI Podcast](https://blogs.nvidia.com/ai-podcast)
+* [NVIDIA Dev Blog](http://devblogs.nvidia.com)
 
 Data Science- Reddit and Quota
 * [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
@@ -8218,9 +8209,15 @@ Code Labs and Summer Schools
 
 <!--
 Google Codelab
+https://codelabs.developers.google.com
+
 Machine Learning Summer School
 2016 Deep Learning Summer School
 -->
+
+Labs
+* [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
+* [Deep Mind (Google)](https://deepmind.com) and [Deep Mind (Google) GitHub](https://github.com/deepmind)
 
 Kaggle
 * [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
@@ -8243,9 +8240,13 @@ Roadmaps and Cheat Sheets
 * [Scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Strata Conference Cheat Sheet](https://twitter.com/furukama/status/411986586726064128)
  
-Labs
-* [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
-* [Deep Mind (Google)](https://deepmind.com) and [Deep Mind (Google) GitHub](https://github.com/deepmind)
+Neural Networks
+* [Types of Artificial Neural Networks Wikipedia](https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks)
+
+<!--
+Asimov's Institute Neural Network Zoo
+http://www.asimovinstitute.org/neural-network-zoo
+-->
 
 Open-Source Machine Learning and Infrastructure
 * [AddThis: Hydra GitHub](https://github.com/addthis/hydra)
