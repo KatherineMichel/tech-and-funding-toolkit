@@ -7948,8 +7948,6 @@ https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
 Blogs and sites
 Andrej Karpathy
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
-KDNuggets
-http://www.kdnuggets.com/
 https://algobeans.com
 Arthur Chan
 http://thegrandjanitor.com/
@@ -7977,8 +7975,6 @@ http://www.thevisionary.com/
 
 Podcasts
 https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c
-nVidia
-https://blogs.nvidia.com/ai-podcast
 http://lineardigressions.com/
 https://twimlai.com/
 
@@ -8010,11 +8006,6 @@ http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
 
 http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier
-
-Microsoft's developer documentation How to choose machine learning algorithms for Microsoft Azure machine Learning
-https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice
-Scikit-learn documentation: Choosing the right estimator
-http://scikit-learn.org/stable/tutorial/machine_learning_map/
 
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&amp;list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html
@@ -8063,13 +8054,16 @@ http://incompleteideas.net/sutton/book/the-book-2nd.html
 -->
 
 Data Scientists- Machine Learning
-* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy GitHub](https://github.com/karpathy)
+* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy Medium](https://medium.com/@karpathy), [Andrej Karpathy GitHub](https://github.com/karpathy)
 * [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
 * [Clare Corthell GitHub](https://github.com/clarecorthell)  
 * [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
+* [Professor Geoff Hinton Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_Hinton)
 * [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
+* [Michael Nielsen Wikipedia](https://en.wikipedia.org/wiki/Michael_Nielsen)
 * [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
-* [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
+* [Peter Warden](https://petewarden.com)
+* [Yann LeCun](http://yann.lecun.com) and [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
 
 Data Scientists- General
 * [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
@@ -8082,20 +8076,13 @@ Data Scientists- General
 * [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
 
 <!--
-https://medium.com/@karpathy
 http://cs.stanford.edu/people/karpathy
 
 Stuart Russell
-Michael Nielsen
-https://en.wikipedia.org/wiki/Michael_Nielsen
 Ian Goodfellow and Yoshua Bengio and Aaron Courville
 Andrew G. Barton and Thomas G. Dietterich
 Fei-Fei Li/Li Fei-Fei
-Prof. Geoff Hinton
-https://en.wikipedia.org/wiki/Geoffrey_Hinton
 John Launchbury
-Peter Warden
-https://petewarden.com
 https://petewarden.com/2016/04/18/how-to-break-into-machine-learning/
 Sam DeBrule
 Quoc Le
@@ -8113,7 +8100,7 @@ Playbooks
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
 
 Courses
-* [Practical Deep Learning For Coders, Part 1 (Jeremy Howard)](http://course.fast.ai)
+* [Practical Deep Learning For Coders (Jeremy Howard)](http://course.fast.ai)
 
 Machine Learning (Andrew Ng, Stanford)
 * [Machine Learning (Stanford)](https://www.coursera.org/course/ml)  
@@ -8138,22 +8125,39 @@ http://www.deeplearningbook.org/
 Reinforcement Learning and its Relationship to Supervised Learning
 http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
 
-Practical Deep Learning Jeremy Howard
-http://course.fast.ai/
-
-Google Codelab
-Machine Learning Summer School
-2016 Deep Learning Summer School
-
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
  
 https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
 https://github.com/janishar/mit-deep-learning-book-pdf
 https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
+-->
 
-https://openai.com
-https://github.com/openai
+Ethics
+* [OpenAI](https://openai.com) and [OpenAI GitHub](https://github.com/openai)
+
+Baid, Facebook, and Google Research
+* [Baidu Research](http://research.baidu.com)
+* [Facebook Engineering Facebook Page](https://www.facebook.com/Engineering)
+* [Facebook Research](https://research.facebook.com)  
+* [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
+* [Facebook Open Compute](http://www.opencompute.org)  
+* [Facebook Code](https://code.facebook.com)
+* [Google Research](http://research.google.com), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
+* [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
+
+<!--
+https://cloudplatform.googleblog.com
+https://research.googleblog.com
+http://googleresearch.blogspot.com
+-->
+
+nVidia
+
+<!--
+http://devblogs.nvidia.com
+nVidia
+https://blogs.nvidia.com/ai-podcast
 -->
 
 Data Science- Reddit and Quota
@@ -8211,6 +8215,22 @@ Data Styleguide GitHub
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
+Code Labs and Summer Schools
+
+<!--
+Google Codelab
+Machine Learning Summer School
+2016 Deep Learning Summer School
+-->
+
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions)  
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Scripts](https://www.kaggle.com/scripts)
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
+
 Roadmaps and Cheat Sheets
 * [Data Science Central: A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms)
 * [Dlib Machine Learning Guide](http://dlib.net/ml_guide.svg) and [Paper](http://jmlr.csail.mit.edu/papers/volume10/king09a/king09a.pdf)
@@ -8223,33 +8243,7 @@ Roadmaps and Cheat Sheets
 * [Swami Chandrasekaran: Road to Data Scientist](http://api.ning.com/files/v2lbj4A*dlMuI7BO2vXgjbXm0e78NLOMco1IbpI9fdUKH9Thb3oxWs8MsgCA7nUTU8rwrROiYonP7csIDFOFN9Oa4MPAaqa6/RoadtoDataScientistGraphic.png)
 * [Scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Strata Conference Cheat Sheet](https://twitter.com/furukama/status/411986586726064128)
-
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions)  
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Scripts](https://www.kaggle.com/scripts)
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
-
  
-
-Baid, Facebook, and Google Research
-* [Baidu Research](http://research.baidu.com)
-* [Facebook Engineering Facebook Page](https://www.facebook.com/Engineering)
-* [Facebook Research](https://research.facebook.com)  
-* [Facebook's Top Open Data Problems](https://research.facebook.com/blog/1522692927972019/facebook-s-top-open-data-problems)
-* [Facebook Open Compute](http://www.opencompute.org)  
-* [Facebook Code](https://code.facebook.com)
-* [Google Research](http://research.google.com), [Google Research Papers](http://research.google.com/pubs/papers.html), and [Google Research Blog](http://googleresearch.blogspot.com)
-* [Google Drive Research](https://support.google.com/docs/answer/2481802?hl=en Google Drive Research) 
-
-<!--
-https://cloudplatform.googleblog.com
-https://research.googleblog.com
-http://googleresearch.blogspot.com
--->
-
 Labs
 * [Dark Blue Labs (Google)](http://www.darkbluelabs.com)
 * [Deep Mind (Google)](https://deepmind.com) and [Deep Mind (Google) GitHub](https://github.com/deepmind)
@@ -8279,6 +8273,11 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
+Microsoft's developer documentation How to choose machine learning algorithms for Microsoft Azure machine Learning
+https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice
+Scikit-learn documentation: Choosing the right estimator
+http://scikit-learn.org/stable/tutorial/machine_learning_map/
+
 https://www.tensorflow.org/tutorials
 http://playground.tensorflow.org
 
