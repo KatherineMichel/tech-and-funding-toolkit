@@ -7918,7 +7918,7 @@ http://videolectures.net/site/search/?q=MLSS
 http://videolectures.net/deeplearning2016_montreal/
 
 MOOCs
-Andrew NG: Coursera Machine Learning
+Andrew Ng: Coursera Machine Learning
 https://www.coursera.org/learn/machine-learning
 Udacity Introduction to Machine Learning
 https://www.udacity.com/course/intro-to-machine-learning--ud120
@@ -7992,10 +7992,15 @@ https://twimlai.com/
 https://a16z.com/category/artificial-intelligence/
 
 Books
+Artificial Intelligence, 3rd edition by Stuart Russell and Peter Norvig
 http://aima.cs.berkeley.edu/
+Neural Networks and Deep Learning by Michael Nielsen
 http://neuralnetworksanddeeplearning.com/index.html
+Deep Learning Yearning by Andrew Ng
 http://www.mlyearning.org/
+Textbook: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 http://www.deeplearningbook.org/
+Reinforcement Learning and its Relationship to Supervised Learning
 http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
 
 Other
