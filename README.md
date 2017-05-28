@@ -8042,6 +8042,12 @@ Playbooks
 Courses
 * [Practical Deep Learning For Coders (Jeremy Howard)](http://course.fast.ai)
 
+<!--
+http://wiki.fast.ai/index.php/Main_Page
+http://wiki.fast.ai/index.php/Github
+https://github.com/fastai/courses
+-->
+
 Machine Learning (Andrew Ng, Stanford)
 * [Machine Learning (Stanford)](https://www.coursera.org/learn/machine-learning)  
 * [Stanford Open Classroom- CS 229: Machine Learning (Andrew Ng)](http://cs229.stanford.edu/materials.html)  
@@ -8060,6 +8066,11 @@ Books
 
 <!--
 Books
+http://www.deeplearningbook.org/lecture_slides.html
+http://www.deeplearningbook.org/exercises.html
+
+https://github.com/mnielsen/neural-networks-and-deep-learning
+https://github.com/MichalDanielDobrzanski/DeepLearningPython35
 
 https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
 https://github.com/janishar/mit-deep-learning-book-pdf
