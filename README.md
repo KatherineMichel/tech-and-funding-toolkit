@@ -7856,31 +7856,6 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 #### Data Science
 
 <!--
-https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
-https://github.com/janishar/mit-deep-learning-book-pdf
-https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
-
-https://www.youtube.com/watch?v=cKxRvEZd3Mw
-https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
- 
-http://aiplaybook.a16z.com
-https://github.com/a16z/ai
- 
-http://course.fast.ai
-
-https://openai.com
-https://github.com/openai
- 
-http://pytorch.org
-https://github.com/pytorch/pytorch
-
-https://github.com/torchnet/torchnet
-
-https://github.com/caffe2/caffe2
-http://caffe.berkeleyvision.org
-https://github.com/BVLC/caffe
-https://github.com/yahoo/CaffeOnSpark
-
 https://aws.amazon.com/blogs/aws/
 
 https://cloud.google.com
@@ -7904,10 +7879,6 @@ https://github.com/Rochester-NRT/AlphaGo.data
 
 https://github.com/fivethirtyeight/data
 -->
-
-Data Monetization
-* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
-* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
 
 Data Scientists
 * [Andrej Karpathy GitHub](https://github.com/karpathy)
@@ -7939,6 +7910,23 @@ Machine Learning (Andrew Ng, Stanford)
 Mining Massive Datasets (Stanford)
 * [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
 * [Mining Massive Datasets Book (Stanford)](http://www.mmds.org)  
+
+More Courses and Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+* [Practical Deep Learning For Coders, Part 1 (Jeremy Howard)](http://course.fast.ai)
+* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
+
+<!--
+https://www.youtube.com/watch?v=cKxRvEZd3Mw
+https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
+ 
+https://www.matroid.com/blog/post/first-two-chapters-of-tensorflow-for-deep-learning-released
+https://github.com/janishar/mit-deep-learning-book-pdf
+https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Yearning_V0.5_01.pdf
+
+https://openai.com
+https://github.com/openai
+-->
 
 Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com)
@@ -7973,17 +7961,6 @@ Data Styleguide GitHub
 * [The Leek Group Guide to Data Sharing GitHub](https://github.com/jtleek/datasharing)  
 * [The Quartz Guide to Bad Data GitHub](https://github.com/Quartz/bad-data-guide) 
 
-Kaggle
-* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
-* [Kaggle Competitions](https://www.kaggle.com/competitions)  
-* [Kaggle Datasets](https://www.kaggle.com/datasets) 
-* [Kaggle Scripts](https://www.kaggle.com/scripts)
-* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
-* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection)  
-
-Data Science Learning Programs
-* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
-
 Roadmaps and Cheat Sheets
 * [Data Science Central: A Tour of Machine Learning Algorithms](http://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms)
 * [Dlib Machine Learning Guide](http://dlib.net/ml_guide.svg) and [Paper](http://jmlr.csail.mit.edu/papers/volume10/king09a/king09a.pdf)
@@ -7996,6 +7973,14 @@ Roadmaps and Cheat Sheets
 * [Swami Chandrasekaran: Road to Data Scientist](http://api.ning.com/files/v2lbj4A*dlMuI7BO2vXgjbXm0e78NLOMco1IbpI9fdUKH9Thb3oxWs8MsgCA7nUTU8rwrROiYonP7csIDFOFN9Oa4MPAaqa6/RoadtoDataScientistGraphic.png)
 * [Scikit learn Algorithm Cheat Sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 * [Strata Conference Cheat Sheet](https://twitter.com/furukama/status/411986586726064128)
+
+Kaggle
+* [Kaggle](http://www.kaggle.com) and [Kaggle Wikipedia](http://en.wikipedia.org/wiki/Kaggle)  
+* [Kaggle Competitions](https://www.kaggle.com/competitions)  
+* [Kaggle Datasets](https://www.kaggle.com/datasets) 
+* [Kaggle Scripts](https://www.kaggle.com/scripts)
+* [Kaggle Past Solutions](https://www.kaggle.com/wiki/PastSolutions)  
+* [Kaggle Competition Code and Methodologies Collection](https://www.kaggle.com/forums/t/6486/kaggle-competition-code-and-methodologies-collection) 
 
  
 
@@ -8044,14 +8029,22 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
-https://github.com/torch/torch7/wiki/Cheatsheet
-
 https://github.com/adatao/tensorspark
 
 https://github.com/amznlabs/amazon-dsstne
 
 http://www.ibm.com/watson
 https://www.ibm.com/analytics/us/en/watson-data-platform
+
+http://pytorch.org
+https://github.com/pytorch/pytorch
+
+https://github.com/torchnet/torchnet
+
+https://github.com/caffe2/caffe2
+http://caffe.berkeleyvision.org
+https://github.com/BVLC/caffe
+https://github.com/yahoo/CaffeOnSpark
 -->
 
 Lambda Architecture
@@ -8331,6 +8324,11 @@ Import.io and Kimono Labs
 * [Import.io](https://import.io)
 * [Kimono Labs (Palantir)](https://www.kimonolabs.com)  
 
+
+
+Data Monetization
+* [Data Monetization Frameworks Wikipedia](http://en.wikipedia.org/wiki/Data_monetization#Frameworks)  
+* [Data Monetization Pricing Variables and Factors](http://en.wikipedia.org/wiki/Data_monetization#Pricing_Variables_and_Factors) 
 
 Artificial Intelligence- General
 * [Artificial Intelligence Wikipedia](http://en.wikipedia.org/wiki/Artificial_intelligence)  
