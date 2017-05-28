@@ -7884,67 +7884,6 @@ https://github.com/fivethirtyeight/data
 <!--
 A16Z
 
-Videos, Tutorials, and Blogs
-Jeff Dean
-https://www.youtube.com/watch?v=QSaZGT4-6EY
-Prof. Geoff Hinton
-https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
-Peter Norvig, 2016
-https://www.youtube.com/watch?v=X769cyzBNVw
-Yann LeCun, The Institute for Scientific Computing Research (ISCR), Lawrence Livermore National Laboratory
-https://www.youtube.com/watch?v=Qk4SqF9FT-M
-John Launchbury, the Director of DARPA's Information Innovation Office (I2O)
-https://www.youtube.com/embed/-O01G3tSYpU
-
-Tutorials
-Welch Labs
-https://www.youtube.com/watch?v=bxe2T-V8XRs
-Google Codelab
-https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
-Peter Warden
-https://petewarden.com/2016/02/28/tensorflow-for-poets/
-https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
-Stanford
-http://ufldl.stanford.edu/tutorial/
-Machine Learning Summer School
-http://videolectures.net/site/search/?q=MLSS
-2016 Deep Learning Summer School
-http://videolectures.net/deeplearning2016_montreal/
-
-MOOCs
-Andrew Ng: Coursera Machine Learning
-https://www.coursera.org/learn/machine-learning
-Udacity Introduction to Machine Learning
-https://www.udacity.com/course/intro-to-machine-learning--ud120
-Udacity Deep Learning by Google
-https://www.udacity.com/course/deep-learning--ud730
-Stanford class CS221: Artificial Intelligence: Principles and Techniques by Percy Liang
-http://web.stanford.edu/class/cs221/
-Stanford class CS224N Natural Language Processing with Deep Learning by Christopher Manning and Richard Socher
-http://web.stanford.edu/class/cs224n/
-YouTube Playlist
-https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
-CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
-http://cs231n.stanford.edu/
-GitHub Repo
-http://cs231n.github.io
-EdX Introduction to AI
-https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
-Carnegie Mellon's Introduction to Machine Learning
-http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
-Statistical Machine Learning
-http://www.stat.cmu.edu/~larry/=sml/
-MIT's Artificial Intelligence with Patrick Henry Winston
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
-"The hard one": Coursera's Neural Networks for Machine Learning with Geoff Hinton
-https://www.coursera.org/learn/neural-networks
-University of Iowa AI class on unsupervised learning
-http://homepage.cs.uiowa.edu/~hzhang/c145/notes/18-unsupervised-6p.pdf
-Arthur Chan
-http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
-
-https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
-
 Blogs and sites
 Andrej Karpathy
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
@@ -8111,7 +8050,6 @@ Mining Massive Datasets (Stanford)
 * [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
 * [Mining Massive Datasets Book (Stanford)](http://www.mmds.org) 
 
-
 <!--
 Books
 Artificial Intelligence, 3rd edition by Stuart Russell and Peter Norvig
@@ -8124,6 +8062,67 @@ Textbook: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
 http://www.deeplearningbook.org/
 Reinforcement Learning and its Relationship to Supervised Learning
 http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
+
+Videos, Tutorials, and Blogs
+Jeff Dean
+https://www.youtube.com/watch?v=QSaZGT4-6EY
+Prof. Geoff Hinton
+https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+Peter Norvig, 2016
+https://www.youtube.com/watch?v=X769cyzBNVw
+Yann LeCun, The Institute for Scientific Computing Research (ISCR), Lawrence Livermore National Laboratory
+https://www.youtube.com/watch?v=Qk4SqF9FT-M
+John Launchbury, the Director of DARPA's Information Innovation Office (I2O)
+https://www.youtube.com/embed/-O01G3tSYpU
+
+Tutorials
+Welch Labs
+https://www.youtube.com/watch?v=bxe2T-V8XRs
+Google Codelab
+https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
+Peter Warden
+https://petewarden.com/2016/02/28/tensorflow-for-poets/
+https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+Stanford
+http://ufldl.stanford.edu/tutorial/
+Machine Learning Summer School
+http://videolectures.net/site/search/?q=MLSS
+2016 Deep Learning Summer School
+http://videolectures.net/deeplearning2016_montreal/
+
+MOOCs
+Andrew Ng: Coursera Machine Learning
+https://www.coursera.org/learn/machine-learning
+Udacity Introduction to Machine Learning
+https://www.udacity.com/course/intro-to-machine-learning--ud120
+Udacity Deep Learning by Google
+https://www.udacity.com/course/deep-learning--ud730
+Stanford class CS221: Artificial Intelligence: Principles and Techniques by Percy Liang
+http://web.stanford.edu/class/cs221/
+Stanford class CS224N Natural Language Processing with Deep Learning by Christopher Manning and Richard Socher
+http://web.stanford.edu/class/cs224n/
+YouTube Playlist
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
+http://cs231n.stanford.edu/
+GitHub Repo
+http://cs231n.github.io
+EdX Introduction to AI
+https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
+Carnegie Mellon's Introduction to Machine Learning
+http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
+Statistical Machine Learning
+http://www.stat.cmu.edu/~larry/=sml/
+MIT's Artificial Intelligence with Patrick Henry Winston
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+"The hard one": Coursera's Neural Networks for Machine Learning with Geoff Hinton
+https://www.coursera.org/learn/neural-networks
+University of Iowa AI class on unsupervised learning
+http://homepage.cs.uiowa.edu/~hzhang/c145/notes/18-unsupervised-6p.pdf
+Arthur Chan
+http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
+
+https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
 
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
