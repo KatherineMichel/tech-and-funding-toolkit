@@ -7884,6 +7884,18 @@ https://github.com/fivethirtyeight/data
 <!--
 A16Z
 
+Books
+Artificial Intelligence, 3rd edition by Stuart Russell and Peter Norvig
+http://aima.cs.berkeley.edu/
+Neural Networks and Deep Learning by Michael Nielsen
+http://neuralnetworksanddeeplearning.com/index.html
+Deep Learning Yearning by Andrew Ng
+http://www.mlyearning.org/
+Textbook: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+http://www.deeplearningbook.org/
+Reinforcement Learning and its Relationship to Supervised Learning
+http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
+
 Videos, Tutorials, and Blogs
 Frank Chen 
 http://a16z.com/2016/06/10/ai-deep-learning-machines/
@@ -7991,18 +8003,6 @@ http://lineardigressions.com/
 https://twimlai.com/
 https://a16z.com/category/artificial-intelligence/
 
-Books
-Artificial Intelligence, 3rd edition by Stuart Russell and Peter Norvig
-http://aima.cs.berkeley.edu/
-Neural Networks and Deep Learning by Michael Nielsen
-http://neuralnetworksanddeeplearning.com/index.html
-Deep Learning Yearning by Andrew Ng
-http://www.mlyearning.org/
-Textbook: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-http://www.deeplearningbook.org/
-Reinforcement Learning and its Relationship to Supervised Learning
-http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
-
 Other
 https://aiexperiments.withgoogle.com/
 Artificial Intelligence research papers at arXiv.org
@@ -8032,14 +8032,7 @@ Jeff Dean's presentation on Trends and Developments in Deep Learning Research
 https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm
 https://www.slideshare.net/AIFrontiers/jeff-dean-trends-and-developments-in-deep-learning-research
 http://jerrykaplan.com/books/
-Stanford CoreNLP toolkit
-http://stanfordnlp.github.io/CoreNLP/
-http://scikit-learn.org/stable/#">scikit-learn
-http://spark.apache.org/mllib/
-https://www.tensorflow.org/
-https://keras.io/
-https://caffe2.ai
-http://mxnet.io/
+
 Canziani, Culurciello, and Paszke
 https://arxiv.org/pdf/1605.07678.pdf
 https://medium.com/@muellerfreitag/10-data-acquisition-strategies-for-startups-47166580ee48
@@ -8102,20 +8095,42 @@ http://incompleteideas.net/sutton/book/the-book-1st.html
 http://incompleteideas.net/sutton/book/the-book-2nd.html
 -->
 
-Data Scientists
+Data Scientists- Machine Learning
 * [Andrej Karpathy GitHub](https://github.com/karpathy)
-* [Andrew Ng](http://en.wikipedia.org/wiki/Andrew_Ng)  
-* [Clare Corthell](https://github.com/clarecorthell)  
+* [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
+* [Clare Corthell GitHub](https://github.com/clarecorthell)  
+* [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
+* [Jeremy Howard Wikipedia](https://en.wikipedia.org/wiki/Jeremy_Howard_(entrepreneur))
+* [Peter Norvig Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
+* [Yann LeCun Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun)
+
+Data Scientists- General
 * [Daphne Koller](http://ai.stanford.edu/~koller) and [Daphne Koller Wikipedia](http://en.wikipedia.org/wiki/Daphne_Koller)
-* [Daryl Morey](http://en.wikipedia.org/wiki/Daryl_Morey)  
+* [Daryl Morey Wikipedia](http://en.wikipedia.org/wiki/Daryl_Morey)  
 * [Drew Conway](http://drewconway.com/zia/?p=2378)  
 * [Edward Tufte](http://www.edwardtufte.com) and [Edward Tufte](http://www.edwardtufte.com/tufte) 
-* [Gilad Lotan, Data Scientist](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan, Data Scientist, Slideshare](http://www.slideshare.net/giladlotan)  
+* [Gilad Lotan Medium](https://medium.com/i-data/a54969aeb23e) and [Gilad Lotan Slideshare](http://www.slideshare.net/giladlotan)  
 * [Hilary Mason](http://www.hilarymason.com)  
-* [Nate Silver](http://fivethirtyeight.blogs.nytimes.com)  
+* [Nate Silver](http://fivethirtyeight.blogs.nytimes.com) 
 * [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
 
 <!--
+Stuart Russell
+Michael Nielsen
+https://en.wikipedia.org/wiki/Michael_Nielsen
+Ian Goodfellow and Yoshua Bengio and Aaron Courville
+Andrew G. Barton and Thomas G. Dietterich
+Fei-Fei Li/Li Fei-Fei
+Prof. Geoff Hinton
+https://en.wikipedia.org/wiki/Geoffrey_Hinton
+John Launchbury
+Peter Warden
+https://petewarden.com
+https://petewarden.com/2016/04/18/how-to-break-into-machine-learning/
+Sam DeBrule
+Quoc Le
+Michael Jordan
+
 http://cs.stanford.edu/people/karpathy
 https://github.com/karpathy/arxiv-sanity-preserver
 
@@ -8139,6 +8154,10 @@ More Courses and Playbooks
 * [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
 
 <!--
+Google Codelab
+Machine Learning Summer School
+2016 Deep Learning Summer School
+
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
  
@@ -8262,6 +8281,15 @@ http://pytorch.org
 https://github.com/pytorch/pytorch
 
 https://github.com/torchnet/torchnet
+
+Stanford CoreNLP toolkit
+http://stanfordnlp.github.io/CoreNLP/
+http://scikit-learn.org/stable/#">scikit-learn
+http://spark.apache.org/mllib/
+https://www.tensorflow.org/
+https://keras.io/
+https://caffe2.ai
+http://mxnet.io
 
 https://github.com/caffe2/caffe2
 http://caffe.berkeleyvision.org
