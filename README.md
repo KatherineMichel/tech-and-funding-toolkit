@@ -7918,21 +7918,37 @@ http://videolectures.net/site/search/?q=MLSS
 http://videolectures.net/deeplearning2016_montreal/
 
 MOOCs
+Andrew NG: Coursera Machine Learning
 https://www.coursera.org/learn/machine-learning
+Udacity Introduction to Machine Learning
 https://www.udacity.com/course/intro-to-machine-learning--ud120
+Udacity Deep Learning by Google
 https://www.udacity.com/course/deep-learning--ud730
+Stanford class CS221: Artificial Intelligence: Principles and Techniques by Percy Liang
 http://web.stanford.edu/class/cs221/
+Stanford class CS224N Natural Language Processing with Deep Learning by Christopher Manning and Richard Socher
 http://web.stanford.edu/class/cs224n/
+YouTube Playlist
 https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
+CS231N: Convolutional Neural Networks for Visual Recognition by Fei-Fei Li and Andrej Karapthy
 http://cs231n.stanford.edu/
+GitHub Repo
 http://cs231n.github.io
+EdX Introduction to AI
 https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-0
+Carnegie Mellon's Introduction to Machine Learning
 http://www.cs.cmu.edu/~mgormley/courses/10701-f16/
+Statistical Machine Learning
 http://www.stat.cmu.edu/~larry/=sml/
+MIT's Artificial Intelligence with Patrick Henry Winston
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/
+"The hard one": Coursera's Neural Networks for Machine Learning with Geoff Hinton
 https://www.coursera.org/learn/neural-networks
+University of Iowa AI class on unsupervised learning
 http://homepage.cs.uiowa.edu/~hzhang/c145/notes/18-unsupervised-6p.pdf
+Arthur Chan
 http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
+Practical Deep Learning Jeremy Howard
 http://course.fast.ai/
 
 Blogs and sites
