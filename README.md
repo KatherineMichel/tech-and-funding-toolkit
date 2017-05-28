@@ -7878,8 +7878,12 @@ https://github.com/Rochester-NRT/AlphaGo
 https://github.com/Rochester-NRT/AlphaGo.data
 
 https://github.com/fivethirtyeight/data
--->
 
+https://github.com/21dotco/two1-deep-learning
+https://21.co/learn/deep-learning-aws
+
+https://www.floydhub.com/pricing
+-->
 
 <!--
 A16Z
@@ -8041,11 +8045,20 @@ Playbooks
 
 Courses
 * [Practical Deep Learning For Coders (Jeremy Howard)](http://course.fast.ai)
+* [Practical Deep Learning For Coders Wiki](http://wiki.fast.ai/index.php)
+* [Practical Deep Learning For Coders GitHub](https://github.com/fastai/courses)
 
 <!--
-http://wiki.fast.ai/index.php/Main_Page
-http://wiki.fast.ai/index.php/Github
-https://github.com/fastai/courses
+http://www.fast.ai
+http://forums.fast.ai
+http://course.fast.ai/lessons/aws.html
+http://wiki.fast.ai/index.php/Lesson_1#Overview_of_homework_assignment
+http://course.fast.ai/start.html
+http://wiki.fast.ai
+http://wiki.fast.ai/index.php/How_to_use_the_Provided_Notebooks
+https://github.com/fastai/courses/tree/master/deeplearning1/nbs
+http://course.fast.ai/lessons/lessons.html
+http://course.fast.ai/lessons/lesson1.html
 -->
 
 Machine Learning (Andrew Ng, Stanford)
