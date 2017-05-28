@@ -7827,6 +7827,8 @@ https://gallery.mailchimp.com/dc3a7ef4d750c0abfc19202a3/files/Machine_Learning_Y
 https://www.youtube.com/watch?v=cKxRvEZd3Mw
 https://www.youtube.com/watch?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6&v=OQQ-W_63UgQ
  
+http://www.partiallyderivative.com
+
 https://www.reddit.com/r/learnmachinelearning/
 https://www.producthunt.com/posts/machine-learnings-newsletter
 http://vrar.inside.com/
@@ -7852,6 +7854,10 @@ https://github.com/deepmind
 https://www.tensorflow.org
 https://github.com/tensorflow
 
+https://github.com/adatao/tensorspark
+
+https://github.com/amznlabs/amazon-dsstne
+
 http://www.paddlepaddle.org
 https://github.com/PaddlePaddle/Paddle
 
@@ -7872,6 +7878,8 @@ https://github.com/yahoo/CaffeOnSpark
 
 https://aws.amazon.com/blogs/aws/
 
+http://research.baidu.com
+https://www.facebook.com/Engineering
 https://cloudplatform.googleblog.com
 https://research.googleblog.com
 https://code.facebook.com
@@ -7916,6 +7924,16 @@ https://developer.oculus.com
 
 http://research.comma.ai/
 https://github.com/commaai/research
+
+http://libccv.org
+https://github.com/liuliu/ccv Computer Vision library
+ 
+http://h2o.ai
+https://github.com/h2oai/h2o-3
+
+https://github.com/facebookresearch/darkforestGo
+https://github.com/Rochester-NRT/AlphaGo
+https://github.com/Rochester-NRT/AlphaGo.data
 
 https://github.com/fivethirtyeight/data
 -->
