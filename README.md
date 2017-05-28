@@ -8005,6 +8005,7 @@ http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
 
 Other
 https://aiexperiments.withgoogle.com/
+Artificial Intelligence research papers at arXiv.org
 https://arxiv.org/list/cs.AI/recent
 http://arxiv-sanity.com/
 http://distill.pub/
@@ -8012,8 +8013,11 @@ https://ai100.stanford.edu/
 http://www.kdnuggets.com/2016/04/deep-learning-neural-networks-overview.html
 http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
+Quora Artificial Intelligence
 https://www.quora.com/topic/Artificial-Intelligence
+Quora Machine Learning
 https://www.quora.com/topic/Machine-Learning
+Quora Artificial Neural Networks
 https://www.quora.com/topic/Artificial-Neural-Networks-ANNs
 http://www.creativeai.net/
 https://www.instagram.com/hardmaru/
@@ -8024,9 +8028,11 @@ https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf
 https://docs.oracle.com/database/121/CNCPT/intro.htm#CNCPT88784
 https://hbr.org/2016/11/the-simple-economics-of-machine-intelligence
 https://opensource.org/licenses/MIT
+Jeff Dean's presentation on Trends and Developments in Deep Learning Research
 https://www.sec.gov/Archives/edgar/data/1018724/000119312517120198/d373368dex991.htm
 https://www.slideshare.net/AIFrontiers/jeff-dean-trends-and-developments-in-deep-learning-research
 http://jerrykaplan.com/books/
+Stanford CoreNLP toolkit
 http://stanfordnlp.github.io/CoreNLP/
 http://scikit-learn.org/stable/#">scikit-learn
 http://spark.apache.org/mllib/
@@ -8034,12 +8040,15 @@ https://www.tensorflow.org/
 https://keras.io/
 https://caffe2.ai
 http://mxnet.io/
-https://arxiv.org/pdf/1605.07678.pdf Canziani, Culurciello, and Paszke
+Canziani, Culurciello, and Paszke
+https://arxiv.org/pdf/1605.07678.pdf
 https://medium.com/@muellerfreitag/10-data-acquisition-strategies-for-startups-47166580ee48
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+Microsoft's developer documentation How to choose machine learning algorithms for Microsoft Azure machine Learning
 https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice
 http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier
+Scikit-learn documentation: Choosing the right estimator
 http://scikit-learn.org/stable/tutorial/machine_learning_map/
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&amp;list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html
@@ -8047,33 +8056,46 @@ http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-le
 https://arxiv.org/pdf/1702.07800.pdf
 https://arxiv.org/pdf/1404.7828.pdf
 http://devblogs.nvidia.com/parallelforall/accelerate-machine-learning-cudnn-deep-neural-network-library/
+Google legend Jeff Dean from the Google Brain team lecture on Large-Scale Deep Learning for Intelligent Computer Systems
 https://www.youtube.com/watch?v=4hqb3tdk01k
+Michael Nielsen
 http://neuralnetworksanddeeplearning.com/index.html
+Michael Jordan
 http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts
 https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
 http://playground.tensorflow.org
+a16z AI Primer
 http://a16z.com/2016/06/10/ai-deep-learning-machines
+Convolutional Neural Networks introduced by LeCun, Bengio, Lottou, Haffer in 1998
 http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 http://www.image-net.org/challenges/LSVRC/
 https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
+Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition Andrej Karpathy
 http://cs231n.github.io/convolutional-networks/">http://cs231n.github.io/convolutional-networks/
+Andrej Karpathy
 http://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html
 https://arxiv.org/abs/1311.2901
+Asimov's Institute Neural Network Zoo
 http://www.asimovinstitute.org/neural-network-zoo/
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 https://www.researchgate.net/publication/13853244_Long_Short-term_Memory
 http://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
 http://www.kdnuggets.com/2016/04/top-15-frameworks-machine-learning-experts.html
+Andrej Karpathy
 https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106
+Generative Adversarial Networks paper Ian Goodfellow et. al's 2014 
 https://arxiv.org/abs/1406.2661
+Stanford Tutorial
 http://ufldl.stanford.edu/tutorial
 https://algobeans.com/2016/11/03/artificial-neural-networks-intro2/
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152173
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152173
 https://www.wired.com/2012/06/google-x-neural-network/
+Google Brain team and Stanford researchers Quoc Le and Andrew Ng
 https://arxiv.org/abs/1112.6209
 http://pages.cs.wisc.edu/~jerryzhu/pub/sslicml07.pdf
 http://pages.cs.wisc.edu/~jerryzhu/pub/ssl_survey.pdf
+DeepMind
 https://deepmind.com/blog/deep-reinforcement-learning/
 https://www.nervanasys.com/demystifying-deep-reinforcement-learning
 http://incompleteideas.net/sutton/book/the-book-1st.html
