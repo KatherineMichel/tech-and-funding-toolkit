@@ -7884,24 +7884,7 @@ https://github.com/fivethirtyeight/data
 <!--
 A16Z
 
-Books
-Artificial Intelligence, 3rd edition by Stuart Russell and Peter Norvig
-http://aima.cs.berkeley.edu/
-Neural Networks and Deep Learning by Michael Nielsen
-http://neuralnetworksanddeeplearning.com/index.html
-Deep Learning Yearning by Andrew Ng
-http://www.mlyearning.org/
-Textbook: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-http://www.deeplearningbook.org/
-Reinforcement Learning and its Relationship to Supervised Learning
-http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
-
 Videos, Tutorials, and Blogs
-Frank Chen 
-http://a16z.com/2016/06/10/ai-deep-learning-machines/
-http://a16z.com/2017/03/17/machine-learning-startups-data-saas/
-Fei-Fei Li/Li Fei-Fei
-http://a16z.com/2016/06/29/feifei-li-a16z-professor-in-residence/
 Jeff Dean
 https://www.youtube.com/watch?v=QSaZGT4-6EY
 Prof. Geoff Hinton
@@ -7916,7 +7899,6 @@ https://www.youtube.com/embed/-O01G3tSYpU
 Tutorials
 Welch Labs
 https://www.youtube.com/watch?v=bxe2T-V8XRs
-https://www.tensorflow.org/tutorials
 Google Codelab
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
 Peter Warden
@@ -7960,8 +7942,8 @@ University of Iowa AI class on unsupervised learning
 http://homepage.cs.uiowa.edu/~hzhang/c145/notes/18-unsupervised-6p.pdf
 Arthur Chan
 http://thegrandjanitor.com/2016/08/15/learning-deep-learning-my-top-five-resource/
-Practical Deep Learning Jeremy Howard
-http://course.fast.ai/
+
+https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
 
 Blogs and sites
 Andrej Karpathy
@@ -7992,8 +7974,6 @@ https://inside.com/technically-sentient
 Sam DeBrule
 http://subscribe.machinelearnings.co/
 http://www.thevisionary.com/
-https://a16z.com/
-http://ben-evans.com/newsletter
 
 Podcasts
 https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c
@@ -8001,24 +7981,14 @@ nVidia
 https://blogs.nvidia.com/ai-podcast
 http://lineardigressions.com/
 https://twimlai.com/
-https://a16z.com/category/artificial-intelligence/
 
 Other
 https://aiexperiments.withgoogle.com/
-Artificial Intelligence research papers at arXiv.org
-https://arxiv.org/list/cs.AI/recent
-http://arxiv-sanity.com/
 http://distill.pub/
 https://ai100.stanford.edu/
 http://www.kdnuggets.com/2016/04/deep-learning-neural-networks-overview.html
 http://www.mckinsey.com/business-functions/digital-mckinsey/our-insights/where-machines-could-replace-humans-and-where-they-cant-yet
 https://github.com/ZuzooVn/machine-learning-for-software-engineers
-Quora Artificial Intelligence
-https://www.quora.com/topic/Artificial-Intelligence
-Quora Machine Learning
-https://www.quora.com/topic/Machine-Learning
-Quora Artificial Neural Networks
-https://www.quora.com/topic/Artificial-Neural-Networks-ANNs
 http://www.creativeai.net/
 https://www.instagram.com/hardmaru/
 
@@ -8038,11 +8008,14 @@ https://arxiv.org/pdf/1605.07678.pdf
 https://medium.com/@muellerfreitag/10-data-acquisition-strategies-for-startups-47166580ee48
 http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms
 http://www.kdnuggets.com/2016/08/10-algorithms-machine-learning-engineers.html
+
+http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier
+
 Microsoft's developer documentation How to choose machine learning algorithms for Microsoft Azure machine Learning
 https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice
-http://stackoverflow.com/questions/2595176/when-to-choose-which-machine-learning-classifier
 Scikit-learn documentation: Choosing the right estimator
 http://scikit-learn.org/stable/tutorial/machine_learning_map/
+
 https://www.youtube.com/watch?v=OQQ-W_63UgQ&amp;list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6
 http://beamandrew.github.io/deeplearning/2017/02/23/deep_learning_101_part1.html
 http://www.andreykurenkov.com/writing/a-brief-history-of-neural-nets-and-deep-learning/
@@ -8051,14 +8024,9 @@ https://arxiv.org/pdf/1404.7828.pdf
 http://devblogs.nvidia.com/parallelforall/accelerate-machine-learning-cudnn-deep-neural-network-library/
 Google legend Jeff Dean from the Google Brain team lecture on Large-Scale Deep Learning for Intelligent Computer Systems
 https://www.youtube.com/watch?v=4hqb3tdk01k
-Michael Nielsen
-http://neuralnetworksanddeeplearning.com/index.html
+
 Michael Jordan
 http://spectrum.ieee.org/robotics/artificial-intelligence/machinelearning-maestro-michael-jordan-on-the-delusions-of-big-data-and-other-huge-engineering-efforts
-https://en.wikipedia.org/wiki/Types_of_artificial_neural_networks
-http://playground.tensorflow.org
-a16z AI Primer
-http://a16z.com/2016/06/10/ai-deep-learning-machines
 Convolutional Neural Networks introduced by LeCun, Bengio, Lottou, Haffer in 1998
 http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 http://www.image-net.org/challenges/LSVRC/
@@ -8082,7 +8050,6 @@ Stanford Tutorial
 http://ufldl.stanford.edu/tutorial
 https://algobeans.com/2016/11/03/artificial-neural-networks-intro2/
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152173
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152173
 https://www.wired.com/2012/06/google-x-neural-network/
 Google Brain team and Stanford researchers Quoc Le and Andrew Ng
 https://arxiv.org/abs/1112.6209
@@ -8096,7 +8063,7 @@ http://incompleteideas.net/sutton/book/the-book-2nd.html
 -->
 
 Data Scientists- Machine Learning
-* [Andrej Karpathy GitHub](https://github.com/karpathy)
+* [Andrej Karpathy](http://karpathy.github.io), [Andrej Karpathy GitHub](https://github.com/karpathy)
 * [Andrew Ng Wikipedia](http://en.wikipedia.org/wiki/Andrew_Ng)  
 * [Clare Corthell GitHub](https://github.com/clarecorthell)  
 * [Jeff Dean Wikipedia](https://en.wikipedia.org/wiki/Jeff_Dean_(computer_scientist)) 
@@ -8115,6 +8082,9 @@ Data Scientists- General
 * [Peter Skomoroch (Recommended Sites)](http://datawrangling.com) and [Peter Skomoroch Nuzzel](http://nuzzel.com/peteskomoroch)  
 
 <!--
+https://medium.com/@karpathy
+http://cs.stanford.edu/people/karpathy
+
 Stuart Russell
 Michael Nielsen
 https://en.wikipedia.org/wiki/Michael_Nielsen
@@ -8131,13 +8101,19 @@ Sam DeBrule
 Quoc Le
 Michael Jordan
 
-http://cs.stanford.edu/people/karpathy
 https://github.com/karpathy/arxiv-sanity-preserver
 
 Andrej Karpathy
 * [NeuralTalk2 GitHub](https://github.com/karpathy/neuraltalk2)  
 * [NeuralTalk GitHub](https://github.com/karpathy/neuraltalk) 
 -->
+
+Playbooks
+* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
+* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md) 
+
+Courses
+* [Practical Deep Learning For Coders, Part 1 (Jeremy Howard)](http://course.fast.ai)
 
 Machine Learning (Andrew Ng, Stanford)
 * [Machine Learning (Stanford)](https://www.coursera.org/course/ml)  
@@ -8146,14 +8122,25 @@ Machine Learning (Andrew Ng, Stanford)
 
 Mining Massive Datasets (Stanford)
 * [Mining Massive Datasets (Stanford)](https://www.coursera.org/course/mmds)  
-* [Mining Massive Datasets Book (Stanford)](http://www.mmds.org)  
+* [Mining Massive Datasets Book (Stanford)](http://www.mmds.org) 
 
-More Courses and Playbooks
-* [A16Z AI Playbook](http://aiplaybook.a16z.com) and [A16Z AI Playbook GitHub](https://github.com/a16z/ai)
-* [Practical Deep Learning For Coders, Part 1 (Jeremy Howard)](http://course.fast.ai)
-* [Open Source Data Science Masters](http://datasciencemasters.org), [Open Source Data Science Masters GitHub](https://github.com/datasciencemasters/go), and [Open Source Data Science Masters Specializations](https://github.com/datasciencemasters/go/blob/master/specializations.md)  
 
 <!--
+Books
+Artificial Intelligence, 3rd edition by Stuart Russell and Peter Norvig
+http://aima.cs.berkeley.edu/
+Neural Networks and Deep Learning by Michael Nielsen
+http://neuralnetworksanddeeplearning.com/index.html
+Deep Learning Yearning by Andrew Ng
+http://www.mlyearning.org/
+Textbook: Deep Learning by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+http://www.deeplearningbook.org/
+Reinforcement Learning and its Relationship to Supervised Learning
+http://www-anw.cs.umass.edu/pubs/2004/barto_d_04.pdf
+
+Practical Deep Learning Jeremy Howard
+http://course.fast.ai/
+
 Google Codelab
 Machine Learning Summer School
 2016 Deep Learning Summer School
@@ -8169,13 +8156,20 @@ https://openai.com
 https://github.com/openai
 -->
 
+Data Science- Reddit and Quota
+* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning) 
+* [Quora Artificial Intelligence](https://www.quora.com/topic/Artificial-Intelligence)
+* [Quora Machine Learning](https://www.quora.com/topic/Machine-Learning)
+* [Quora Artificial Neural Networks](https://www.quora.com/topic/Artificial-Neural-Networks-ANNs)
+
 Data Science Websites
 * [AnalyticBridge](http://www.analyticbridge.com)
 * [Data Science Central](http://www.datasciencecentral.com)
-* [DataTau (The "Hacker News" of Data Science)](http://www.datatau.com)
-* [Get Topical: Big Data](http://gettopical.com/bigdata)
 * [KDNuggets](http://www.kdnuggets.com) and [KDNuggets News Archive](http://www.kdnuggets.com/news/archive.html)
-* [Reddit Machine Learning](http://www.reddit.com/r/MachineLearning)  
+
+Data Science Topics Ranked
+* [DataTau (The "Hacker News" of Data Science)](http://www.datatau.com)
+* [Get Topical: Big Data](http://gettopical.com/bigdata) 
 * [Deep Learning News (The "Hacker News" of Deep Learning)](http://news.startup.ml)
 
 <!--
@@ -8184,6 +8178,21 @@ http://www.partiallyderivative.com
 https://www.producthunt.com/posts/machine-learnings-newsletter
 http://vrar.inside.com/
 http://www.datasciencecentral.com/page/previous-digests
+
+Artificial Intelligence research papers at arXiv.org
+https://arxiv.org/list/cs.AI/recent
+http://arxiv-sanity.com/
+-->
+
+<!--
+https://a16z.com/category/artificial-intelligence/
+https://a16z.com/
+a16z AI Primer Frank Chen 
+http://a16z.com/2016/06/10/ai-deep-learning-machines/
+http://a16z.com/2017/03/17/machine-learning-startups-data-saas/
+Fei-Fei Li/Li Fei-Fei
+http://a16z.com/2016/06/29/feifei-li-a16z-professor-in-residence/
+http://ben-evans.com/newsletter
 -->
 
 Analyst Group Resources
@@ -8270,6 +8279,9 @@ Open-Source Machine Learning and Infrastructure
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
+https://www.tensorflow.org/tutorials
+http://playground.tensorflow.org
+
 https://github.com/adatao/tensorspark
 
 https://github.com/amznlabs/amazon-dsstne
