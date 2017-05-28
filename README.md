@@ -7885,22 +7885,36 @@ https://github.com/fivethirtyeight/data
 A16Z
 
 Videos, Tutorials, and Blogs
+Frank Chen 
 http://a16z.com/2016/06/10/ai-deep-learning-machines/
 http://a16z.com/2017/03/17/machine-learning-startups-data-saas/
+Fei-Fei Li/Li Fei-Fei
 http://a16z.com/2016/06/29/feifei-li-a16z-professor-in-residence/
+Jeff Dean
 https://www.youtube.com/watch?v=QSaZGT4-6EY
+Prof. Geoff Hinton
 https://www.youtube.com/watch?v=cbeTc-Urqak&list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+Peter Norvig, 2016
 https://www.youtube.com/watch?v=X769cyzBNVw
+Yann LeCun, The Institute for Scientific Computing Research (ISCR), Lawrence Livermore National Laboratory
+https://www.youtube.com/watch?v=Qk4SqF9FT-M
+John Launchbury, the Director of DARPA's Information Innovation Office (I2O)
 https://www.youtube.com/embed/-O01G3tSYpU
 
 Tutorials
+Welch Labs
 https://www.youtube.com/watch?v=bxe2T-V8XRs
 https://www.tensorflow.org/tutorials
+Google Codelab
 https://codelabs.developers.google.com/codelabs/tensorflow-for-poets
+Peter Warden
 https://petewarden.com/2016/02/28/tensorflow-for-poets/
 https://cloud.google.com/blog/big-data/2017/01/learn-tensorflow-and-deep-learning-without-a-phd
+Stanford
 http://ufldl.stanford.edu/tutorial/
+Machine Learning Summer School
 http://videolectures.net/site/search/?q=MLSS
+2016 Deep Learning Summer School
 http://videolectures.net/deeplearning2016_montreal/
 
 MOOCs
