@@ -8211,6 +8211,9 @@ http://a16z.com/2017/03/17/machine-learning-startups-data-saas/
 Fei-Fei Li/Li Fei-Fei
 http://a16z.com/2016/06/29/feifei-li-a16z-professor-in-residence/
 http://ben-evans.com/newsletter
+
+http://a16z.com/2017/05/12/ai-playbook
+https://vimeo.com/215926017
 -->
 
 Analyst Group Resources
@@ -8272,6 +8275,39 @@ Asimov's Institute Neural Network Zoo
 http://www.asimovinstitute.org/neural-network-zoo
 -->
 
+<!--
+https://aws.amazon.com/machine-learning
+https://cloud.google.com/ml-engine
+
+https://developer.ibm.com/clouddataservices/docs/ibm-watson-machine-learning
+https://azure.microsoft.com/en-us/services/machine-learning
+https://arimo.com
+https://databricks.com
+https://sigopt.com
+https://www.quora.com/What-are-the-best-machine-learning-as-a-service-MLaaS-companies-and-startups
+http://www.butleranalytics.com/20-machine-learning-service-platforms
+
+Machine Learning (See also: scikit-learn, pandas)
+http://spark.apache.org/mllib
+
+https://opennlp.apache.org
+https://nlp.stanford.edu/software
+https://github.com/thisandagain/sentiment
+https://en.wikipedia.org/wiki/Category:Natural_language_processing_software
+
+https://gym.openai.com
+-->
+
+Frontrunners
+* [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials), and [Facebook: Torch Cheatsheet GitHub](https://github.com/torch/torch7/wiki/Cheatsheet)
+* [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
+* [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
+* [Google: TensorFlow Scikit Flow GitHub](https://github.com/google/skflow) and [Introduction to Scikit Flow and why you want to start learning TensorFlow](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.1bodcv3y9)
+* [Google: Pretty Tensor GitHub](https://github.com/google/prettytensor) 
+* [Microsoft Azure: Machine Learning](https://studio.azureml.net), [Microsoft Azure: Machine Learning-Data Science GitHub](https://github.com/Azure/Azure-MachineLearning-DataScience), [Microsoft Azure: Machine Learning-Client Library Python GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python), and [Microsoft Azure: Machine Learning-Client Library R GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R)
+* [Microsoft: Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
+* [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
+
 Open-Source Machine Learning and Infrastructure
 * [AddThis: Hydra GitHub](https://github.com/addthis/hydra)
 * [Airbnb: Aerosolve GitHub](https://github.com/airbnb/aerosolve)
@@ -8281,22 +8317,32 @@ Open-Source Machine Learning and Infrastructure
 * [Cloudera: ML GitHub](https://github.com/cloudera/ml)
 * [Cloudera: Oryx GitHub](https://github.com/cloudera/oryx) and [Cloudera: Oryx 2 GitHub](https://github.com/OryxProject/oryx)
 * [EdX: EASE](https://github.com/edx/ease)
-* [Facebook: Torch](http://torch.ch), [Facebook: Torch GitHub](https://github.com/torch/torch7), [Facebook: Torch Getting Started](http://torch.ch/docs/getting-started.html), [Facebook: Torch Tutorials GitHub](https://github.com/torch/tutorials), and [Facebook: Torch Cheatsheet GitHub](https://github.com/torch/torch7/wiki/Cheatsheet)
-* [Facebook: Torch Extension GitHub](https://github.com/facebook/fbtorch), [Facebook: Torch/CUNN Extension GitHub](https://github.com/facebook/fbcunn)
 * [Twitter: Torch Autograd GitHub](https://github.com/twitter/torch-autograd)
 * [Google: DeepDream](https://github.com/google/deepdream) 
-* [Google: TensorFlow](http://tensorflow.org), [Google TensorFlow GitHub](https://github.com/tensorflow/tensorflow), and [TensorFlow Whitepaper](http://download.tensorflow.org/paper/whitepaper2015.pdf)
-* [Google: TensorFlow Scikit Flow GitHub](https://github.com/google/skflow) and [Introduction to Scikit Flow and why you want to start learning TensorFlow](https://medium.com/@ilblackdragon/tensorflow-tutorial-part-1-c559c63c0cb1#.1bodcv3y9)
-* [Google: Pretty Tensor GitHub](https://github.com/google/prettytensor) 
-* [Microsoft Azure: Machine Learning](https://studio.azureml.net), [Microsoft Azure: Machine Learning-Data Science GitHub](https://github.com/Azure/Azure-MachineLearning-DataScience), [Microsoft Azure: Machine Learning-Client Library Python GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-Python), and [Microsoft Azure: Machine Learning-Client Library R GitHub](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R)
-* [Microsoft: Computational Network Toolkit (CNTK)](https://github.com/Microsoft/CNTK)
-* [Microsoft: Distributed Machine Learning Toolkit](http://www.dmtk.io/index.html) and [Distributed Machine Learning Toolkit GitHub](https://github.com/Microsoft/DMTK)
 * [OpenStack: Cognitive (MLaaS) GitHub](https://github.com/openstack/cognitive)
 * [Samsung: Veles GitHub](https://github.com/Samsung/veles) and [Samsung: Veles GitHub](https://github.com/Samsung/veles.znicz)
 * [Yandex: REP (Reproducible Experiment Platform) GitHub](https://github.com/yandex/rep)
 * [Yelp: PaaSTA GitHub](https://github.com/Yelp/paasta)
 
 <!--
+Stanford CoreNLP toolkit
+http://stanfordnlp.github.io/CoreNLP/
+http://scikit-learn.org/stable/#">scikit-learn
+http://spark.apache.org/mllib/
+https://www.tensorflow.org/
+https://keras.io/
+https://caffe2.ai
+http://mxnet.io
+http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html
+
+https://github.com/caffe2/caffe2
+http://caffe.berkeleyvision.org
+https://github.com/BVLC/caffe
+https://github.com/yahoo/CaffeOnSpark
+
+http://www.ibm.com/watson
+https://www.ibm.com/analytics/us/en/watson-data-platform
+
 Microsoft's developer documentation How to choose machine learning algorithms for Microsoft Azure machine Learning
 https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-choice
 Scikit-learn documentation: Choosing the right estimator
@@ -8309,27 +8355,10 @@ https://github.com/adatao/tensorspark
 
 https://github.com/amznlabs/amazon-dsstne
 
-http://www.ibm.com/watson
-https://www.ibm.com/analytics/us/en/watson-data-platform
-
 http://pytorch.org
 https://github.com/pytorch/pytorch
 
 https://github.com/torchnet/torchnet
-
-Stanford CoreNLP toolkit
-http://stanfordnlp.github.io/CoreNLP/
-http://scikit-learn.org/stable/#">scikit-learn
-http://spark.apache.org/mllib/
-https://www.tensorflow.org/
-https://keras.io/
-https://caffe2.ai
-http://mxnet.io
-
-https://github.com/caffe2/caffe2
-http://caffe.berkeleyvision.org
-https://github.com/BVLC/caffe
-https://github.com/yahoo/CaffeOnSpark
 -->
 
 Lambda Architecture
