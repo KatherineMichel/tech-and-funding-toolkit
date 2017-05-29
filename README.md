@@ -8049,9 +8049,18 @@ Courses
 * [Practical Deep Learning For Coders GitHub](https://github.com/fastai/courses)
 
 <!--
+Math versus Baseball
+https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719
+https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
+
+https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
 http://www.fast.ai
+http://course.fast.ai/about.html
 http://forums.fast.ai
-http://course.fast.ai/lessons/aws.html
+http://wiki.fast.ai/index.php/Main_Page#How_to_ask_for_Help
+
+-q for quiet command line
+
 http://wiki.fast.ai/index.php/Lesson_1#Overview_of_homework_assignment
 http://course.fast.ai/start.html
 http://wiki.fast.ai
@@ -8059,6 +8068,42 @@ http://wiki.fast.ai/index.php/How_to_use_the_Provided_Notebooks
 https://github.com/fastai/courses/tree/master/deeplearning1/nbs
 http://course.fast.ai/lessons/lessons.html
 http://course.fast.ai/lessons/lesson1.html
+
+http://wiki.fast.ai/index.php/Main_Page#Tools
+http://wiki.fast.ai/index.php/Kaggle_CLI
+https://www.continuum.io/downloads
+conda install
+https://ipython.org/notebook.html
+http://jupyter.org
+
+https://github.com/Theano/Theano
+
+http://course.fast.ai/lessons/aws.html
+http://wiki.fast.ai/index.php/AWS_install
+https://aws.amazon.com/cli
+pip install aws-cli
+https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#Limits:
+https://console.aws.amazon.com/support/home?region=us-east-1#/case/create?issueType=service-limit-increase&limitType=service-code-ec2-instances&serviceLimitIncreaseType=ec2-instances&type=service_limit_increase
+http://wiki.fast.ai/index.php/OVH_install
+https://www.ovh.com/us/dedicated-servers/gpu
+https://www.ovh.com/us/dedicated-servers/details-servers-range-GPU-id-GTX-970.xml
+
+http://www.nvidia.com/object/what-is-gpu-computing.html
+https://developer.nvidia.com/cuda-gpus
+https://developer.nvidia.com/about-cuda
+https://en.wikipedia.org/wiki/CUDA
+https://developer.nvidia.com/cudnn
+https://devblogs.nvidia.com/parallelforall/cudnn-v2-higher-performance-deep-learning-gpus
+
+http://image-net.org/explore
+
+https://www.kaggle.com/datasets
+https://www.kaggle.com/c/dogs-vs-cats
+
+Keras- Built on TensorFlow or Theano
+https://blog.keras.io
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
+https://gist.github.com/fchollet/7eb39b44eb9e16e59632d25fb3119975
 -->
 
 Machine Learning (Andrew Ng, Stanford)
