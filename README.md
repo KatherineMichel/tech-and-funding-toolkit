@@ -8069,6 +8069,9 @@ https://github.com/fastai/courses/tree/master/deeplearning1/nbs
 http://course.fast.ai/lessons/lessons.html
 http://course.fast.ai/lessons/lesson1.html
 
+http://shop.oreilly.com/product/0636920023784.do
+https://github.com/wesm/pydata-book
+
 http://wiki.fast.ai/index.php/Main_Page#Tools
 http://wiki.fast.ai/index.php/Kaggle_CLI
 https://www.continuum.io/downloads
