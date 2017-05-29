@@ -8054,8 +8054,10 @@ https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719
 https://www.maa.org/external_archive/devlin/LockhartsLament.pdf
 
 https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ
+https://twitter.com/math_rachel
 http://www.fast.ai
 http://course.fast.ai/about.html
+http://wiki.fast.ai/index.php/Special:RecentChanges
 http://forums.fast.ai
 http://wiki.fast.ai/index.php/Main_Page#How_to_ask_for_Help
 
@@ -8077,6 +8079,7 @@ http://wiki.fast.ai/index.php/Kaggle_CLI
 https://www.continuum.io/downloads
 conda install
 https://ipython.org/notebook.html
+iPython FileLink
 http://jupyter.org
 
 https://github.com/Theano/Theano
@@ -8085,6 +8088,8 @@ http://course.fast.ai/lessons/aws.html
 http://wiki.fast.ai/index.php/AWS_install
 https://aws.amazon.com/cli
 pip install aws-cli
+https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus/
+https://aws.amazon.com/ec2/instance-types/p2/
 https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#Limits:
 https://console.aws.amazon.com/support/home?region=us-east-1#/case/create?issueType=service-limit-increase&limitType=service-code-ec2-instances&serviceLimitIncreaseType=ec2-instances&type=service_limit_increase
 http://wiki.fast.ai/index.php/OVH_install
@@ -8099,11 +8104,24 @@ https://developer.nvidia.com/cudnn
 https://devblogs.nvidia.com/parallelforall/cudnn-v2-higher-performance-deep-learning-gpus
 
 http://image-net.org/explore
+https://en.wikipedia.org/wiki/ImageNet#ImageNet_Challenge
+
+VGG
+http://image-net.org/challenges/LSVRC/2014/results
+https://arxiv.org/pdf/1409.1556.pdf
+
+http://www.image-net.org/challenges/LSVRC/2013/results.php
+
+AlexNet
+http://www.image-net.org/challenges/LSVRC/2012
+http://image-net.org/challenges/LSVRC/2012/results.html
+https://en.wikipedia.org/wiki/AlexNet
 
 https://www.kaggle.com/datasets
 https://www.kaggle.com/c/dogs-vs-cats
 
 Keras- Built on TensorFlow or Theano
+keras predict_generator
 https://blog.keras.io
 https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
 https://gist.github.com/fchollet/7eb39b44eb9e16e59632d25fb3119975
