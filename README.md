@@ -337,21 +337,33 @@ http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight
 https://en.wikipedia.org/wiki/Made_to_Stick
 https://en.wikipedia.org/wiki/Story_arc
 
+https://en.wikipedia.org/wiki/Comparison_of_screencasting_software
+
+https://www.nvidia.com/en-us/geforce/geforce-experience/
+
+https://screenhero.com
+https://screenhero.com/features.html
+
+https://obsproject.com
+https://obsproject.com/forum/threads/guide-how-to-stream-to-youtube.4333/
 
 Mac: ScreenFlow
 https://www.telestream.net/screenflow/overview.htm
 https://www.telestream.net/screenflow/resources.htm
 https://www.telestream.net/pdfs/user-guides/ScreenFlow-6-Tutorial.pdf
 
+http://www.telestream.net/wirecastplay/landing.htm
+
 Camtasia
 
 YouTube Livestreaming Info
+https://support.google.com/youtube/answer/2853700
 https://support.google.com/youtube/answer/2474026?hl=en
 https://support.google.com/youtube/answer/2907883
 https://support.google.com/youtube/answer/2524549
 
-https://obsproject.com
-http://www.telestream.net/wirecastplay/landing.htm
+New
+https://www.youtube.com/live_dashboard_splash
 -->
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
@@ -1995,6 +2007,11 @@ Apple Developer Helpers
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+<!--
+https://github.com/caskroom/homebrew-cask
+https://caskroom.github.io
+-->
 
 App Store Submission
 * [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
@@ -9588,6 +9605,10 @@ Trends
 * [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 * [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
 * [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
+
+<!--
+http://www.kpcb.com/internet-trends
+-->
 
 Famous
 * [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
