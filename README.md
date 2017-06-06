@@ -10660,6 +10660,11 @@ Libraries and Museums
 * [The British Museum](http://www.britishmuseum.org)
 * [The Smithsonian Institute](http://www.si.edu) and [Smithsonian Mag](http://www.smithsonianmag.com)
 
+<!--
+Smithsonian
+https://www.youtube.com/channel/UCWqPRUsJlZaDp-PVbqEch9g
+-->
+
 The Harvard Classics
 * [The Harvard Classics: Download All 51 Volumes as Free eBooks](http://www.openculture.com/2014/03/the-harvard-classics-download-all-51-volumes-as-free-ebooks.html)
 
