@@ -10204,6 +10204,9 @@ Encrypted Communication
 * [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
 
 <!--
+https://whispersystems.org/
+https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8
+
 https://www.eff.org
 
 Browse in private with Incognito mode
@@ -10658,12 +10661,7 @@ Libraries and Museums
 * [City of London Business Library](http://www.cityoflondon.gov.uk/Pages/default.aspx)
 * [The British Library](http://www.bl.uk)
 * [The British Museum](http://www.britishmuseum.org)
-* [The Smithsonian Institute](http://www.si.edu) and [Smithsonian Mag](http://www.smithsonianmag.com)
-
-<!--
-Smithsonian
-https://www.youtube.com/channel/UCWqPRUsJlZaDp-PVbqEch9g
--->
+* [The Smithsonian Institute](http://www.si.edu), [The Smithsonian Institute YouTube](https://www.youtube.com/channel/UCWqPRUsJlZaDp-PVbqEch9g), and [Smithsonian Mag](http://www.smithsonianmag.com)
 
 The Harvard Classics
 * [The Harvard Classics: Download All 51 Volumes as Free eBooks](http://www.openculture.com/2014/03/the-harvard-classics-download-all-51-volumes-as-free-ebooks.html)
