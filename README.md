@@ -8143,6 +8143,7 @@ http://www.slideshare.net/mikemaplesjr
 * [Michael Dearing (Harrison Metal)](https://www.harrisonmetal.com)
 * [Mina Rad](http://www.minarad.com/blog)
 * [Naval Ravikant](http://startupboy.com)
+* [Nir Eyal](http://www.nirandfar.com)
 * [Peter Rojas](http://roj.as/contact)
 * [Rebekah Cox (Arty Papers)](www.artypapers.com)
 * [Reed Hastings Slideshare](http://www.slideshare.net/reed2001) 
@@ -8170,9 +8171,6 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
-Nir Eyal
-http://www.nirandfar.com
-
 https://www.danprimack.com
 
 https://www.slideshare.net/sblank/tagged/stanford
@@ -10038,6 +10036,12 @@ Aggregated News Sources
 * [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 * [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
+Off the Wall
+* [Farnham Street Blog](https://www.farnamstreetblog.com)
+* [Nir Eyal](http://www.nirandfar.com)
+* [Ribbonfarm](http://www.ribbonfarm.com)
+* [Wait But Why](http://waitbutwhy.com) 
+
 Eccentric
 * [Brain Pickings](https://www.brainpickings.org)
 * [Freakonomics](http://freakonomics.com)
@@ -10045,7 +10049,6 @@ Eccentric
 * [Praxtime](http://praxtime.com)
 * [Priceonomics](http://priceonomics.com)
 * [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
-* [Wait But Why](http://waitbutwhy.com)  
 * [XKCD](http://xkcd.com)
 
 Directory of News Websites, Today's Front Pages, and NewsDiffs
