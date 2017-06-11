@@ -484,6 +484,10 @@ Documentation- General
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 
+<!--
+https://www.safaribooksonline.com
+-->
+
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
 * [W3C Standards Table of Contents](https://www.w3.org/standards)
