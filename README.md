@@ -5715,6 +5715,10 @@ Status
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 * [Slack Status](https://status.slack.com)
 
+<!--
+https://developers.facebook.com/status
+-->
+
 Consoles: Developer
 * [GitHub Settings](https://github.com/settings)
 * [Heroku Dashboard](https://dashboard.heroku.com)
@@ -10422,10 +10426,13 @@ https://github.com/mailgun/transactional-email-templates
 http://blog.mailgun.com/transactional-html-email-templates/
 https://github.com/groupon/gleemail
 
+https://www.htmlemailtemplates.net/startup-emails
+
 https://github.com/leemunroe/responsive-html-email-template
 https://github.com/InterNations/antwort
 
 http://www.goodemailcopy.com
+http://goodsalesemails.com/
 
 [Really Good Email](http://reallygoodemails.com)  
 [Voice and Tone](http://voiceandtone.com) 
