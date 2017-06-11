@@ -1417,15 +1417,6 @@ https://en.wikipedia.org/wiki/Capability_Maturity_Model
 https://en.wikipedia.org/wiki/Free_and_open-source_software
 https://martinfowler.com/bliki/MaturityModel.html
 
-http://cpython-devguide.readthedocs.io
-https://github.com/python/devguide
-https://github.com/python/devguide/issues/129
-https://docs.python.org/devguide/gitbootcamp.html
-https://docs.python.org/devguide
-
-https://github.com/python/devguide/pulls
-https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
-
 https://www.git-tower.com/blog/git-cheat-sheet/
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
@@ -1454,9 +1445,7 @@ https://confluence.atlassian.com/bitbucket
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
 
-
 https://github.com/blog/2360-git-2-13-has-been-released
-https://education.github.com/git-cheat-sheet-education.pdf
 
 https://zachholman.com/talk/git-github-secrets
 https://github.com/git-tips/tips
@@ -1519,13 +1508,27 @@ https://github.com/marketplace
 
 <!--
 New
+https://education.github.com/git-cheat-sheet-education.pdf
 https://education.github.com/
+https://education.github.com/guide/sandboxing
+https://education.github.com/guide/assignments
 https://github.com/education/classroom
-https://github.com/github/training-kit
-https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models/
  
 https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/group-assignments/starter-files
 https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
+
+https://classroom.github.com/
+https://classroom.github.com/#getting-started-video
+
+https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models/
+
+New
+https://github.com/settings/connections/applications/64a051cf1598b9f0658f
+https://github.com/organizations/code-collaboration-and-review/invite
+https://github.com/settings/applications/511051
+
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
 
 https://github.com/desktop/desktop
 https://github.atom.io
@@ -1552,12 +1555,7 @@ https://help.github.com/enterprise
 
 https://pages.github.com
 
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-
 https://github.com/github/training-kit
-https://services.github.com/on-demand
-
 https://github.com/github/training-utils
 https://github.com/github-archive
 https://github.com/github-archive/training.github.com
@@ -1574,18 +1572,8 @@ https://services.github.com/resources/
 https://services.github.com/resources/tools/
 https://services.github.com/resources/tutorials/
 https://services.github.com/classnotes/
+https://services.github.com/on-demand
 https://services.github.com/on-demand/downloads/subversion-migration/
-
-https://classroom.github.com/
-https://classroom.github.com/#getting-started-video
-https://education.github.com/guide/sandboxing
-https://education.github.com/guide/assignments
-
-New
-https://classroom.github.com/classrooms/27039735-code-collaboration-and-review
-https://github.com/settings/connections/applications/64a051cf1598b9f0658f
-https://github.com/organizations/code-collaboration-and-review/invite
-https://github.com/settings/applications/511051
 -->
 
 Concurrent Version System
@@ -4665,22 +4653,11 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 <!--
 New
 https://djangogirls.org/spokane/
- 
-http://bugs.python.org/
-http://bugs.python.org/issue30312
-https://github.com/python/cpython/pull/2085
-https://github.com/python/cpython/pull/2081
-
+  
 http://bugs.python.org/user26332
- 
-https://github.com/python/cpython
-https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
- 
-http://cpython-devguide.readthedocs.io/
-http://cpython-devguide.readthedocs.io/documenting.html#building-doc
-http://cpython-devguide.readthedocs.io/#quick-reference
-https://github.com/python/core-workflow/tree/master/cherry_picker
- 
+
+https://github.com/python/devguide/issues/129
+
 https://www.python.org/doc/versions/
 https://www.python.org/downloads/
  
@@ -4743,8 +4720,25 @@ CPython
 * [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
 <!--
-https://github.com/python/cpython/blob/master/Misc/NEWS#L91-L92
+https://github.com/python/cpython/blob/master/Misc/NEWS
+
+https://github.com/python/devguide
+https://docs.python.org/devguide/gitbootcamp.html
+https://docs.python.org/devguide
+
+https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
+
+http://bugs.python.org/
+ 
+https://github.com/python/cpython
+https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
+ 
+http://cpython-devguide.readthedocs.io/
+http://cpython-devguide.readthedocs.io/documenting.html#building-doc
+http://cpython-devguide.readthedocs.io/#quick-reference
+https://github.com/python/core-workflow/tree/master/cherry_picker
 -->
+
 
 Python Authorities
 * [Python Authority Authority GitHub](https://github.com/pyaa)
