@@ -7030,6 +7030,11 @@ Docker (See also Kubernetes)
 * [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
 
 <!--
+https://github.com/docker/cli
+https://github.com/moby/moby
+https://github.com/linuxkit/linuxkit
+https://github.com/docker/infrakit
+
 https://github.com/Docker/labs
 -->
 
