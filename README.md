@@ -2033,6 +2033,8 @@ Apple- Dash
 * [Dash for MacOS](https://kapeli.com/dash)
 
 <!--
+http://www.cnet.com/how-to/how-to-find-your-macs-basic-specs-in-os-x/
+
 http://www.tomsguide.com/faq/id-2330399/restore-macbook-pro-factory-settings.html
 
 https://developer.apple.com/download/more
