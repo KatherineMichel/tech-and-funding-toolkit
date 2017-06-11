@@ -391,9 +391,6 @@ The Practical Dev
 
 <!--
 https://hackernoon.com
-
-(Categorize with Strategyzer?)
-https://www.freshtilledsoil.com
 -->
 
 Competitions
