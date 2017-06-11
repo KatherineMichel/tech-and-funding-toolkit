@@ -344,6 +344,10 @@ https://www.nvidia.com/en-us/geforce/geforce-experience/
 https://screenhero.com
 https://screenhero.com/features.html
 
+https://www.youtube.com/my_live_events
+https://support.google.com/youtube/answer/2853700
+https://support.google.com/youtube/answer/7083786?hl=en
+
 https://obsproject.com
 https://obsproject.com/forum/threads/guide-how-to-stream-to-youtube.4333/
 screencast cursor highlighting
