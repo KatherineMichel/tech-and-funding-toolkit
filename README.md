@@ -346,6 +346,7 @@ https://screenhero.com/features.html
 
 https://obsproject.com
 https://obsproject.com/forum/threads/guide-how-to-stream-to-youtube.4333/
+screencast cursor highlighting
 
 Mac: ScreenFlow
 https://www.telestream.net/screenflow/overview.htm
@@ -544,6 +545,9 @@ Developer Surveys
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 <!--
+https://stackoverflow.com/company/salary/skills/product-designer?e=1&l=1
+https://www.stackoverflowbusiness.com/talent/resources/recruiting-developers-in-2017
+
 https://insights.stackoverflow.com/trends
 -->
 
@@ -1440,6 +1444,9 @@ https://contribute.jquery.org/commits-and-pull-requests
 https://www.visualstudio.com/en-us/docs/git/pull-requests
 https://datasift.github.io/gitflow/
 
+https://www.atlassian.com/licensing/starter
+https://www.atlassian.com/software/jira/download
+
 https://confluence.atlassian.com/bbkb
 https://confluence.atlassian.com/bitbucket
 
@@ -1510,6 +1517,25 @@ https://github.com/marketplace
 #### Git and Markdown
 
 <!--
+New
+https://education.github.com/
+https://github.com/education/classroom
+https://github.com/github/training-kit
+https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models/
+ 
+https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/group-assignments/starter-files
+https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
+
+https://github.com/desktop/desktop
+https://github.atom.io
+https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
+http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html
+
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+https://github.com/settings/keys
+https://gist.github.com/adamjohnson/5682757
+
+
 https://github.com/contact
 
 http://githubuniverse.com/watch
@@ -1544,8 +1570,9 @@ https://github.com/jlord/reporobot
 https://github.com/jlord/patchwork/tree/gh-pages/contributors
 
 https://services.github.com/resources/
+https://services.github.com/resources/tools/
+https://services.github.com/resources/tutorials/
 https://services.github.com/classnotes/
-https://services.github.com/resources/index.html
 https://services.github.com/on-demand/downloads/subversion-migration/
 
 https://classroom.github.com/
@@ -4631,8 +4658,35 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+New
+https://djangogirls.org/spokane/
+ 
+http://bugs.python.org/
+http://bugs.python.org/issue30312
+https://github.com/python/cpython/pull/2085
+https://github.com/python/cpython/pull/2081
+
+http://bugs.python.org/user26332
+ 
 https://github.com/python/cpython
 https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
+ 
+http://cpython-devguide.readthedocs.io/
+http://cpython-devguide.readthedocs.io/documenting.html#building-doc
+http://cpython-devguide.readthedocs.io/#quick-reference
+https://github.com/python/core-workflow/tree/master/cherry_picker
+ 
+https://www.python.org/doc/versions/
+https://www.python.org/downloads/
+ 
+https://github.com/kennethreitz/env
+https://github.com/kennethreitz/pipenv
+ 
+http://djangoappschecklist.com
+https://github.com/python/planet
+https://github.com/PyCon/pycon
+https://github.com/epicserve/epicserve-docs
+ 
 
 New
 http://www.pyinvoke.org/
@@ -9024,6 +9078,8 @@ Mental Models
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 <!--
+https://www.farnamstreetblog.com/2016/04/munger-operating-system
+
 Backfire Effect
 https://en.wikipedia.org/wiki/Confirmation_bias
 http://theoatmeal.com/comics/believe
@@ -9295,6 +9351,10 @@ Regulatory Agencies and Rules- Business and Finance Related
 * [Securities and Exchange Commission](http://www.sec.gov), [Securities and Exchange Commission Investor Pubs](http://www.sec.gov/investor/pubs.shtml), and [Investor.gov](http://investor.gov)
 * [Small Business Administration](http://www.sba.gov) 
 * [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
+
+<!--
+https://www.fec.gov
+-->
 
 Regulatory Agencies and Rules- General
 * [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
