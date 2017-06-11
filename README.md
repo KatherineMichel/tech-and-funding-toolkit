@@ -9811,6 +9811,11 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
+https://www.hardbound.co/read/homo-deus/1
+https://www.hardbound.co/read/sapiens/1
+https://www.hardbound.co/read/wait-but-why-on-neuralink
+
+
 Rec from Tim Ferris
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
 
