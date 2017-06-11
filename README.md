@@ -3217,10 +3217,14 @@ JavaScript
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
 <!--
+https://github.com/getify/Functional-Light-JS
 https://github.com/myshov/history-of-javascript
 https://github.com/verekia/js-stack-from-scratch
 https://github.com/sorrycc/awesome-javascript
 https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/iliakan/javascript-tutorial
+https://github.com/mjavascript/practical-modern-javascript
+
 -->
 
 JavaScript Tutorials- Mozilla
@@ -5710,15 +5714,12 @@ https://help.gitbook.com/github/how-can-i-export-to-repo.html
 
 Status
 * [Amazon Status](http://status.aws.amazon.com)
+* [Facebook Status](https://developers.facebook.com/status)
 * [GitBook Status](http://status.gitbook.com)
 * [GitHub Status](https://status.github.com) and [GitHub Status Twitter](https://twitter.com/githubstatus)
 * [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
 * [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
 * [Slack Status](https://status.slack.com)
-
-<!--
-https://developers.facebook.com/status
--->
 
 Consoles: Developer
 * [GitHub Settings](https://github.com/settings)
@@ -6232,9 +6233,6 @@ Amazon Web Services
 -->
 
 <!--
-Also: Awesome AWS
-https://github.com/open-guides/og-aws
-https://github.com/donnemartin/awesome-aws
 https://github.com/aws
 
 https://enterprise.github.com/aws
@@ -6337,10 +6335,6 @@ AWS- Lambda (See also Google Cloud Functions)
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
-http://docs.aws.amazon.com/rekognition/latest/dg/what-is.html
-https://aws.amazon.com/rekognition/
-
-https://aws.amazon.com/machine-learning
 https://aws.amazon.com/api-gateway
 
 https://github.com/awslabs/chalice
@@ -9100,16 +9094,25 @@ http://theoatmeal.com/comics/believe
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
-https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1074677761&serialid=4nVFWyrExy%2blOirO84AqroGIVWY2NAeugIptVGTw2Fc%3d
-
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=1072753661&serialid=h%2b%2fwLdU%2fTIaitAx1rnamfYsPRAuTFRGdTSF4HZIvTkA%3d
-
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d
-
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
 
 https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting
+
+Assembling a Dream Team 
+https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1074677761&serialid=4nVFWyrExy%2blOirO84AqroGIVWY2NAeugIptVGTw2Fc%3d
+
+The Incredible Shrinking Universe of Stocks
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=1072753661&serialid=h%2b%2fwLdU%2fTIaitAx1rnamfYsPRAuTFRGdTSF4HZIvTkA%3d
+
+The Base Rate Book 
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d
+
+Looking for Easy Games
+https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=x745112&serialid=knrGGNw%2bo620toTTx96qBQ%3d%3d
+
+What Does a Price-Earnings Multiple Mean?
+http://www.valuewalk.com/wp-content/uploads/2014/02/document-805915460.pdf
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
@@ -9130,12 +9133,6 @@ Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 * [Measuring the Moat](http://csinvesting.org/wp-content/uploads/2013/07/Measuring_the_Moat_July2013.pdf)
 * [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
 * [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
-
-<!--
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=x745112&serialid=knrGGNw%2bo620toTTx96qBQ%3d%3d
-
-http://www.valuewalk.com/wp-content/uploads/2014/02/document-805915460.pdf
--->
 
 * [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
 
@@ -9407,7 +9404,7 @@ Digital Millennium Copyright Act
 
 <!--
 See
-* [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
+* [Templates and Example Website Code]()
 -->
 
 GitHub Government 
@@ -9671,13 +9668,9 @@ Computer Lore
 #### Notable Interviews and Presentations
 
 Trends
-* [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
+* [KPCB/Mary Meeker: Internet Trends 2017](http://www.kpcb.com/internet-trends), [KPCB/Mary Meeker: Internet Trends 2015](http://www.kpcb.com/insights/2015-internet-trends), [KPCB/Mary Meeker: Internet Trends 2014](http://www.kpcb.com/insights/2014-internet-trends), [KPCB/Mary Meeker: Internet Trends 2013](http://www.kpcb.com/insights/2013-internet-trends), and [KPCB/Mary Meeker: Internet Trends 2012](http://www.kpcb.com/insights/2012-internet-trends-update)
 * [Saul Klein: Majority World Reports (2015, 2014, 2013)](https://medium.com/localglobe-notes/majority-world-report-2015-3e446cb59cb7)
 * [Yiibu: The Emerging Global Web Slideshare](http://www.slideshare.net/yiibu/the-emerging-global-web)
-
-<!--
-http://www.kpcb.com/internet-trends
--->
 
 Famous
 * [Reed Hastings: Slideshare Freedom and Responsibility Culture Edition 1](http://www.slideshare.net/reed2001/culture-2009) and [Edition 2](http://www.slideshare.net/reed2001/culture-1798664) 
@@ -10130,16 +10123,15 @@ Labs, Kitchens, Garages
 * [Google X Design Kitchen](http://www.fastcompany.com/3028156/united-states-of-innovation/the-google-x-factor)
 * [Lab126](https://www.lab126.com)
 * [Microsoft Garage](http://www.microsoft.com/en-us/garage)
-* [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
+* [Bell Labs Wikipedia](https://www.bell-labs.com) and [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 * [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
 * [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
 
 <!--
-https://www.bell-labs.com
-
 http://www.ll.mit.edu
 https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory
 https://en.wikipedia.org/wiki/Information_Processing_Techniques_Office
+
 https://www.google.com/search?q=first+prototype+of+a+computer+mouse&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgutW008jSAhWo5IMKHSdnDpUQ_AUICCgB&biw=1366&bih=585
 http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf
 https://en.wikipedia.org/wiki/Man-Computer_Symbiosis
@@ -10458,12 +10450,9 @@ Group Communication/Chat
 * [Skype](http://www.skype.com/en) 
 * [Meetup](http://www.meetup.com)
 * [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
- 
-<!--
-https://bluejeans.com
-https://zoom.us
---> 
- 
+* [BlueJeans](https://bluejeans.com)
+* [Zoom](https://zoom.us)
+  
 Livestreaming, Video, Audio 
 * [Livestream](http://new.livestream.com) 
 * [SoundCloud](https://soundcloud.com)  
