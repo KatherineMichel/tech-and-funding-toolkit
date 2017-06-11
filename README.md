@@ -9078,6 +9078,8 @@ Mental Models
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 <!--
+http://www.rationality.org/resources/rationality-checklist
+
 https://www.farnamstreetblog.com/2016/04/munger-operating-system
 
 Backfire Effect
@@ -9804,6 +9806,8 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 Rec from Tim Ferris
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
 
+http://fourhourworkweek.com/sitemap.xml
+
 http://tim.blog/2017/01/25/tools-of-titans-index/
 https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
 
@@ -9823,6 +9827,8 @@ https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+th
 https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
 https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
+
+https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
 -->
 
 Books
@@ -10539,6 +10545,12 @@ Payments
 * [Dwolla](https://www.dwolla.com) 
 
 <!--
+https://www.ethereum.org
+https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
+https://litecoin.com
+
+https://www.coinbase.com
+http://coinmarketcap.com
 http://coincap.io
 https://xapo.com
 https://exchange.gemini.com
