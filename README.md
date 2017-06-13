@@ -481,12 +481,9 @@ Documentation- General
 * [IT eBooks](http://it-ebooks.info)
 * [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
-<!--
-https://www.safaribooksonline.com
--->
 
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
@@ -6227,7 +6224,9 @@ Amazon Web Services
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers)
 
 <!--
+* [AWS Twitch](https://aws.amazon.com/twitch)
 * [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
 -->
 
 <!--
@@ -6544,11 +6543,6 @@ New
 https://cloud.google.com/free/
 https://cloud.google.com/apis/design/
 https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
-
-https://www.google.com/about/careers/students/guide-to-technical-development.html
-https://github.com/jwasham/google-interview-university
-https://medium.freecodecamp.com/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13#.z5dh13kl1
-https://github.com/alex/what-happens-when
 
 https://developers.google.com/optimization
 https://developers.google.com/training/web
