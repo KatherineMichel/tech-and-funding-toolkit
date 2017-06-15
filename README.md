@@ -1388,6 +1388,14 @@ A Successful Git Branching Model
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
 <!--
+New
+https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
+https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+https://www.atlassian.com/blog/archives/simple-git-workflow-simple
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+
+
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/github-flow-in-the-browser/
 http://scottchacon.com/2011/08/31/github-flow.html
@@ -1423,6 +1431,8 @@ https://www.git-tower.com/blog/git-cheat-sheet/
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
 
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/templates
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
 https://robots.thoughtbot.com/tags/git
 
