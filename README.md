@@ -9032,6 +9032,8 @@ General
 * [Parimutuel Betting Wikipedia](https://en.wikipedia.org/wiki/Parimutuel_betting)
 
 <!--
+https://en.wikipedia.org/wiki/Sunk_cost
+
 http://www.investopedia.com/terms/v/valueinvesting.asp
 -->
 
@@ -9657,13 +9659,6 @@ https://johncarlosbaez.wordpress.com/2016/10/02/complex-adaptive-system-design-p
 
 http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
 https://en.m.wikipedia.org/wiki/Anthropomorphism
-
-https://en.wikipedia.org/wiki/360-degree_feedback
-
-https://en.wikipedia.org/wiki/Institutional_memory
-https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
-
-https://en.wikipedia.org/wiki/Evolutionary_algorithm
 -->
 
 Computer Lore
@@ -9727,6 +9722,8 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [KC Addys](http://aafkc.com/addys)
 
 <!--
+http://www.mindtheproduct.com
+https://websummit.com
 http://lanyrd.com
 -->
 
@@ -9770,18 +9767,6 @@ Unboxing
 #### Books and Courses
 
 <!--
-https://www.nirandfar.com/download/hooked-workbook.pdf
-
-https://en.wikipedia.org/wiki/Sunk_cost
-
-https://www.amazon.com/gp/product/0307353133
-http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
-http://tim.blog/2017/03/19/ricardo-semler/
-http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
-http://tim.blog/2017/04/26/murray-carter
-http://tim.blog/2017/03/30/cheryl-strayed/
-http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/
-
 IT and Ethics
 https://plato.stanford.edu/entries/it-moral-values/
 https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
@@ -9810,9 +9795,7 @@ https://www.hardbound.co/read/homo-deus/1
 https://www.hardbound.co/read/sapiens/1
 https://www.hardbound.co/read/wait-but-why-on-neuralink
 
-
-Rec from Tim Ferris
-http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+https://www.nirandfar.com/download/hooked-workbook.pdf
 
 http://fourhourworkweek.com/sitemap.xml
 
@@ -9822,13 +9805,27 @@ https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-eboo
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
 https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
+Rec from Tim Ferris
+http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+http://vagabonding.net/
+https://en.wikipedia.org/wiki/Rolf_Potts
+
+https://www.amazon.com/gp/product/0307353133
+http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
+http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
 
 http://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
 http://tim.blog/2016/12/20/becoming-the-best-version-of-you/
+http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/
+
+http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
+
 http://tim.blog/2016/01/15/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes/
-http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
 http://tim.blog/2017/05/12/art-de-vany
+http://tim.blog/2017/03/19/ricardo-semler
+http://tim.blog/2017/04/26/murray-carter
+http://tim.blog/2017/03/30/cheryl-strayed
 
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
