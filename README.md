@@ -2367,6 +2367,28 @@ Facebook Developers
 * [Facebook Platform Insights (Going away)](https://developers.facebook.com/docs/platforminsights)
 
 <!--
+Bots and Apps
+https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
+https://api.slack.com/best-practices/blueprints
+https://api.slack.com/best-practices
+
+Microsoft Bot Framework
+https://dev.botframework.com
+
+New (See also reporobot and githubteacher)
+https://github.com/guardian/facebook-news-bot
+https://www.messenger.com/t/theguardian/
+
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+https://github.com/jw84/messenger-bot-tutorial
+https://github.com/WhiteHouse/fb_messenger_bot
+-->
+
+<!--
 https://analytics.facebook.com
 
 https://www.messenger.com
@@ -2393,21 +2415,6 @@ https://www.facebook.com/business/help/1686199411616919
 https://developers.facebook.com/docs/facebook-pixel/using-the-pixel
 https://www.facebook.com/business/help/460491677335370
 https://www.facebook.com/business/help/373979379354234
-
-Microsoft Bot Framework
-https://dev.botframework.com
-
-New (See also reporobot and githubteacher)
-https://github.com/guardian/facebook-news-bot
-https://www.messenger.com/t/theguardian/
-
-https://messengerplatform.fb.com/
-https://developers.facebook.com/docs/messenger-platform
-https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
-https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
-
-https://github.com/jw84/messenger-bot-tutorial
-https://github.com/WhiteHouse/fb_messenger_bot
 
 Webmaster Guidelines
 https://support.google.com/webmasters/answer/35769
