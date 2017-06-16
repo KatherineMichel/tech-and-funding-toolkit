@@ -9093,6 +9093,11 @@ Mental Models
 <!--
 http://www.rationality.org/resources/rationality-checklist
 
+http://www.overcomingbias.com
+http://slatestarcodex.com
+http://lesswrong.com
+https://www.quora.com/What-is-the-rationality-community-and-what-does-it-consist-of
+
 https://www.farnamstreetblog.com/2016/04/munger-operating-system
 
 Backfire Effect
@@ -9816,10 +9821,13 @@ Rec from Tim Ferris
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
 http://vagabonding.net/
 https://en.wikipedia.org/wiki/Rolf_Potts
+https://en.wikipedia.org/wiki/The_Graveyard_Book
 
 https://www.amazon.com/gp/product/0307353133
 http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
 http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
+
+https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
 
 http://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
 http://tim.blog/2016/12/20/becoming-the-best-version-of-you/
