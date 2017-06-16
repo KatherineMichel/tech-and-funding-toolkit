@@ -1,3 +1,10 @@
+<!--
+https://en.wikipedia.org/wiki/Institutional_memory
+https://en.wikipedia.org/wiki/Critical_mass_(disambiguation)
+
+https://en.wikipedia.org/wiki/Evolutionary_algorithm
+-->
+
 Mental Models
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 
