@@ -576,6 +576,9 @@ HubSpot
 * [HubSpot GitHub](https://github.com/HubSpot)
 
 <!--
+https://github.com/buzzfeed/design
+https://github.com/alexpate/awesome-design-systems
+
 https://console.ng.bluemix.net
 -->
 
@@ -1075,6 +1078,10 @@ Windows- PowerShell
 * [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
 * [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
 * [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
+
+<!--
+https://github.com/PowerShell/PowerShell
+-->
 
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
@@ -5821,6 +5828,8 @@ https://www.godaddy.com/help/what-is-a-subdomain-296
 #### Security
 
 <!--
+https://www.yubico.com/products/yubikey-hardware/
+
 https://code.google.com/p/browsersec/wiki/Main
 
 https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
@@ -7028,6 +7037,20 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 * [Nginx Wiki](http://wiki.nginx.org)
 
 #### Dev Ops Tools
+
+<!--
+http://www.oracle.com/us/products/applications/jd-edwards-enterpriseone/overview/index.html
+https://en.wikipedia.org/wiki/JD_Edwards
+ 
+https://github.com/Langhalsdino/Kubernetes-GPU-Guide
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
+https://deis.com/blog/2016/kubernetes-illustrated-guide/
+ 
+https://github.com/heap
+https://www.terraform.io/
+https://heap.engineering/terraform-gotchas/
+-->
 
 See also Django
  
@@ -8242,6 +8265,7 @@ https://blog.darkmere.gen.nz/2017/01/linux-conf-au-2017-thursday-keynote-nadia-e
 https://medium.com/@nayafia/there-is-no-my-in-open-source-c3e5555390fa
 
 https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
+https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open
 
 http://a16z.com/2017/04/08/culture-open-source-community
 http://a16z.com/tag/open-v-closed
@@ -9657,6 +9681,9 @@ Models and Theories
 * [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 
 <!--
+http://milliondollarhomepage.com
+https://github.com/shazow/milliondollargraveyard
+
 https://en.wikipedia.org/wiki/Hero%27s_journey
 https://backchannel.com/how-the-tech-press-forces-a-narrative-on-companies-it-covers-5f89fdb7793e#.njs8p3ax7
 
@@ -9803,6 +9830,11 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
+https://www.amazon.com/Power-Moments-Certain-Extraordinary-Impact/dp/1501147765/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=sprint05-20&linkId=dd982c05770c271c83fce155e1e1d547
+ 
+https://www.amazon.com/Getting-Maybe-Excel-School-Exams/dp/0890897603/
+https://www.scribd.com/doc/141766597/Getting-To-Maybe-How-to-Excel-on-Law-School-Exams
+
 https://www.hardbound.co/read/homo-deus/1
 https://www.hardbound.co/read/sapiens/1
 https://www.hardbound.co/read/wait-but-why-on-neuralink
