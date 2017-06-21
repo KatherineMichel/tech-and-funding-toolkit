@@ -222,6 +222,11 @@ Table of Content
 
 #### Programming Learning Tools
 
+<!--
+42 – Être admissible
+http://www.42.fr/etre-admissible
+-->
+
 Creativity and Tools
 * ["Creativity: It’s not about the tools"](http://www.creativethinkinghub.com/tools)
 * [David Gries (The Science of Programming: "You do not program in a language, you program _into_ a language") Wikipedia](https://en.m.wikipedia.org/wiki/David_Gries)
@@ -8811,6 +8816,11 @@ A16Z Funding and Valuation Advice
 * [16 Common Questions About Fundraising](http://a16z.com/2015/02/27/16-common-questions-about-fundraising)
 * [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 
+<!--
+https://www.cooleygo.com/documents
+https://www.cooleygo.com/announcing-new-series-seed-equity-and-note-financing-documents-and-generators
+-->
+
 Law and Transaction Services
 * [Entrepreneurs Guide to Business Law](http://www.amazon.com/Entrepreneurs-Guide-Business-Law/dp/0324042914), via [Chris Dixon](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law), and [Yokum Taku (Wilson Sonsini Goodrich & Rosati)](http://www.startupcompanylawyer.com)
 * [Cooley](http://www.cooley.com) and [Cooley Alerts](https://www.cooley.com/alerts.aspx)
@@ -9163,6 +9173,9 @@ https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sour
 
 What Does a Price-Earnings Multiple Mean?
 http://www.valuewalk.com/wp-content/uploads/2014/02/document-805915460.pdf
+
+Understanding Skill
+https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1051045621&serialid=CFuLyFE%2BEXHlo12BGWMqq8fSzI8Xcj0miB1nOa39p9U%3D
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
@@ -9807,6 +9820,10 @@ Shows
 * [This Week in Startups](http://thisweekinstartups.com)
 * [This Week in Tech](https://twit.tv)
 
+<!--
+https://itunes.apple.com/gb/podcast/twenty-minute-vc-venture-capital/id958230465?mt=2
+-->
+
 Unboxing
 * [Unboxing](http://unboxing.gearlive.com)
 
@@ -9848,6 +9865,8 @@ https://www.hardbound.co/read/wait-but-why-on-neuralink
 
 https://www.nirandfar.com/download/hooked-workbook.pdf
 
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
+
 http://fourhourworkweek.com/sitemap.xml
 
 http://tim.blog/2017/01/25/tools-of-titans-index/
@@ -9863,8 +9882,11 @@ https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
 
 https://www.amazon.com/gp/product/0307353133
+http://tim.blog/2014/10/04/how-to-travel-to-20-countries-and-build-a-massive-business-in-the-process
 http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
 http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
+
+https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals#t-789871
 
 https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
 
@@ -9872,14 +9894,19 @@ http://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubli
 http://tim.blog/2016/12/20/becoming-the-best-version-of-you/
 http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/
 
+https://www.youtube.com/watch?v=-e0iPI2WLrs
+
 http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
+
+http://tim.blog/2012/05/22/neil-gaiman-commencement-speech
 
 http://tim.blog/2016/01/15/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes/
 http://tim.blog/2017/05/12/art-de-vany
 http://tim.blog/2017/03/19/ricardo-semler
 http://tim.blog/2017/04/26/murray-carter
 http://tim.blog/2017/03/30/cheryl-strayed
+http://tim.blog/2014/07/11/james-altucher
 
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
