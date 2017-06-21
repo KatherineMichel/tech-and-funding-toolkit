@@ -9128,7 +9128,7 @@ Charlie Munger Mental Models (A partial list of some Mental Models used by Charl
 Mental Models
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
 * [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Farnham Street Mental Models](https://www.farnamstreetblog.com/mental-models)
+* [Farnam Street Mental Models](https://www.farnamstreetblog.com/mental-models)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
 <!--
@@ -10122,10 +10122,15 @@ Aggregated News Sources
 * [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
 
 Off the Wall
-* [Farnham Street Blog](https://www.farnamstreetblog.com)
+* [Farnam Street Blog](https://www.farnamstreetblog.com)
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) 
+
+<!--
+Farnam Street Courses
+https://fscourses.com
+-->
 
 Eccentric
 * [Brain Pickings](https://www.brainpickings.org)
