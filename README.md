@@ -317,7 +317,7 @@ Math and General Knowledge
 
 Fave Pluralsight Authors
 * [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
-* [Scott Allen](https://www.pluralsight.com/authors/scott-allen)
+* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
@@ -484,6 +484,10 @@ Documentation- General
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+
+<!--
+https://www.packtpub.com/account/my-ebooks
+-->
 
 Standards
 * [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
