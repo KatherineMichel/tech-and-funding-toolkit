@@ -402,6 +402,7 @@ The Practical Dev
 * [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 
 <!--
+https://github.com/thepracticaldev
 https://hackernoon.com
 -->
 
