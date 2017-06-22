@@ -228,6 +228,9 @@ http://www.42.fr/etre-admissible
 
 https://www.codewars.com
 http://codekata.com
+
+https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.rrixtpvsc
+https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code
 -->
 
 Creativity and Tools
@@ -293,7 +296,6 @@ https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
 
 http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
 http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
-
 -->
 
 Design and Dev Publications
@@ -3451,6 +3453,23 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 #### JavaScript Tools
 
 <!--
+New
+http://andrewhfarmer.com/starter-project
+http://andrewhfarmer.com/webpack-hmr-tutorial
+
+https://github.com/coryhouse?tab=repositories
+https://github.com/coryhouse/react-flux-building-applications
+https://github.com/coryhouse/speaker-starter-kit
+https://github.com/coryhouse/pluralsight-redux-starter
+https://github.com/coryhouse/ps-react
+https://github.com/coryhouse/fluent2017
+
+https://github.com/Microsoft/TypeScript-React-Starter
+
+https://github.com/webpack/webpack-cli
+https://github.com/stripe/react-stripe-elements
+https://github.com/mesosphere/reactjs-components
+
 https://en.wikipedia.org/wiki/Dependency_injection
 https://en.wikipedia.org/wiki/Inversion_of_control
 -->
@@ -4078,6 +4097,18 @@ https://mmistakes.github.io/so-simple-theme
 #### PHP
 
 <!--
+New
+https://developer.wordpress.org/files/2014/10/template-hierarchy.png
+https://codex.wordpress.org/Function_Reference
+https://developer.wordpress.org/reference/functions/
+https://developer.wordpress.org/themes/basics/theme-functions/
+https://codex.wordpress.org/Pluggable_Functions
+https://codex.wordpress.org/New_To_WordPress_-_Where_to_Start
+
+https://wordpress.org/themes/browse/new/
+https://wordpress.org/themes/twentysixteen/
+
+
 Theme Unit Test
 https://codex.wordpress.org/Theme_Unit_Test
 
@@ -4797,6 +4828,7 @@ www.python.org/download/releases/2.3/mro/
 http://docs.python.org/2/library/pickle.html
 
 https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/library/pathlib.html
 
 https://docs.python.org/3/howto/regex.html
 https://docs.python.org/3/library/os.html
