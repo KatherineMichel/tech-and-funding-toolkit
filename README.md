@@ -547,6 +547,11 @@ Individual Engineering Blogs
 StackShare
 * [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
 
+<!--
+https://stackshare.io/news
+https://sitestacks.com
+-->
+
 Developer Surveys
 * [Stack Overflow Survey: What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends)
 * [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
@@ -1796,6 +1801,8 @@ Types of Licenses
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 <!--
+https://en.wikipedia.org/wiki/Academic_Free_License
+
 Code of Conduct
 http://contributor-covenant.org
 https://github.com/ContributorCovenant/contributor_covenant
@@ -4690,7 +4697,13 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
-https://djangogirls.org/spokane/
+https://www.twoscoopspress.com/pages/current-django-books
+
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
+
+http://www.miniwebtool.com/django-secret-key-generator
+
+https://djangogirls.org/spokane
   
 http://bugs.python.org/user26332
 
@@ -9706,6 +9719,16 @@ Models and Theories
 * [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 
 <!--
+https://www.youtube.com/watch?v=3Oz3TDf59wg&sns=tw
+
+http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf
+http://www.mturkcrowd.com/threads/google-affiliated-requesters-master-list-sergey-schmidt-project-endor-and-way-too-many-more.1958/
+
+http://www.seattletimes.com/business/amazon/amazon-says-it-will-share-employee-training-know-how-with-other-firms/
+
+https://www.scientificamerican.com/article/elon-musk-publishes-plans-for-colonizing-mars/?WT.mc_id=SA_TW_SPC_NEWS&sf89238010=1
+http://online.liebertpub.com/doi/pdf/10.1089/space.2017.29009.emu
+
 http://milliondollarhomepage.com
 https://github.com/shazow/milliondollargraveyard
 
@@ -9860,6 +9883,8 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 <!--
 https://www.amazon.com/Power-Moments-Certain-Extraordinary-Impact/dp/1501147765/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=sprint05-20&linkId=dd982c05770c271c83fce155e1e1d547
+ 
+https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital/dp/0393254291/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=
  
 https://www.amazon.com/Getting-Maybe-Excel-School-Exams/dp/0890897603/
 https://www.scribd.com/doc/141766597/Getting-To-Maybe-How-to-Excel-on-Law-School-Exams
@@ -10665,6 +10690,11 @@ https://www.paypal.com/de/webapps/mpp/ua/third-parties-list?locale.x=en_US
 https://www.paypal.com/webapps/mpp/get-started/donate-button
 https://developer.paypal.com/docs/classic/payflow/gs_ppa_hosted_pages
 
+https://stripe.com/blog/increment
+https://increment.com
+https://stripe.com/connect
+https://stripe.com/us/sigma
+
 https://stripe.com/works-with
 https://stripe.com/docs/checkout/tutorial
 https://stripe.com/docs/webhooks
@@ -10687,6 +10717,11 @@ Kits
 Swag
 * [Teespring](http://teespring.com)
 * [Sticker Mule](https://www.stickermule.com)
+
+<!--
+Sock swag
+https://nailsnaps.com
+-->
 
 Business Cards and More
 * [Moo](https://www.moo.com/us)
@@ -10748,6 +10783,9 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+https://www.linkedin.com/jobs/blog/linkedin-workforce-report-june-2017-seattle-wa
+https://blog.google/products/search/connecting-more-americans-jobs
+
 Filters
 https://angel.co/jobs
 https://www.authenticjobs.com/
