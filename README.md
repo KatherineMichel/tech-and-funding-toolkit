@@ -4829,6 +4829,7 @@ http://docs.python.org/2/library/pickle.html
 
 https://docs.python.org/3/library/argparse.html
 https://docs.python.org/3/library/pathlib.html
+https://docs.python.org/3/library/stdtypes.html
 
 https://docs.python.org/3/howto/regex.html
 https://docs.python.org/3/library/os.html
@@ -5003,6 +5004,8 @@ Python- PEP
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
 
 <!--
+https://www.python.org/dev/peps/pep-0498
+
 https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
 http://www.python.org/dev/peps/pep-0008/#maximum-line-length
 http://www.python.org/dev/peps/pep-0328/
