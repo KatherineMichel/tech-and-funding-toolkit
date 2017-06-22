@@ -1136,6 +1136,10 @@ Emacs and Vim (Text Editors)
 * [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
+<!--
+https://stackoverflow.blog/2017/05/23/stack-overflow-helping-one-million-developers-exit-vim
+-->
+
 Emacs for Mac or Linux
 * [Emacs for Mac OS X](https://emacsformacosx.com)
 * [Installing Emacs on GNU/Linux](http://wikemacs.org/wiki/Installing_Emacs_on_GNU/Linux)
@@ -10183,6 +10187,10 @@ Aggregated News Sources
 * [Pocket](https://getpocket.com)
 * [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 * [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
+
+<!--
+http://nuzzel.com/newswire
+-->
 
 Off the Wall
 * [Farnam Street Blog](https://www.farnamstreetblog.com)
