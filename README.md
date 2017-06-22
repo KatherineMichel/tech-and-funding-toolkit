@@ -225,6 +225,9 @@ Table of Content
 <!--
 42 – Être admissible
 http://www.42.fr/etre-admissible
+
+https://www.codewars.com
+http://codekata.com
 -->
 
 Creativity and Tools
