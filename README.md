@@ -588,7 +588,7 @@ Company Design
 * [Uber Design](https://www.uber.com/design) 
 
 Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos/wwdc/2014), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
 * [F8 Facebook Developer Conference](https://www.fbf8.com) 
 * [Google Design Form](http://www.google.com/design/form) 
 * [Google IO](https://www.google.com/events/io)  
@@ -9849,6 +9849,7 @@ Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
 
 <!--
 http://www.churchillclub.org
+https://www.youtube.com/user/commonwealthclub
 
 http://hacklolla.challengepost.com
 -->
