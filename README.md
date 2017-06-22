@@ -282,7 +282,18 @@ Courses (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
+https://www.codeschool.com/projects
+http://ready.codecademy.com/build-websites-from-scratch/
+http://ready.codecademy.com/programs/coding-for-business-analysts/
+https://www.codecademy.com/learn/python
+https://www.codecademy.com/learn/learn-sass
+
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+
+http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
+http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
+
 -->
 
 Design and Dev Publications
