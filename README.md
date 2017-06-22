@@ -4712,6 +4712,8 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
+https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+
 https://www.twoscoopspress.com/pages/current-django-books
 
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
@@ -7992,7 +7994,6 @@ New
 https://betalist.com/trends
 https://betalist.com/jobs/collections
 
-
 https://www.producthunt.com/tech
 https://www.producthunt.com/topics/developer-tools
 https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
@@ -8008,6 +8009,9 @@ https://www.producthunt.com/apps/mac
 https://www.producthunt.com/apps/chrome
 
 https://angel.co/spv
+https://angel.co/track
+https://angel.co/angel-funds
+https://angel.co/freelancers
 http://blog.angel.co/post/131017147560/csc-upshot
 
 https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
@@ -10687,6 +10691,8 @@ Payments
 * [Dwolla](https://www.dwolla.com) 
 
 <!--
+https://www.google.com/payments/solutions
+
 https://www.ethereum.org
 https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
 https://litecoin.com
@@ -10726,6 +10732,11 @@ Crowd Sourced Internet Marketplace
 Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
 * [Microsoft Flow](https://flow.microsoft.com)
+
+<!--
+https://ifttt.com/blog/2017/05/calling-all-makers
+https://platform.ifttt.com/maker
+-->
 
 Kits
 * [Kits](http://kit.com)
@@ -10800,6 +10811,8 @@ Remote
 
 <!--
 https://www.linkedin.com/jobs/blog/linkedin-workforce-report-june-2017-seattle-wa
+
+https://hire.withgoogle.com/sign-in
 https://blog.google/products/search/connecting-more-americans-jobs
 
 Filters
