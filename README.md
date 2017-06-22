@@ -281,6 +281,10 @@ Courses (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
+<!--
+https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+-->
+
 Design and Dev Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
 * [Smashing Magazine](http://www.smashingmagazine.com) 
@@ -568,6 +572,11 @@ https://stackoverflow.com/company/salary/skills/product-designer?e=1&l=1
 https://www.stackoverflowbusiness.com/talent/resources/recruiting-developers-in-2017
 
 https://insights.stackoverflow.com/trends
+
+http://sogrady-media.redmonk.com/sogrady/files/2017/06/lang.rank_.617.wm_.png
+
+https://www.subtraction.com/2016/06/27/the-2016-subtraction-com-design-tools-survey
+http://tools.subtraction.com/
 -->
 
 Company Design
@@ -1546,6 +1555,9 @@ https://github.com/marketplace
 
 <!--
 New
+GitHub Standards
+https://standards.github.io
+
 https://education.github.com/git-cheat-sheet-education.pdf
 https://education.github.com/
 https://education.github.com/guide/sandboxing
