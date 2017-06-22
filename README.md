@@ -3839,6 +3839,11 @@ Programming Languages- Assembly
 * [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
 * [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
 
+<!--
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+-->
+
 Programming Languages- Miscellaneous
 * [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
 * [Dart](https://www.dartlang.org) and [Dart Wikipedia](http://en.wikipedia.org/wiki/Dart_(programming_language))  
