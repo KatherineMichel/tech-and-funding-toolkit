@@ -2847,6 +2847,7 @@ Built With (Exluding Django; See also Squarespace)
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 
 <!--
+http://www.builtwithshopify.com
 http://webbyawards.com
 -->
 
@@ -7206,6 +7207,7 @@ Developer Playground/IDE (Similar to Fiddle)
 
 <!--
 https://glitch.com
+https://glitch.com/websites
 https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
 https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
 
@@ -8313,6 +8315,8 @@ Awards
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
 
 <!--
+http://thinkers50.com/event/thinkers50-2017-awards-gala
+
 https://en.wikipedia.org/wiki/Turing_Award
 -->
 
@@ -8817,6 +8821,7 @@ A16Z Funding and Valuation Advice
 * [A16Z Valuation Advice](http://a16z.com/2014/09/26/valuation-this-is-the-advice-we-give-our-founders)
 
 <!--
+https://github.com/CooleyLLP/seriesseed
 https://www.cooleygo.com/documents
 https://www.cooleygo.com/announcing-new-series-seed-equity-and-note-financing-documents-and-generators
 -->
@@ -9877,6 +9882,7 @@ https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
 
 Rec from Tim Ferris
 http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 http://vagabonding.net/
 https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
