@@ -112,6 +112,7 @@ Table of Content
 -->
 
 * [Web Host Newsletters](#web-host-newsletters)
+* [Events](#events)
 * [Dashboards](#dashboards)
 * [Domains, DNS, SSL](#domains-dns-ssl)
 * [Deployment and Cloud](#deployment-and-cloud)
@@ -122,6 +123,8 @@ Table of Content
 * [Google Cloud](#google-cloud)
 
 * [Deployment and Git Integration](#deployment-and-git-integration)
+
+* [Functions](#functions)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
 * [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Servers and Databases](#servers-and-databases)
@@ -2431,28 +2434,6 @@ Facebook Developers
 * [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
 * [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
 * [Facebook Platform Insights (Going away)](https://developers.facebook.com/docs/platforminsights)
-
-<!--
-Bots and Apps
-https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
-https://api.slack.com/best-practices/blueprints
-https://api.slack.com/best-practices
-
-Microsoft Bot Framework
-https://dev.botframework.com
-
-New (See also reporobot and githubteacher)
-https://github.com/guardian/facebook-news-bot
-https://www.messenger.com/t/theguardian/
-
-https://messengerplatform.fb.com/
-https://developers.facebook.com/docs/messenger-platform
-https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
-https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
-
-https://github.com/jw84/messenger-bot-tutorial
-https://github.com/WhiteHouse/fb_messenger_bot
--->
 
 <!--
 https://analytics.facebook.com
@@ -5819,6 +5800,8 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 
+#### Events
+
 <!--
 AWS- Events
 * [AWS Live Events](https://live.awsevents.com)
@@ -6374,14 +6357,7 @@ https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
 
 CloudFormation
 https://aws.amazon.com/cloudformation/aws-cloudformation-templates
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-sample-templates.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/cfn-using-cloudformer.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/gettingstarted.templatebasics.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/mappings-section-structure.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-iam-role.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/sample-templates-applications-us-west-1.html
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-rds-database-instance.html
+http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
 
 Getting Started with Windows Web Applications in the AWS Cloud
 http://aws.amazon.com/web-applications/gsg-webapps-windows
@@ -6433,33 +6409,26 @@ AWS- GitHub and Livecoding
 * [AWS Twitch](https://www.twitch.tv/aws)
 * [AWS GitHub](https://github.com/aws)
 
+* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
+
 <!--
+
+https://aws.amazon.com/console
+https://aws.amazon.com/certification
+
 https://enterprise.github.com/aws
 
-
-
-https://www.youtube.com/user/AmazonWebServices/videos
 https://medium.com/aws-enterprise-collection
-
-https://aws.amazon.com/certification
 
 https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2016
 
 https://aws.amazon.com/devops/what-is-devops
 http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
 
-https://aws.amazon.com/console
-
-https://aws.amazon.com/marketplace/pp/B00NN8Y43U
 https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
 https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
-https://aws.amazon.com/marketplace/pp/B007JNJ31S
 https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
-
 https://aws.amazon.com/marketplace/pp/B00JV9JBDS
-https://aws.amazon.com/marketplace/pp/B01JRXEXVC?qid=1476905092639&sr=0-3&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01JRXERGS?qid=1476905092639&sr=0-6&ref_=brs_res_product_title
-https://aws.amazon.com/marketplace/pp/B01ETSYYBY?qid=1476905092639&sr=0-5&ref_=brs_res_product_title
 -->
 
 AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
@@ -6664,20 +6633,9 @@ https://www.digitalocean.com/community/questions/unable-to-install-wordpress-plu
 https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
 
 https://manage.serverpilot.io
+https://serverpilot.io/community
 
-https://serverpilot.io/community/articles/how-to-connect-a-server-to-serverpilot.html
-https://serverpilot.io/community/articles/how-to-install-wordpress-on-digitalocean.html
-https://serverpilot.io/community/articles/how-to-manually-install-wordpress-on-digitalocean.html
-https://serverpilot.io/community/articles/install-wordpress-on-ubuntu.html
-https://serverpilot.io/community/articles/how-to-create-a-server-on-digitalocean.html
-https://serverpilot.io/community/articles/what-is-ssh.html
-https://serverpilot.io/community/articles/connect-to-mysql-remotely.html
-https://serverpilot.io/community/articles/how-to-install-the-cyberduck-sftp-client.html
-https://serverpilot.io/community/articles/how-to-upload-files-over-sftp-with-cyberduck.html
-https://serverpilot.io/community/articles/how-to-manage-your-database-with-adminer.html
-https://serverpilot.io/community/articles/how-to-migrate-a-digitalocean-one-click-wordpress-installation-to-serverpilot.html
-
-https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain/
+https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain
 -->
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
@@ -6711,6 +6669,8 @@ https://cloud.google.com/appengine/docs
 https://cloud.google.com/source-repositories/docs/
 
 https://cloud.google.com/products
+
+ML
 https://cloud.google.com/ml/docs
 -->
 
@@ -7161,22 +7121,15 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 
 #### Dev Ops Tools
 
-<!--
-http://www.oracle.com/us/products/applications/jd-edwards-enterpriseone/overview/index.html
-https://en.wikipedia.org/wiki/JD_Edwards
- 
-https://github.com/Langhalsdino/Kubernetes-GPU-Guide
-https://github.com/kelseyhightower/kubernetes-the-hard-way
-http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
-https://deis.com/blog/2016/kubernetes-illustrated-guide/
- 
-https://github.com/heap
-https://www.terraform.io/
-https://heap.engineering/terraform-gotchas/
--->
-
 See also Django
  
+Terraform
+* [Terraform](https://www.terraform.io)
+
+<!--
+https://heap.engineering/terraform-gotchas
+-->
+
 Container Intro
 * [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s) 
  
@@ -7231,6 +7184,11 @@ http://docs.kelproject.com/installation/layer0/gce
 http://kubernetes.io/docs/getting-started-guides/aws
 http://kubernetes.io/docs/hellonode
 https://github.com/kubernetes-incubator/cri-o
+
+https://github.com/Langhalsdino/Kubernetes-GPU-Guide
+https://github.com/kelseyhightower/kubernetes-the-hard-way
+http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
+https://deis.com/blog/2016/kubernetes-illustrated-guide/
 -->
 
 VMware, Vagrant, VirtualBox
@@ -7302,6 +7260,11 @@ Puppet Labs
 * [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
 * [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
+<!--
+http://www.oracle.com/us/products/applications/jd-edwards-enterpriseone/overview/index.html
+https://en.wikipedia.org/wiki/JD_Edwards
+-->
+
 #### More Back-end
 
 <!--
@@ -7309,26 +7272,43 @@ Dependency management
 https://gemnasium.com
 -->
 
-Developer Playground/IDE (Similar to Fiddle)
+Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Cloud9](https://c9.io)
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
 * [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
+Makers
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
+* [Glitch Websites](https://glitch.com/websites)
+* [IFTTT Maker](https://platform.ifttt.com/maker)
+* [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
+
+Bots
+* [Microsoft Bot Framework](https://dev.botframework.com)
+
 <!--
-IFTTT Maker
-https://glitch.com/websites
+New (See also reporobot and githubteacher)
+https://github.com/guardian/facebook-news-bot
+https://www.messenger.com/t/theguardian/
+
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+https://github.com/jw84/messenger-bot-tutorial
+https://github.com/WhiteHouse/fb_messenger_bot
+
 https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
 https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
+
+https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
 -->
 
 Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
-
-<!--
-https://www.firebase.com/docs/hosting/
--->
+* [Firebase Hosting](https://www.firebase.com/docs/hosting)
 
 Content Delivery Network
 * [Amazon Cloudfront CDN](http://aws.amazon.com/cloudfront)
@@ -10799,21 +10779,14 @@ Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
 * [Microsoft Flow](https://flow.microsoft.com)
 
-<!--
-* [IFTTT Maker](https://platform.ifttt.com/maker)
--->
-
 Kits
 * [Kits](http://kit.com)
 
 Swag
+* Sock swag
 * [Teespring](http://teespring.com)
 * [Sticker Mule](https://www.stickermule.com)
 * [NailSnaps](https://nailsnaps.com)
-
-<!--
-Sock swag
--->
 
 Business Cards and More
 * [Moo](https://www.moo.com/us)
