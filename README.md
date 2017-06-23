@@ -628,6 +628,9 @@ https://console.ng.bluemix.net
 #### Programming Language Style Guides
 
 <!--
+New
+https://github.com/bradfrost/style-guide-guide
+https://github.com/alexpate/awesome-design-systems
 https://github.com/kciter/awesome-style-guide
 -->
 
