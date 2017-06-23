@@ -5818,6 +5818,15 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 * [GitHub Explore Subscribe](https://github.com/explore/subscribe)
 * [Heroku Newsletter](https://www.heroku.com/newsletter)
 
+
+<!--
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+-->
+
 #### Dashboards
 
 <!--
@@ -6180,20 +6189,6 @@ Azure Functions
 #### AWS
 
 <!--
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
-
-https://live.awsevents.com
-https://aws.amazon.com/summits/london
-
-https://github.com/aws
-
-https://enterprise.github.com/aws
-
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-
-
 https://www.createspace.com
 https://www.amazon.com/hz/wishlist/inf-interest?ref=producthunt
 https://aws.amazon.com/connect/
@@ -6433,7 +6428,16 @@ AWS- Developer and Documentation
 * [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
 * [AWS Marketplace](https://aws.amazon.com/marketplace)  
 
+AWS- GitHub and Livecoding
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
 <!--
+https://enterprise.github.com/aws
+
+
+
 https://www.youtube.com/user/AmazonWebServices/videos
 https://medium.com/aws-enterprise-collection
 
