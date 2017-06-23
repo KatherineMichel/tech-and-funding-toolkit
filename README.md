@@ -1414,6 +1414,15 @@ GitLab Enterprise Docs
 https://docs.gitlab.com/ee/README.html
 GitLab Org
 https://gitlab.com/groups/gitlab-org
+https://github.com/gitlabhq/gitlabhq
+
+https://www.atlassian.com/licensing/starter
+https://www.atlassian.com/software/jira/download
+https://www.atlassian.com/software/jira
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://confluence.atlassian.com/bbkb
+https://confluence.atlassian.com/bitbucket
 -->
 
 #### Startup Engineering MOOC
@@ -1441,9 +1450,12 @@ https://upcase.com/design-for-developers-resources/principles
 https://github.com/thoughtbot/guides
 https://github.com/thoughtbot/guides/tree/master/protocol
 
-https://github.com/hypenotic/hypelabs
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/templates
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
 
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+https://github.com/hypenotic/hypelabs
 -->
 
 A Successful Git Branching Model
@@ -1452,58 +1464,44 @@ A Successful Git Branching Model
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
 <!--
-New
-https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
-https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
-https://www.atlassian.com/blog/archives/simple-git-workflow-simple
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
 
-
+GitHub Flow
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/github-flow-in-the-browser/
 http://scottchacon.com/2011/08/31/github-flow.html
 
+GitHub Workflow (used by Frameworks team at BBC News)
 http://www.integralist.co.uk/posts/github-workflow.html
+
+GitLab Flow
+https://docs.gitlab.com/ee/workflow/gitlab_flow.html
+https://about.gitlab.com/2014/09/29/gitlab-flow/
+
+Atlassian- Comparing Workflows
+https://www.atlassian.com/git/tutorials/comparing-workflows
+https://www.atlassian.com/blog/archives/simple-git-workflow-simple
+
+https://www.gerritcodereview.com/
 
 https://github.com/Originate/git-town
 
-New
-https://www.atlassian.com/git/tutorials/comparing-workflows
-https://www.atlassian.com/blog/archives/simple-git-workflow-simple
-https://docs.gitlab.com/ee/workflow/gitlab_flow.html
-https://about.gitlab.com/2014/09/29/gitlab-flow/
-https://www.gerritcodereview.com/
-http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
+
 
 https://en.wikipedia.org/wiki/Fork_and_pull_model
 https://en.wikipedia.org/wiki/Collaborative_software_development_model
 
 https://en.wikipedia.org/wiki/Open-source_model
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/github/open-source-guide
-https://github.com/github/maturity-model
-https://github.com/github/open-source-survey
-
 https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
 https://en.wikipedia.org/wiki/Capability_Maturity_Model
 https://en.wikipedia.org/wiki/Free_and_open-source_software
 https://martinfowler.com/bliki/MaturityModel.html
 
-https://www.git-tower.com/blog/git-cheat-sheet/
+https://github.com/github/open-source-guide
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://github.com/github/open-source-survey
+https://github.com/github/maturity-model
 
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/templates
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-https://robots.thoughtbot.com/tags/git
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
 
 https://gist.github.com/seshness/3943237
 
@@ -1511,20 +1509,7 @@ https://contribute.jquery.org/commits-and-pull-requests
 https://www.visualstudio.com/en-us/docs/git/pull-requests
 https://datasift.github.io/gitflow/
 
-https://www.atlassian.com/licensing/starter
-https://www.atlassian.com/software/jira/download
-
-https://confluence.atlassian.com/bbkb
-https://confluence.atlassian.com/bitbucket
-
-https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
-https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
-
-https://github.com/blog/2360-git-2-13-has-been-released
-
-https://zachholman.com/talk/git-github-secrets
-https://github.com/git-tips/tips
-
+Triaging
 https://github.com/isaacs/github/issues/248
 https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
 https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
@@ -1532,10 +1517,15 @@ https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
 https://github.com/v8/v8/wiki/Triaging-issues
 http://docs.hood.ie/en/latest/developers/TRIAGING.html
 
+https://zachholman.com/talk/git-github-secrets
+https://github.com/git-tips/tips
+
 https://gist.github.com/PurpleBooth/b24679402957c63ec426
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 https://gist.github.com/PurpleBooth
 https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
+
+https://github.com/blog/2360-git-2-13-has-been-released
 -->
 
 Code Review (See also Project Management)
@@ -1559,9 +1549,6 @@ The Distributed Developer Stack Field Guide
 <!--
 https://cloud.google.com/source-repositories/pricing
 
-https://www.atlassian.com/software/jira
-https://github.com/gitlabhq/gitlabhq
-
 https://github.com/thoughtbot/guides/tree/master/code-review
 https://thoughtbot.com/playbook/developing/code-reviews
 https://github.com/blog/2123-more-code-review-tools
@@ -1583,8 +1570,29 @@ https://github.com/marketplace
 
 <!--
 New
+https://www.git-tower.com/blog/git-cheat-sheet/
+
+https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
+https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+https://www.atlassian.com/blog/archives/simple-git-workflow-simple
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
+
+https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+
+
 GitHub Standards
 https://standards.github.io
+
 
 https://education.github.com/git-cheat-sheet-education.pdf
 https://education.github.com/
@@ -1842,21 +1850,20 @@ Types of Licenses
 * [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 * [Creative Commons](https://creativecommons.org/licenses)
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-
-<!--
-https://en.wikipedia.org/wiki/Academic_Free_License
+* [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
 
 Code of Conduct
-http://contributor-covenant.org
-https://github.com/ContributorCovenant/contributor_covenant
-http://citizencodeofconduct.org
+* [Contributor Covenant](http://contributor-covenant.org) and [Contributor Covenant GitHub](https://github.com/ContributorCovenant/contributor_covenant)
+* [Citizen Code of Conduct](http://citizencodeofconduct.org)
 
+Innovators Patent Agreements
+* [Balanced Employee IP Agreement GitHub](https://github.com/github/balanced-employee-ip-agreement)
+* [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
+
+<!--
 https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
-
-https://github.com/github/balanced-employee-ip-agreement
-https://github.com/twitter/innovators-patent-agreement
 
 https://github.com/ajaxorg/ace
 
@@ -2101,13 +2108,9 @@ Apple Developer and Open Source
 
 Apple Developer Helpers
 * [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-<!--
-https://github.com/caskroom/homebrew-cask
-https://caskroom.github.io
--->
 
 App Store Submission
 * [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
@@ -6425,9 +6428,7 @@ https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2016
 https://aws.amazon.com/devops/what-is-devops
 http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
 
-https://aws.amazon.com/marketplace/pp/B01LZN28VD?ref=_ptnr_catgtm_sm
 https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
-https://aws.amazon.com/marketplace/pp/B01M0AXXQB?qid=1475211685369&sr=0-1&ref_=srh_res_product_title
 https://aws.amazon.com/marketplace/pp/B00JV9JBDS
 -->
 
@@ -6620,15 +6621,8 @@ https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s
 
 <!--
 Digital Ocean WordPress and ServerPilot
-
-Digital Ocean- WordPress
-https://www.digitalocean.com/community/tutorials/how-to-use-the-wordpress-one-click-install-on-digitalocean
-https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-on-ubuntu-14-04
-https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-nginx-on-ubuntu-14-04
-https://www.digitalocean.com/community/tutorials/how-to-install-and-update-wordpress-with-version-control-on-centos-7
-https://www.digitalocean.com/community/tutorials/how-to-use-puppet-to-manage-wordpress-themes-and-plugins-on-ubuntu-14-04
-https://www.digitalocean.com/community/tutorials/why-how-to-set-up-a-wordpress-local-development-environment-with-vagrant
-https://www.digitalocean.com/community/questions/unable-to-install-wordpress-plugins
+https://www.digitalocean.com/community/tutorials
+https://www.digitalocean.com/community/questions
 
 https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
 
@@ -6669,9 +6663,6 @@ https://cloud.google.com/appengine/docs
 https://cloud.google.com/source-repositories/docs/
 
 https://cloud.google.com/products
-
-ML
-https://cloud.google.com/ml/docs
 -->
 
 Google Cloud, App Engine
@@ -7365,6 +7356,7 @@ https://docs.travis-ci.com/user/status-images
 -->
 
 <!--
+Codeship
 https://documentation.codeship.com
 https://blog.codeship.com
 http://resources.codeship.com
@@ -7379,6 +7371,7 @@ codecov.io
 http://djangoci.com
 http://docs.python-guide.org/en/latest/scenarios/ci
 -->
+
 
 Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
 * [Web Cache Wikipedia](http://en.wikipedia.org/wiki/Web_cache)  
@@ -10739,17 +10732,6 @@ Payments
 <!--
 https://www.google.com/payments/solutions
 
-https://www.ethereum.org
-https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
-https://litecoin.com
-
-https://www.coinbase.com
-http://coinmarketcap.com
-http://coincap.io
-https://xapo.com
-https://exchange.gemini.com
-https://ripple.com/xrp
-
 https://transferwise.com/borderless
 
 https://stripe.com/docs/sources/ideal
@@ -10767,6 +10749,19 @@ https://stripe.com/works-with
 https://stripe.com/docs/checkout/tutorial
 https://stripe.com/docs/webhooks
 https://stripe.com/docs/examples
+-->
+
+<!--
+https://www.ethereum.org
+https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
+https://litecoin.com
+
+https://www.coinbase.com
+http://coinmarketcap.com
+http://coincap.io
+https://xapo.com
+https://exchange.gemini.com
+https://ripple.com/xrp
 -->
 
 Crowd Sourced Internet Marketplace
