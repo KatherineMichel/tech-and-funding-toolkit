@@ -6172,16 +6172,28 @@ Firebase Functions
 * [Firebase Functions](https://firebase.google.com/features/functions)
 
 Azure Functions
-* [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 
-<!--
-https://azure.microsoft.com/en-us/services/functions/
-https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
--->
+
 
 #### AWS
 
 <!--
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
+https://live.awsevents.com
+https://aws.amazon.com/summits/london
+
+https://github.com/aws
+
+https://enterprise.github.com/aws
+
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+
+
 https://www.createspace.com
 https://www.amazon.com/hz/wishlist/inf-interest?ref=producthunt
 https://aws.amazon.com/connect/
@@ -6410,22 +6422,6 @@ Amazon Web Services
 * [AWS Forum](https://forums.aws.amazon.com)
 * [AWS Articles](https://aws.amazon.com/articles)
 * [AWS Whitepapers](https://aws.amazon.com/whitepapers)
-
-<!--
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
--->
-
-<!--
-https://github.com/aws
-
-https://enterprise.github.com/aws
-
-https://live.awsevents.com
-
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
--->
 
 AWS- Developer and Documentation
 * [AWS Products](http://aws.amazon.com/products)
@@ -9938,10 +9934,7 @@ Shows
 * [Startup Education](https://www.startups.co/education)
 * [This Week in Startups](http://thisweekinstartups.com)
 * [This Week in Tech](https://twit.tv)
-
-<!--
-https://itunes.apple.com/gb/podcast/twenty-minute-vc-venture-capital/id958230465?mt=2
--->
+* [Twenty Minute VC](https://itunes.apple.com/gb/podcast/twenty-minute-vc-venture-capital/id958230465?mt=2)
 
 Unboxing
 * [Unboxing](http://unboxing.gearlive.com)
@@ -10190,10 +10183,6 @@ https://lobste.rs
 
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
 Tech Periodical
 * [Fast Company Technology](https://www.fastcompany.com/technology)
