@@ -6123,6 +6123,62 @@ PaaS- General and Alternatives to Heroku (including Google App Engine)
 SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
+
+
+
+#### Functions
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda)  
+* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
+* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+<!--
+https://aws.amazon.com/api-gateway
+
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+https://github.com/apex/up
+http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
+http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
+https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
+https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
+https://github.com/awslabs/lambda-refarch-webapp
+https://github.com/awslabs/serverless-application-model
+https://github.com/awslabs/aws-serverless-express
+https://github.com/awslabs/serverless-photo-recognition
+
+https://github.com/serverless/site
+https://serverlesscode.com/post/zappa-wsgi-for-python/
+https://serverless.com/framework/docs/providers/aws/guide/credentials/
+https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+
+https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
+https://pypi.python.org/pypi/django-zappa
+https://github.com/ryansb/django-zappa-example
+
+http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
+https://github.com/MitocGroup/deep-microservices-todomvc
+-->
+
+Google Cloud Functions (See also Amazon Web Services- Lambda)
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+
+Firebase Functions
+* [Firebase Functions](https://firebase.google.com/features/functions)
+
+Azure Functions
+* [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+
+<!--
+https://azure.microsoft.com/en-us/services/functions/
+https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview
+-->
+
 #### AWS
 
 <!--
@@ -6455,42 +6511,6 @@ AWS- SES and SNS (Including Worldwide SMS)
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
 
-AWS- Lambda (See also Google Cloud Functions)
-* [AWS Lambda](http://aws.amazon.com/lambda)  
-* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
-* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
-
-<!--
-https://aws.amazon.com/api-gateway
-
-https://github.com/awslabs/chalice
-https://github.com/apex/apex
-http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
-https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
-https://github.com/awslabs/lambda-refarch-webapp
-https://github.com/awslabs/serverless-application-model
-https://github.com/awslabs/aws-serverless-express
-https://github.com/awslabs/serverless-photo-recognition
-
-https://github.com/serverless/site
-https://serverlesscode.com/post/zappa-wsgi-for-python/
-https://serverless.com/framework/docs/providers/aws/guide/credentials/
-https://serverlesscode.com/post/rich-jones-interview-django-zappa/
-
-https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
-https://pypi.python.org/pypi/django-zappa
-https://github.com/ryansb/django-zappa-example
-
-http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
-https://github.com/MitocGroup/deep-microservices-todomvc
--->
-
 #### Heroku
 
 <!--
@@ -6709,9 +6729,6 @@ Google Cloud, App Engine
 * [Google App Engine Code](http://code.google.com/p/googleappengine)  
 * [Google Apps for Work](https://www.google.com/a/signup)  
 -->
-
-Google Cloud Functions (See also Amazon Web Services- Lambda)
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
 
 #### Deployment and Git Integration
 
@@ -7294,16 +7311,15 @@ https://gemnasium.com
 
 Developer Playground/IDE (Similar to Fiddle)
 * [Cloud9](https://c9.io)
-* [Gomix (formerly HyperDev)](https://gomix.com/community)
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
 * [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
 <!--
-https://glitch.com
+IFTTT Maker
 https://glitch.com/websites
 https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
 https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
-
 -->
 
 Cross Platform Dev Environment
@@ -7311,9 +7327,6 @@ Cross Platform Dev Environment
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
 
 <!--
-Like Amazon Lambda
-https://firebase.google.com/features/functions
-
 https://www.firebase.com/docs/hosting/
 -->
 
@@ -8251,6 +8264,7 @@ http://www.slideshare.net/mikemaplesjr
 * [Charline Li Slideshare](http://www.slideshare.net/charleneli) 
 * [Clay Christensen](http://www.claytonchristensen.com) 
 * [Dan Olsen Presentations Page 1](http://olsensolutions.com/speaking), [Dan Olsen Presentations Page 2](http://product-jobs.com/speaking2), [Dan Olsen Presentations Page 3](http://product-jobs.com/speaking3), and [Dan Olsen Slideshare](http://www.slideshare.net/dan_o)
+* [Dan Primack](https://www.danprimack.com)
 * [Danielle Morrill](http://www.daniellemorrill.com), [Danielle Morrill Medium](https://medium.com/@DanielleMorrill) and [Danielle Morrill Slideshare](http://www.slideshare.net/DanielleMorrill)
 * [Dao Nguyen](http://www.buzzfeed.com/daozers)
 * [Dave Winer](http://scripting.com) and [Dave Winer GitHub](https://github.com/scripting)
@@ -8317,8 +8331,6 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
-https://www.danprimack.com
-
 https://www.slideshare.net/sblank/tagged/stanford
 https://www.slideshare.net/sblank/videos
 
@@ -8407,12 +8419,10 @@ Awards
 * [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
 * [Pulitzer Prizes](http://www.pulitzer.org)
 * [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
-* [Turing Award Winners](http://amturing.acm.org/byyear.cfm)
+* [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
 <!--
 http://thinkers50.com/event/thinkers50-2017-awards-gala
-
-https://en.wikipedia.org/wiki/Turing_Award
 -->
 
 #### Inventors, Economists, Philosophers
@@ -8902,11 +8912,12 @@ https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
 Federal Opportunities and Funding
 * [Federal Business Opportunities](https://www.fbo.gov)  
 * [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
-* [National Science Foundation Funding](https://www.nsf.gov/funding)
 * [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
 
+* [National Science Foundation Funding](https://www.nsf.gov/funding) and [National Science Foundation Award Search](https://www.nsf.gov/awardsearch)
+
 <!--
-https://www.nsf.gov/awardsearch
+Arvix
 -->
 
 #### Documents and Advice
@@ -9513,15 +9524,12 @@ Accounting Organizations
 * [Financial Conduct Authority Handbook](https://www.handbook.fca.org.uk)
 
 Regulatory Agencies and Rules- Business and Finance Related
+* [Federal Election Commission](https://www.fec.gov)
 * [Federal Trade Commission, Business Center](https://www.ftc.gov/tips-advice/business-center) and [FTC Business Center Guidance](http://www.ftc.gov/tips-advice/business-center/guidance)
 * [Internal Revenue Service](http://www.irs.gov)
 * [Securities and Exchange Commission](http://www.sec.gov), [Securities and Exchange Commission Investor Pubs](http://www.sec.gov/investor/pubs.shtml), and [Investor.gov](http://investor.gov)
 * [Small Business Administration](http://www.sba.gov) 
 * [Treasury](http://www.treasury.gov), [Treasury Resource Center](http://www.treasury.gov/resource-center/Pages/default.aspx), and [Treasury Data and Chart Center](http://www.treasury.gov/resource-center/data-chart-center/Pages/index.aspx)
-
-<!--
-https://www.fec.gov
--->
 
 Regulatory Agencies and Rules- General
 * [Equal Employment Opportunity Commission](http://www.eeoc.gov)  
@@ -9947,10 +9955,14 @@ https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/in
 http://www.tristanharris.com/
 https://medium.com/@tristanharris
 http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+-->
 
 Learning Transfer
-https://en.wikipedia.org/wiki/Transfer_of_learning
+* [Transfer of Learning Wikipedia](https://en.wikipedia.org/wiki/Transfer_of_learning)
+
+<!--
 https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/
+-->
 
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -10240,15 +10252,10 @@ http://nuzzel.com/newswire
 -->
 
 Off the Wall
-* [Farnam Street Blog](https://www.farnamstreetblog.com)
+* [Farnam Street Blog](https://www.farnamstreetblog.com) and [Farnam Street Courses](https://fscourses.com)
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) 
-
-<!--
-Farnam Street Courses
-https://fscourses.com
--->
 
 Eccentric
 * [Brain Pickings](https://www.brainpickings.org)
@@ -10337,10 +10344,9 @@ Labs, Kitchens, Garages
 * [Bell Labs Wikipedia](https://www.bell-labs.com) and [Bell Labs Wikipedia](http://en.wikipedia.org/wiki/Bell_Labs)
 * [HP Garage](http://www8.hp.com/us/en/hp-information/about-hp/history/hp-garage/hp-garage.html)
 * [PARC (Palo Alto Research Center Incorporated), formerly Xerox PARC Wikipedia](https://en.wikipedia.org/wiki/PARC_(company))
+* [MIT Lincoln Laboratory](http://www.ll.mit.edu) and [MIT Lincoln Laboratory Wikipedia](https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory)
 
 <!--
-http://www.ll.mit.edu
-https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory
 https://en.wikipedia.org/wiki/Information_Processing_Techniques_Office
 
 https://www.google.com/search?q=first+prototype+of+a+computer+mouse&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgutW008jSAhWo5IMKHSdnDpUQ_AUICCgB&biw=1366&bih=585
@@ -10801,8 +10807,7 @@ Task Automation
 * [Microsoft Flow](https://flow.microsoft.com)
 
 <!--
-https://ifttt.com/blog/2017/05/calling-all-makers
-https://platform.ifttt.com/maker
+* [IFTTT Maker](https://platform.ifttt.com/maker)
 -->
 
 Kits
@@ -10811,10 +10816,10 @@ Kits
 Swag
 * [Teespring](http://teespring.com)
 * [Sticker Mule](https://www.stickermule.com)
+* [NailSnaps](https://nailsnaps.com)
 
 <!--
 Sock swag
-https://nailsnaps.com
 -->
 
 Business Cards and More
