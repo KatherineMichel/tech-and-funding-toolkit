@@ -640,6 +640,10 @@ GitHub StyleGuides
 Google Style Guides
 * [Google Style Guides](https://google.github.io/styleguide)
 
+<!--
+https://github.com/google/styleguide
+-->
+
 Mozilla Coding Style Guide
 * [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 
