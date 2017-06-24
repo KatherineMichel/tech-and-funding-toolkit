@@ -274,17 +274,21 @@ Courses (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
-https://www.codeschool.com/projects
-http://ready.codecademy.com/build-websites-from-scratch/
-http://ready.codecademy.com/programs/coding-for-business-analysts/
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
 https://www.codecademy.com/learn/python
 https://www.codecademy.com/learn/learn-sass
+http://ready.codecademy.com/build-websites-from-scratch/
+http://ready.codecademy.com/programs/coding-for-business-analysts/
 
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
 
+http://treehouse.github.io/installation-guides
 http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
 http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
+
+https://www.codeschool.com/projects
 -->
 
 Design and Dev Publications
@@ -346,39 +350,6 @@ https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
 https://www.pluralsight.com/blog/news/authoring-for-pluralsight
 
 http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
-
-https://en.wikipedia.org/wiki/Comparison_of_screencasting_software
-
-https://www.nvidia.com/en-us/geforce/geforce-experience/
-
-https://screenhero.com
-https://screenhero.com/features.html
-
-https://www.youtube.com/my_live_events
-https://support.google.com/youtube/answer/2853700
-https://support.google.com/youtube/answer/7083786?hl=en
-
-https://obsproject.com
-https://obsproject.com/forum/threads/guide-how-to-stream-to-youtube.4333/
-screencast cursor highlighting
-
-Mac: ScreenFlow
-https://www.telestream.net/screenflow/overview.htm
-https://www.telestream.net/screenflow/resources.htm
-https://www.telestream.net/pdfs/user-guides/ScreenFlow-6-Tutorial.pdf
-
-http://www.telestream.net/wirecastplay/landing.htm
-
-Camtasia
-
-YouTube Livestreaming Info
-https://support.google.com/youtube/answer/2853700
-https://support.google.com/youtube/answer/2474026?hl=en
-https://support.google.com/youtube/answer/2907883
-https://support.google.com/youtube/answer/2524549
-
-New
-https://www.youtube.com/live_dashboard_splash
 -->
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
@@ -445,11 +416,6 @@ Mobile
 http://www.appinventor.org
 
 https://github.com/FreeCodeCamp/hour-of-code
-
-http://treehouse.github.io/installation-guides
-
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
 
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 
@@ -10602,6 +10568,41 @@ http://goodsalesemails.com/
 
 [Really Good Email](http://reallygoodemails.com)  
 [Voice and Tone](http://voiceandtone.com) 
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Comparison_of_screencasting_software
+
+https://www.nvidia.com/en-us/geforce/geforce-experience/
+
+https://screenhero.com
+https://screenhero.com/features.html
+
+https://www.youtube.com/my_live_events
+https://support.google.com/youtube/answer/2853700
+https://support.google.com/youtube/answer/7083786?hl=en
+
+https://obsproject.com
+https://obsproject.com/forum/threads/guide-how-to-stream-to-youtube.4333/
+screencast cursor highlighting
+
+Mac: ScreenFlow
+https://www.telestream.net/screenflow/overview.htm
+https://www.telestream.net/screenflow/resources.htm
+https://www.telestream.net/pdfs/user-guides/ScreenFlow-6-Tutorial.pdf
+
+http://www.telestream.net/wirecastplay/landing.htm
+
+Camtasia
+
+YouTube Livestreaming Info
+https://support.google.com/youtube/answer/2853700
+https://support.google.com/youtube/answer/2474026?hl=en
+https://support.google.com/youtube/answer/2907883
+https://support.google.com/youtube/answer/2524549
+
+New
+https://www.youtube.com/live_dashboard_splash
 -->
 
 Voice
