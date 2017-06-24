@@ -554,10 +554,6 @@ KDE (See also KHTML)
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
-Experts
-* [Google Developer Experts](https://developers.google.com/experts)
-* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
-
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
@@ -604,15 +600,6 @@ Company Design
 * [Twitter Design](https://twitter.com/design)  
 * [Uber Design](https://www.uber.com/design) 
 
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
 Corporate Design Systems
 
 HubSpot
@@ -622,8 +609,6 @@ HubSpot
 https://github.com/buzzfeed/design
 https://developer.apple.com/design/
 https://developer.apple.com/design/awards/
-
-https://github.com/alexpate/awesome-design-systems
 
 https://console.ng.bluemix.net
 -->
@@ -5805,13 +5790,24 @@ Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
 
 #### Events
 
-<!--
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
 AWS- Events
 * [AWS Live Events](https://live.awsevents.com)
 * [AWS Global Summits](https://aws.amazon.com/summits)
 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
--->
 
 #### Dashboards
 
