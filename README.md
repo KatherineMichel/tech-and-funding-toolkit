@@ -12,6 +12,23 @@ Update: This list has become larger than ever intended and is nearing a point of
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
+
+* [Data Science](#data-science)
+
+* [Other Enormous Tool Lists](#other-enormous-tool-lists)
+
+* [Brainstorming](#brainstorming)
+* [Surveys, Trends, Stats](#surveys-trends-stats)
+* [Site and App Research](#site-and-app-research)
+
+* [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
+* [Lean Startup and Launchpad](#lean-startup-and-launchpad)
+
+* [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
+* [Metrics](#metrics)
+
+* [Venture Analysis](#venture-analysis)
+* [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
 -->
 
 Table of Content
@@ -140,10 +157,6 @@ Table of Content
 
 * [Video Gaming and Virtal Reality](#video-gaming-and-virtual-reality)
 
-<!--
-* [Data Science](#data-science)
--->
-
 * [Appendix](#appendix)
 
 * [Company and Product Databases](#company-and-product-databases)
@@ -157,35 +170,6 @@ Table of Content
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
-
-<!--
-#### Markets and Institutional Investing 
-#### Venture Frameworks and Theses
-#### VC Theory
-#### VC Firms, Accelerators, Resources
-#### Documents and Advice
-#### Economics, Models
-#### Warren Buffet, Charlie Munger, Alphabet
-#### Chance
-#### Finance Extra
-#### Regulation, Business Entity
-#### Government Digital
-#### Government and International Data
-#### Software and Mobile are Eating the World, Software is Reorganizing the World
-#### Philosophies, Milestones
-#### Notable Interviews and Presentations
-#### Notable Quotes
-#### Events, Talks, People
-#### Books and Courses
-#### Business and Tech News Sources
-#### Analyst Groups
-#### Labs, Kitchens, Garages
-#### Open Companies
-#### Launch Strategies
-#### Growth, Marketing, and Content Resources
-#### Internationalization
-#### Popular Tools
--->
 
 * [Venture](#venture)
   * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
@@ -222,32 +206,12 @@ Table of Content
 * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 * [Internationalization](#internationalization)
 
-
 * [Popular Tools](#popular-tools)
-
-<!--
-* [Other Enormous Tool Lists](#other-enormous-tool-lists)
--->
 
 * [Learning Resources](#learning-resources)
 
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
-
-<!--
-* [Brainstorming](#brainstorming)
-* [Surveys, Trends, Stats](#surveys-trends-stats)
-* [Site and App Research](#site-and-app-research)
-
-* [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
-* [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-
-* [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-* [Metrics](#metrics)
-
-* [Venture Analysis](#venture-analysis)
-* [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
--->
 
 #### Programming Learning Tools
 
@@ -8459,6 +8423,8 @@ https://twitter.com/patrick_oshag
 https://twitter.com/awealthofcs
 https://twitter.com/jasonzweigwsj
 -->
+
+#### Venture
 
 #### Venture Frameworks and Theses
 
