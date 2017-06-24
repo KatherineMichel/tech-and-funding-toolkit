@@ -1594,6 +1594,10 @@ https://classroom.github.com/#getting-started-video
 https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models/
 
 New
+https://services.github.com/training
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
+
 https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
