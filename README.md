@@ -9,14 +9,6 @@ A :star::star::star::star::star: curated list of high quality resources (mostly 
 Update: This list has become larger than ever intended and is nearing a point of being too large to be rendered by GitHub. Parts of it are being spun out into smaller lists. 
 
 <!--
-JavaScript Stack
-https://github.com/KatherineMichel/tech-and-funding-toolkit
-https://github.com/KatherineMichel/favorite-learning-resources
-https://github.com/KatherineMichel/front-end-development-process
-https://github.com/KatherineMichel/back-end-development-tools
-https://github.com/KatherineMichel/project-management
-https://github.com/KatherineMichel/analysis-tools
-
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
@@ -225,16 +217,8 @@ Table of Content
 
 #### Programming Learning Tools
 
-<!--
-42 – Être admissible
-http://www.42.fr/etre-admissible
-
-https://www.codewars.com
-http://codekata.com
-
-https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.rrixtpvsc
-https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code
--->
+What is Code?
+* [Paul Ford: What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
 
 Creativity and Tools
 * ["Creativity: It’s not about the tools"](http://www.creativethinkinghub.com/tools)
@@ -251,6 +235,7 @@ Programming Groups
 * [PHP Women](https://phpwomen.org)
 
 <!--
+Joni Trythall
 http://elaconf.com
 https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
 http://ela.community
@@ -263,6 +248,7 @@ https://jefftriplett.com/colophon
 https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 
+limedaring
 https://speakerdeck.com/limedaring/pyladies-remote
 https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
 https://hellowebapp.com/tutorial/intro/
@@ -317,13 +303,9 @@ https://webdesign.tutsplus.com
 -->
 
 Forums
-
-<!--
-https://github.com/pluralsight-projects
-
-https://discuss.codecademy.com/top/all
-https://teamtreehouse.com/community
--->
+* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
+* [Free Code Camp Forum](http://forum.freecodecamp.com)
+* [Treehouse Community](https://teamtreehouse.com/community)
 
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
@@ -350,9 +332,11 @@ Fave Pluralsight Authors
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
 
 <!--
-New
+https://github.com/pluralsight-projects
 https://github.com/pluralsight-projects/HelloPluralsightProject
+-->
 
+<!--
 https://twitter.com/housecor/status/858870694326800385
 
 * [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
@@ -362,8 +346,6 @@ https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
 https://www.pluralsight.com/blog/news/authoring-for-pluralsight
 
 http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
-https://en.wikipedia.org/wiki/Made_to_Stick
-https://en.wikipedia.org/wiki/Story_arc
 
 https://en.wikipedia.org/wiki/Comparison_of_screencasting_software
 
@@ -414,13 +396,9 @@ https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
 -->
 
-The Practical Dev
-* [The Practical Dev](https://dev.to) and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-
-<!--
-https://github.com/thepracticaldev
-https://hackernoon.com
--->
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
 
 Competitions
 * [Code Jam](https://code.google.com/codejam)
@@ -474,7 +452,6 @@ https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
 
 https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
-http://forum.freecodecamp.com
 
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
@@ -489,9 +466,15 @@ http://www.gnu.org/doc/other-free-books.html
 
 https://github.com/MakeSchool
 http://www.theodinproject.com
--->
 
-<!--
+42 – Être admissible
+http://www.42.fr/etre-admissible
+
+https://www.codewars.com
+http://codekata.com
+
+https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.rrixtpvsc
+
 https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 -->
@@ -605,14 +588,6 @@ Corporate Design Systems
 HubSpot
 * [HubSpot GitHub](https://github.com/HubSpot)
 
-<!--
-https://github.com/buzzfeed/design
-https://developer.apple.com/design/
-https://developer.apple.com/design/awards/
-
-https://console.ng.bluemix.net
--->
-
 #### Programming Language Style Guides
 
 <!--
@@ -620,6 +595,12 @@ New
 https://github.com/bradfrost/style-guide-guide
 https://github.com/alexpate/awesome-design-systems
 https://github.com/kciter/awesome-style-guide
+
+https://github.com/buzzfeed/design
+https://developer.apple.com/design/
+https://developer.apple.com/design/awards/
+
+https://console.ng.bluemix.net
 -->
 
 GitHub StyleGuides
@@ -1112,14 +1093,10 @@ Nano and Pico
 
 Windows- PowerShell
 * [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
-* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx)  
+* [PowerShell](http://technet.microsoft.com/en-us/scriptcenter/powershell.aspx) and [PowerShell GitHub](https://github.com/PowerShell/PowerShell)
 * [Windows PowerShell Wikipedia](http://en.wikipedia.org/wiki/Windows_PowerShell)
 * [Windows PowerShell Owner's Manual](https://technet.microsoft.com/en-us/library/ee221100.aspx)
 * [Learn X in Y Minutes PowerShell](https://learnxinyminutes.com/docs/powershell)
-
-<!--
-https://github.com/PowerShell/PowerShell
--->
 
 Emacs and Vim (Text Editors)
 * [Emacs](https://www.gnu.org/software/emacs) and [Emacs GitHub](https://github.com/emacs-mirror/emacs)  
@@ -1362,6 +1339,8 @@ https://github.com/webpro/awesome-dotfiles
 
 https://github.com/jefftriplett/dotfiles/blob/master/roles/python/tasks/install_pyenv.yml#L58
 
+https://github.com/ginatrapani/dotfiles
+
 https://github.com/epicserve/dotfiles
 https://github.com/geerlingguy/mac-dev-playbook
 https://github.com/JohnColvin/.maid/blob/master/rules.rb
@@ -1443,6 +1422,24 @@ https://robots.thoughtbot.com/tags/git
 https://github.com/hypenotic/hypelabs
 -->
 
+Collaborative Development Models
+
+<!--
+https://en.wikipedia.org/wiki/Fork_and_pull_model
+https://en.wikipedia.org/wiki/Collaborative_software_development_model
+
+https://en.wikipedia.org/wiki/Open-source_model
+https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
+https://en.wikipedia.org/wiki/Capability_Maturity_Model
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://martinfowler.com/bliki/MaturityModel.html
+
+https://github.com/github/open-source-guide
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://github.com/github/open-source-survey
+https://github.com/github/maturity-model
+-->
+
 A Successful Git Branching Model
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
@@ -1472,22 +1469,6 @@ https://www.gerritcodereview.com/
 https://github.com/Originate/git-town
 
 
-
-https://en.wikipedia.org/wiki/Fork_and_pull_model
-https://en.wikipedia.org/wiki/Collaborative_software_development_model
-
-https://en.wikipedia.org/wiki/Open-source_model
-https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
-https://en.wikipedia.org/wiki/Capability_Maturity_Model
-https://en.wikipedia.org/wiki/Free_and_open-source_software
-https://martinfowler.com/bliki/MaturityModel.html
-
-https://github.com/github/open-source-guide
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/github/open-source-survey
-https://github.com/github/maturity-model
-
-
 https://gist.github.com/seshness/3943237
 
 https://contribute.jquery.org/commits-and-pull-requests
@@ -1501,9 +1482,6 @@ https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
 https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
 https://github.com/v8/v8/wiki/Triaging-issues
 http://docs.hood.ie/en/latest/developers/TRIAGING.html
-
-https://zachholman.com/talk/git-github-secrets
-https://github.com/git-tips/tips
 
 https://gist.github.com/PurpleBooth/b24679402957c63ec426
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
@@ -1545,16 +1523,6 @@ https://github.com/marketplace/category/code-review
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 https://help.github.com/articles/backing-up-a-repository
 
-https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
-https://github.com/updates
-https://github.com/marketplace
-
--->
-
-#### Git and Markdown
-
-<!--
-New
 https://www.git-tower.com/blog/git-cheat-sheet/
 
 https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
@@ -1574,10 +1542,19 @@ http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
 
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
+-->
 
-GitHub Standards
-https://standards.github.io
+#### Git and Markdown
 
+<!--
+https://github.com/settings/connections/applications/64a051cf1598b9f0658f
+https://github.com/organizations/code-collaboration-and-review/invite
+https://github.com/settings/applications/511051
+
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
 
 https://education.github.com/git-cheat-sheet-education.pdf
 https://education.github.com/
@@ -1593,43 +1570,6 @@ https://classroom.github.com/#getting-started-video
 
 https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models/
 
-New
-https://services.github.com/training
-https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
-
-https://github.com/settings/connections/applications/64a051cf1598b9f0658f
-https://github.com/organizations/code-collaboration-and-review/invite
-https://github.com/settings/applications/511051
-
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-
-https://github.com/desktop/desktop
-https://github.atom.io
-https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
-http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html
-
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
-https://github.com/settings/keys
-https://gist.github.com/adamjohnson/5682757
-
-
-https://github.com/contact
-
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-
-https://git-for-windows.github.io
-
-https://github.com/business/customers
-https://github.com/github-tools
-https://github.com/showcases/projects-with-great-wikis
-
-https://help.github.com/enterprise
-
-https://pages.github.com
-
 https://github.com/github/training-kit
 https://github.com/github/training-utils
 https://github.com/github-archive
@@ -1643,12 +1583,28 @@ http://jlord.us/patchwork
 https://github.com/jlord/reporobot
 https://github.com/jlord/patchwork/tree/gh-pages/contributors
 
+https://services.github.com/training
 https://services.github.com/resources/
 https://services.github.com/resources/tools/
 https://services.github.com/resources/tutorials/
 https://services.github.com/classnotes/
 https://services.github.com/on-demand
-https://services.github.com/on-demand/downloads/subversion-migration/
+https://services.github.com/on-demand/downloads/subversion-migration
+
+
+
+New
+https://zachholman.com/talk/git-github-secrets
+https://github.com/git-tips/tips
+
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+https://github.com/settings/keys
+https://gist.github.com/adamjohnson/5682757
+
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+
+https://git-for-windows.github.io
 -->
 
 Concurrent Version System
@@ -1743,6 +1699,32 @@ GitHub Organizations Dashboard
 
 GitHub Organizations
 * [About Organizations](https://help.github.com/articles/about-organizations)
+
+<!--
+New
+https://github.com/updates
+
+https://github.com/marketplace
+https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
+
+GitHub Standards
+https://standards.github.io
+
+https://github.com/contact
+
+https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
+https://github.com/desktop/desktop
+https://github.atom.io
+http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html
+
+https://help.github.com/enterprise
+https://github.com/business/customers
+
+https://github.com/github-tools
+https://github.com/showcases/projects-with-great-wikis
+
+https://pages.github.com
+-->
 
 Gist
 * [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
@@ -9947,6 +9929,9 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
+https://en.wikipedia.org/wiki/Made_to_Stick
+https://en.wikipedia.org/wiki/Story_arc
+
 https://www.amazon.com/Power-Moments-Certain-Extraordinary-Impact/dp/1501147765/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=sprint05-20&linkId=dd982c05770c271c83fce155e1e1d547
  
 https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital/dp/0393254291/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=
