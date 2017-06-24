@@ -281,8 +281,17 @@ https://www.codecademy.com/learn/learn-sass
 http://ready.codecademy.com/build-websites-from-scratch/
 http://ready.codecademy.com/programs/coding-for-business-analysts/
 
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/computing/computer-programming/sql
+https://www.khanacademy.org/computing/computer-programming
+https://www.khanacademy.org/computing/computer-science
+
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 
 http://treehouse.github.io/installation-guides
 http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
@@ -337,7 +346,6 @@ Fave Pluralsight Authors
 
 <!--
 https://github.com/pluralsight-projects
-https://github.com/pluralsight-projects/HelloPluralsightProject
 -->
 
 <!--
@@ -413,18 +421,19 @@ Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
 <!--
+Software Design Patterns
+Coding Conventions
+Object Oriented Programming
+Programming language comparisons
+Programming style
+
 http://www.appinventor.org
 
 https://github.com/FreeCodeCamp/hour-of-code
 
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
-
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/computing/computer-programming/sql
-https://www.khanacademy.org/computing/computer-programming
-https://www.khanacademy.org/computing/computer-science
+https://github.com/pluralsight-projects/HelloPluralsightProject
 
 https://egghead.io/tags/free
 
@@ -440,17 +449,6 @@ https://www.codewars.com
 http://codekata.com
 
 https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.rrixtpvsc
-
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
--->
-
-<!--
-Software Design Patterns
-Coding Conventions
-Object Oriented Programming
-Programming language comparisons
-Programming style
 -->
 
 #### Programming Documentation and Standards
@@ -516,9 +514,11 @@ Individual Engineering Blogs
 StackShare
 * [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
 
+* [SiteStacks](https://sitestacks.com)
+
 <!--
+See Built With
 https://stackshare.io/news
-https://sitestacks.com
 -->
 
 Developer Surveys
@@ -1389,11 +1389,10 @@ https://github.com/hypenotic/hypelabs
 -->
 
 Collaborative Development Models
+* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
+* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
 
 <!--
-https://en.wikipedia.org/wiki/Fork_and_pull_model
-https://en.wikipedia.org/wiki/Collaborative_software_development_model
-
 https://en.wikipedia.org/wiki/Open-source_model
 https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
 https://en.wikipedia.org/wiki/Capability_Maturity_Model
@@ -1414,6 +1413,10 @@ A Successful Git Branching Model
 <!--
 http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
 
+Single version in production simple software - use Github-flow
+Single Version in production but very complex software - use Gitlab-flow
+Multiple versions in production - use Git-flow
+
 GitHub Flow
 https://guides.github.com/introduction/flow
 https://help.github.com/articles/github-flow-in-the-browser/
@@ -1426,16 +1429,14 @@ GitLab Flow
 https://docs.gitlab.com/ee/workflow/gitlab_flow.html
 https://about.gitlab.com/2014/09/29/gitlab-flow/
 
+
 Atlassian- Comparing Workflows
 https://www.atlassian.com/git/tutorials/comparing-workflows
 https://www.atlassian.com/blog/archives/simple-git-workflow-simple
 
-https://www.gerritcodereview.com/
+https://www.gerritcodereview.com
 
 https://github.com/Originate/git-town
-
-
-https://gist.github.com/seshness/3943237
 
 https://contribute.jquery.org/commits-and-pull-requests
 https://www.visualstudio.com/en-us/docs/git/pull-requests
@@ -1453,8 +1454,6 @@ https://gist.github.com/PurpleBooth/b24679402957c63ec426
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 https://gist.github.com/PurpleBooth
 https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
-
-https://github.com/blog/2360-git-2-13-has-been-released
 -->
 
 Code Review (See also Project Management)
@@ -1490,6 +1489,8 @@ https://www.atlassian.com/git/tutorials/setting-up-a-repository
 https://help.github.com/articles/backing-up-a-repository
 
 https://www.git-tower.com/blog/git-cheat-sheet/
+
+https://gist.github.com/seshness/3943237
 
 https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
