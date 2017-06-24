@@ -21,6 +21,9 @@ Table of Content
 * [Programming Documentation and Standards](#programming-documentation-and-standards) 
 
 * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
+
+* [Built With and Search](#built-with-and-search)
+
 * [Programming Language Style Guides](#programming-language-style-guides) 
 
 * [Basics](#basics)
@@ -51,21 +54,22 @@ Table of Content
 
 * [Testing and Performance](#testing-and-performance)
 
-* [Social Media and Social Graph](#social-media-and-social-graph) 
+<!--
+#### Dashboard
+-->
 
+* [Social Media and Webmaster](#social-media-and-webmaster) 
+
+* [Social Media](#social-media)
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
 * [Themes and Static Site Generators](#themes-and-static-site-generators)
 
-* [Built With and Search](#built-with-and-search)
+* [Facebook and Google Design and Development Approaches](#facebook-and-google-design-and-development-approaches)
 
 * [Front-End Development](#front-end-development) 
 
-* [Standards](#standards)
-
-
-* [Facebook and Google Design and Development Approach](#facebook-and-google-design-and-development-approaches)
-
+* [CSS Helpers](#css-helpers)
 
 * [JavaScript](#javascript)
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
@@ -86,6 +90,7 @@ Table of Content
   * [Django General](#django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Support Groups](#python-and-django-support-groups)
+  
   * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
@@ -103,9 +108,20 @@ Table of Content
   * [Python and Django Girls](#python-and-django-girls)
 -->
 
+<!--
+#### Security
+#### Deployment and Cloud
+#### Functions
+#### AWS
+#### Heroku
+#### Digital Ocean
+-->
+
 * [Web Host Newsletters](#web-host-newsletters)
 * [Events](#events)
 * [Dashboards](#dashboards)
+
+
 * [Domains, DNS, SSL](#domains-dns-ssl)
 * [Deployment and Cloud](#deployment-and-cloud)
 * [Security](#security)
@@ -274,6 +290,8 @@ Courses (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
+https://github.com/pluralsight-projects
+
 https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
 https://www.codecademy.com/learn/python
@@ -343,10 +361,6 @@ Fave Pluralsight Authors
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 * [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-
-<!--
-https://github.com/pluralsight-projects
--->
 
 <!--
 https://twitter.com/housecor/status/858870694326800385
@@ -553,6 +567,51 @@ Corporate Design Systems
 
 HubSpot
 * [HubSpot GitHub](https://github.com/HubSpot)
+
+
+
+#### Built With and Search
+
+Built With (Exluding Django; See also Squarespace)
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
+* [Built With](http://builtwith.com)  
+* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+* [Built with Bootstrap](http://expo.getbootstrap.com)  
+* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+<!--
+http://www.builtwithshopify.com
+http://webbyawards.com
+-->
+
+Code Search
+* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
+* [Nerdy Data](http://nerdydata.com)  
+
+Wayback Machine
+* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+
+<!--
+http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
+-->
+
+Archive Team
+* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
+
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
+
+
 
 #### Programming Language Style Guides
 
@@ -2467,6 +2526,9 @@ Sharing Buttons
 * [AddToAny](https://www.addtoany.com) 
 * [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
+
+
+
 #### Social Media
 
 <!--
@@ -2803,47 +2865,6 @@ https://websitedownloader.io
 https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
-
-#### Built With and Search
-
-Built With (Exluding Django; See also Squarespace)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-* [Built With](http://builtwith.com)  
-* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
-* [Built with Bootstrap](http://expo.getbootstrap.com)  
-* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-<!--
-http://www.builtwithshopify.com
-http://webbyawards.com
--->
-
-Code Search
-* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
-* [Nerdy Data](http://nerdydata.com)  
-
-Wayback Machine
-* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
-
-<!--
-http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
--->
-
-Archive Team
-* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
-
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
 
 #### Facebook and Google Design and Development Approaches
 
@@ -6503,6 +6524,10 @@ https://github.com/heroku/heroku-apps
 Heroku’s support for running multiple buildpacks against a single application now has first-class support in the Heroku Toolbelt.
 https://devcenter.heroku.com/changelog-items/653
 -->
+
+
+
+
 
 #### Digital Ocean
 
