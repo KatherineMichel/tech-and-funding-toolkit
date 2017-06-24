@@ -90,7 +90,6 @@ Table of Content
   * [Django General](#django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Support Groups](#python-and-django-support-groups)
-  
   * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
@@ -108,38 +107,29 @@ Table of Content
   * [Python and Django Girls](#python-and-django-girls)
 -->
 
-<!--
-#### Security
-#### Deployment and Cloud
-#### Functions
-#### AWS
-#### Heroku
-#### Digital Ocean
--->
-
 * [Web Host Newsletters](#web-host-newsletters)
 * [Events](#events)
 * [Dashboards](#dashboards)
-
-
 * [Domains, DNS, SSL](#domains-dns-ssl)
-* [Deployment and Cloud](#deployment-and-cloud)
 * [Security](#security)
+* [Deployment and Cloud](#deployment-and-cloud)
+* [Functions](#functions)
 * [AWS](#aws)
 * [Heroku](#heroku)
 * [Digital Ocean](#digital-ocean)
 * [Google Cloud](#google-cloud)
-
 * [Deployment and Git Integration](#deployment-and-git-integration)
-
-* [Functions](#functions)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
 * [Servers, Databases, Architectures](#servers-databases-architectures)
 * [Servers and Databases](#servers-and-databases)
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Dev Ops Tools](#dev-ops-tools)
-
 * [More Back-End](#more-back-end)
+
+<!--
+#### New
+-->
+
 * [Common MEAN Back-end Tools](#common-mean-back-end-tools)
 
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
@@ -156,7 +146,6 @@ Table of Content
 
 * [Appendix](#appendix)
 
-
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
 
@@ -168,6 +157,35 @@ Table of Content
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
+
+<!--
+#### Markets and Institutional Investing 
+#### Venture Frameworks and Theses
+#### VC Theory
+#### VC Firms, Accelerators, Resources
+#### Documents and Advice
+#### Economics, Models
+#### Warren Buffet, Charlie Munger, Alphabet
+#### Chance
+#### Finance Extra
+#### Regulation, Business Entity
+#### Government Digital
+#### Government and International Data
+#### Software and Mobile are Eating the World, Software is Reorganizing the World
+#### Philosophies, Milestones
+#### Notable Interviews and Presentations
+#### Notable Quotes
+#### Events, Talks, People
+#### Books and Courses
+#### Business and Tech News Sources
+#### Analyst Groups
+#### Labs, Kitchens, Garages
+#### Open Companies
+#### Launch Strategies
+#### Growth, Marketing, and Content Resources
+#### Internationalization
+#### Popular Tools
+-->
 
 * [Venture](#venture)
   * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
@@ -5782,7 +5800,6 @@ AWS- Events
 * [AWS Live Events](https://live.awsevents.com)
 * [AWS Global Summits](https://aws.amazon.com/summits)
 
-
 #### Dashboards
 
 <!--
@@ -7617,7 +7634,6 @@ http://javascriptair.com
 Example Help Tweets
 * [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
 
-
 #### Mobile
 
 See also: React-Native and Ionic
@@ -7997,6 +8013,8 @@ http://www.biglever.com/solution/product.html
 https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 -->
 
+
+
 #### Appendix
 
 #### Company and Product Databases
@@ -8113,7 +8131,6 @@ Industry and Product Classifications
 
 Associations
 * [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
 
 #### People
 
@@ -8292,8 +8309,6 @@ https://plus.google.com/collection/EZT2b
 https://plus.google.com/collection/gbVpb
 -->
 
-
-
 #### High Profile Developers
 
 * [Amy Jo Kim Slideshare](http://www.slideshare.net/amyjokim) and [Amy Jo Kim Shufflebrain](http://shufflebrain.skilljar.com)
@@ -8347,8 +8362,6 @@ https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 https://m.signalvnoise.com
 https://m.signalvnoise.com/@jasonfried
 -->
-
-
 
 #### Schools of Thought
 
@@ -9013,8 +9026,6 @@ https://www.harrisonmetal.com
 https://www.rocketlawyer.com/document/web-hosting-agreement.rl
 -->
 
-
-
 #### Economics, Models
 
 Finance
@@ -9669,8 +9680,6 @@ International Info
 * [Currencies by Country (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Currencies_by_country) 
 * [List of Time Zones by Country Wikipedia](https://en.wikipedia.org/wiki/List_of_time_zones_by_country)
 
-
-
 #### Software and Mobile are Eating the World, Software is Reorganizing the World
 
 * [Marc Andreessen: Why Software is Eating the World](http://online.wsj.com/article/SB10001424053111903480904576512250915629460.html) 
@@ -10275,8 +10284,6 @@ Investment Firms
 <!--
 http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 -->
-
-
 
 #### Labs, Kitchens, Garages
 
