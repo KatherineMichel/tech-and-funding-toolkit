@@ -213,6 +213,110 @@ Table of Content
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
 
+<!--
+#### Other Enormous Tool Lists
+
+http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
+http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
+https://www.producthunt.com/tech/freelancer-stack
+https://www.hellobonsai.com/best-freelance-tools
+https://www.producthunt.com/tech/makerbook-2
+
+* [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
+* [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
+* [Content Marketing Stack](http://www.contentmarketingstack.co)
+* [Growth Tools](http://growthtools.io)
+* [growth.supply](http://growth.supply/free)
+* [Makerbook](http://makerbook.net)
+* [Marketing Stack](http://marketingstack.io)
+* [SalesList](https://saleslist.co)
+* [Stacklist](http://stacklist.com)
+* [Startup Resources](http://startupresources.io)
+* [Startup Stash](http://startupstash.com)
+
+https://productmap.co
+http://www.communitybuildingguide.com
+https://startuplaunchlist.com
+https://entrepreneur-tools.zeef.com/keyhanimo
+https://balapastudio.co/frontendlist
+http://designforstartup.net
+
+Dev-Ops Wiki and Free for Dev
+* [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
+* [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
+* [Awesome DevEnv GitHub](https://github.com/jondot/awesome-devenv)
+* [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
+* [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
+* [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
+* [Awesome Vim](http://vimawesome.com)
+
+Awesome Non-Code
+* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
+* [Guides GitHub](https://github.com/NARKOZ/guides)
+* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
+* [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
+* [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
+
+https://github.com/AntBranch/awesome-github
+https://github.com/noffle/art-of-readme
+
+https://github.com/gztchan/awesome-design
+https://github.com/zazaalaza/awesome-ideation-tools
+
+https://github.com/jonathandion/awesome-emails
+https://github.com/Jolg42/awesome-typography
+https://github.com/neutraltone/awesome-stock-resources
+
+https://github.com/donnemartin/awesome-aws#python-sdk
+
+https://branch.io/resources/app-launch-checklist/#
+https://github.com/Hack-with-Github/Awesome-Hacking
+https://github.com/kdeldycke/awesome-falsehood
+https://github.com/KishanBagaria/awesome-standards
+https://github.com/detailyang/awesome-cheatsheet
+https://github.com/Kickball/awesome-selfhosted
+
+README and Head
+* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
+* [HEAD GitHub](https://github.com/joshbuchea/HEAD)
+
+Naughty Strings and Words
+* [Big List of Naughty Strings GitHub](https://github.com/minimaxir/big-list-of-naughty-strings)
+* [List of Dirty, Naughty, Obscene, and Otherwise Bad Words GitHub](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
+
+Awesome Git
+* [Git Tips GitHub](https://github.com/git-tips/tips)
+* [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
+* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
+* [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
+* [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
+
+Awesome Apple
+* [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
+* [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
+
+Awesome Python and Django
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+
+* [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
+* [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
+* [Awesome React GitHub](https://github.com/enaqx/awesome-react)
+* [Awesome Redux GitHub](https://github.com/xgrommx/awesome-redux)
+  
+Awesome- More
+* [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php)  
+* [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
+* [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
+
+Book Lists
+* [Bookicious](http://www.bookicious.com/collections)
+* [Bookstck](http://bookstck.tumblr.com)
+-->
+
 #### Programming Learning Tools
 
 What is Code?
@@ -273,7 +377,6 @@ Courses (See also MOOCs)
 
 <!--
 Preethi Kasireddy
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
 
 https://github.com/pluralsight-projects
 
@@ -510,16 +613,6 @@ Individual Engineering Blogs
 * [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
 * [Uber Developers](https://medium.com/uber-developers)  
  
-StackShare
-* [StackShare Stacks](http://stackshare.io/stacks) and [StackShare Trending](http://stackshare.io/trending/tools) 
-
-* [SiteStacks](https://sitestacks.com)
-
-<!--
-See Built With
-https://stackshare.io/news
--->
-
 Developer Surveys
 * [Stack Overflow Survey: What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends)
 * [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
@@ -553,13 +646,15 @@ Corporate Design Systems
 HubSpot
 * [HubSpot GitHub](https://github.com/HubSpot)
 
-
-
 #### Built With and Search
 
+StackShare
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), and [StackShare News](https://stackshare.io/news) 
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
 Built With (Exluding Django; See also Squarespace)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
-* [Built With](http://builtwith.com)  
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)  
 * [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
 * [Built with Bootstrap](http://expo.getbootstrap.com)  
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
@@ -831,11 +926,6 @@ Binary
 * [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
 * [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
 * [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
 
 Internet Service Provider
 * [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
