@@ -1452,6 +1452,13 @@ A Successful Git Branching Model
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
 <!--
+New
+https://blog.golang.org/developer-experience
+https://www.ampproject.org/roadmap/
+https://www.debian.org/social_contract
+http://hood.ie/contribute/
+
+
 http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
 
 Single version in production simple software - use Github-flow
@@ -6070,7 +6077,17 @@ SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
 
-
+<!--
+New
+https://www.mongodb.com/cloud/stitch
+https://www.digitalocean.com/products/storage/object-storage
+https://www.openshift.io/
+https://firebase.google.com/features/functions/
+https://devcenter.heroku.com/articles/heroku-ci
+https://opensource.googleblog.com/2017/05/open-sourcing-firebase-sdks.html
+https://analytics.googleblog.com/2017/05/firebase-analytics-gets-new-features.html
+https://mobyproject.org/#moby-and-docker
+-->
 
 #### Functions
 
@@ -10375,6 +10392,26 @@ Digital Stats
 
 #### Popular Tools
 
+<!--
+Google Assistant: Google Allo
+https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&hl=en
+https://itunes.apple.com/us/app/the-google-assistant-get-help-anytime-anywhere/id1220976145?mt=8
+https://blog.google/products/assistant/your-assistant-getting-better-on-google-home-and-your-phone/?ref=producthunt
+
+https://atap.google.com/soli
+https://fi.google.com/about
+
+https://medium.com/topic/audio
+https://blog.medium.com/press-play-now-you-can-add-videos-to-your-series-on-medium-303f1becef88
+https://productupdates.quora.com/Video-on-Quora
+https://www.snap.com/en-US/news/post/a-whole-new-story
+https://geofilters.snapchat.com/org/guest/purchase/upload-asset
+https://buffer.com/tailored-posts
+
+https://www.airbnb.com/work
+https://airbnbmag.com
+-->
+
 Two Factor Authentication
 * [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Facebook Settings](https://www.facebook.com/settings?tab=applications&section=all), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Google Settings](https://security.google.com/settings/security/permissions?pli=1), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), [Twitter Settings](https://twitter.com/settings/applications), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
 
@@ -10602,6 +10639,11 @@ https://support.google.com/youtube/answer/2524549
 
 New
 https://www.youtube.com/live_dashboard_splash
+
+
+https://blog.bufferapp.com/social-media-slideshares-2016
+https://blog.slideshare.net/2015/12/18/the-must-read-slideshares-of-2015
+https://resources.workfront.com/project-management-blog/10-tips-for-designing-presentations-that-dont-suck-part-1
 -->
 
 Voice
