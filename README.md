@@ -216,13 +216,12 @@ Table of Content
 <!--
 #### Other Enormous Tool Lists
 
-http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
-http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
 https://www.producthunt.com/tech/freelancer-stack
 https://www.hellobonsai.com/best-freelance-tools
 https://www.producthunt.com/tech/makerbook-2
 
 * [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
+
 * [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
 * [Content Marketing Stack](http://www.contentmarketingstack.co)
 * [Growth Tools](http://growthtools.io)
@@ -652,6 +651,11 @@ StackShare
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), and [StackShare News](https://stackshare.io/news) 
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
+
+<!--
+http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
+http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
+-->
 
 Built With (Exluding Django; See also Squarespace)
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)  
