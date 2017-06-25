@@ -4812,6 +4812,8 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
+https://www.python.org/downloads
+
 https://pypi.org/project/cherry-picker
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
@@ -10619,6 +10621,8 @@ Google Account
 * [Google My Activity](https://myactivity.google.com/myactivity)
 
 <!--
+https://beta.doodle.com
+
 https://takeout.google.com/settings/takeout
 
 https://www.amazon.com/gp/drive/landing/everything
