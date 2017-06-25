@@ -2960,6 +2960,8 @@ Easy App Installation
 * [Ninite](https://ninite.com)
 
 <!--
+https://mosh.org
+
 http://updateyourfooter.com
 
 https://websitedownloader.io/wayback-machine-downloader
@@ -6200,6 +6202,10 @@ https://www.mongodb.com/cloud/stitch
 https://www.digitalocean.com/products/storage/object-storage
 https://www.openshift.io/
 https://devcenter.heroku.com/articles/heroku-ci
+
+https://github.com/zeit/pkg
+https://zeit.co
+https://zeit.co/blog/github
 -->
 
 #### Functions
@@ -10971,6 +10977,8 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://www.xero.com/us
+
 https://www.easyship.com
 
 https://svbtle.com
