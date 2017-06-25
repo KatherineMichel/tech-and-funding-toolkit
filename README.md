@@ -272,6 +272,9 @@ Courses (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
+Preethi Kasireddy
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
+
 https://github.com/pluralsight-projects
 
 https://www.codecademy.com/courses/learn-the-command-line
@@ -1454,9 +1457,23 @@ A Successful Git Branching Model
 <!--
 New
 https://blog.golang.org/developer-experience
-https://www.ampproject.org/roadmap/
+https://www.ampproject.org/roadmap
 https://www.debian.org/social_contract
-http://hood.ie/contribute/
+http://hood.ie/contribute
+
+https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/
+https://about.gitlab.com/2014/09/29/gitlab-flow/
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
+https://www.subscribewithamazon.com
+https://www.amazon.jobs/principles
+https://github.com/basecamp/handbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+
+https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
+
 
 
 http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
@@ -1476,6 +1493,8 @@ http://www.integralist.co.uk/posts/github-workflow.html
 GitLab Flow
 https://docs.gitlab.com/ee/workflow/gitlab_flow.html
 https://about.gitlab.com/2014/09/29/gitlab-flow/
+
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
 
 
 Atlassian- Comparing Workflows
@@ -4703,6 +4722,8 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
+https://pypi.org/project/cherry-picker
+
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 
 https://www.twoscoopspress.com/pages/current-django-books
@@ -6082,11 +6103,7 @@ New
 https://www.mongodb.com/cloud/stitch
 https://www.digitalocean.com/products/storage/object-storage
 https://www.openshift.io/
-https://firebase.google.com/features/functions/
 https://devcenter.heroku.com/articles/heroku-ci
-https://opensource.googleblog.com/2017/05/open-sourcing-firebase-sdks.html
-https://analytics.googleblog.com/2017/05/firebase-analytics-gets-new-features.html
-https://mobyproject.org/#moby-and-docker
 -->
 
 #### Functions
@@ -7090,6 +7107,9 @@ Terraform
 * [Terraform](https://www.terraform.io)
 
 <!--
+https://github.com/cyberomin/terraform/tree/master/part-ii
+http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html
+
 https://heap.engineering/terraform-gotchas
 -->
 
@@ -7107,6 +7127,8 @@ Docker (See also Kubernetes)
 * [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
 
 <!--
+https://mobyproject.org/#moby-and-docker
+
 https://github.com/docker/cli
 https://github.com/moby/moby
 https://github.com/linuxkit/linuxkit
@@ -7250,6 +7272,8 @@ Bots
 * [Microsoft Bot Framework](https://dev.botframework.com)
 
 <!--
+https://chatbotsmagazine.com
+
 New (See also reporobot and githubteacher)
 https://github.com/guardian/facebook-news-bot
 https://www.messenger.com/t/theguardian/
@@ -7272,6 +7296,11 @@ Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
 * [Firebase](https://www.firebase.com) and [Firebase Documents](https://www.firebase.com/docs)
 * [Firebase Hosting](https://www.firebase.com/docs/hosting)
+
+<!--
+https://opensource.googleblog.com/2017/05/open-sourcing-firebase-sdks.html
+https://analytics.googleblog.com/2017/05/firebase-analytics-gets-new-features.html
+-->
 
 Content Delivery Network
 * [Amazon Cloudfront CDN](http://aws.amazon.com/cloudfront)
@@ -9913,6 +9942,14 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
+https://en.wikipedia.org/wiki/Psycho-Cybernetics
+https://mobile.audible.com/pd/Self-Development/This-Naked-Mind-Control-Alcohol-Audiobook/B06XB2VWQD
+https://www.amazon.com/dp/B000FA5SGG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://medium.com/the-xplane-collection/liminal-thinking-99f60ef57606
+https://medium.com/@davegray/the-roots-of-liminal-thinking-3be4bea6fd63
+http://liminalthinking.com/
+
 https://en.wikipedia.org/wiki/Made_to_Stick
 https://en.wikipedia.org/wiki/Story_arc
 
@@ -10407,6 +10444,7 @@ https://productupdates.quora.com/Video-on-Quora
 https://www.snap.com/en-US/news/post/a-whole-new-story
 https://geofilters.snapchat.com/org/guest/purchase/upload-asset
 https://buffer.com/tailored-posts
+https://www.snap.com/en-US/news
 
 https://www.airbnb.com/work
 https://airbnbmag.com
@@ -10557,6 +10595,10 @@ Pinterest
 Etsy
 * [Etsy Pattern](https://www.etsy.com/pattern)
 
+<!--
+https://gumroad.com
+-->
+
 LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
 * [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
@@ -10601,6 +10643,7 @@ https://github.com/InterNations/antwort
 
 http://www.goodemailcopy.com
 http://goodsalesemails.com/
+http://paperpaperplane.com/
 
 [Really Good Email](http://reallygoodemails.com)  
 [Voice and Tone](http://voiceandtone.com) 
@@ -10879,6 +10922,7 @@ Filters
 https://angel.co/jobs
 https://www.authenticjobs.com/
 https://www.stackoverflowbusiness.com/talent
+https://www.stackoverflowbusiness.com/talent/webinar-how-to-level-up-your-tech-job-listings
 https://www.wfh.io/
 https://weworkremotely.com/
 
@@ -10913,6 +10957,8 @@ Salary/Compensation, Economic Graph
 * [How Much to Make an App](http://howmuchtomakeanapp.com)
 
 <!--
+https://www.trulia.com/blog/trends/census-17/
+
 https://engineering.linkedin.com/data/economic-graph-research
 https://engineering.linkedin.com/data/economic-graph-research/economic-graph-details
 
