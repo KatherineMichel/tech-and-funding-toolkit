@@ -10206,19 +10206,21 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 <!--
 New
-http://fourhourworkweek.com/2009/05/19/vanity-metrics-vs-actionable-metrics/
-http://fourhourworkweek.com/2015/11/03/dominic-dagostino
-http://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email/
+https://medium.com/@nickkokonas/why-we-are-self-publishing-the-aviary-cookbook-lessons-from-the-alinea-book-e89236ab6ca1
+https://www.kickstarter.com/projects/thealineagroup/the-aviary-cocktail-book?ref=ksrtwitter&__prclt=xnsUpJRa
+https://medium.com/@nickkokonas/why-we-are-self-publishing-the-aviary-cookbook-lessons-from-the-alinea-book-e89236ab6ca1
+
+http://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
+http://tim.blog/2015/11/03/dominic-dagostino
+http://tim.blog/2014/07/21/harrys-prelaunchr-email/
  
-http://fourhourworkweek.com/producthunt-tfx
-http://fourhourworkweek.com/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable/
-http://fourhourworkweek.com/2015/01/20/elon-musk-and-jeff-bezos/
-http://fourhourworkweek.com/2008/09/17/how-to-never-forget-anything-again/
-http://fourhourworkweek.com/2008/01/06/from-shanghai-to-silicon-valley-3-tips-for-turning-lack-of-resources-into-strength/
-http://fourhourworkweek.com/2016/04/11/tim-ferriss-podcast-business/
-http://fourhourworkweek.com/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
-http://fourhourworkweek.com/2012/11/11/the-value-of-aggression-ode-to-dan-gable
-http://fourhourworkweek.com/2015/08/18/the-evolutionary-angel-naval-ravikant/
+http://tim.blog/producthunt-tfx
+http://tim.blog/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable/
+http://tim.blog/2015/01/20/elon-musk-and-jeff-bezos/
+http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
+http://tim.blog/2016/04/11/tim-ferriss-podcast-business/
+http://tim.blog/2012/11/11/the-value-of-aggression-ode-to-dan-gable
+http://tim.blog/2015/08/18/the-evolutionary-angel-naval-ravikant/
 https://overcast.fm/+BmGUMrSCc/12:05
  
 http://tim.blog/2017/05/15/fear-setting
@@ -10287,10 +10289,10 @@ https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 
-
 https://www.amazon.com/gp/product/0307353133
 http://tim.blog/2014/10/04/how-to-travel-to-20-countries-and-build-a-massive-business-in-the-process
 http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
+http://tim.blog/2008/01/06/from-shanghai-to-silicon-valley-3-tips-for-turning-lack-of-resources-into-strength
 http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
 
 https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals#t-789871
