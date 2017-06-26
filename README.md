@@ -8228,6 +8228,7 @@ Database List
 <!--
 New
 https://betapage.co
+https://blog.betapage.co
 
 https://betalist.com/trends
 https://betalist.com/jobs/collections
