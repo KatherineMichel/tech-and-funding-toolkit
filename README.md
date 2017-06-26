@@ -200,7 +200,10 @@ Table of Content
 * [Analyst Groups](#analyst-groups)
 
 * [Labs, Kitchens, Garages](#labs-kitchens-garages)
+
+<!--
 * [Open Companies](#open-companies) 
+-->
 
 * [Launch Strategies](#launch-strategies)
 * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
@@ -375,7 +378,13 @@ Courses (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
-Preethi Kasireddy
+Preethi Kasireddy: How The Web Works
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
+
+http://jvns.ca
+https://twitter.com/b0rk
+
+https://github.com/bradfrost
 
 https://github.com/pluralsight-projects
 
@@ -647,7 +656,7 @@ HubSpot
 
 #### Built With and Search
 
-StackShare
+Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), and [StackShare News](https://stackshare.io/news) 
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
@@ -885,6 +894,7 @@ History of Technology and Computer Science
 
 <!--
 http://www.computerhistory.org
+https://twitter.com/ComputerHistory
 
 https://en.wikibooks.org/wiki/Open_Metadata_Handbook
 -->
@@ -1497,6 +1507,31 @@ https://confluence.atlassian.com/bitbucket
 
 Currently out of commission. 
 
+<!--
+#### Open Companies
+
+Buffer
+* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
+* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
+
+Clef
+* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
+
+Mattermark
+* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
+
+Medium
+* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
+
+More
+* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
+* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
+
+<!--
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+-->
+
 #### Digital Agencies and Code Philosophies
 
 Digital Agency Playbook, Blog, Styleguide, Templates
@@ -1723,6 +1758,7 @@ https://services.github.com/on-demand/downloads/subversion-migration
 
 New
 https://zachholman.com/talk/git-github-secrets
+https://zachholman.com/talk/more-git-and-github-secrets/
 https://github.com/git-tips/tips
 
 https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
@@ -8144,6 +8180,8 @@ Database List
 
 <!--
 New
+https://betapage.co
+
 https://betalist.com/trends
 https://betalist.com/jobs/collections
 
@@ -9953,6 +9991,7 @@ Personal Advice
 #### Events, Talks, People
 
 Conferences (See also Designer/Developer Conferences and Python Django Conferences)
+* [Lanyrd](http://lanyrd.com)
 * [Crunchbase Global Events List](http://www.crunchbase.com/events)  
 * [Techmeme Events List](http://techmeme.com/events) 
 * [Tech EU Events List](http://tech.eu/events)
@@ -9971,7 +10010,6 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 <!--
 http://www.mindtheproduct.com
 https://websummit.com
-http://lanyrd.com
 -->
 
 Mobile (See also Mobile)
@@ -10407,6 +10445,8 @@ Investment Firms
 http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 -->
 
+
+
 #### Labs, Kitchens, Garages
 
 Labs, Kitchens, Garages
@@ -10424,30 +10464,6 @@ https://en.wikipedia.org/wiki/Information_Processing_Techniques_Office
 https://www.google.com/search?q=first+prototype+of+a+computer+mouse&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgutW008jSAhWo5IMKHSdnDpUQ_AUICCgB&biw=1366&bih=585
 http://worrydream.com/refs/Licklider%20-%20Man-Computer%20Symbiosis.pdf
 https://en.wikipedia.org/wiki/Man-Computer_Symbiosis
--->
-
-#### Open Companies
-
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-<!--
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
 -->
 
 #### Launch Strategies
