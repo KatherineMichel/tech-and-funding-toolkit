@@ -9423,6 +9423,47 @@ http://theoatmeal.com/comics/believe
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
+https://twitter.com/trengriffin/status/872998412769153024
+https://www.amazon.com/Lessons-Entrepreneurs-Columbia-Business-Publishing/dp/0231184824/ref=redir_mobile_desktop?_encoding=UTF8&dpID=51dcU1CWqpL&dpPl=1&pi=AC_SX236_SY340_QL65&qid=1497639937&ref=plSrch&ref_=mp_s_a_1_2&refinements=p_27%3ATren%20Griffin&sr=1-2
+ 
+https://twitter.com/trengriffin/status/879149049797984256
+https://twitter.com/trengriffin/status/879174673472212992
+https://25iq.com/2016/12/31/a-half-dozen-ways-to-look-at-the-unit-economics-of-a-business/
+https://en.m.wikipedia.org/wiki/Keynesian_beauty_contest
+https://blog.kissmetrics.com/how-to-calculate-lifetime-value/
+ 
+https://25iq.files.wordpress.com/2016/05/the_global_negotiator.pdf
+
+https://www.25iqbooks.com/books/343-all-i-want-to-know-is-where-i-m-going-to-die-so-i-ll-never-go-there-buffett-munger-a-study-in-simplicity-and-uncommon-common-sense
+
+https://25iq.com/2017/06/10/a-dozen-lessons-about-business-and-investing-ive-learned-from-mike-maples-jr
+https://25iq.com/2017/05/27/a-dozen-lessons-on-building-a-business-from-sarah-tavel 
+https://25iq.com/2017/04/22/the-rise-of-the-freemium-business-model
+https://25iq.com/2017/03/24/core-product-value-and-entrepreneurial-success/
+https://25iq.com/2017/03/10/you-have-discovered-productmarket-fit-what-about-a-moat/
+https://25iq.com/2017/02/10/a-dozen-lessons-on-growth
+https://25iq.com/2017/01/27/everyone-poops-and-has-customer-churn-and-a-dozen-notes
+https://25iq.com/2017/01/06/trens-advice-for-twitter
+https://25iq.com/2016/12/09/why-is-customer-acquisition-cost-cac-like-a-belly-button
+https://25iq.com/2016/11/25/a-dozen-things-warren-buffett-and-charlie-munger-learned-from-sees-candies
+https://25iq.com/2016/11/18/why-moats-are-essential-for-profitability-restaurant-edition
+https://25iq.com/2016/10/22/a-dozen-things-ive-learned-about-multi-sided-markets-platforms
+https://25iq.com/2016/10/14/a-half-dozen-more-things-ive-learned-from-bill-gurley-about-investing
+https://25iq.com/2016/10/01/a-dozen-things-you-can-learn-by-reading-the-success-equation-by-michael-mauboussin
+https://25iq.com/2016/10/08/a-half-dozen-things-ive-learned-from-robert-cialdinis-book-influence
+https://25iq.com/2016/07/29/a-dozen-things-ive-learned-from-andy-grove-about-business-and-strategy
+https://25iq.com/2016/07/08/a-dozen-things-ive-learned-from-eugene-kleiner-about-investing-and-business
+https://25iq.com/2016/05/21/a-dozen-things-ive-learned-from-steven-crist-about-investing-and-handicapping-horses
+https://25iq.com/2016/04/02/a-dozen-things-ive-learned-from-chamath-palihapitiya-about-investing-and-business
+https://25iq.com/2016/03/24/two-powerful-mental-models-network-effects-and-critical-mass
+https://25iq.com/2015/12/05/what-does-charlie-munger-mean-when-he-says-that-something-is-a-lollapalooza
+https://25iq.com/2015/11/21/why-and-how-do-munger-and-buffett-discount-the-future-cash-flows-at-the-30-year-u-s-treasury-rate
+https://25iq.com/2014/10/18/a-dozen-things-ive-learned-from-steve-blank-about-startups
+https://25iq.com/2014/09/28/a-dozen-things-ive-learned-from-eric-ries-about-lean-startups-lattice-of-mental-models-in-vc
+https://25iq.com/2014/04/26/a-dozen-things-i-have-learned-from-jeff-bezos
+https://25iq.com/2014/03/16/ben-grahams-value-investing-%E2%89%A0-famafrenchs-factor-investing
+https://25iq.com/2013/09/09/a-dozen-things-ive-learned-from-bill-gurley-about-investing-and-business
+
 https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
 
@@ -10130,6 +10171,46 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
+New
+http://fourhourworkweek.com/2009/05/19/vanity-metrics-vs-actionable-metrics/
+http://fourhourworkweek.com/2015/11/03/dominic-dagostino
+http://fourhourworkweek.com/2014/07/21/harrys-prelaunchr-email/
+ 
+http://fourhourworkweek.com/producthunt-tfx
+http://fourhourworkweek.com/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable/
+http://fourhourworkweek.com/2015/01/20/elon-musk-and-jeff-bezos/
+http://fourhourworkweek.com/2008/09/17/how-to-never-forget-anything-again/
+http://fourhourworkweek.com/2008/01/06/from-shanghai-to-silicon-valley-3-tips-for-turning-lack-of-resources-into-strength/
+http://fourhourworkweek.com/2016/04/11/tim-ferriss-podcast-business/
+http://fourhourworkweek.com/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
+http://fourhourworkweek.com/2012/11/11/the-value-of-aggression-ode-to-dan-gable
+http://fourhourworkweek.com/2015/08/18/the-evolutionary-angel-naval-ravikant/
+https://overcast.fm/+BmGUMrSCc/12:05
+ 
+http://tim.blog/2017/05/15/fear-setting
+https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals
+http://tim.blog/2017/06/04/nick-szabo/
+http://tim.blog/2010/06/28/mba/
+http://tim.blog/2013/04/15/how-to-get-a-book-deal/
+http://tim.blog/2014/06/16/not-to-do-lists-drugs-and-other-productivity-tricks/
+http://tim.blog/2015/08/26/how-to-build-a-world-class-network-in-record-time/
+http://tim.blog/2016/09/14/practicing-what-you-preach/
+http://tim.blog/2011/12/06/the-painless-path-to-endurance-plus-breville-winner-and-more/
+http://tim.blog/2008/10/21/rethinking-investing-common-sense-rules-for-uncommon-times/
+http://tim.blog/2016/04/11/tim-ferriss-podcast-business/
+http://tim.blog/2014/02/13/anxiety-treatments/
+http://tim.blog/2012/11/16/the-magic-of-thinking-big-how-to-break-world-records-in-times-square/
+http://tim.blog/2008/04/01/low-cost-high-reward-mini-retirements-explore-the-world-with-international-volunteering/
+ 
+http://tim.blog/2008/07/21/push-vs-pull-processes/
+http://fourhourworkweek.com/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
+http://tim.blog/2016/02/28/how-to-achieve-self-ownership/
+http://tim.blog/2014/09/15/what-i-learned-losing-a-million-dollars/
+http://tim.blog/2014/03/20/the-art-of-learning-joshua-waitzkin/
+http://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/
+
+
+
 https://en.wikipedia.org/wiki/Psycho-Cybernetics
 https://mobile.audible.com/pd/Self-Development/This-Naked-Mind-Control-Alcohol-Audiobook/B06XB2VWQD
 https://www.amazon.com/dp/B000FA5SGG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
@@ -10192,6 +10273,7 @@ http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
 http://tim.blog/2012/05/22/neil-gaiman-commencement-speech
+
 
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
