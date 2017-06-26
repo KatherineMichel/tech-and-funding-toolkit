@@ -10170,6 +10170,8 @@ https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 http://vagabonding.net/
 https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
+https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
+
 
 https://www.amazon.com/gp/product/0307353133
 http://tim.blog/2014/10/04/how-to-travel-to-20-countries-and-build-a-massive-business-in-the-process
@@ -10190,13 +10192,6 @@ http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
 http://tim.blog/2012/05/22/neil-gaiman-commencement-speech
-
-http://tim.blog/2016/01/15/chris-sacca-on-shark-tank-building-your-business-and-startup-mistakes/
-http://tim.blog/2017/05/12/art-de-vany
-http://tim.blog/2017/03/19/ricardo-semler
-http://tim.blog/2017/04/26/murray-carter
-http://tim.blog/2017/03/30/cheryl-strayed
-http://tim.blog/2014/07/11/james-altucher
 
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
@@ -10760,12 +10755,9 @@ Pinterest
 * [Pinterest Blog](http://blog.pinterest.com)
 * [Pinterest for Business](https://business.pinterest.com)
 
-Etsy
+Etsy and Gumroad
 * [Etsy Pattern](https://www.etsy.com/pattern)
-
-<!--
-https://gumroad.com
--->
+* [Gumroad](https://gumroad.com)
 
 LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
@@ -10817,19 +10809,18 @@ http://paperpaperplane.com/
 [Voice and Tone](http://voiceandtone.com) 
 -->
 
-<!--
-https://en.wikipedia.org/wiki/Comparison_of_screencasting_software
+Screencasting
+* [Comparison of Screencasting Software Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_screencasting_software)
+* [Open Broadcaster Software](https://obsproject.com)
+* [Screenflow](https://www.telestream.net/screenflow)
+* [Camtasia Studio Wikipedia](https://en.wikipedia.org/wiki/Camtasia_Studio)
 
+<!--
 https://www.nvidia.com/en-us/geforce/geforce-experience/
 
 https://screenhero.com
 https://screenhero.com/features.html
 
-https://www.youtube.com/my_live_events
-https://support.google.com/youtube/answer/2853700
-https://support.google.com/youtube/answer/7083786?hl=en
-
-https://obsproject.com
 https://obsproject.com/forum/threads/guide-how-to-stream-to-youtube.4333/
 screencast cursor highlighting
 
@@ -10840,13 +10831,15 @@ https://www.telestream.net/pdfs/user-guides/ScreenFlow-6-Tutorial.pdf
 
 http://www.telestream.net/wirecastplay/landing.htm
 
-Camtasia
-
 YouTube Livestreaming Info
 https://support.google.com/youtube/answer/2853700
 https://support.google.com/youtube/answer/2474026?hl=en
 https://support.google.com/youtube/answer/2907883
 https://support.google.com/youtube/answer/2524549
+
+https://www.youtube.com/my_live_events
+https://support.google.com/youtube/answer/2853700
+https://support.google.com/youtube/answer/7083786?hl=en
 
 New
 https://www.youtube.com/live_dashboard_splash
@@ -10966,11 +10959,10 @@ Payments
 * [Square](https://squareup.com)
 * [Stripe](https://stripe.com), [Stripe Docs](https://stripe.com/docs), and [Stripe Atlas](https://stripe.com/atlas)
 * [Dwolla](https://www.dwolla.com) 
+* [TransferWise](https://transferwise.com)
 
 <!--
 https://www.google.com/payments/solutions
-
-https://transferwise.com/borderless
 
 https://stripe.com/docs/sources/ideal
 https://www.paypal.com/de/webapps/mpp/ua/third-parties-list?locale.x=en_US
@@ -10988,6 +10980,8 @@ https://stripe.com/docs/checkout/tutorial
 https://stripe.com/docs/webhooks
 https://stripe.com/docs/examples
 -->
+
+Coins
 
 <!--
 https://www.ethereum.org
@@ -11037,12 +11031,11 @@ Admin, Hiring, Payroll, Expenses
 * [Jobvite](http://www.jobvite.com)
 * [QuickBooks](http://quickbooks.intuit.com)
 * [Sunrise Calendar (Going away)](https://calendar.sunrise.am)
+* [Xero](https://www.xero.com)
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
 
 <!--
-https://www.xero.com/us
-
 https://www.easyship.com
 
 https://svbtle.com
@@ -11050,7 +11043,6 @@ https://svbtle.com
 https://www.eventbrite.com
 
 https://www.paymoapp.com
-https://www.freshbooks.com
 https://letsfreckle.com
 IIRC
 
@@ -11083,7 +11075,7 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
-https://www.linkedin.com/jobs/blog/linkedin-workforce-report-june-2017-seattle-wa
+http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
 
 https://hire.withgoogle.com/sign-in
 https://blog.google/products/search/connecting-more-americans-jobs
@@ -11117,30 +11109,26 @@ http://stackoverflow.com/users/story/join
 https://techcrunch.com/2016/10/11/stack-overflow-puts-a-new-spin-on-resumes-for-developers
 -->
 
-Salary/Compensation, Economic Graph
+Salary/Compensation, Labor Information, Economic Graph
 * [Kansas Labor Information Center](https://klic.dol.ks.gov/vosnet/Default.aspx)
 * [Bureau of Labor Statistics](http://www.bls.gov) and [Bureau of Labor Statistics Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)
 * [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [LinkedIn Salary](https://www.linkedin.com/salary)
-* [LinkedIn Economic Graph](https://www.linkedin.com/company/linkedin-economic-graph)
+* [LinkedIn Economic Graph](https://www.linkedin.com/showcase/3632240)
+* [LinkedIn Economic Graph Research Project](https://engineering.linkedin.com/data/economic-graph-research) and [LinkedIn Economic Graph Research Project Details](https://engineering.linkedin.com/data/economic-graph-research/economic-graph-details)
 * [salary.com](http://salary.com)
 * [How Much to Make an App](http://howmuchtomakeanapp.com)
 
 <!--
 https://www.trulia.com/blog/trends/census-17/
 
-https://engineering.linkedin.com/data/economic-graph-research
-https://engineering.linkedin.com/data/economic-graph-research/economic-graph-details
+https://www.linkedin.com/jobs/blog/linkedin-workforce-report-june-2017-seattle-wa
 
 Compensation
 * [CompStudy](https://www.compstudy.com)
 
 https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
 https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
--->
-
-<!--
-http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
 -->
 
 #### Learning Resources
