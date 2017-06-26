@@ -8780,6 +8780,40 @@ More
 * [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
 * [Hamburger Helper](https://twitter.com/trengriffin/status/660536443308109824)
 
+<!--
+https://en.wikipedia.org/wiki/Side_letter
+
+http://pmarchive.com
+
+https://mattermark.com/venture-capital-dictionary
+https://mattermark.com/about-venture-capital-returns-valuations
+
+http://distributionhacks.com/post-startup-launch-checklist
+
+http://blog.learningbyshipping.com/2015/10/12/getting-the-right-stuff-done
+
+http://reactionwheel.net/2015/06/power-laws-in-venture.html
+
+http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula
+
+https://medium.com/@gerstenzang/how-ill-be-investing-in-2017-da71450076be#.jjd54mflw
+https://medium.com/@besvinick/my-vc-code-8120b942f06#.w0a808sd8
+https://startupsventurecapital.com/my-vc-code-2-0-a2658d3f2cf7#.on7v1af5h
+ 
+https://medium.com/@henrysward/pte-vesting-344a787aba9a#.llc08c4gw
+ 
+https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc#.m05mcrq74
+https://medium.com/startup-grind/all-the-venture-capital-fundraising-bloggers-you-should-be-following-6ea9817039c4#.w41jnjvwx
+https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e#.of31s43z3
+https://quip.com/92k3AGc5cvxp
+https://medium.com/startup-grind/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.4c02lfk8m
+https://medium.com/@sparkszilla/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc#.xq44cvcoj
+https://medium.com/@sparkszilla/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.uvqdf3im3
+https://medium.com/@sparkszilla/help-build-the-open-guide-to-startup-fundraising-b1c206da808f#.lft6h2mns
+https://medium.com/startup-grind/help-build-the-open-guide-to-startup-fundraising-b1c206da808f#.jmnmozu2g
+
+-->
+
 #### VC Firms, Accelerators, Resources
 
 :) 
