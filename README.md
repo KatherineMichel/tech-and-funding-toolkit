@@ -3614,9 +3614,6 @@ https://getmdl.io/components/index.html#card-selection
 https://getmdl.io
 https://getmdl.io/components/index.html
 
-https://github.com/google/web-starter-kit
-https://developers.google.com/web/tools/starter-kit
-
 https://developers.google.com/web/showcase
 
 http://caniuse.com/#search=service%20worker
@@ -3642,13 +3639,6 @@ http://realfavicongenerator.net
 
 http://andrewhfarmer.com/starter-project
 http://andrewhfarmer.com/webpack-hmr-tutorial
-
-https://github.com/coryhouse?tab=repositories
-https://github.com/coryhouse/react-flux-building-applications
-https://github.com/coryhouse/speaker-starter-kit
-https://github.com/coryhouse/pluralsight-redux-starter
-https://github.com/coryhouse/ps-react
-https://github.com/coryhouse/fluent2017
 
 https://github.com/Microsoft/TypeScript-React-Starter
 
@@ -3883,13 +3873,7 @@ http://facebook.github.io/flux/docs/testing-flux-applications.html
 
 http://redux.js.org/docs/basics/UsageWithReact.html
 
-https://www.npmjs.com/~angular
-https://github.com/angular/quickstart
-https://github.com/angular/angular-cli
-
 https://www.gitbook.com/book/rangle-io/ngcourse2/details
-https://angular.io/docs/ts/latest/tutorial/toh-pt1.html
-https://angular.io/docs
 
 https://github.com/vuejs/vue-hackernews
 -->
