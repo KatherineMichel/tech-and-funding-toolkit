@@ -3591,6 +3591,44 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 <!--
 New
+Progressive Web Apps
+https://app.pluralsight.com/library/courses/web-apps-progressive-getting-started
+https://github.com/bstavroulakis?tab=repositories
+https://app.pluralsight.com/profile/author/bill-stavroulakis
+https://github.com/bstavroulakis/progressive-web-apps
+https://github.com/bstavroulakis/progressive-web-apps/blob/master/car-deals/index.html
+https://twitter.com/bstavroulakis
+https://developers.google.com/web/showcase/
+https://getmdl.io
+https://getmdl.io/components/index.html
+https://material.io/guidelines
+https://semantic-ui.com
+https://vuejs.org
+http://www.tutorialspoint.com/materialdesignlite
+https://pwa.rocks
+https://github.com/localForage/localForage
+https://app.pluralsight.com/library/courses/javascript-module-fundamentals/table-of-contents
+https://github.com/systemjs/systemjs
+https://app.pluralsight.com/library/courses/polymer-js-elements-working/table-of-contents
+http://caniuse.com/#search=service%20worker
+https://jakearchibald.github.io/isserviceworkerready
+http://caniuse.com/#search=app%20cache
+https://github.com/google/web-starter-kit
+https://developers.google.com/web/tools/starter-kit/
+https://pwa.rocks
+https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
+https://materialdesignkit.com
+https://github.com/material-components/material-components-web
+http://manifoldjs.com/generator
+http://bstavroulakis.com/pluralsight/courses/progressive-web-apps/
+https://github.com/bstavroulakis/progressive-web-apps/tree/master/car-deals
+https://getmdl.io/components/index.html#card-selection
+https://github.com/github/fetch
+
+
+
+
+
 http://andrewhfarmer.com/starter-project
 http://andrewhfarmer.com/webpack-hmr-tutorial
 
