@@ -378,9 +378,6 @@ Courses (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
-Preethi Kasireddy: How The Web Works
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
-
 http://jvns.ca
 https://twitter.com/b0rk
 
@@ -472,17 +469,20 @@ http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight
 
 JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-* [Eric Elliot Programming JavaScript Applications eBook](https://ericelliottjs.com/product/programming-javascript-applications-ebook) and [Eric Elliot Programming JavaScript Applications GitHub](https://github.com/learn-javascript-courses/programming-javascript-applications)
-* [Eric Elliot Learn JavaScript Essentials Medium](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) and [Eric Elliot Learn JavaScript GitHub](https://github.com/learn-javascript-courses/learn-javascript)
-* [JSHomes Platform GitHub](https://github.com/jshomes/JSHomes-Platform)
-* [JSHomes Free Web Platform/SaaS Learning Resources GitHub](https://github.com/jshomes/learning-resources)
-* [Eric Elliot Vimeo](https://vimeo.com/ericelliott)
 
 <!--
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
+
+https://medium.com/@preethikasireddy
+Kyle Simpson
+Addy Osmani
+
+Preethi Kasireddy: How The Web Works
+https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
 -->
 
 The Practical Dev and Hackernoon
@@ -3628,11 +3628,23 @@ https://vuejs.org
 
 http://www.tutorialspoint.com/materialdesignlite
 https://pwa.rocks
+https://github.com/pwarocks/pwa.rocks
 https://jakearchibald.github.io/isserviceworkerready
 https://github.com/material-components/material-components-web
 http://manifoldjs.com/generator
 https://davidwalsh.name/cache
 http://realfavicongenerator.net
+
+https://github.com/DrkSephy/es6-cheatsheet
+https://github.com/lukehoban/es6features
+
+http://www.ecma-international.org/ecma-262/5.1/
+
+http://blog.teamtreehouse.com/mastering-developer-tools-console
+https://remysharp.com/2010/10/08/what-is-a-polyfill
+https://github.com/es-shims/es6-shim
+https://github.com/es-shims/es5-shim
+
 
 
 
@@ -7481,6 +7493,7 @@ Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Nitrous.IO GitHub](https://github.com/nitrous-io)
 
 Makers
+* [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
 * [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
 * [Glitch Websites](https://glitch.com/websites)
 * [IFTTT Maker](https://platform.ifttt.com/maker)
@@ -7490,6 +7503,7 @@ Bots
 * [Microsoft Bot Framework](https://dev.botframework.com)
 
 <!--
+https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
 https://chatbotsmagazine.com
 
 New (See also reporobot and githubteacher)
