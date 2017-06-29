@@ -3518,10 +3518,13 @@ http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 http://www.ecma-international.org/publications/standards/Ecma-402.htm
 
 http://standardjs.com/index.html
+https://github.com/standard/standard
 
 https://nodejs.org/en/docs/es6
 https://github.com/mjavascript/practical-es6
+https://github.com/DrkSephy/es6-cheatsheet
 https://github.com/lukehoban/es6features
+http://es6-features.org/
 http://es6-features.org/#Constants
 https://github.com/sgaurav/understanding-es6
 
@@ -3637,9 +3640,6 @@ https://github.com/material-components/material-components-web
 http://manifoldjs.com/generator
 https://davidwalsh.name/cache
 http://realfavicongenerator.net
-
-https://github.com/DrkSephy/es6-cheatsheet
-https://github.com/lukehoban/es6features
 
 http://www.ecma-international.org/ecma-262/5.1/
 
