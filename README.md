@@ -3513,6 +3513,7 @@ ECMA Standards
 * [ECMA International](http://www.ecma-international.org)
 
 <!--
+http://www.ecma-international.org/ecma-262/5.1
 http://www.ecma-international.org/publications/standards/Ecma-262.htm
 http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 http://www.ecma-international.org/publications/standards/Ecma-402.htm
@@ -3522,7 +3523,6 @@ https://github.com/standard/standard
 
 https://nodejs.org/en/docs/es6
 https://github.com/mjavascript/practical-es6
-https://github.com/DrkSephy/es6-cheatsheet
 https://github.com/lukehoban/es6features
 http://es6-features.org/
 http://es6-features.org/#Constants
@@ -3632,16 +3632,27 @@ https://github.com/github/fetch
 https://semantic-ui.com
 https://vuejs.org
 
-http://www.tutorialspoint.com/materialdesignlite
 https://pwa.rocks
 https://github.com/pwarocks/pwa.rocks
+
+https://www.w3.org/TR/notifications
+https://www.w3.org/TR/push-api
+
+http://realfavicongenerator.net
+http://realfavicongenerator.net/favicon_checker#.WVMfKxPytxh
+
+http://www.apkmirror.com/apk/google-inc/chrome
+https://developer.android.com/studio/index.html
+
+http://www.tutorialspoint.com/materialdesignlite
 https://jakearchibald.github.io/isserviceworkerready
 https://github.com/material-components/material-components-web
 http://manifoldjs.com/generator
 https://davidwalsh.name/cache
-http://realfavicongenerator.net
-
-http://www.ecma-international.org/ecma-262/5.1/
+https://developers.google.com/web/progressive-web-apps/checklist
+https://tests.peter.sh/
+https://sodapopped.com/
+https://web-push-codelab.appspot.com/
 
 http://blog.teamtreehouse.com/mastering-developer-tools-console
 https://remysharp.com/2010/10/08/what-is-a-polyfill
@@ -10766,6 +10777,7 @@ https://blog.google/products/assistant/your-assistant-getting-better-on-google-h
 
 https://atap.google.com/soli
 https://fi.google.com/about
+https://support.google.com/fi/answer/6201840
 
 https://medium.com/topic/audio
 https://blog.medium.com/press-play-now-you-can-add-videos-to-your-series-on-medium-303f1becef88
