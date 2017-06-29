@@ -472,15 +472,18 @@ JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
 * [Eric Elliot GitHub](https://github.com/ericelliott)
 * [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
 
+Addy Osmani
+* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+
+Kyle Simpson
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+
 <!--
 https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
 
 https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
 
 https://medium.com/@preethikasireddy
-Kyle Simpson
-Addy Osmani
-
 Preethi Kasireddy: How The Web Works
 https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
 -->
