@@ -428,10 +428,6 @@ Service Worker
   * Learn RxJS
 
     
-  * [Flow](https://flow.org/en/docs/)
-    * [Flow Runtime](https://codemix.github.io/flow-runtime/)
-    * [Flow Comments](https://flow.org/blog/2015/02/20/Flow-Comments/)
-
     * [DefinitelyTyped](http://definitelytyped.org/), [TypeSearch](http://microsoft.github.io/TypeSearch/)
 
 ### Node.js
@@ -571,6 +567,7 @@ Service Worker
       * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
       * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+      
     * Changelog
       * [Conventional Commits](https://conventionalcommits.org/)
       * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
@@ -579,7 +576,15 @@ Service Worker
   * [Why not to use version control hosting for packages](http://blog.npmjs.org/post/154387331670/the-right-tool-for-the-job-why-not-to-use-version)
   * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
   * [changes to npm’s unpublish policy](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy), [kik, left-pad, and npm](http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm)
+  
   * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
+
+  * package.json
+    * [Specifics of npm's package.json](https://docs.npmjs.com/files/package.json)
+    * [Specifics of yarn's package.json](https://yarnpkg.com/en/docs/package-json)
+    * [What's the difference between dependencies, devDependencies and peerDependencies](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
+    
+    
 * Finding Packages
   * Search
     * [npms.io](https://npms.io/) / [node-modules.com](http://node-modules.com/) / [npmsearch.com](http://npmsearch.com/)
@@ -602,13 +607,11 @@ Service Worker
   * [Yarn](https://yarnpkg.com/)
     * [yarn's CLI](https://yarnpkg.com/en/docs/cli/)
     * [yarn.lock](https://yarnpkg.com/en/docs/yarn-lock)
+    
+    
   * [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
   * [changed-log](https://www.npmjs.com/package/changed-log)
-      
-  * package.json
-    * [Specifics of npm's package.json](https://docs.npmjs.com/files/package.json)
-    * [Specifics of yarn's package.json](https://yarnpkg.com/en/docs/package-json)
-    * [What's the difference between dependencies, devDependencies and peerDependencies](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
+          
   * Small Modules
     * [Unix Philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs)
     * [module best practices](https://github.com/mattdesl/module-best-practices)
@@ -652,8 +655,6 @@ Service Worker
       * Next Gen - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
     * Lightweight Alternative
       * [Preact](https://preactjs.com/) / [Inferno](https://infernojs.org/)
-* Model / App State
-  * [Redux](http://redux.js.org/)
 
       * [Notes of Dan Abramov's Redux course videos](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
       * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
@@ -668,13 +669,12 @@ Service Worker
       * [Queries and Mutations](http://graphql.org/learn/queries/)
       * Playground - [GraphQLHub](https://www.graphqlhub.com/)
     * [React Apollo](http://dev.apollodata.com/react/), [Learn Apollo](https://www.learnapollo.com/)
-* Offline First
   * Learning
     * [Designing Offline-First Web Apps](https://alistapart.com/article/offline-first)
     * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html), \
       [Offline First and the Circle Of Web](http://hood.ie/blog/offline-first-and-the-circle-of-web.html), [Part II: Breaking the Circle](http://hood.ie/blog/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle.html)
 * Routing
-  * [React Router](https://reacttraining.com/react-router/), [React Router Redux](https://www.npmjs.com/package/react-router-redux)
+  * [React Router Redux](https://www.npmjs.com/package/react-router-redux)
 * Debugging
   * [why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
 * Scaffold / Boilerplate / Generator
@@ -723,8 +723,6 @@ Service Worker
 
 ### Network
 
-* HTTP
-  * Intro
     * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
       [Introduction to HTTP](https://launchschool.com/books/http)
     * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
@@ -853,20 +851,16 @@ Service Worker
   * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
   * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
   * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-  * Tools - see _[Tooling > Workflow](#workflow) > Deployment > DevOps_
 
 ### Microservices / API Services (Node.js)
 
     * Middleware Framework
-      * [Express](http://expressjs.com/) / [Koa](http://koajs.com/)
+      * [Express](http://expressjs.com/)
     * Rich Framework
       * Configuration - [Hapi](https://hapijs.com/)
       * Realtime - [Feathers](https://feathersjs.com/)
   * Microservices
     * [Micro](https://github.com/zeit/micro) / [Seneca](http://senecajs.org/) / [StdLib](https://stdlib.com/)
-  * Serverless
-    * [Serverless Framework](https://github.com/serverless/serverless)
-    * [IronFunctions](https://github.com/iron-io/functions)
   * Bots
     * [Botkit](https://www.npmjs.com/package/botkit)
 * GraphQL
@@ -893,7 +887,6 @@ Service Worker
   * [jsonfile](https://www.npmjs.com/package/jsonfile)
 * Debugging
   * [why-is-node-running](https://www.npmjs.com/package/why-is-node-running)
-* Protocols
 * Network
   * WebSocket - [ws](https://www.npmjs.com/package/ws) / [Socket.IO](https://www.npmjs.com/package/socket.io) / [Engine.IO](https://www.npmjs.com/package/engine.io) / [SockJS-node](https://www.npmjs.com/package/sockjs)
   * [download](https://www.npmjs.com/package/download)
@@ -961,6 +954,7 @@ Service Worker
     * [OAuth.io](https://oauth.io/)
     * CAPTCHA
       * [reCAPTCHA](https://www.google.com/recaptcha/)
+      
   * Search - [Algolia](https://www.algolia.com/)
   * Email - [SendGrid](https://sendgrid.com/) / [Mailgun](https://www.mailgun.com/) / [Mandrill](http://www.mandrill.com/) / [Amazon SES](https://aws.amazon.com/ses/)
   * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
@@ -969,6 +963,7 @@ Service Worker
   * Customer Support - [Intercom](https://developers.intercom.com/) / [Zendesk](https://developer.zendesk.com/)
   * IM - [Discord](https://discordapp.com/developers/)
   * Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
+
 * AIaaS / BDaaS
   * Natural Language
     * NLP - [Google Natural Language API](https://cloud.google.com/natural-language/)
