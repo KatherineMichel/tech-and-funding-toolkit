@@ -169,21 +169,20 @@
     * CSS + HTML
       * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
       * [Code Guide by @mdo](http://codeguide.co/)
+      
+      
+      
 * Know More about Web Design / [UI Design / UX Design](https://medium.com/@Mockplus/ux-vs-ui-vs-ia-vs-ixd-4-confusing-digital-design-terms-defined-ebd679f53f2)
-  * Responsive/Adaptive Web Design
-    * [Responsive Web Design Basics](https://developers.google.com/web/fundamentals/design-and-ui/responsive/) /\
-      [Responsive Web Design: What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
+
+* [The Atomic Workflow — People, Process, And Making Design Systems Happen](https://www.smashingmagazine.com/atomic-design-workflow/)
+* [The “Other” Interface: Atomic Design With Sass](https://www.smashingmagazine.com/2013/08/other-interface-atomic-design-sass/)
+* [Atomic Design – Your Ultimate Guide to Scalable & Modular CSS (Sass)](https://blog.alexdevero.com/atomic-design-scalable-modular-css-sass/)
+
+    * [Responsive Web Design: What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
     * [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
     * [The Current State of Adaptive Design](https://medium.com/swlh/the-current-state-of-adaptive-design-6b2b89b258c4)
-    * Responsivedesign.is - [Design](https://responsivedesign.is/design/), [Develop](https://responsivedesign.is/develop/)
-    * Patterns
-      * [Responsive Web Design Patterns](https://developers.google.com/web/fundamentals/design-and-ui/responsive/patterns), \
-        [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html), \
-        [ResponsiveDesign.is Patterns](https://responsivedesign.is/patterns/)
-      * [Responsive Data Table Roundup](https://css-tricks.com/responsive-data-table-roundup/)
-      
-
-* Performance
+    * [Responsive Data Table Roundup](https://css-tricks.com/responsive-data-table-roundup/)
+          
   * Rendering
     * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/), \
       [How Browsers Lay Out Web Pages](https://dbaron.org/talks/2012-03-11-sxsw/master.xhtml)
@@ -273,8 +272,7 @@ Service Worker
 * Text
   * [Handling Long Words and URLs](https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/)
     * [Intro to CSS 3D transforms](http://desandro.github.io/3dtransforms/)
-* Animation
-  * CSS Transition
+
   * CSS Animation
     * [The Guide To CSS Animation: Principles and Examples](https://www.smashingmagazine.com/2011/09/the-guide-to-css-animation-principles-and-examples/)
     * [Upgrading CSS Animation With Motion Curves](https://www.smashingmagazine.com/2016/08/css-animations-motion-curves/)
@@ -296,7 +294,7 @@ Service Worker
 
 * CSS Modules
   * [The End of Global CSS](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284)
-* [PostCSS](http://postcss.org/)
+  
     * [Meet PostCSS](http://www.meetpostcss.com/)
     * [PostCSS – A Comprehensive Introduction](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
     * [PostCSS – Sass Killer or Preprocessing Pretender?](https://ashleynolan.co.uk/blog/postcss-a-review)
@@ -328,12 +326,14 @@ Service Worker
 
 
 
+* [PostCSS](http://postcss.org/)
 
 ### Next Generation JS
 
 * ES6+ Features
   * [Overview of ECMAScript 6 features](https://github.com/lukehoban/es6features)
   * [Babel REPL](http://babeljs.io/repl/) / [ES6 New Features Comparison](http://es6-features.org/)
+
 * Intro to ES6+
   * [Dr. Axel Rauschmayer's blog](http://2ality.com/)
     * [Exploring ES6](http://exploringjs.com/es6/)
@@ -361,6 +361,7 @@ Service Worker
   * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
   
   * [Composing Software](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
+  
   * Books
     * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide)
 
@@ -409,9 +410,8 @@ Service Worker
   * [Node.js Best Practices](https://github.com/alanjames1987/Node.js-Best-Practices)
 
 ### Platform Compatibility and Proposal Status
-
+    
   * Platform Status
-    * [Can I Use](http://caniuse.com/)
     * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
     
   * Platform Releases
@@ -422,7 +422,8 @@ Service Worker
     * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
     * [Webkit Blog](https://webkit.org/blog/)
     * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
-  
+
+
   * [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
     * Polyfill - [What is a Polyfill?](https://remysharp.com/2010/10/08/what-is-a-polyfill)
     * Feature Detection - [Modernizr/feature-detects](https://github.com/Modernizr/Modernizr/tree/master/feature-detects), [feature.js](https://github.com/viljamis/feature.js/blob/master/feature.js)
@@ -498,7 +499,7 @@ Service Worker
     * [Browser Benchmarks](http://browserbench.org/)
 * Web Runtime / JS Runtime
 
-  * [React Native](http://facebook.github.io/react-native/) / [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
+  * [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
     * [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
     * [Bridging in React Native - An in-depth look into React Native's core](https://tadeuzagallo.com/blog/react-native-bridge/)
     * Tutorials - [React Native Express](http://www.reactnativeexpress.com/), [React Native Workshop](https://rangle-io.gitbooks.io/react-native-workshop/), [React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
@@ -509,9 +510,6 @@ Service Worker
 
 ### Cross-browser / Polyfill Libraries
 
-  * Web Components
-    * [webcomponents.js (v1 spec polyfills)](https://github.com/webcomponents/webcomponentsjs)
-    
 * Network
   * XHR - [window.fetch Polyfill](https://github.com/github/fetch)
   * WebSocket - [Socket.IO-client](https://www.npmjs.com/package/socket.io-client) / [Engine.IO-client](https://www.npmjs.com/package/engine.io-client) / [SockJS-client](https://www.npmjs.com/package/sockjs-client)
@@ -550,8 +548,6 @@ Service Worker
 ### Universal Utility Libraries
 
 * Standard Library Extensions
-  * Utilities
-    * [Lodash](https://lodash.com)
     * [is.js](http://is.js.org/)
   * FP
     * [Immutable](http://facebook.github.io/immutable-js/)
@@ -564,7 +560,7 @@ Service Worker
 * Storage
   * IndexedDB / WebSQL / localStorage / Memory
 * ML
-  * [MLJS](https://www.npmjs.com/package/ml), [Synaptic](https://www.npmjs.com/package/synaptic)
+  * [MLJS](https://www.npmjs.com/package/ml)
 
 ### GUI Framework
 
@@ -584,7 +580,6 @@ Service Worker
       * [Tic-Tac-Toe.js: redux pattern in plain JavaScript](http://ramonvictor.github.io/tic-tac-toe-js/)
     * Utilities
       * [React Redux](https://www.npmjs.com/package/react-redux)
-  * [MobX](https://mobx.js.org)
 
 * API
   * [GraphQL](http://graphql.org/)
@@ -610,20 +605,20 @@ Service Worker
   * Comparison
     * [Scaling Isomorphic JavaScript Code](https://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
     * [Comparison of Architecture presentation patterns MVP(SC),MVP(PV),PM,MVVM and MVC](https://www.codeproject.com/Articles/66585/Comparison-of-Architecture-presentation-patterns-M)
+    
     * [Unidirectional User Interface Architectures](https://staltz.com/unidirectional-user-interface-architectures.html)
     * [Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
     * [Martin Fowler's eaaDev](https://martinfowler.com/eaaDev/)
-  * [Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
   * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-  * [Flux Concepts](https://github.com/facebook/flux/tree/master/examples/flux-concepts)
-    * [Flux - In Depth Overview](http://facebook.github.io/flux/docs/in-depth-overview.html)
-  * [Redux - Reinventing Flux - Interview with Dan Abramov](https://survivejs.com/blog/redux-interview/)
+    
   * [The Elm Architecture](https://guide.elm-lang.org/architecture/)
+  
+  * [Redux - Reinventing Flux - Interview with Dan Abramov](https://survivejs.com/blog/redux-interview/)
   * [MVI (Model-View-Intent) in Cycle.js](https://cycle.js.org/model-view-intent.html)
     * [What Developers Need to Know about MVI (Model-View-Intent)](https://thenewstack.io/developers-need-know-mvi-model-view-intent/)
   * [SAM (State-Action-Model)](http://sam.js.org/)
+
 
 ### UI Toolkits
 
@@ -635,14 +630,15 @@ Service Worker
   * [Material-UI](http://www.material-ui.com) / [React Toolbox](http://react-toolbox.com/)
   * [Reactstrap](https://reactstrap.github.io/) / [React Bootstrap](https://www.npmjs.com/package/react-bootstrap)
   * [React Foundation](https://react.foundation/)
-  * [Ant Design](https://ant.design/) / [Ant Design Mobile](https://mobile.ant.design/)
-  * [Blueprint](http://blueprintjs.com/)
-  * [Grommet](https://grommet.github.io/)
   * [Elemental UI](http://elemental-ui.com/)
   * [React WeUI](https://weui.github.io/react-weui/docs/)
   * [React Desktop](http://reactdesktop.js.org/)
   * [React Native Web](https://www.npmjs.com/package/react-native-web)
 
+  * [Ant Design](https://ant.design/) / [Ant Design Mobile](https://mobile.ant.design/)
+  * [Blueprint](http://blueprintjs.com/)
+  * [Grommet](https://grommet.github.io/)
+  
 ### Network
 
     * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
@@ -904,7 +900,6 @@ Service Worker
     * [Benchmark.js](https://benchmarkjs.com/)
     * [Speedracer](https://github.com/ngryman/speedracer)
     * [stats.js](https://github.com/mrdoob/stats.js)
-  * Network
   * [SinonJS](http://sinonjs.org/)
 
     * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
@@ -934,7 +929,6 @@ Service Worker
     
     
 * Compiler / Transpiler / Preprocessor
-  * [Babel](https://babeljs.io)
     * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
     * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md), [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
     * Presets
@@ -963,8 +957,6 @@ Service Worker
         * [postcss-loader](https://www.npmjs.com/package/postcss-loader), [scss-loader](https://www.npmjs.com/package/sass-loader)
     * Plugins
       * [Lodash Plugin](https://www.npmjs.com/package/lodash-webpack-plugin)
-  * [Rollup](https://rollupjs.org/)
-    * [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
       
     * Plugins
       * [babel](https://www.npmjs.com/package/babel-eslint), [eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments), [unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn), [no-use-extend-native](https://www.npmjs.com/package/eslint-plugin-no-use-extend-native)
@@ -982,7 +974,6 @@ Service Worker
   * [npm-run-script](https://docs.npmjs.com/cli/run-script), [npm-scripts](https://docs.npmjs.com/misc/scripts)
     * [task automation with npm run](http://substack.net/task_automation_with_npm_run), \
       [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-      * [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
     
     * [get-port](https://www.npmjs.com/package/get-port), [public-ip](https://www.npmjs.com/package/public-ip)
 
