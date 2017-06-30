@@ -207,9 +207,8 @@
 
 * Important Proposals
   * [ES Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358) in [Browsers](https://jakearchibald.com/2017/es-modules-in-browsers/) and [Node.js](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
-  * [Class Fields & Static Properties](https://github.com/tc39/proposal-class-public-fields/issues/46#issuecomment-239031422)
-  * [Decorators](https://github.com/wycats/javascript-decorators)
-  * [async/await](https://github.com/yortus/asyncawait), [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise), [Promise Promote](https://www.promisejs.org/), [Promises/A+](https://promisesaplus.com/implementations)
+  * 
+  [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise), [Promise Promote](https://www.promisejs.org/), [Promises/A+](https://promisesaplus.com/implementations)
   * [Observables](https://github.com/tc39/proposal-observable)
   * [Static Typing](https://ecmascript-daily.github.io/pages/status-of-static-typing-in-ecmascript/)
 * Functional Programming
@@ -229,20 +228,14 @@
   * [Why Ramda?](http://fr.umio.us/why-ramda/)
     * [The Philosophy of Ramda](http://fr.umio.us/the-philosophy-of-ramda/)
     * [Favoring Curry](http://fr.umio.us/favoring-curry/)
-    * [Thinking in Ramda](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/)
-  * [Fantasy Land](https://github.com/fantasyland/fantasy-land)
-    * [From Callback to Future -> Functor -> Monad](https://hackernoon.com/from-callback-to-future-functor-monad-6c86d9c16cb5)
-    * [ADT (Algebraic Data Types)](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
-    * [JavaScript and Type Thinking](https://medium.com/@yelouafi/javascript-and-type-thinking-735edddc388d)
+
     * [Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * FRP (Functional Reactive Programming)
   * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-  * [How Is Reactive Different From Procedural Programming?](http://insights.dice.com/2014/01/13/how-is-reactive-different-from-procedural-programming/)
-  * [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+
   * Learn RxJS
 
-    
-    
+        
     * [DefinitelyTyped](http://definitelytyped.org/), [TypeSearch](http://microsoft.github.io/TypeSearch/)
 
 https://medium.com/the-node-js-collection
@@ -273,13 +266,17 @@ https://medium.com/the-node-js-collection
 ### Platform Compatibility and Proposal Status
     
   * [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
-    * Polyfill - [What is a Polyfill?](https://remysharp.com/2010/10/08/what-is-a-polyfill)
+
     * Feature Detection - [Modernizr/feature-detects](https://github.com/Modernizr/Modernizr/tree/master/feature-detects), [feature.js](https://github.com/viljamis/feature.js/blob/master/feature.js)
-    * Browser/Device/Runtime Detection - see _[Platforms and Languages > Universal Utility Libraries](#universal-utility-libraries) > Parsing / Manipulating_
+
     * [Graded Browser Support](https://github.com/yui/yui3/wiki/Graded-Browser-Support) - [Grade components, not browsers](https://www.filamentgroup.com/lab/grade-the-components.html)
   * Email
-    * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) / [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
+    * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) / 
+    
+    [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
     * [Email Design Reference](https://templates.mailchimp.com/) + [HTML Email Templates](https://github.com/mailchimp/Email-Blueprints)
+    
+    
 * ECMAScript
   * [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/)
   * [Node.js ES2015 Support](http://node.green/)
@@ -318,6 +315,8 @@ https://medium.com/the-node-js-collection
   * [A Guide to JavaScript Engines for Idiots](http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/)
   * [V8](https://developers.google.com/v8/)
 
+http://developer.telerik.com
+
     * Next Generation
         * [Launching Ignition and TurboFan](https://v8project.blogspot.hk/2017/05/launching-ignition-and-turbofan.html)
 
@@ -334,8 +333,8 @@ https://medium.com/the-node-js-collection
       * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
     * Next Generation
       * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
+      
   * Benchmarks
-    * [The truth about traditional JavaScript benchmarks](http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks/)
     * [Browser Benchmarks](http://browserbench.org/)
 * Web Runtime / JS Runtime
 
@@ -751,8 +750,7 @@ https://medium.com/the-node-js-collection
                  
 * Monitoring
   * Error Tracking
-    * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors), [Front-End Error Handling](https://staticapps.org/articles/front-end-error-handling/)
-      * [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
+    * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors)
     * Services
       * [Sentry](https://sentry.io/for/javascript/)
             
@@ -769,22 +767,9 @@ https://medium.com/the-node-js-collection
     * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
       
     * Third-party Panels
-      * [React DevTools](https://github.com/facebook/react-devtools) / [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) / [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) / [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-      * [React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm)
-      * [Redux DevTools](https://github.com/gaearon/redux-devtools)
-      * [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
-      * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools), [GraphQL Network](https://github.com/Ghirro/graphql-network)
-      * [JWT Inspector](https://jwtinspector.io/)
-      * [WebGL Insight](https://github.com/3Dparallax/insight/), [Three.js Editor Extension](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea)
+      * [React DevTools](https://github.com/facebook/react-devtools) 
+     
     * Electron - [Devtron](https://github.com/electron/devtron)
-
-    * Packaged App
-        * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update)
-  * DevOps
-    * Process Supervisor
-      * [pm2](http://pm2.keymetrics.io/)
-        * [pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
-        * [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
         
 ### Cloud Services (China)
 
