@@ -7637,6 +7637,22 @@ https://github.com/linuxkit/linuxkit
 https://github.com/docker/infrakit
 
 https://github.com/Docker/labs
+
+    * Containers
+      * [Docker](https://docs.docker.com/engine/reference/builder/)
+        * Learning
+          * [Play with docker classroom](http://training.play-with-docker.com/)
+          * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
+          * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
+        * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+        * [Docker run reference](https://docs.docker.com/engine/reference/run/)
+        * [Docker Compose](https://docs.docker.com/compose/overview/)
+      * Docker Images
+        * [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
+        * [docker-lambda](https://github.com/lambci/docker-lambda)
+    * Container Clusters
+      * [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
+        * [Compose file reference](https://docs.docker.com/compose/compose-file/)
 -->
 
 Bitnami Stacksmith
