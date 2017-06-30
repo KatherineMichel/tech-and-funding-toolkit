@@ -32,13 +32,27 @@
   * [Getting Started With Trello](https://trello.com/guide)
   * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
   
-
+* DevOps
+  * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+  * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+  * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+  
+* Git
+  * [Git-it](https://github.com/jlord/git-it-electron)
+  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
+  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+  
+* Intro
+  * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  * [The Bash Guide](http://guide.bash.academy/)
+  
 ### Open Web Platform
 
 ### CSS Features
 
+[HTML5Rocks](https://www.html5rocks.com/)
+
 http://html5doctor.com
-https://www.html5rocks.com
 https://css-tricks.com
 https://www.smashingmagazine.com
 https://alistapart.com
@@ -46,6 +60,12 @@ https://www.sitepoint.com
 https://csswizardry.com
 https://webdesign.tutsplus.com
 
+* CSS-Tricks's [CSS Almanac](https://css-tricks.com/almanac/)
+        
+  * [W3Fools](http://www.w3fools.com/)
+    * [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
+    * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
+    
 * Learning
   * [What is the Internet](http://www.20thingsilearned.com/en-US/what-is-the-internet/), [How does the Internet work](https://www.w3.org/wiki/How_does_the_Internet_work)
     * HTTP - see _[Server Side > Network](#network)_
@@ -53,24 +73,24 @@ https://webdesign.tutsplus.com
     * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
     * [Dive Into HTML5 - A Quite Biased History of HTML5](http://diveintohtml5.info/past.html)
     * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/)
+
+  * [HTML: The Living Standard (Web Developer Edition)](https://developers.whatwg.org/)
+    * [The Web platform: Browser technologies](https://platform.html5.org/)
     
   * MDN's [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
   * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 * Reference
   * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
     * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
+    
   * [Google Developers](https://developers.google.com/web/)
-    * [Web Fundamentals](https://developers.google.com/web/fundamentals/), [HTML5Rocks](https://www.html5rocks.com/)
+    * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+    
   * Apple
     * [WebKit JS](https://developer.apple.com/reference/webkitjs/), [WebKit DOM Programming Topics](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/SafariJSProgTopics)
     * [Safari Web Content Guide](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/), [Safari HTML Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html), [Safari CSS Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariCSSRef/), [Safari CSS Visual Effects Guide](https://developer.apple.com/library/content/documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/)
   * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
-  * CSS-Tricks's [CSS Almanac](https://css-tricks.com/almanac/)
-  * [HTML: The Living Standard (Web Developer Edition)](https://developers.whatwg.org/)
-    * [The Web platform: Browser technologies](https://platform.html5.org/)
-  * [W3Fools](http://www.w3fools.com/)
-    * [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
-    * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
+      
 * Performance
   * Rendering
     * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
@@ -79,9 +99,11 @@ https://webdesign.tutsplus.com
     * [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
   * Loading
     * [How DNS works](https://howdns.works/)
+    
     * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
     * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/),
        [CSS and the critical path](http://www.phpied.com/css-and-the-critical-path/)
+       
     * [Evolution of Script Loading](https://www.stevesouders.com/blog/2010/12/06/evolution-of-script-loading/), [Browser script loading roundup](https://www.stevesouders.com/blog/2010/02/07/browser-script-loading-roundup/)
   * Offline
     * [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
@@ -90,6 +112,7 @@ https://webdesign.tutsplus.com
     * [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
 * Semantics / SEO / Accessibility
   * Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+  
   * [Using ARIA](https://w3c.github.io/using-aria/)
 * HTML / DOM
   * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
@@ -97,6 +120,7 @@ https://webdesign.tutsplus.com
   * [Web Components](https://developers.google.com/web/updates/2017/01/webcomponents-org)
     * [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom), [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
   * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+
 * Interaction
   * Desktop
     * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
@@ -110,6 +134,7 @@ https://webdesign.tutsplus.com
     * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
     * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
   * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+
 * Access
   * [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL), [History](https://developer.mozilla.org/en-US/docs/Web/API/History), [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator), [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen), [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API), [Clipboard](https://developer.mozilla.org/en-US/docs/tag/Clipboard%20API), [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance), [Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
   * [Permissions](https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API), [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
@@ -158,8 +183,7 @@ https://webdesign.tutsplus.com
 * [Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
 * Text
   * [writing-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode) + [text-orientation](https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation)
-* Animation
-  * CSS Transition
+
     * [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
     
 * [CSS Modules](https://github.com/css-modules/css-modules)
@@ -170,7 +194,7 @@ https://webdesign.tutsplus.com
   * [Aphrodite](https://github.com/Khan/aphrodite)
     * [Inline CSS at Khan Academy: Aphrodite](http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm)
 * Best Practices
-  * [Skeleton.css](http://getskeleton.com/) / [Normalize.css](http://nicolasgallagher.com/about-normalize-css/) / [Reset.css](http://meyerweb.com/eric/tools/css/reset/)  
+  * [Skeleton.css](http://getskeleton.com/)
   
     * [BEM](https://en.bem.info/methodology/)
       * [BEM 101](https://css-tricks.com/bem-101/) / [MindBEMding](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)
@@ -207,25 +231,9 @@ https://webdesign.tutsplus.com
       * [CSS with vertical rhythm](https://drewish.com/tools/vertical-rhythm/)
     * [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
       * [Modular Scale](http://www.modularscale.com/)
-  * Style Guide
-    * [Style Guide Driven Development / Living Style Guides](http://styleguides.io/)
-    * Reference
-      * Apple's [Human Interface Guidelines](https://developer.apple.com/design/)
-      * Google's [Material Design](https://material.io/)
-      * Microsoft's [Fluent Design System](http://fluent.microsoft.com/)
-      * Airbnb's [new design system](https://airbnb.design/building-a-visual-language/)
-      * Github's [Primer](http://primercss.io/)
-      * Atlassian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
-      * Salesforce's [Lightning Design System](https://www.lightningdesignsystem.com/)
-      * Yelp's [Styleguide](https://www.yelp.com/styleguide)
-      * IBM's [Living Language](https://www.ibm.com/design/language/)
-      * BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines/)
-      * A List Apart's [pattern library](http://patterns.alistapart.com/)
-      * <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov/)
-      * MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide/)
+
       
-  
-   
+    
 
 * Performance
   * Rendering
@@ -571,45 +579,9 @@ Service Worker
     * Changelog
       * [Conventional Commits](https://conventionalcommits.org/)
       * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
-      
-  * [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
-  * [Why not to use version control hosting for packages](http://blog.npmjs.org/post/154387331670/the-right-tool-for-the-job-why-not-to-use-version)
-  * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
-  * [changes to npm’s unpublish policy](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy), [kik, left-pad, and npm](http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm)
-  
-  * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
-
-  * package.json
-    * [Specifics of npm's package.json](https://docs.npmjs.com/files/package.json)
-    * [Specifics of yarn's package.json](https://yarnpkg.com/en/docs/package-json)
-    * [What's the difference between dependencies, devDependencies and peerDependencies](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
-    
-    
-* Finding Packages
-  * Search
-    * [npms.io](https://npms.io/) / [node-modules.com](http://node-modules.com/) / [npmsearch.com](http://npmsearch.com/)
-      * [improved search in the npm CLI (and how we got here)](http://blog.npmjs.org/post/156076312840/search-update), \
-        [Better search is here!](http://blog.npmjs.org/post/154912817335/better-search-is-here)
-    * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
-  * Stats
-    * [npm trends](http://www.npmtrends.com/)
-    * [NPMCompare](https://npmcompare.com/)
-    * [npm-stat](https://npm-stat.com/)
-  * Rank
-    * [The State Of JavaScript](http://stateofjs.com/), \
-      [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-    * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
-* Dependency Management / Release / Maintenance
-  * [npm Developer Guide](https://docs.npmjs.com/misc/developers)
-    * [npm's CLI](https://docs.npmjs.com/#cli)
-    * [v5.0.0](http://blog.npmjs.org/post/161081169345/v500)
-    * [npm’s lockfiles](http://blog.npmjs.org/post/161627993435/learn-more-about-npms-lockfiles)
-  * [Yarn](https://yarnpkg.com/)
-    * [yarn's CLI](https://yarnpkg.com/en/docs/cli/)
-    * [yarn.lock](https://yarnpkg.com/en/docs/yarn-lock)
-    
-    
-  * [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
+ 
+     * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+         
   * [changed-log](https://www.npmjs.com/package/changed-log)
           
   * Small Modules
@@ -679,9 +651,11 @@ Service Worker
   * [React Router Redux](https://www.npmjs.com/package/react-router-redux)
 * Debugging
   * [why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
+
 * Scaffold / Boilerplate / Generator
   * [create-react-app](https://github.com/facebookincubator/create-react-app)
   * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) / [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
+  
   * [angular-cli](https://cli.angular.io/)
   * [vue-cli](https://www.npmjs.com/package/vue-cli)
   * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
@@ -799,28 +773,9 @@ Service Worker
 * Cloud / Distributed
   * Architecture
     * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-    * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
-  * Static
-    * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)
-    * [Defining Static Web Apps](https://staticapps.org/articles/defining-static-web-apps/)
-  * Queue / Jobs
-    * [Queue-Based Load Leveling](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling), [Competing Consumers](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers), [Priority Queue](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
-    * [Background jobs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
-  * Decompose
-    * [Federated Identity](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)
-    * [Pipes and Filters](https://docs.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters)
-    * [Compute Resource Consolidation](https://docs.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation)
-  * Configuration
-    * [External Configuration Store](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store), [Runtime Reconfiguration](https://docs.microsoft.com/en-us/azure/architecture/patterns/runtime-reconfiguration)
-  * Storage / Querying
-    * [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside), [Caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
-    * [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs), [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-    * [Index Table](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-table), [Materialized View](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
-    * [Data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning), [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
-  * [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) / [Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
-    * [Retry](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry), [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
-    * [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
-    * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
+ 
+     * [Defining Static Web Apps](https://staticapps.org/articles/defining-static-web-apps/)
+         
     * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
   * Multitenant
     * [Manage Identity in Multitenant Applications](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/)
@@ -849,11 +804,6 @@ Service Worker
   * [Logging The Ultimate Guide](https://www.loggly.com/ultimate-guide/category/node/)
   * [The Definitive Guide for Monitoring Node.js Applications](https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/)
   * [Monitoring and diagnostics](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
-  * Tools - see _[Tooling > Workflow](#workflow) > Monitoring_
-* DevOps
-  * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-  * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-  * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
 
 ### Microservices / API Services (Node.js)
 
@@ -896,8 +846,6 @@ Service Worker
   * Email - [Nodemailer](https://nodemailer.com/)
     * Email HTML - [mailgen](https://www.npmjs.com/package/mailgen)
 * Crypto
-  * [hasha](https://www.npmjs.com/package/hasha)
-  * [md5](https://www.npmjs.com/package/md5)
   * [bcrypt](https://www.npmjs.com/package/bcrypt)
 * Auth
   * JWT - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
@@ -977,6 +925,7 @@ Service Worker
     * [Amazon Rekognition](https://aws.amazon.com/rekognition/) / [Google Cloud Vision API](https://cloud.google.com/vision/)
     * [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
 
+
 ### Testing
 
 * Unit Testing / Test Runner
@@ -1009,15 +958,13 @@ Service Worker
     * [Speedracer](https://github.com/ngryman/speedracer)
     * [stats.js](https://github.com/mrdoob/stats.js)
   * Network
-    * [wrk](https://github.com/wg/wrk) / [httpstat](https://github.com/reorx/httpstat)
-  * [SinonJS](http://sinonjs.org/) / [testdouble.js](https://www.npmjs.com/package/testdouble)
-    * [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
-    * [testdouble.js vs. sinon.js](http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
+  * [SinonJS](http://sinonjs.org/)
+
 * Analysis
   * Node.js Security
     * [nsp](https://www.npmjs.com/package/nsp) / [snyk](https://www.npmjs.com/package/snyk)
       * [NSP Advisories](https://nodesecurity.io/advisories/) / [Snyk - Vulnerability DB](https://snyk.io/vuln/)
-  * Web Page
+
     * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) / [pwmetrics](https://github.com/paulirish/pwmetrics)
     * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
     * [Varvy SEO tool](https://varvy.com/)
@@ -1150,6 +1097,27 @@ Service Worker
       * [pm2](http://pm2.keymetrics.io/)
         * [pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
         * [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
+                
+    * PaaS
+      * Global
+        * [now](https://zeit.co/now)
+        * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
+* Monitoring
+  * Error Tracking
+    * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors), [Front-End Error Handling](https://staticapps.org/articles/front-end-error-handling/)
+      * [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
+    * Services
+      * [Sentry](https://sentry.io/for/javascript/)
+      
+  * Logging
+    * Global
+      * [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) / [Google Stackdriver](https://cloud.google.com/stackdriver/)
+
+    * Global
+      * [New Relic](https://newrelic.com/) / [AppDynamics](https://www.appdynamics.com/) / [Datadog APM](https://www.datadoghq.com/apm/)
+      * [Pingdom](https://www.pingdom.com/), [AppNeta](https://www.appneta.com/)
+      * [Trace](https://trace.risingstack.com)
+
     * Containers
       * [Docker](https://docs.docker.com/engine/reference/builder/)
         * Learning
@@ -1167,35 +1135,8 @@ Service Worker
         * [Compose file reference](https://docs.docker.com/compose/compose-file/)
       * [Kubernetes](https://kubernetes.io/)
         * [Kubernetes Cheat Sheet](http://k8s.info/cs.html)
-    * PaaS
-      * Global
-        * [now](https://zeit.co/now)
-        * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
-* Monitoring
-  * Error Tracking
-    * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors), [Front-End Error Handling](https://staticapps.org/articles/front-end-error-handling/)
-      * [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
-    * Services
-      * [Sentry](https://sentry.io/for/javascript/)
-  * Logging
-    * Global
-      * [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) / [Google Stackdriver](https://cloud.google.com/stackdriver/)
-
-    * Global
-      * [New Relic](https://newrelic.com/) / [AppDynamics](https://www.appdynamics.com/) / [Datadog APM](https://www.datadoghq.com/apm/)
-      * [Pingdom](https://www.pingdom.com/), [AppNeta](https://www.appneta.com/)
-      * [Trace](https://trace.risingstack.com)
-
+        
 ### Command-line Environment (Mac)
-
-* Intro
-  * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-  * [The Bash Guide](http://guide.bash.academy/)
-
-* Git
-  * [Git-it](https://github.com/jlord/git-it-electron)
-  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
-  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
   
   * [commitizen](https://github.com/commitizen/cz-cli)
 * [Docker for Mac](https://docs.docker.com/docker-for-mac/)
