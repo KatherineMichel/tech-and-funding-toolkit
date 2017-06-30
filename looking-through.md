@@ -135,14 +135,7 @@
   * [Using ARIA](https://w3c.github.io/using-aria/)
 
     * Workshop - [Codelabs - Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
-    
-  * [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
-    * [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
-    * [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
-    * [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/)
-    
-    * Workshop - [Codelabs - Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
-      
+          
   * [WebVR](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API)
     * Status - [WebVR Rocks](https://webvr.rocks/) 
     * Workshop - [Codelabs - Building for Virtual Reality on the Web](https://codelabs.developers.google.com/codelabs/webvr/)
@@ -188,18 +181,7 @@
         [Responsive Patterns](http://bradfrost.github.io/this-is-responsive/patterns.html), \
         [ResponsiveDesign.is Patterns](https://responsivedesign.is/patterns/)
       * [Responsive Data Table Roundup](https://css-tricks.com/responsive-data-table-roundup/)
-  * [Atomic Design](http://bradfrost.com/blog/post/atomic-web-design/) ([Book](http://atomicdesign.bradfrost.com/table-of-contents/))
-    * [The Atomic Workflow — People, Process, And Making Design Systems Happen](https://www.smashingmagazine.com/atomic-design-workflow/)
-    * [The “Other” Interface: Atomic Design With Sass](https://www.smashingmagazine.com/2013/08/other-interface-atomic-design-sass/)
-    * [Atomic Design – Your Ultimate Guide to Scalable & Modular CSS (Sass)](https://blog.alexdevero.com/atomic-design-scalable-modular-css-sass/)
-
-      * [Why is Vertical Rhythm an Important Typography Practice?](https://zellwk.com/blog/why-vertical-rhythms/)
-      * [CSS with vertical rhythm](https://drewish.com/tools/vertical-rhythm/)
-    * [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
-      * [Modular Scale](http://www.modularscale.com/)
-
       
-    
 
 * Performance
   * Rendering
@@ -620,14 +602,10 @@ Service Worker
   * [React Router Redux](https://www.npmjs.com/package/react-router-redux)
 * Debugging
   * [why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
-
-* Scaffold / Boilerplate / Generator
-  * [create-react-app](https://github.com/facebookincubator/create-react-app)
-  * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) / [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
   
   * [angular-cli](https://cli.angular.io/)
   * [vue-cli](https://www.npmjs.com/package/vue-cli)
-  * [JavaScript Stack from Scratch](https://github.com/verekia/js-stack-from-scratch)
+
 * GUI Architectures
   * Comparison
     * [Scaling Isomorphic JavaScript Code](https://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
@@ -655,7 +633,6 @@ Service Worker
   * [MJML](https://mjml.io/) / [Foundation for Emails 2](http://foundation.zurb.com/emails.html)
 * React
   * [Material-UI](http://www.material-ui.com) / [React Toolbox](http://react-toolbox.com/)
-  * [Semantic UI React](https://react.semantic-ui.com)
   * [Reactstrap](https://reactstrap.github.io/) / [React Bootstrap](https://www.npmjs.com/package/react-bootstrap)
   * [React Foundation](https://react.foundation/)
   * [Ant Design](https://ant.design/) / [Ant Design Mobile](https://mobile.ant.design/)
@@ -804,6 +781,8 @@ Service Worker
 
 ### Server-side Libraries (Node.js)
 
+    * Environment Variables - [env-cmd](https://www.npmjs.com/package/env-cmd), [cross-env](https://www.npmjs.com/package/cross-env)
+    
 * Configuration
   * [dotenv](https://www.npmjs.com/package/dotenv)
   * [jsonfile](https://www.npmjs.com/package/jsonfile)
@@ -837,12 +816,23 @@ Service Worker
 ### Cloud Services (Global)
 
     * [Graphcool Functions](https://www.graph.cool/docs/reference/functions/overview-boo6uteemo/)
-   
+
+      * Object Storage + CDN
+        * Global
+          * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
+          * [Google Cloud Storage + Cloud CDN](https://cloud.google.com/storage/docs/hosting-static-website) - [google-cloud](https://www.npmjs.com/package/google-cloud) / [gcloud](https://cloud.google.com/sdk/gcloud/)
+
+  * Logging
+    * Global
+      * [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) / [Google Stackdriver](https://cloud.google.com/stackdriver/)
+      
+      
   * CaaS
     * [Amazon ECS](https://aws.amazon.com/ecs/) / [Google Container Engine](https://cloud.google.com/container-engine/)
 * Storage
   * Object Storage
     * [Amazon S3](https://aws.amazon.com/s3/) / [Google Cloud Storage](https://cloud.google.com/storage/)
+    
   * DBaaS
     * In-Memory Key-Value NoSQL - [Amazon ElastiCache](https://aws.amazon.com/elasticache/)
       * Redis - [Compose](https://www.compose.com/redis) / [Redise Cloud](https://redislabs.com/products/redis-cloud/) / [Heroku Redis](https://www.heroku.com/redis)
@@ -884,22 +874,9 @@ Service Worker
   * IM - [Discord](https://discordapp.com/developers/)
   * Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
 
-* AIaaS / BDaaS
-  * Natural Language
-    * NLP - [Google Natural Language API](https://cloud.google.com/natural-language/)
-    * Speech Recognition / Speech Synthesis
-      * [Amazon Lex](https://aws.amazon.com/lex/) / [Google Cloud Speech API](https://cloud.google.com/speech/)
-      * [Amazon Polly](https://aws.amazon.com/polly/)
-    * Translation - [Google Cloud Translation API](https://cloud.google.com/translate/)
-  * Computer Vision
-    * [Amazon Rekognition](https://aws.amazon.com/rekognition/) / [Google Cloud Vision API](https://cloud.google.com/vision/)
-    * [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
-
-
 ### Testing
 
 * Unit Testing / Test Runner
-  * [Chai](http://chaijs.com/)
 * Web Testing
   * Integration Testing
     * [Enzyme](http://airbnb.io/enzyme/)
@@ -930,12 +907,6 @@ Service Worker
   * Network
   * [SinonJS](http://sinonjs.org/)
 
-* Analysis
-  * Node.js Security
-    * [nsp](https://www.npmjs.com/package/nsp) / [snyk](https://www.npmjs.com/package/snyk)
-      * [NSP Advisories](https://nodesecurity.io/advisories/) / [Snyk - Vulnerability DB](https://snyk.io/vuln/)
-
-    * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) / [pwmetrics](https://github.com/paulirish/pwmetrics)
     * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
     * [Varvy SEO tool](https://varvy.com/)
 
@@ -1013,22 +984,15 @@ Service Worker
       [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
       * [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
     
-    * Environment Variables - [env-cmd](https://www.npmjs.com/package/env-cmd), [cross-env](https://www.npmjs.com/package/cross-env)
     * [get-port](https://www.npmjs.com/package/get-port), [public-ip](https://www.npmjs.com/package/public-ip)
 
 ### Workflow
-
-      * Object Storage + CDN
-        * Global
-          * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
-          * [Google Cloud Storage + Cloud CDN](https://cloud.google.com/storage/docs/hosting-static-website) - [google-cloud](https://www.npmjs.com/package/google-cloud) / [gcloud](https://cloud.google.com/sdk/gcloud/)
-          * [Firebase Hosting](https://firebase.google.com/products/hosting/) - [firebase-tools](https://www.npmjs.com/package/firebase-tools)
-          * [Netlify](https://www.netlify.com/) - [netlify-cli](https://www.npmjs.com/package/netlify-cli)
-          * [Surge](https://surge.sh/) - [surge cli client](https://www.npmjs.com/package/surge)
+      
+          * [Firebase Hosting](https://firebase.google.com/products/hosting/) 
           
-    * PaaS
-        * [now](https://zeit.co/now)
-        * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
+[firebase-tools](https://www.npmjs.com/package/firebase-tools)
+[surge cli client](https://www.npmjs.com/package/surge)
+                 
 * Monitoring
   * Error Tracking
     * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors), [Front-End Error Handling](https://staticapps.org/articles/front-end-error-handling/)
@@ -1036,10 +1000,6 @@ Service Worker
     * Services
       * [Sentry](https://sentry.io/for/javascript/)
       
-  * Logging
-    * Global
-      * [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) / [Google Stackdriver](https://cloud.google.com/stackdriver/)
-
     * Global
       * [New Relic](https://newrelic.com/) / [AppDynamics](https://www.appdynamics.com/) / [Datadog APM](https://www.datadoghq.com/apm/)
       * [Pingdom](https://www.pingdom.com/), [AppNeta](https://www.appneta.com/)
