@@ -270,13 +270,7 @@ https://medium.com/the-node-js-collection
     * Feature Detection - [Modernizr/feature-detects](https://github.com/Modernizr/Modernizr/tree/master/feature-detects), [feature.js](https://github.com/viljamis/feature.js/blob/master/feature.js)
 
     * [Graded Browser Support](https://github.com/yui/yui3/wiki/Graded-Browser-Support) - [Grade components, not browsers](https://www.filamentgroup.com/lab/grade-the-components.html)
-  * Email
-    * [CSS Support Guide for Email Clients](https://www.campaignmonitor.com/css/) / 
-    
-    [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
-    * [Email Design Reference](https://templates.mailchimp.com/) + [HTML Email Templates](https://github.com/mailchimp/Email-Blueprints)
-    
-    
+        
 * ECMAScript
   * [ECMAScript compatibility table](http://kangax.github.io/compat-table/es6/)
   * [Node.js ES2015 Support](http://node.green/)
@@ -363,11 +357,7 @@ http://developer.telerik.com
       * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
       * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-      
-    * Changelog
-      * [Conventional Commits](https://conventionalcommits.org/)
-      * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
- 
+       
      * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
                    
   * Small Modules
@@ -408,8 +398,7 @@ http://developer.telerik.com
     * Learning
       * [Learn GraphQL](https://learngraphql.com)
       * [Queries and Mutations](http://graphql.org/learn/queries/)
-      * Playground - [GraphQLHub](https://www.graphqlhub.com/)
-      
+      * Playground - [GraphQLHub](https://www.graphqlhub.com/)      
     * [React Apollo](http://dev.apollodata.com/react/), [Learn Apollo](https://www.learnapollo.com/)
   
  http://hood.ie/blog
@@ -422,18 +411,8 @@ http://developer.telerik.com
     * [Scaling Isomorphic JavaScript Code](https://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
     * [Comparison of Architecture presentation patterns MVP(SC),MVP(PV),PM,MVVM and MVC](https://www.codeproject.com/Articles/66585/Comparison-of-Architecture-presentation-patterns-M)
     
-    * [Unidirectional User Interface Architectures](https://staltz.com/unidirectional-user-interface-architectures.html)
-    * [Change And Its Detection In JavaScript Frameworks](http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html)
-    * [Martin Fowler's eaaDev](https://martinfowler.com/eaaDev/)
-
   * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
       
-  * [Redux - Reinventing Flux - Interview with Dan Abramov](https://survivejs.com/blog/redux-interview/)
-  * [MVI (Model-View-Intent) in Cycle.js](https://cycle.js.org/model-view-intent.html)
-    * [What Developers Need to Know about MVI (Model-View-Intent)](https://thenewstack.io/developers-need-know-mvi-model-view-intent/)
-  * [SAM (State-Action-Model)](http://sam.js.org/)
-
-
 ### UI Toolkits
 
 * CSS
@@ -521,8 +500,7 @@ http://developer.telerik.com
   * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
   * [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
-  * Tools - see _[Tooling > Testing](#testing) > Analysis_
-* Logging / Monitoring
+
   * [Logging The Ultimate Guide](https://www.loggly.com/ultimate-guide/category/node/)
   * [The Definitive Guide for Monitoring Node.js Applications](https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/)
   * [Monitoring and diagnostics](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
@@ -538,11 +516,13 @@ http://developer.telerik.com
     * [Micro](https://github.com/zeit/micro) / [Seneca](http://senecajs.org/) / [StdLib](https://stdlib.com/)
   * Bots
     * [Botkit](https://www.npmjs.com/package/botkit)
+    
 * GraphQL
   * [Schemas and Types](http://graphql.org/learn/schema/)
     * [GraphQL Schema Language Cheat Sheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
   * [graphql-tools](http://dev.apollodata.com/tools/graphql-tools/index.html)
   * [graphql-anywhere](https://www.npmjs.com/package/graphql-anywhere)
+  
 * DocGen + CodeGen
   * [API Blueprint](https://apiblueprint.org/) / [Swagger](http://swagger.io/) / [RAML](http://raml.org/)
   * [JSON Schema](http://json-schema.org/)
@@ -562,9 +542,6 @@ http://developer.telerik.com
 * Configuration
   * [dotenv](https://www.npmjs.com/package/dotenv)
   * [jsonfile](https://www.npmjs.com/package/jsonfile)
-* Debugging
-  * [why-is-node-running](https://www.npmjs.com/package/why-is-node-running)
-* Network
 
   * Email - [Nodemailer](https://nodemailer.com/)
     * Email HTML - [mailgen](https://www.npmjs.com/package/mailgen)
@@ -572,7 +549,6 @@ http://developer.telerik.com
   * [bcrypt](https://www.npmjs.com/package/bcrypt)
 
 * Auth
-  * JWT - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
   * [passwordless](https://passwordless.net/)
   * [oauth](https://www.npmjs.com/package/oauth)
   * OAuth Providers - [hello.js](http://adodson.com/hello.js/) / [grant](https://www.npmjs.com/package/grant)
