@@ -796,6 +796,7 @@ https://medium.com/the-node-js-collection
       * RabbitMQ - [Compose](https://www.compose.com/rabbitmq)
     * Analytics - [Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)
       * Elasticsearch - [Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/) / [Elastic Cloud](https://www.elastic.co/cloud) / [Bonsai](https://bonsai.io/)
+      
     * Warehouse - [Amazon Redshift](https://aws.amazon.com/redshift/) / [Google BigQuery](https://cloud.google.com/bigquery/)
           
 * BaaS
@@ -807,8 +808,6 @@ https://medium.com/the-node-js-collection
   * Auth
     * [Auth0](https://auth0.com/) / [Amazon Cognito](https://aws.amazon.com/cognito/) / [Firebase Authentication](https://firebase.google.com/products/auth/)
     * [OAuth.io](https://oauth.io/)
-    * CAPTCHA
-      * [reCAPTCHA](https://www.google.com/recaptcha/)
       
   * Search - [Algolia](https://www.algolia.com/)
   * Email - [SendGrid](https://sendgrid.com/) / [Mailgun](https://www.mailgun.com/) / [Mandrill](http://www.mandrill.com/) / [Amazon SES](https://aws.amazon.com/ses/)
@@ -831,7 +830,6 @@ https://medium.com/the-node-js-collection
   * Visual Testing
     * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
     * [BrowserStack](https://www.browserstack.com/)
-  * Monkey Testing
   * Headless Browsers
     * Browsers
       * Chromium - [Headless Chrome/Chromium](https://developers.google.com/web/updates/2017/04/headless-chrome)
@@ -982,22 +980,6 @@ https://medium.com/the-node-js-collection
       * [pm2](http://pm2.keymetrics.io/)
         * [pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
         * [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
-
-    * Containers
-      * [Docker](https://docs.docker.com/engine/reference/builder/)
-        * Learning
-          * [Play with docker classroom](http://training.play-with-docker.com/)
-          * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
-          * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
-        * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
-        * [Docker run reference](https://docs.docker.com/engine/reference/run/)
-        * [Docker Compose](https://docs.docker.com/compose/overview/)
-      * Docker Images
-        * [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
-        * [docker-lambda](https://github.com/lambci/docker-lambda)
-    * Container Clusters
-      * [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
-        * [Compose file reference](https://docs.docker.com/compose/compose-file/)
         
 ### Cloud Services (China)
 
