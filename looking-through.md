@@ -448,10 +448,6 @@ http://developer.telerik.com
   * [React WeUI](https://weui.github.io/react-weui/docs/)
   * [React Desktop](http://reactdesktop.js.org/)
   * [React Native Web](https://www.npmjs.com/package/react-native-web)
-
-  * [Ant Design](https://ant.design/) / [Ant Design Mobile](https://mobile.ant.design/)
-  * [Blueprint](http://blueprintjs.com/)
-  * [Grommet](https://grommet.github.io/)
   
 ### Network
 
@@ -517,14 +513,11 @@ http://developer.telerik.com
   * [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2), [Understanding OAuth2](http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/)
     * [The OAuth Bible](http://oauthbible.com/)
   * [Tokens used by Auth0](https://auth0.com/docs/tokens)
-    * [Understanding Refresh Tokens](https://auth0.com/learn/refresh-tokens/)
-  * [How To Safely Store A Password](https://codahale.com/how-to-safely-store-a-password/)
-  * [You Wouldn't Base64 a Password - Cryptography Decoded](https://paragonie.com/blog/2015/08/you-wouldnt-base64-a-password-cryptography-decoded)
+
   * [Weak Signature Algorithm](https://developer.mozilla.org/en-US/docs/Web/Security/Weak_Signature_Algorithm)
 * Security
   * [Security Guide for Developers](https://github.com/FallibleInc/security-guide-for-developers)
-    * [Understanding CSRF](https://github.com/pillarjs/understanding-csrf), [CSRF Demystified](http://www.gnucitizen.org/blog/csrf-demystified/)
-    * [Cross-site Scripting (XSS) Attack](https://www.acunetix.com/websitesecurity/cross-site-scripting/)
+
   * [OWASP Top Ten Cheat Sheet](https://www.owasp.org/index.php/OWASP_Top_Ten_Cheat_Sheet)
   * [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
@@ -717,12 +710,11 @@ http://developer.telerik.com
     * Presets
       * [Preset Env](https://github.com/babel/babel-preset-env)
         * [Browserslist](https://github.com/ai/browserslist)
+        
       * [Preset React](http://babeljs.io/docs/plugins/preset-react/)
-      * [React Optimize](https://github.com/thejameskyle/babel-react-optimize)
-    * Plugins
-      * Proposals
+
         * Shims - [Runtime Transform](http://babeljs.io/docs/plugins/transform-runtime/) / [Polyfill](http://babeljs.io/docs/usage/polyfill/)
-          * async/await - [fast-async](https://github.com/MatAtBread/fast-async) ([NoDent](https://www.npmjs.com/package/nodent))
+
         * [Stage 3](http://babeljs.io/docs/plugins/preset-stage-3/), [Stage 2](http://babeljs.io/docs/plugins/preset-stage-2/), [Stage 1](http://babeljs.io/docs/plugins/preset-stage-1/), [Stage 0](http://babeljs.io/docs/plugins/preset-stage-0/)
 
 
