@@ -129,12 +129,6 @@
     * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/), \
       [How Browsers Lay Out Web Pages](https://dbaron.org/talks/2012-03-11-sxsw/master.xhtml)
 
-* Security
-  * [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/)
-  * [HTML5 Security Cheatsheet](https://html5sec.org/)
-* Semantics / SEO / Accessibility
-  * [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-  * [SEO Tutorial For Beginners in 2017](https://www.hobo-web.co.uk/seo-tutorial/)
   * [The A11Y Project](http://a11yproject.com/)
   
 ### HTML5 Features
@@ -150,37 +144,10 @@
 [Flexbox Patterns](http://www.flexboxpatterns.com/home)
 
 ### Next Generation CSS
-
-* CSS Modules
-  * [The End of Global CSS](https://medium.com/seek-blog/the-end-of-global-css-90d2a4a06284)
   
-    * [Meet PostCSS](http://www.meetpostcss.com/)
-    * [PostCSS – A Comprehensive Introduction](https://www.smashingmagazine.com/2015/12/introduction-to-postcss/)
-    * [PostCSS – Sass Killer or Preprocessing Pretender?](https://ashleynolan.co.uk/blog/postcss-a-review)
-    * [PostCSS Playground](https://sneakertack.github.io/postcss-playground/)
-  * CSSNext
-    * [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
-    * [Getting Started With CSS calc()](https://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/)
-
-* [CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
-  * [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
-    * [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
   * [JSS](http://cssinjs.org/), [Radium](http://formidable.com/open-source/radium/)
   
-  * Motion Design
-    * [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc)
-    * [10 principles for smooth web animations](https://blog.gyrosco.pe/smooth-css-animations-7d8ffc2c1d29)
-  * Grid System - [A Comprehensive Introduction to Grids in Web Design](https://webdesign.tutsplus.com/articles/a-comprehensive-introduction-to-grids-in-web-design--cms-26521)
-    * calc() grid system - [Lost Grid](http://lostgrid.org/)
     * flexbox grid system - [Flexbox Grid](http://flexboxgrid.com/)
-    * [The 8-Point Grid](https://spec.fm/specifics/8-pt-grid)
-  * Typography
-    * [Typography.js](https://www.npmjs.com/package/typography)
-    * [Gutenberg](http://matejlatin.github.io/Gutenberg/)
-    * [The Equilateral Triangle of a Perfect Paragraph](https://betterwebtype.com/triangle)
-    * [The Elements of Typographic Style Applied to the Web](http://webtypography.net/toc/)
-
-
 
 * [PostCSS](http://postcss.org/)
 
@@ -206,15 +173,10 @@
     * [Speaking JavaScript](http://speakingjs.com/es5/)
 
 * Important Proposals
-  * [ES Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358) in [Browsers](https://jakearchibald.com/2017/es-modules-in-browsers/) and [Node.js](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
-  * 
-  [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise), [Promise Promote](https://www.promisejs.org/), [Promises/A+](https://promisesaplus.com/implementations)
-  * [Observables](https://github.com/tc39/proposal-observable)
-  * [Static Typing](https://ecmascript-daily.github.io/pages/status-of-static-typing-in-ecmascript/)
-* Functional Programming
-  * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504)
-  * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+  * [ES Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358)
   
+  [Promise](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise)
+    
   * [Composing Software](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
   
   * Books
@@ -553,12 +515,8 @@ http://developer.telerik.com
   * [oauth](https://www.npmjs.com/package/oauth)
   * OAuth Providers - [hello.js](http://adodson.com/hello.js/) / [grant](https://www.npmjs.com/package/grant)
   
-* Storage
-  * NOSQL
-    * Redis Client - [ioredis](https://github.com/luin/ioredis)
     * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
-    * DynamoDB ORM - [vogels](https://www.npmjs.com/package/vogels)
-    * HBase Client - [hbase](https://www.npmjs.com/package/hbase)
+
   * RDS
     * RDS ORM - [Sequelize](http://docs.sequelizejs.com/)
 
@@ -571,7 +529,6 @@ http://developer.telerik.com
       * CouchDB - [Couchbase](https://www.couchbase.com/products/server) / [Cloudant](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/cloudant/)
     * Wide Column NoSQL - [Google Bigtable](https://cloud.google.com/bigtable/)
     
-  * Scheduler - [node-schedule](https://www.npmjs.com/package/node-schedule)
   * HTML Traversing - [cheerio](https://www.npmjs.com/package/cheerio), [jsdom](https://www.npmjs.com/package/jsdom)
   * [opencv](https://www.npmjs.com/package/opencv)
 
@@ -627,8 +584,6 @@ http://developer.telerik.com
 
 ### Testing
 
-* Unit Testing / Test Runner
-* Web Testing
   * Integration Testing
     * [Enzyme](http://airbnb.io/enzyme/)
   * Functional Testing
@@ -693,14 +648,10 @@ http://developer.telerik.com
 
         * [Stage 3](http://babeljs.io/docs/plugins/preset-stage-3/), [Stage 2](http://babeljs.io/docs/plugins/preset-stage-2/), [Stage 1](http://babeljs.io/docs/plugins/preset-stage-1/), [Stage 0](http://babeljs.io/docs/plugins/preset-stage-0/)
 
-
-  * [node-sass](https://www.npmjs.com/package/node-sass)
-  * [PostHTML](https://www.npmjs.com/package/posthtml)
 * Loader / Builder / Bundler
+
   * [Webpack](http://webpack.github.io/docs/)
     * [webpack-howto](https://github.com/petehunt/webpack-howto)
-      * [SurviveJS Webpack](https://survivejs.com/webpack/what-is-webpack/)
-      * [webpack-blocks](https://github.com/andywer/webpack-blocks)
     
   * [StyleLint](http://stylelint.io/)
 
@@ -716,9 +667,6 @@ http://developer.telerik.com
 [firebase-tools](https://www.npmjs.com/package/firebase-tools)
 [surge cli client](https://www.npmjs.com/package/surge)
                  
-* Monitoring
-  * Error Tracking
-    * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors)
     * Services
       * [Sentry](https://sentry.io/for/javascript/)
             
