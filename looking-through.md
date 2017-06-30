@@ -317,18 +317,10 @@ https://medium.com/the-node-js-collection
 * JS Engine
   * [A Guide to JavaScript Engines for Idiots](http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/)
   * [V8](https://developers.google.com/v8/)
-    * [How the V8 engine works?](http://thibaultlaurens.github.io/javascript/2013/04/29/how-the-v8-engine-works/)
-    * Internal
-      * [v8: a tale of two compilers](https://wingolog.org/archives/2011/07/05/v8-a-tale-of-two-compilers), \
-        [A tour of V8: full compiler](http://jayconrod.com/posts/51/a-tour-of-v8-full-compiler)
-      * [A tour of V8: Garbage Collection](http://jayconrod.com/posts/55/a-tour-of-v8-garbage-collection)
+
     * Next Generation
-      * [Ignition + TurboFan launch and Declarative JavaScript](http://benediktmeurer.de/2017/04/03/v8-behind-the-scenes-march-edition/)
         * [Launching Ignition and TurboFan](https://v8project.blogspot.hk/2017/05/launching-ignition-and-turbofan.html)
-        * [A tale of TurboFan](http://benediktmeurer.de/2017/03/01/v8-behind-the-scenes-february-edition/)
-      * [Ignition + TurboFan and ES2015](http://benediktmeurer.de/2016/11/25/v8-behind-the-scenes-november-edition/)
-  * [JSC](https://trac.webkit.org/wiki/JavaScriptCore)
-    * [JavaScriptCore, the WebKit JS implementation](https://wingolog.org/archives/2011/10/28/javascriptcore-the-webkit-js-implementation)
+
     * Internal
       * [Introducing the WebKit FTL JIT](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
     * Next Generation
@@ -380,16 +372,12 @@ https://medium.com/the-node-js-collection
      * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
                    
   * Small Modules
-    * [Unix Philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs)
-    * [module best practices](https://github.com/mattdesl/module-best-practices)
-    * [how I write modules](http://substack.net/how_I_write_modules)
     * Hyper Modular / One-line Modules
       * [Small focused modules](https://github.com/sindresorhus/ama/issues/10#issuecomment-117766328)
-      * [Hyper Modular Packages: A Crazy Cult or a Reasonable Practice?](http://thefullstack.xyz/hyper-modular-packages-a-crazy-cult-or-a-reasonable-practice/)
+
       * [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
   * Isomorphic JS / Universal JS
     * [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
-    * [Universal JavaScript](https://medium.com/@mjackson/universal-javascript-4761051b7ae9)
 
 ### Universal Utility Libraries
 
@@ -414,7 +402,7 @@ https://medium.com/the-node-js-collection
       * Best Practices
         * [React Bits](https://github.com/vasanthk/react-bits), [React in patterns](https://github.com/krasimir/react-in-patterns)
     * Lightweight Alternative
-      * [Preact](https://preactjs.com/) / [Inferno](https://infernojs.org/)
+      * [Preact](https://preactjs.com/)
 
 * API
   * [GraphQL](http://graphql.org/)
@@ -424,11 +412,9 @@ https://medium.com/the-node-js-collection
       * Playground - [GraphQLHub](https://www.graphqlhub.com/)
       
     * [React Apollo](http://dev.apollodata.com/react/), [Learn Apollo](https://www.learnapollo.com/)
-  * Learning
-    * [Designing Offline-First Web Apps](https://alistapart.com/article/offline-first)
-    * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html), \
-      [Offline First and the Circle Of Web](http://hood.ie/blog/offline-first-and-the-circle-of-web.html), [Part II: Breaking the Circle](http://hood.ie/blog/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle.html)
   
+ http://hood.ie/blog
+ 
   * [angular-cli](https://cli.angular.io/)
   * [vue-cli](https://www.npmjs.com/package/vue-cli)
 
@@ -474,7 +460,7 @@ https://medium.com/the-node-js-collection
       [Introduction to HTTP](https://launchschool.com/books/http)
     * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
     * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) / \
-      [Understanding URIs](http://medialize.github.io/URI.js/about-uris.html)
+
     * [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
     * [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
     * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
@@ -488,7 +474,6 @@ https://medium.com/the-node-js-collection
     * Content Security Policy (CSP) - [Google](https://developers.google.com/web/fundamentals/security/csp/) / [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
   * Performance
     * [High Performance Browser Networking](https://hpbn.co/), \
-      [Ideal HTTP Performance](https://www.mnot.net/blog/2016/04/22/ideal-http)
     * HTTP Caching - [Google](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching), [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
     * [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
   * HTTPS
@@ -497,12 +482,9 @@ https://medium.com/the-node-js-collection
     * [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
     * [What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content), [Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
   * HTTP/2
-    * [http2 explained](https://www.gitbook.com/book/bagder/http2-explained/details) / \
+
       [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
-    * [HTTP/2 FAQ](https://http2.github.io/faq/)
-    * [A Comprehensive Guide To HTTP/2 Server Push](https://www.smashingmagazine.com/2017/04/guide-http2-server-push/)
-  * [gRPC](http://www.grpc.io/docs/quickstart/node.html)
-    * [What is gRPC?](http://www.grpc.io/docs/guides/)
+
     * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
 * TCP
   * [Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
