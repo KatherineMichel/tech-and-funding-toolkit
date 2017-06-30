@@ -8,39 +8,6 @@
 ---
 
 ### Collaboration
-
-  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-  
-  * Workflow
-    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-  * GUI
-    * [SourceTree](https://www.sourcetreeapp.com/)
-  * Github
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-    * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
-    * Chrome Extensions
-      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
-      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-* ChatOps
-  * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
-    [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-  * [Hubot](https://hubot.github.com/)
-    * Adapters - [Slack](https://github.com/slackapi/hubot-slack) / [HipChat](https://www.npmjs.com/package/hubot-hipchat) / [Discord](http://npmjs.com/package/hubot-discord) / [IRC](https://www.npmjs.com/package/hubot-irc) / [Wechat](https://www.npmjs.com/package/hubot-weixin) / [QQ](https://www.npmjs.com/package/hubot-qq)
-* Kanban
-  * What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
-  * [Getting Started With Trello](https://trello.com/guide)
-  * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
-  
-* DevOps
-  * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-  * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-  * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-  
-* Git
-  * [Git-it](https://github.com/jlord/git-it-electron)
-  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
-  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
   
 * Intro
   * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
@@ -366,6 +333,8 @@ Service Worker
     * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide)
 
   * [Lodash's FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide)
+  
+  
   * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/)
   
   * [Why Ramda?](http://fr.umio.us/why-ramda/)
@@ -384,7 +353,10 @@ Service Worker
   * Learn RxJS
 
     
+    
     * [DefinitelyTyped](http://definitelytyped.org/), [TypeSearch](http://microsoft.github.io/TypeSearch/)
+
+https://medium.com/the-node-js-collection
 
 ### Node.js
 
@@ -568,6 +540,7 @@ Service Worker
       * Pete Hunt's [react-howto](https://github.com/petehunt/react-howto)
       * [SurviveJS React](https://survivejs.com/react/introduction/)
       * [React Cheat Sheet](https://reactcheatsheet.com/)
+      
       * Best Practices
         * [React Bits](https://github.com/vasanthk/react-bits), [React in patterns](https://github.com/krasimir/react-in-patterns)
         * [Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
@@ -611,9 +584,7 @@ Service Worker
     * [Martin Fowler's eaaDev](https://martinfowler.com/eaaDev/)
 
   * MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-    
-  * [The Elm Architecture](https://guide.elm-lang.org/architecture/)
-  
+      
   * [Redux - Reinventing Flux - Interview with Dan Abramov](https://survivejs.com/blog/redux-interview/)
   * [MVI (Model-View-Intent) in Cycle.js](https://cycle.js.org/model-view-intent.html)
     * [What Developers Need to Know about MVI (Model-View-Intent)](https://thenewstack.io/developers-need-know-mvi-model-view-intent/)
@@ -688,30 +659,7 @@ Service Worker
     [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), \
     [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
   * [Introducing JSON](http://json.org/)
-* Microservices
-  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
-    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
-    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
-    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
-    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
-    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
-    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
-  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
-  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
-  * API Gateway
-    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
-    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
-    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
-    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
-  * Serverless
-    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
-    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
-    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
-    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
-      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
-    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
-      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
-
+ 
 * Cloud / Distributed
   * Architecture
     * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
@@ -791,11 +739,13 @@ Service Worker
     * Email HTML - [mailgen](https://www.npmjs.com/package/mailgen)
 * Crypto
   * [bcrypt](https://www.npmjs.com/package/bcrypt)
+
 * Auth
   * JWT - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
   * [passwordless](https://passwordless.net/)
   * [oauth](https://www.npmjs.com/package/oauth)
   * OAuth Providers - [hello.js](http://adodson.com/hello.js/) / [grant](https://www.npmjs.com/package/grant)
+  
 * Storage
   * NOSQL
     * Redis Client - [ioredis](https://github.com/luin/ioredis)
@@ -805,6 +755,15 @@ Service Worker
   * RDS
     * RDS ORM - [Sequelize](http://docs.sequelizejs.com/)
 
+  * DBaaS
+    * In-Memory Key-Value NoSQL - [Amazon ElastiCache](https://aws.amazon.com/elasticache/)
+      * Redis - [Compose](https://www.compose.com/redis) / [Redise Cloud](https://redislabs.com/products/redis-cloud/) / [Heroku Redis](https://www.heroku.com/redis)
+      
+    * Document NoSQL - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) / [Google Cloud Datastore](https://cloud.google.com/datastore/)
+      * MongoDB - [Compose](https://www.compose.com/mongodb) / [mLab](https://mlab.com/) / [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+      * CouchDB - [Couchbase](https://www.couchbase.com/products/server) / [Cloudant](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/cloudant/)
+    * Wide Column NoSQL - [Google Bigtable](https://cloud.google.com/bigtable/)
+    
   * Scheduler - [node-schedule](https://www.npmjs.com/package/node-schedule)
   * HTML Traversing - [cheerio](https://www.npmjs.com/package/cheerio), [jsdom](https://www.npmjs.com/package/jsdom)
   * [opencv](https://www.npmjs.com/package/opencv)
@@ -821,23 +780,13 @@ Service Worker
   * Logging
     * Global
       * [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) / [Google Stackdriver](https://cloud.google.com/stackdriver/)
-      
-      
+            
   * CaaS
     * [Amazon ECS](https://aws.amazon.com/ecs/) / [Google Container Engine](https://cloud.google.com/container-engine/)
 * Storage
   * Object Storage
     * [Amazon S3](https://aws.amazon.com/s3/) / [Google Cloud Storage](https://cloud.google.com/storage/)
-    
-  * DBaaS
-    * In-Memory Key-Value NoSQL - [Amazon ElastiCache](https://aws.amazon.com/elasticache/)
-      * Redis - [Compose](https://www.compose.com/redis) / [Redise Cloud](https://redislabs.com/products/redis-cloud/) / [Heroku Redis](https://www.heroku.com/redis)
-      
-    * Document NoSQL - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) / [Google Cloud Datastore](https://cloud.google.com/datastore/)
-      * MongoDB - [Compose](https://www.compose.com/mongodb) / [mLab](https://mlab.com/) / [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
-      * CouchDB - [Couchbase](https://www.couchbase.com/products/server) / [Cloudant](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/cloudant/)
-    * Wide Column NoSQL - [Google Bigtable](https://cloud.google.com/bigtable/)
-    
+        
     * SQL - [Amazon RDS](https://aws.amazon.com/rds/) / [Google Cloud SQL](https://cloud.google.com/sql/)
       * PostgreSQL - [Compose](https://www.compose.com/postgresql) / [Heroku Postgres](https://www.heroku.com/postgres)
       * MySQL - [Compose](https://www.compose.com/mysql)
@@ -848,7 +797,7 @@ Service Worker
     * Analytics - [Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)
       * Elasticsearch - [Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/) / [Elastic Cloud](https://www.elastic.co/cloud) / [Bonsai](https://bonsai.io/)
     * Warehouse - [Amazon Redshift](https://aws.amazon.com/redshift/) / [Google BigQuery](https://cloud.google.com/bigquery/)
-    
+          
 * BaaS
   * CRUD
     * Realtime
