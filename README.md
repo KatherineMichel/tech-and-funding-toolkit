@@ -712,6 +712,25 @@ DevCenter (Developer Center/API)
 #### Programming Language Style Guides
 
 <!--
+  * Style Guide
+    * [Style Guide Driven Development / Living Style Guides](http://styleguides.io/)
+    * Reference
+      * Apple's [Human Interface Guidelines](https://developer.apple.com/design/)
+      * Google's [Material Design](https://material.io/)
+      * Microsoft's [Fluent Design System](http://fluent.microsoft.com/)
+      * Airbnb's [new design system](https://airbnb.design/building-a-visual-language/)
+      * Github's [Primer](http://primercss.io/)
+      * Atlassian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
+      * Salesforce's [Lightning Design System](https://www.lightningdesignsystem.com/)
+      * Yelp's [Styleguide](https://www.yelp.com/styleguide)
+      * IBM's [Living Language](https://www.ibm.com/design/language/)
+      * BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines/)
+      * A List Apart's [pattern library](http://patterns.alistapart.com/)
+      * <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov/)
+      * MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide/)
+-->
+
+<!--
 New
 https://github.com/bradfrost/style-guide-guide
 https://github.com/alexpate/awesome-design-systems
@@ -6421,7 +6440,29 @@ Azure Functions
 * [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
 * [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 
-
+<!--
+    * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
+  * Static
+    * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)    
+  * Queue / Jobs
+    * [Queue-Based Load Leveling](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling), [Competing Consumers](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers), [Priority Queue](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
+    * [Background jobs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
+  * Decompose
+    * [Federated Identity](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)
+    * [Pipes and Filters](https://docs.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters)
+    * [Compute Resource Consolidation](https://docs.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation)
+  * Configuration
+    * [External Configuration Store](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store), [Runtime Reconfiguration](https://docs.microsoft.com/en-us/azure/architecture/patterns/runtime-reconfiguration)
+  * Storage / Querying
+    * [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside), [Caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
+    * [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs), [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+    * [Index Table](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-table), [Materialized View](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
+    * [Data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning), [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
+  * [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) / [Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
+    * [Retry](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry), [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
+    * [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
+    * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
+-->
 
 #### AWS
 
