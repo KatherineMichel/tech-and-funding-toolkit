@@ -1678,6 +1678,40 @@ A Successful Git Branching Model
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
 <!--
+Newer
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  
+  * Workflow
+    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+  * GUI
+    * [SourceTree](https://www.sourcetreeapp.com/)
+  * Github
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+    * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+    * Chrome Extensions
+      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
+      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+* ChatOps
+  * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
+    [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+  * [Hubot](https://hubot.github.com/)
+    * Adapters - [Slack](https://github.com/slackapi/hubot-slack) / [HipChat](https://www.npmjs.com/package/hubot-hipchat) / [Discord](http://npmjs.com/package/hubot-discord) / [IRC](https://www.npmjs.com/package/hubot-irc) / [Wechat](https://www.npmjs.com/package/hubot-weixin) / [QQ](https://www.npmjs.com/package/hubot-qq)
+* Kanban
+  * What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
+  * [Getting Started With Trello](https://trello.com/guide)
+  * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
+  
+* DevOps
+  * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+  * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+  * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+  
+* Git
+  * [Git-it](https://github.com/jlord/git-it-electron)
+  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
+  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+  
 New
 https://blog.golang.org/developer-experience
 https://www.ampproject.org/roadmap
@@ -4046,11 +4080,12 @@ Yo/Yeoman (Bower, Grunt)
 * [Yeoman Gulp Webapp Generator GitHub](https://github.com/yeoman/generator-gulp-webapp)  
 
 Other JavaScript Helpers
-* [Underscore GitHub](https://github.com/jashkenas/underscore)
+* [Underscore](http://underscorejs.org) and [Underscore GitHub](https://github.com/jashkenas/underscore)
 * [Sequelize.js (Backend ORM Node.js)](http://sequelizejs.com)
 
 Elm
 * [Elm](http://elm-lang.org) and [Elm GitHub](https://github.com/elm-lang)
+* [The Elm Architecture](https://guide.elm-lang.org/architecture/)
 
 Extension Languages
 * [Pug (formerly Jade)](https://pugjs.org) and [Pug GitHub](https://github.com/pugjs/pug)  
@@ -4061,8 +4096,6 @@ Extension Languages
 * [Handlebars](http://handlebarsjs.com) and [Handlebars GitHub](https://github.com/wycats/handlebars.js)  
 * [Mustache](https://mustache.github.io/) and [Mustache GitHub](https://github.com/janl/mustache.js)  
 * [Coffee Script](http://coffeescript.org) and [Coffee Script GitHub](https://github.com/jashkenas/coffeescript)  
-* [Underscore](http://underscorejs.org)  
-* [Underscore GitHub](https://github.com/jashkenas/underscore)
 
 Meteor
 * [Meteor](https://www.meteor.com)
@@ -6536,6 +6569,30 @@ AWS- Lambda
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
+* Microservices
+  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
+    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
+    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
+    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
+    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
+    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
+  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
+  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
+  * API Gateway
+    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
+    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
+    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
+    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
+  * Serverless
+    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
+    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
+    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
+      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
+    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
+      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
+      
 * [IronFunctions](https://github.com/iron-io/functions)
     
 https://github.com/awslabs/chalice
