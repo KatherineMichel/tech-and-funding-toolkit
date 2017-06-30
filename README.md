@@ -759,6 +759,12 @@ JavaScript Styleguide
 * [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
 * [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
 
+<!--
+  * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
+  * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+  * [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
+-->
+
 PHP Styleguides
 * [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
 * [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
@@ -1273,6 +1279,10 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
 * [Textmate](http://macromates.com) and [Textmate GitHub](https://github.com/textmate/textmate)
 * [Notepad++ (Windows)](https://notepad-plus-plus.org)
+
+<!--
+* Tutorials - [Essential Electron](http://jlord.us/essential-electron/)
+-->
 
 Less Common
 * [Orgmode.org](http://orgmode.org)  
@@ -2302,6 +2312,11 @@ Apple Developer Helpers
 * [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+<!--
+* [iTerm2](https://www.iterm2.com/)
+* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+-->
 
 App Store Submission
 * [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
@@ -6367,6 +6382,8 @@ AWS- Lambda
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
+* [IronFunctions](https://github.com/iron-io/functions)
+    
 https://aws.amazon.com/api-gateway
 
 https://github.com/awslabs/chalice
