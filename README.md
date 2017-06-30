@@ -372,10 +372,15 @@ Courses (See also MOOCs)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com) 
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
-* [W3Schools Web Development Tutorials](http://www.w3schools.com) and [W3Fools](http://www.w3fools.com)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
+
+W3Schools
+* [W3Schools Web Development Tutorials](http://www.w3schools.com)
+* [W3Fools](http://www.w3fools.com/)
+* [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
+* [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
 
 <!--
 http://jvns.ca
@@ -419,11 +424,16 @@ Design and Dev Publications
 * [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
  
 <!--
-https://www.html5rocks.com
-https://www.sitepoint.com
-https://code.tutsplus.com
+[HTML5Rocks](https://www.html5rocks.com/)
 
+http://html5doctor.com
+https://css-tricks.com
+https://www.smashingmagazine.com
+https://alistapart.com
+https://www.sitepoint.com
+https://csswizardry.com
 https://webdesign.tutsplus.com
+https://code.tutsplus.com
 -->
 
 Forums
@@ -712,6 +722,11 @@ DevCenter (Developer Center/API)
 #### Programming Language Style Guides
 
 <!--
+New
+https://github.com/bradfrost/style-guide-guide
+https://github.com/alexpate/awesome-design-systems
+https://github.com/kciter/awesome-style-guide
+
   * Style Guide
     * [Style Guide Driven Development / Living Style Guides](http://styleguides.io/)
     * Reference
@@ -728,13 +743,6 @@ DevCenter (Developer Center/API)
       * A List Apart's [pattern library](http://patterns.alistapart.com/)
       * <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov/)
       * MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide/)
--->
-
-<!--
-New
-https://github.com/bradfrost/style-guide-guide
-https://github.com/alexpate/awesome-design-systems
-https://github.com/kciter/awesome-style-guide
 
 https://github.com/buzzfeed/design
 https://developer.apple.com/design/
@@ -1287,7 +1295,11 @@ http://lisacatalano.github.io/brackets_course/pc.html
 
 Brackets turn off word wrap
 Brackets control-e
+-->
 
+Visual Studio Code
+
+<!--
 https://code.visualstudio.com/docs?start=true
 https://code.visualstudio.com/docs/setup/mac
 https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
@@ -1331,6 +1343,7 @@ http://plnkr.co/
 
 https://www.jetbrains.com/pycharm
 
+See JavaScript Stack
 [Google Code Prettify](https://github.com/google/code-prettify)
 -->
 
@@ -1598,8 +1611,10 @@ https://github.com/opengovfoundation/hr-manual
 
 https://github.com/babel/babel.github.io/issues
 
-JavaScript Standard Style
+Standard JS
 https://github.com/standard/standard
+
+JavaScript Standard Style
 https://github.com/DockYard/styleguides
 http://kafka.apache.org/coding-guide.html
 
@@ -3118,6 +3133,90 @@ https://developers.google.com/web/showcase
 #### Front-End Development
 
 <!--
+* Performance
+  * Rendering
+    * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+    * [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+    
+    * [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+
+    * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+    * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+    
+  * Offline
+    * [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+  * Measure
+    * [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+    * [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
+* Semantics / SEO / Accessibility
+  * Google's [Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+  
+* HTML / DOM
+  * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
+* Appearance
+  * [Web Components](https://developers.google.com/web/updates/2017/01/webcomponents-org)
+    * [Shadow DOM v1](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom), [Custom Elements v1](https://developers.google.com/web/fundamentals/getting-started/primers/customelements)
+  * [Web Animations](https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API)
+
+  * Images
+    * [Responsive Images](https://developers.google.com/web/fundamentals/design-and-ui/responsive/images), 
+* [Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+* Text
+  * [writing-mode](https://developer.mozilla.org/en-US/docs/Web/CSS/writing-mode) + [text-orientation](https://developer.mozilla.org/en-US/docs/Web/CSS/text-orientation)
+
+    * [Using CSS transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
+* Media
+  * [\<video\>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video), [\<audio\>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio)
+  * [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
+    * [Web Audio API Book](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+  * [Media Streams](https://developer.mozilla.org/en-US/docs/Web/API/Media_Streams_API)
+* Graphics
+  * [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+  * [Canvas](https://developer.mozilla.org/en-US/docs/HTML/Canvas)
+    * [HTML5 Canvas](http://chimera.labs.oreilly.com/books/1234000001654/index.html)
+  * [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API)
+    * [WebGL by example](https://developer.mozilla.org/en-US/docs/Learn/WebGL/By_example), [WebGL tutorial](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API/Tutorial)
+  * [Web Cryptography](https://developer.mozilla.org/en-US/docs/Web/API/Crypto)
+  * [Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+  * [WebAssembly](https://developer.mozilla.org/en-US/docs/WebAssembly)
+  
+* Interaction
+  * Desktop
+    * [MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent), [KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent)
+    * [Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+  * Mobile
+    * [TouchEvent](https://developer.mozilla.org/en-US/docs/Web/API/TouchEvent)
+      * [300ms tap delay, gone away](https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away), [More Responsive Tapping on iOS](https://webkit.org/blog/5610/more-responsive-tapping-on-ios/)
+    * [DeviceOrientationEvent + DeviceMotionEvent](https://developer.mozilla.org/en-US/docs/Web/API/Detecting_device_orientation)
+  * Hardware Agnostic
+    * [PointerEvent](https://developer.mozilla.org/en-US/docs/Web/API/PointerEvent), [Selection](https://developer.mozilla.org/en-US/docs/Web/API/Selection)
+    * [Intersection Observer API](https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API) ([Intro](https://developers.google.com/web/updates/2016/04/intersectionobserver))
+    * [Resize Observer API](https://developers.google.com/web/updates/2016/10/resizeobserver)
+  * [Gamepad](https://developer.mozilla.org/en-US/docs/Web/API/Gamepad_API), [Web Speech](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API)
+  
+* Access
+  * [URL](https://developer.mozilla.org/en-US/docs/Web/API/URL), [History](https://developer.mozilla.org/en-US/docs/Web/API/History), [Navigator](https://developer.mozilla.org/en-US/docs/Web/API/Navigator), [Screen](https://developer.mozilla.org/en-US/docs/Web/API/Screen), [Page Visibility](https://developer.mozilla.org/en-US/docs/Web/API/Page_Visibility_API), [Clipboard](https://developer.mozilla.org/en-US/docs/tag/Clipboard%20API), [Performance](https://developer.mozilla.org/en-US/docs/Web/API/Performance), [Console](https://developer.mozilla.org/en-US/docs/Web/API/Console)
+  * [Permissions](https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API), [Geolocation](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation)
+  * [Web Notifications](https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) , [Vibration](https://developer.mozilla.org/en-US/docs/Web/API/Vibration_API)
+* Network
+  * [XMLHttpRequest2](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest) / [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+  * [WebSocket](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket), [Server-sent Event](https://developer.mozilla.org/en-US/docs/Web/API/EventSource)
+  * [WebRTC](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
+  
+* Offline
+  * [Web Storage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API), [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API#database_connection)
+  * [FileReader](https://developer.mozilla.org/en-US/docs/Web/API/FileReader), [File](https://developer.mozilla.org/en-US/docs/Web/API/File), [Blob](https://developer.mozilla.org/en-US/docs/Web/API/Blob)
+  
+  * Offline  
+* [Service Worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)
+    * [Service Workers Explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
+    * [Service Workers: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/service-workers), [The Service Worker Lifecycle](https://developers.google.com/web/fundamentals/instant-and-offline/service-worker/lifecycle)
+    * [Instant Loading Web Apps with an Application Shell Architecture](https://developers.google.com/web/updates/2015/11/app-shell)
+-->
+
+
+<!--
 Web General (See also JavaScript) 
 * [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 * [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
@@ -3672,9 +3771,6 @@ https://github.com/github/fetch
 https://semantic-ui.com
 https://vuejs.org
 
-https://pwa.rocks
-https://github.com/pwarocks/pwa.rocks
-
 https://www.w3.org/TR/notifications
 https://www.w3.org/TR/push-api
 
@@ -3689,7 +3785,6 @@ https://jakearchibald.github.io/isserviceworkerready
 https://github.com/material-components/material-components-web
 http://manifoldjs.com/generator
 https://davidwalsh.name/cache
-https://developers.google.com/web/progressive-web-apps/checklist
 https://tests.peter.sh/
 https://sodapopped.com/
 https://web-push-codelab.appspot.com/
@@ -3717,14 +3812,12 @@ https://en.wikipedia.org/wiki/Inversion_of_control
 -->
 
 Node.js
-* [Node.js](http://nodejs.org)  
-* [Node.js Docs/API](http://nodejs.org/api/)  
-* [Node.js Design](https://www.joyent.com/developers/node/design)  
-* [Nodejsmodules.org](https://nodejsmodules.org)   
-* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)   
-* [Node Webkit GitHub](https://github.com/nwjs/nw.js)  
-* [Node 2 Different Module Versions GitHub](https://github.com/segmentio/npm-diff)  
+* [Node.js](http://nodejs.org)    
+
+<!--
+* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)    
 * [Node Beginner](http://www.nodebeginner.org) 
+-->
 
 Contributing
 * [Node Core Technical Committee & Collaborators](https://github.com/nodejs/CTC)
@@ -3738,26 +3831,20 @@ Node.js Launch and Ryan Dahl
 Node Forks (IO.js merged with Node again) 
 * [JXCore GitHub](https://github.com/jxcore/jxcore) 
 
-Node Version Manager
-* [Node Version Manager GitHub](https://github.com/creationix/nvm)
+Node.js Package Managers (npm (build-step))
+* [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm) 
 
 Node.js Package Managers (npm (build-step))
-* [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm)  
-* [NPM Developers GitHub](https://www.npmjs.org/doc/misc/npm-developers.html)  
-* [NPM Publish GitHub](https://www.npmjs.org/doc/cli/npm-publish.html)  
-* [NPM Read Package JSON GitHub](https://github.com/npm/npm)  
-* [NPM Package Search](https://www.npmjs.org)  
 * [Yarn](https://yarnpkg.com) and [Yarn GitHub](https://github.com/yarnpkg/yarn)
 * ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
-
+* [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
+  
 <!--
   * [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
   * [Why not to use version control hosting for packages](http://blog.npmjs.org/post/154387331670/the-right-tool-for-the-job-why-not-to-use-version)
   * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
   * [changes to npm’s unpublish policy](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy), [kik, left-pad, and npm](http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm)
   
-  * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
-
   * package.json
     * [Specifics of npm's package.json](https://docs.npmjs.com/files/package.json)
     * [Specifics of yarn's package.json](https://yarnpkg.com/en/docs/package-json)
@@ -3792,6 +3879,12 @@ Check Update
 Security Scanning (checking all the packages for any known vulnerabilities)
 * [Node Security Platform](https://nodesecurity.io)
 * retire.js
+
+<!--
+* Node.js Security
+* [nsp](https://www.npmjs.com/package/nsp) / [snyk](https://www.npmjs.com/package/snyk)
+* [NSP Advisories](https://nodesecurity.io/advisories/) / [Snyk - Vulnerability DB](https://snyk.io/vuln/)
+-->
 
 See: Eric Elliot-inspired React Stack
 [Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
@@ -3878,9 +3971,13 @@ Bundling (Browserify, Webpack (built in web server), Rollup, JSPM (also package 
 * [rollup.js](http://rollupjs.org) 
 * JSPM 
 
-Web Components
-* [Web Components GitHub](https://github.com/webcomponents/webcomponentsjs)
+<!--
+* [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
+-->
 
+Web Components
+* [Web Components (v1 spec polyfills) GitHub](https://github.com/webcomponents/webcomponentsjs)
+    
 Semantic UI
 * [Semantic UI](http://semantic-ui.com) and [Semantic UI GitHub](https://github.com/Semantic-Org/Semantic-UI)
 
@@ -6424,6 +6521,7 @@ https://devcenter.heroku.com/articles/heroku-ci
 https://github.com/zeit/pkg
 https://zeit.co
 https://zeit.co/blog/github
+* [now](https://zeit.co/now)
 -->
 
 #### Functions
@@ -7098,6 +7196,10 @@ Node.js- Heroku
 * [Heroku Node.js Client GitHub](https://github.com/heroku/node-heroku-client)
 * [Node Angular Heroku To Do Demo GitHub](https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo)
 
+<!--
+* [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
+-->
+
 Node.js- Heroku and Docker
 * [Heroku Node.js Docker GitHub](https://github.com/heroku/docker-nodejs)
 * [Heroku Node.js Docker Hello World GitHub](https://github.com/heroku/docker-nodejs-hello-world)
@@ -7506,6 +7608,8 @@ Kubernetes
 * [Kel](http://www.kelproject.com)
 
 <!--
+* [Kubernetes Cheat Sheet](http://k8s.info/cs.html)
+        
 https://github.com/GoogleCloudPlatform/kubernetes-workshops
 
 http://docs.kelproject.com/installation/layer0/gce
