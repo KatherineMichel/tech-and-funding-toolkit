@@ -46,7 +46,52 @@
   * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   * [The Bash Guide](http://guide.bash.academy/)
   
-### Open Web Platform
+  * Dev Tools
+    * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+      
+<!--
+### IDE / Editors
+
+* [Atom](https://atom.io/) Plugins
+    * [Project Manager](https://atom.io/packages/project-manager)
+    * [todo-show](https://atom.io/packages/todo-show) / [imdone-atom](https://atom.io/packages/imdone-atom)
+  * Integration
+    * [GitHub for Atom](https://github.atom.io/)
+    * [Build](https://atom.io/packages/build)
+      * [AtomBuild](https://atombuild.github.io/)
+    * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
+* Other Electron-based IDE
+  * [VS Code](https://code.visualstudio.com/)
+    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
+
+  * [Hack](http://sourcefoundry.org/hack/)
+
+
+### Command-line Environment (Mac)
+  
+  * [commitizen](https://github.com/commitizen/cz-cli)
+* [Docker for Mac](https://docs.docker.com/docker-for-mac/)
+
+### Command-line Libraries (Node.js)
+
+  * Generator - [Yeoman](http://yeoman.io/authoring/)
+  * Shell Commands - [ShellJS](https://www.npmjs.com/package/shelljs)
+  
+### Useful Apps
+
+* Playground
+  * [RunKit](https://runkit.com)
+
+    * [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
+  * CSS
+    * Gradient - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+  * JS
+    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+* Viewer
+  * [GraphQL Voyager](https://apis.guru/graphql-voyager/), [GraphQL Docs](https://graphql-docs.com/), [GraphQL Visualizer / graphqlviz](http://nathanrandal.com/graphql-visualizer/) / [graphqlviz](https://github.com/sheerun/graphqlviz)
+  * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
+-->
 
 ### CSS Features
 
@@ -81,8 +126,8 @@ https://webdesign.tutsplus.com
   * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
 * Reference
   * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
-    * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
-    
+    * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)  
+  
   * [Google Developers](https://developers.google.com/web/)
     * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
     
@@ -95,16 +140,21 @@ https://webdesign.tutsplus.com
   * Rendering
     * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
     * [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+    
       * [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
+      
     * [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+    
   * Loading
     * [How DNS works](https://howdns.works/)
     
     * [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-    * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/),
-       [CSS and the critical path](http://www.phpied.com/css-and-the-critical-path/)
+    * [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+    
+    * [CSS and the critical path](http://www.phpied.com/css-and-the-critical-path/)
        
     * [Evolution of Script Loading](https://www.stevesouders.com/blog/2010/12/06/evolution-of-script-loading/), [Browser script loading roundup](https://www.stevesouders.com/blog/2010/02/07/browser-script-loading-roundup/)
+    
   * Offline
     * [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
   * Measure
@@ -177,7 +227,7 @@ https://webdesign.tutsplus.com
     * [WebAssembly.org](http://webassembly.org/)
     * [An Abridged Cartoon Introduction To WebAssembly](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
     * Workshop - [Codelabs - An Introduction to Web Assembly](https://codelabs.developers.google.com/codelabs/web-assembly-intro/)
-
+      
   * Images
     * [Responsive Images](https://developers.google.com/web/fundamentals/design-and-ui/responsive/images), 
 * [Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
@@ -259,8 +309,7 @@ https://webdesign.tutsplus.com
   * [HEAD](https://github.com/joshbuchea/HEAD/)
   * [favicon](https://github.com/audreyr/favicon-cheat-sheet)
   * [Form pseudo-element](https://gist.github.com/webtobesocial/aefd6e25064c08e0cc9a)
-  * [Native form elements](http://nativeformelements.com/)
-  * [Detect DOM changes with Mutation Observers](https://developers.google.com/web/updates/2012/02/Detect-DOM-changes-with-Mutation-Observers)
+  * [Native form elements](http://nativeformelements.com/)      
 * Appearance
   * Web Animations
     * [Web Animation Past, Present, and Future](https://alistapart.com/article/web-animation-past-present-and-future)
@@ -295,11 +344,10 @@ Service Worker
   * [An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
   * [@supports Rule (Feature Queries)](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/)
 * Responsive Web Design
-  * Intro - see _[Platforms and Languages > Next Generation CSS](#next-generation-css) > Know More about Web Design_
   * Media Queries
     * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
   * Images
-    * [Responsive Images](https://developers.google.com/web/fundamentals/design-and-ui/responsive/images), [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
+    * [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
   * Units
     * [Font Size Idea: px at the Root, rem for Components, em for Text Elements](https://css-tricks.com/rems-ems/), \
       [Understanding and Using rem Units in CSS](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
@@ -358,7 +406,7 @@ Service Worker
   * CSSNext
     * [It’s Time To Start Using CSS Custom Properties](https://www.smashingmagazine.com/2017/04/start-using-css-custom-properties/)
     * [Getting Started With CSS calc()](https://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/)
-  * More Plugins - see _[Tooling > Toolchain](#toolchain) > Compiler / Transpiler / Preprocessor > PostCSS_
+
 * [CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
   * [A Unified Styling Language](https://medium.com/seek-blog/a-unified-styling-language-d0c208de2660)
     * [Styled Components: Enforcing Best Practices In Component-Based Systems](https://www.smashingmagazine.com/2017/01/styled-components-enforcing-best-practices-component-based-systems/)
@@ -466,13 +514,16 @@ Service Worker
   * Platform Status
     * [Can I Use](http://caniuse.com/)
     * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+    
   * Platform Releases
     * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+    
   * Platform Updates
     * [Mozilla Hacks](https://hacks.mozilla.org/)
     * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
     * [Webkit Blog](https://webkit.org/blog/)
     * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+  
   * [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
     * Polyfill - [What is a Polyfill?](https://remysharp.com/2010/10/08/what-is-a-polyfill)
     * Feature Detection - [Modernizr/feature-detects](https://github.com/Modernizr/Modernizr/tree/master/feature-detects), [feature.js](https://github.com/viljamis/feature.js/blob/master/feature.js)
@@ -893,6 +944,7 @@ Service Worker
     * Analytics - [Amazon CloudSearch](https://aws.amazon.com/cloudsearch/)
       * Elasticsearch - [Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/) / [Elastic Cloud](https://www.elastic.co/cloud) / [Bonsai](https://bonsai.io/)
     * Warehouse - [Amazon Redshift](https://aws.amazon.com/redshift/) / [Google BigQuery](https://cloud.google.com/bigquery/)
+    
 * BaaS
   * CRUD
     * Realtime
@@ -1050,36 +1102,6 @@ Service Worker
 
 ### Workflow
 
-* Development
-  * Micro Generator
-    * [Plop](https://plopjs.com)
-  * Live Reload / Watch / Preview
-    * [webpack Dev Server](https://www.npmjs.com/package/webpack-dev-server)
-      * [webpack Dashboard](https://www.npmjs.com/package/webpack-dashboard)
-      * [webpack Dev Middleware](https://www.npmjs.com/package/webpack-dev-middleware)
-    * [React Hot Loader 3](http://gaearon.github.io/react-hot-loader/)
-    * [Browsersync](https://www.npmjs.com/package/browser-sync)
-    * React Native - [Expo](https://expo.io/)
-    * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
-  * Dev Tools
-    * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-    * Third-party Panels
-      * [React DevTools](https://github.com/facebook/react-devtools) / [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) / [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) / [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-      * [React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm)
-      * [Redux DevTools](https://github.com/gaearon/redux-devtools)
-      * [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
-      * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools), [GraphQL Network](https://github.com/Ghirro/graphql-network)
-      * [JWT Inspector](https://jwtinspector.io/)
-      * [WebGL Insight](https://github.com/3Dparallax/insight/), [Three.js Editor Extension](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea)
-    * Electron - [Devtron](https://github.com/electron/devtron)
-
-    * Server-side Rendering
-      * [Next.js](https://github.com/zeit/next.js)
-      * [React Isomorphic Render](https://www.npmjs.com/package/react-isomorphic-render)
-      * [React Engine](https://www.npmjs.com/package/react-engine)
-      * [Express React Views](https://www.npmjs.com/package/express-react-views)
-
       * Object Storage + CDN
         * Global
           * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
@@ -1087,19 +1109,8 @@ Service Worker
           * [Firebase Hosting](https://firebase.google.com/products/hosting/) - [firebase-tools](https://www.npmjs.com/package/firebase-tools)
           * [Netlify](https://www.netlify.com/) - [netlify-cli](https://www.npmjs.com/package/netlify-cli)
           * [Surge](https://surge.sh/) - [surge cli client](https://www.npmjs.com/package/surge)
-
-    * Packaged App
-      * [Electron Builder](https://www.npmjs.com/package/electron-builder)
-        * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update)
-      * [CodePush](https://www.npmjs.com/package/react-native-code-push)
-  * DevOps
-    * Process Supervisor
-      * [pm2](http://pm2.keymetrics.io/)
-        * [pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
-        * [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
-                
+          
     * PaaS
-      * Global
         * [now](https://zeit.co/now)
         * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
 * Monitoring
@@ -1117,6 +1128,44 @@ Service Worker
       * [New Relic](https://newrelic.com/) / [AppDynamics](https://www.appdynamics.com/) / [Datadog APM](https://www.datadoghq.com/apm/)
       * [Pingdom](https://www.pingdom.com/), [AppNeta](https://www.appneta.com/)
       * [Trace](https://trace.risingstack.com)
+      
+* Development
+  * Micro Generator
+    * [Plop](https://plopjs.com)
+  * Live Reload / Watch / Preview
+    * [webpack Dev Server](https://www.npmjs.com/package/webpack-dev-server)
+      * [webpack Dashboard](https://www.npmjs.com/package/webpack-dashboard)
+      * [webpack Dev Middleware](https://www.npmjs.com/package/webpack-dev-middleware)
+    * [React Hot Loader 3](http://gaearon.github.io/react-hot-loader/)
+    * [Browsersync](https://www.npmjs.com/package/browser-sync)
+    * React Native - [Expo](https://expo.io/)
+    * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
+      
+    * Third-party Panels
+      * [React DevTools](https://github.com/facebook/react-devtools) / [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) / [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) / [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+      * [React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm)
+      * [Redux DevTools](https://github.com/gaearon/redux-devtools)
+      * [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
+      * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools), [GraphQL Network](https://github.com/Ghirro/graphql-network)
+      * [JWT Inspector](https://jwtinspector.io/)
+      * [WebGL Insight](https://github.com/3Dparallax/insight/), [Three.js Editor Extension](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea)
+    * Electron - [Devtron](https://github.com/electron/devtron)
+
+    * Server-side Rendering
+      * [Next.js](https://github.com/zeit/next.js)
+      * [React Isomorphic Render](https://www.npmjs.com/package/react-isomorphic-render)
+      * [React Engine](https://www.npmjs.com/package/react-engine)
+      * [Express React Views](https://www.npmjs.com/package/express-react-views)
+
+    * Packaged App
+      * [Electron Builder](https://www.npmjs.com/package/electron-builder)
+        * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update)
+      * [CodePush](https://www.npmjs.com/package/react-native-code-push)
+  * DevOps
+    * Process Supervisor
+      * [pm2](http://pm2.keymetrics.io/)
+        * [pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
+        * [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
 
     * Containers
       * [Docker](https://docs.docker.com/engine/reference/builder/)
@@ -1136,46 +1185,6 @@ Service Worker
       * [Kubernetes](https://kubernetes.io/)
         * [Kubernetes Cheat Sheet](http://k8s.info/cs.html)
         
-### Command-line Environment (Mac)
-  
-  * [commitizen](https://github.com/commitizen/cz-cli)
-* [Docker for Mac](https://docs.docker.com/docker-for-mac/)
-
-### Command-line Libraries (Node.js)
-
-  * Generator - [Yeoman](http://yeoman.io/authoring/)
-  * Shell Commands - [ShellJS](https://www.npmjs.com/package/shelljs)
-
-### IDE / Editors
-
-* [Atom](https://atom.io/) Plugins
-    * [Project Manager](https://atom.io/packages/project-manager)
-    * [todo-show](https://atom.io/packages/todo-show) / [imdone-atom](https://atom.io/packages/imdone-atom)
-  * Integration
-    * [GitHub for Atom](https://github.atom.io/)
-    * [Build](https://atom.io/packages/build)
-      * [AtomBuild](https://atombuild.github.io/)
-    * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
-* Other Electron-based IDE
-  * [VS Code](https://code.visualstudio.com/)
-    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
-
-  * [Hack](http://sourcefoundry.org/hack/)
-
-### Useful Apps
-
-* Playground
-  * [RunKit](https://runkit.com)
-
-    * [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
-  * CSS
-    * Gradient - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-  * JS
-    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-* Viewer
-  * [GraphQL Voyager](https://apis.guru/graphql-voyager/), [GraphQL Docs](https://graphql-docs.com/), [GraphQL Visualizer / graphqlviz](http://nathanrandal.com/graphql-visualizer/) / [graphqlviz](https://github.com/sheerun/graphqlviz)
-  * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
-
 ### Cloud Services (China)
 
 > The evil twins inside [the Great Firewall of China](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/4)
