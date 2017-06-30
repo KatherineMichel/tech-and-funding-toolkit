@@ -124,25 +124,11 @@
       * [Code Guide by @mdo](http://codeguide.co/)
       
       
-      
-* Know More about Web Design / [UI Design / UX Design](https://medium.com/@Mockplus/ux-vs-ui-vs-ia-vs-ixd-4-confusing-digital-design-terms-defined-ebd679f53f2)
-
-* [The Atomic Workflow — People, Process, And Making Design Systems Happen](https://www.smashingmagazine.com/atomic-design-workflow/)
-* [The “Other” Interface: Atomic Design With Sass](https://www.smashingmagazine.com/2013/08/other-interface-atomic-design-sass/)
-* [Atomic Design – Your Ultimate Guide to Scalable & Modular CSS (Sass)](https://blog.alexdevero.com/atomic-design-scalable-modular-css-sass/)
-
-    * [Responsive Web Design: What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/)
-    * [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
-    * [The Current State of Adaptive Design](https://medium.com/swlh/the-current-state-of-adaptive-design-6b2b89b258c4)
-    * [Responsive Data Table Roundup](https://css-tricks.com/responsive-data-table-roundup/)
-          
+         
   * Rendering
     * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/), \
       [How Browsers Lay Out Web Pages](https://dbaron.org/talks/2012-03-11-sxsw/master.xhtml)
-    * [GPU Animation: Doing It Right](https://www.smashingmagazine.com/2016/12/gpu-animation-doing-it-right/) / [An Introduction to Hardware Acceleration with CSS Animations](https://www.sitepoint.com/introduction-to-hardware-acceleration-css-animations/)
-  * Measure
-    * [Measuring Page Load Speed with Navigation Timing](https://www.html5rocks.com/en/tutorials/webperformance/basics/)
-    * [User Timing API](https://www.html5rocks.com/en/tutorials/webperformance/usertiming/)
+
 * Security
   * [The Tangled Web: A Guide to Securing Modern Web Applications](http://lcamtuf.coredump.cx/tangled/)
   * [HTML5 Security Cheatsheet](https://html5sec.org/)
@@ -158,90 +144,10 @@
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
   * [HEAD](https://github.com/joshbuchea/HEAD/)
   * [favicon](https://github.com/audreyr/favicon-cheat-sheet)
-  * [Form pseudo-element](https://gist.github.com/webtobesocial/aefd6e25064c08e0cc9a)
-  * [Native form elements](http://nativeformelements.com/)      
-* Appearance
-  * Web Animations
-    * [Web Animation Past, Present, and Future](https://alistapart.com/article/web-animation-past-present-and-future)
-    * [Let's talk about the Web Animations API](http://danielcwilson.com/blog/2015/07/animations-intro/)
-    * Status - [Are we animated yet?](https://birtles.github.io/areweanimatedyet/)
-* Network
-    * [Why I won’t be using Fetch API in my apps](https://medium.com/@shahata/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78)
-    * [Getting Started with WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
-    * [WebRTC in the real world: STUN, TURN and signaling](https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/)
-    * [WebRTC data channels](https://www.html5rocks.com/en/tutorials/webrtc/datachannels/)
-* Offline
-  * Overview
-    * [Offline First - HTML5 technologies for a faster, smarter, more engaging web](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf)
-Service Worker
+    
     * [Service Worker Cookbook](https://serviceworke.rs/)
-    * Status - [Is ServiceWorker Ready?](https://jakearchibald.github.io/isserviceworkerready/)
-    * Workshop - [Web Audio School](https://github.com/mmckegg/web-audio-school)
-    * [Capturing Audio & Video in HTML5](https://www.html5rocks.com/en/tutorials/getusermedia/intro/)
-* Graphics
-    * [Styling And Animating SVGs With CSS](https://www.smashingmagazine.com/2014/11/styling-and-animating-svgs-with-css/)
-    * [Learning WebGL](http://learningwebgl.com/blog/?page_id=1217)
-    * [An Abridged Cartoon Introduction To WebAssembly](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
-    * [Primer: Shaders](https://notes.underscorediscovery.com/shaders-a-primer/), [An Introduction to Shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/)
-    * [The Book of Shaders](http://thebookofshaders.com/)
-    * Workshop -[Shader School](https://github.com/stackgl/shader-school), [WebGL Workshop](https://github.com/stackgl/webgl-workshop), [WebGL Academy](http://www.webglacademy.com/)
-    * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
-* Computing
-* Basics
-  * [You Don't Need JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)
-  * [CSS Selectors from CSS4 till CSS1](http://css4-selectors.com/selectors/)
-    * [CSS Diner - Where we feast on CSS Selectors!](http://flukeout.github.io/)
-  * [An Ultimate Guide To CSS Pseudo-Classes And Pseudo-Elements](https://www.smashingmagazine.com/2016/05/an-ultimate-guide-to-css-pseudo-classes-and-pseudo-elements/)
-  * [@supports Rule (Feature Queries)](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/)
-* Responsive Web Design
-  * Media Queries
-    * [Media Queries for Standard Devices](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
-  * Images
-    * [Responsive Images in CSS](https://css-tricks.com/responsive-images-css/)
-  * Units
-    * [Font Size Idea: px at the Root, rem for Components, em for Text Elements](https://css-tricks.com/rems-ems/), \
-      [Understanding and Using rem Units in CSS](https://www.sitepoint.com/understanding-and-using-rem-units-in-css/)
-    * [Truly Fluid Typography With vh And vw Units](https://www.smashingmagazine.com/2016/05/fluid-typography/)
-* Layout
-  * Flexbox, CSS Grid Layout
-    * [Using Flexbox today](https://chriswrightdesign.com/experiments/using-flexbox-today/)
-    * [CSS Grid, Flexbox And Box Alignment: Our New System For Web Layout](https://www.smashingmagazine.com/2016/11/css-grids-flexbox-and-box-alignment-our-new-system-for-web-layout/)
-    * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-    * [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-    * [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/), [Flexbox Patterns](http://www.flexboxpatterns.com/home)
-      * [Centering Elements with Flexbox](https://www.smashingmagazine.com/2013/05/centering-elements-with-flexbox/)
-      * [Quantity Queries with Flexbox](https://www.smashingmagazine.com/2015/07/quantity-ordering-with-css/)
-  * Traditional
-    * [Learn CSS Layout](http://learnlayout.com/)
-      * [Learn CSS Layout - the pedantic way](http://book.mixu.net/css/)
-    * [CSS Floats 101](https://alistapart.com/article/css-floats-101), [All About Floats](https://css-tricks.com/all-about-floats/), [CSS Float Theory: Things You Should Know](https://www.smashingmagazine.com/2007/05/css-float-theory-things-you-should-know/)
-    * [CSS Positioning 101](https://alistapart.com/article/css-positioning-101)
-      * [CSS “position: sticky” – Introduction and Polyfills](https://www.sitepoint.com/css-position-sticky-introduction-polyfills/)
-    * [The Z-Index CSS Property: A Comprehensive Look](https://www.smashingmagazine.com/2009/09/the-z-index-css-property-a-comprehensive-look/)
-    * [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/), [Absolute Center an Image](https://css-tricks.com/snippets/css/absolute-center-vertical-horizontal-an-image/), [How To Center in CSS](http://howtocenterincss.com/)
-* Web Typography
-  * [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
-  * [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/)
-* Text
-  * [Handling Long Words and URLs](https://css-tricks.com/snippets/css/prevent-long-urls-from-breaking-out-of-container/)
-    * [Intro to CSS 3D transforms](http://desandro.github.io/3dtransforms/)
 
-  * CSS Animation
-    * [The Guide To CSS Animation: Principles and Examples](https://www.smashingmagazine.com/2011/09/the-guide-to-css-animation-principles-and-examples/)
-    * [Upgrading CSS Animation With Motion Curves](https://www.smashingmagazine.com/2016/08/css-animations-motion-curves/)
-  * Motion Path
-    * [Animating Clipped Elements In SVG](https://www.smashingmagazine.com/2015/12/animating-clipped-elements-svg/)
-    * [Moving along a curved path in CSS with layered animation](http://tobiasahlin.com/blog/curved-path-animations-in-css/)
-    * [Future Use: CSS Motion Paths](https://codepen.io/danwilson/post/css-motion-paths)
-* Effects
-  * [CSS Image Effects](https://una.im/vintage-washout/)
-  * [Web Image Effects Performance Showdown](https://www.smashingmagazine.com/2016/05/web-image-effects-performance-showdown/)
-    * [Basics of CSS Blend Modes](https://css-tricks.com/basics-css-blend-modes/)
-    * [CSS Blend Modes could be the next big thing in Web Design](https://medium.com/@bennettfeely/css-blend-modes-could-be-the-next-big-thing-in-web-design-6b51bf53743a)
-    * [Understanding CSS Filter Effects](https://www.html5rocks.com/en/tutorials/filters/understanding-css/)
-  * [Clipping and Masking in CSS](https://css-tricks.com/clipping-masking-css/)
-  * [The State of CSS Reflections](https://css-tricks.com/state-css-reflections/)
-  * [CSS Shapes 101](https://alistapart.com/article/css-shapes-101)
+[Flexbox Patterns](http://www.flexboxpatterns.com/home)
 
 ### Next Generation CSS
 
@@ -504,21 +410,11 @@ https://medium.com/the-node-js-collection
 
 * View / ViewModel / ViewController
       * Pete Hunt's [react-howto](https://github.com/petehunt/react-howto)
-      * [SurviveJS React](https://survivejs.com/react/introduction/)
-      * [React Cheat Sheet](https://reactcheatsheet.com/)
       
       * Best Practices
         * [React Bits](https://github.com/vasanthk/react-bits), [React in patterns](https://github.com/krasimir/react-in-patterns)
-        * [Functional UI and Components as Higher Order Functions](https://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
-      * Next Gen - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
     * Lightweight Alternative
       * [Preact](https://preactjs.com/) / [Inferno](https://infernojs.org/)
-
-      * [Notes of Dan Abramov's Redux course videos](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
-      * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
-      * [Tic-Tac-Toe.js: redux pattern in plain JavaScript](http://ramonvictor.github.io/tic-tac-toe-js/)
-    * Utilities
-      * [React Redux](https://www.npmjs.com/package/react-redux)
 
 * API
   * [GraphQL](http://graphql.org/)
@@ -825,8 +721,6 @@ https://medium.com/the-node-js-collection
 [GitBook](https://www.npmjs.com/package/gitbook)
 
 ### Toolchain
-
-* [lodash](https://www.npmjs.com/package/babel-plugin-lodash), [ramda](https://www.npmjs.com/package/babel-plugin-ramda)
         
     * [TypeScript: the missing introduction](https://toddmotto.com/typescript-the-missing-introduction)    
   * [PostCSS](https://github.com/postcss/postcss)
@@ -901,9 +795,6 @@ https://medium.com/the-node-js-collection
       * [JWT Inspector](https://jwtinspector.io/)
       * [WebGL Insight](https://github.com/3Dparallax/insight/), [Three.js Editor Extension](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea)
     * Electron - [Devtron](https://github.com/electron/devtron)
-
-    * Server-side Rendering
-      * [Next.js](https://github.com/zeit/next.js)
 
     * Packaged App
         * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update)
