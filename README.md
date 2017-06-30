@@ -998,7 +998,8 @@ IP
 http://whatismyipaddress.com
 http://whatismyipaddress.com/ip-basics
 http://tcpipguide.com/free/index.htm
-https://howdns.works
+
+    * [How DNS works](https://howdns.works)
 -->
 
 Domain Name
@@ -2341,6 +2342,10 @@ Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
 * [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
 * [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
 
+<!--
+[WebKit JS](https://developer.apple.com/reference/webkitjs/)
+-->
+
 Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
@@ -2517,6 +2522,20 @@ https://testpilot.firefox.com
 -->
 
 #### Developer Tools
+
+<!--
+  * Platform Status
+    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+    
+  * Platform Releases
+    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+    
+  * Platform Updates
+    * [Mozilla Hacks](https://hacks.mozilla.org/)
+    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+    * [Webkit Blog](https://webkit.org/blog/)
+    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+-->
 
 Safari Developer Tools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
@@ -3167,6 +3186,11 @@ https://developers.google.com/web/showcase
 #### Front-End Development
 
 <!--
+  * Apple
+    * [WebKit JS](https://developer.apple.com/reference/webkitjs/), [WebKit DOM Programming Topics](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/SafariJSProgTopics)
+    
+        * [Safari Web Content Guide](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/), [Safari HTML Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html), [Safari CSS Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariCSSRef/), [Safari CSS Visual Effects Guide](https://developer.apple.com/library/content/documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/)
+        
 * Performance
   * Rendering
     * [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
@@ -3616,6 +3640,8 @@ WebAssembly
 * [WebAssembly](http://webassembly.org), [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly), and [WebAssembly GitHub](https://github.com/webassembly
 
 <!--
+    * Workshop - [Codelabs - An Introduction to Web Assembly](https://codelabs.developers.google.com/codelabs/web-assembly-intro/)
+    
 https://developer.mozilla.org/en-US/docs/WebAssembly
 
 https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6
