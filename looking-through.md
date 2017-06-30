@@ -662,12 +662,14 @@ Service Worker
     * Utilities
       * [React Redux](https://www.npmjs.com/package/react-redux)
   * [MobX](https://mobx.js.org)
+
 * API
   * [GraphQL](http://graphql.org/)
     * Learning
       * [Learn GraphQL](https://learngraphql.com)
       * [Queries and Mutations](http://graphql.org/learn/queries/)
       * Playground - [GraphQLHub](https://www.graphqlhub.com/)
+      
     * [React Apollo](http://dev.apollodata.com/react/), [Learn Apollo](https://www.learnapollo.com/)
   * Learning
     * [Designing Offline-First Web Apps](https://alistapart.com/article/offline-first)
@@ -793,6 +795,7 @@ Service Worker
       [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
     * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
       [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
+
 * Cloud / Distributed
   * Architecture
     * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
@@ -916,11 +919,8 @@ Service Worker
 
 ### Cloud Services (Global)
 
-* Compute
-  * FaaS / Serverless / WebHook
-    * [AWS Lambda](https://aws.amazon.com/lambda/) / [Google Cloud Functions](https://cloud.google.com/functions/)
     * [Graphcool Functions](https://www.graph.cool/docs/reference/functions/overview-boo6uteemo/)
-    * [Amazon API Gateway](https://aws.amazon.com/api-gateway/)
+   
   * CaaS
     * [Amazon ECS](https://aws.amazon.com/ecs/) / [Google Container Engine](https://cloud.google.com/container-engine/)
 * Storage
@@ -929,10 +929,12 @@ Service Worker
   * DBaaS
     * In-Memory Key-Value NoSQL - [Amazon ElastiCache](https://aws.amazon.com/elasticache/)
       * Redis - [Compose](https://www.compose.com/redis) / [Redise Cloud](https://redislabs.com/products/redis-cloud/) / [Heroku Redis](https://www.heroku.com/redis)
+      
     * Document NoSQL - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) / [Google Cloud Datastore](https://cloud.google.com/datastore/)
       * MongoDB - [Compose](https://www.compose.com/mongodb) / [mLab](https://mlab.com/) / [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
       * CouchDB - [Couchbase](https://www.couchbase.com/products/server) / [Cloudant](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/cloudant/)
     * Wide Column NoSQL - [Google Bigtable](https://cloud.google.com/bigtable/)
+    
     * SQL - [Amazon RDS](https://aws.amazon.com/rds/) / [Google Cloud SQL](https://cloud.google.com/sql/)
       * PostgreSQL - [Compose](https://www.compose.com/postgresql) / [Heroku Postgres](https://www.heroku.com/postgres)
       * MySQL - [Compose](https://www.compose.com/mysql)
@@ -974,6 +976,264 @@ Service Worker
   * Computer Vision
     * [Amazon Rekognition](https://aws.amazon.com/rekognition/) / [Google Cloud Vision API](https://cloud.google.com/vision/)
     * [Google Cloud Video Intelligence API](https://cloud.google.com/video-intelligence/)
+
+### Testing
+
+* Unit Testing / Test Runner
+  * [Chai](http://chaijs.com/)
+* Web Testing
+  * Integration Testing
+    * [Enzyme](http://airbnb.io/enzyme/)
+  * Functional Testing
+    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/)
+    * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
+  * Visual Testing
+    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
+    * [BrowserStack](https://www.browserstack.com/)
+  * Monkey Testing
+  * Headless Browsers
+    * Browsers
+      * Chromium - [Headless Chrome/Chromium](https://developers.google.com/web/updates/2017/04/headless-chrome)
+      * Chromium + Node.js - [electron-prebuilt](https://www.npmjs.com/package/electron)
+      * WebKit - [PhantomJS](http://phantomjs.org/)
+      * Gecko - [SlimerJS](https://slimerjs.org/)
+    * In-memory X11 Display Server
+      * [xvfb](https://en.wikipedia.org/wiki/Xvfb) - [xvfb-run](http://manpages.ubuntu.com/manpages/trusty/man1/xvfb-run.1.html) / [headless](https://www.npmjs.com/package/headless)
+    * Docker
+      * [lighthouse-ci/builder/Dockerfile.headless](https://github.com/ebidel/lighthouse-ci/blob/master/builder/Dockerfile.headless#L16)
+      * [electron-headless](https://hub.docker.com/r/dannysu/electron-headless/~/dockerfile/)
+
+* Benchmark Testing
+  * JS
+    * [Benchmark.js](https://benchmarkjs.com/)
+    * [Speedracer](https://github.com/ngryman/speedracer)
+    * [stats.js](https://github.com/mrdoob/stats.js)
+  * Network
+    * [wrk](https://github.com/wg/wrk) / [httpstat](https://github.com/reorx/httpstat)
+  * [SinonJS](http://sinonjs.org/) / [testdouble.js](https://www.npmjs.com/package/testdouble)
+    * [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
+    * [testdouble.js vs. sinon.js](http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
+* Analysis
+  * Node.js Security
+    * [nsp](https://www.npmjs.com/package/nsp) / [snyk](https://www.npmjs.com/package/snyk)
+      * [NSP Advisories](https://nodesecurity.io/advisories/) / [Snyk - Vulnerability DB](https://snyk.io/vuln/)
+  * Web Page
+    * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) / [pwmetrics](https://github.com/paulirish/pwmetrics)
+    * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
+    * [Varvy SEO tool](https://varvy.com/)
+
+### Documentation
+
+* JS
+* CSS / Style Guide
+  * [KSS (Knyle Style Sheets)](http://warpspire.com/kss/)
+    * [kss-node](http://kss-node.github.io/kss-node/)
+    * [SC5 Style Guide Generator](http://styleguide.sc5.io/)
+  * [React Styleguidist](https://react-styleguidist.js.org/)
+
+[GitBook](https://www.npmjs.com/package/gitbook)
+
+### Toolchain
+
+* [lodash](https://www.npmjs.com/package/babel-plugin-lodash), [ramda](https://www.npmjs.com/package/babel-plugin-ramda)
+        
+  * [TypeScript](http://www.typescriptlang.org/)
+    * [TypeScript: the missing introduction](https://toddmotto.com/typescript-the-missing-introduction)    
+  * [PostCSS](https://github.com/postcss/postcss)
+  
+* [Flow](https://flow.org)
+    * [flow-typed](https://github.com/flowtype/flow-typed)
+    * [Flow Runtime](https://www.npmjs.com/package/babel-plugin-flow-runtime)
+    
+    
+* Compiler / Transpiler / Preprocessor
+  * [Babel](https://babeljs.io)
+    * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
+    * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md), [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
+    * Presets
+      * [Preset Env](https://github.com/babel/babel-preset-env)
+        * [Browserslist](https://github.com/ai/browserslist)
+      * [Preset React](http://babeljs.io/docs/plugins/preset-react/)
+      * [React Optimize](https://github.com/thejameskyle/babel-react-optimize)
+    * Plugins
+      * Proposals
+        * Shims - [Runtime Transform](http://babeljs.io/docs/plugins/transform-runtime/) / [Polyfill](http://babeljs.io/docs/usage/polyfill/)
+          * async/await - [fast-async](https://github.com/MatAtBread/fast-async) ([NoDent](https://www.npmjs.com/package/nodent))
+        * [Stage 3](http://babeljs.io/docs/plugins/preset-stage-3/), [Stage 2](http://babeljs.io/docs/plugins/preset-stage-2/), [Stage 1](http://babeljs.io/docs/plugins/preset-stage-1/), [Stage 0](http://babeljs.io/docs/plugins/preset-stage-0/)
+
+
+  * [node-sass](https://www.npmjs.com/package/node-sass)
+  * [PostHTML](https://www.npmjs.com/package/posthtml)
+* Loader / Builder / Bundler
+  * [Webpack](http://webpack.github.io/docs/)
+    * [webpack-howto](https://github.com/petehunt/webpack-howto)
+      * [SurviveJS Webpack](https://survivejs.com/webpack/what-is-webpack/)
+      * [webpack-blocks](https://github.com/andywer/webpack-blocks)
+    * Loaders
+      * [babel-loader](https://www.npmjs.com/package/babel-loader) / [awesome-typescript-loader](https://www.npmjs.com/package/awesome-typescript-loader) / [vue-loader](https://www.npmjs.com/package/vue-loader)
+        * [imports-loader](https://www.npmjs.com/package/imports-loader)
+      * [css-loader](https://www.npmjs.com/package/css-loader), [style-loader](https://www.npmjs.com/package/style-loader) / [isomorphic-style-loader](https://www.npmjs.com/package/isomorphic-style-loader)
+        * [postcss-loader](https://www.npmjs.com/package/postcss-loader), [scss-loader](https://www.npmjs.com/package/sass-loader)
+    * Plugins
+      * [Lodash Plugin](https://www.npmjs.com/package/lodash-webpack-plugin)
+  * [Rollup](https://rollupjs.org/)
+    * [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
+      
+    * Plugins
+      * [babel](https://www.npmjs.com/package/babel-eslint), [eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments), [unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn), [no-use-extend-native](https://www.npmjs.com/package/eslint-plugin-no-use-extend-native)
+      * [compat](https://www.npmjs.com/package/eslint-plugin-compat)
+      * [node](https://www.npmjs.com/package/eslint-plugin-node), [security](https://www.npmjs.com/package/eslint-plugin-security)
+      * [react](https://www.npmjs.com/package/eslint-plugin-react), [graphql](https://www.npmjs.com/package/eslint-plugin-graphql)
+      * [flowtype](https://github.com/gajus/eslint-plugin-flowtype), [jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
+      * [ava](https://www.npmjs.com/package/eslint-plugin-ava), [mocha](https://www.npmjs.com/package/eslint-plugin-mocha), [chai-expect](https://www.npmjs.com/package/eslint-plugin-chai-expect)
+      * [fp](https://www.npmjs.com/package/eslint-plugin-fp), [lodash](https://www.npmjs.com/package/eslint-plugin-lodash), [lodash-fp](https://www.npmjs.com/package/eslint-plugin-lodash-fp), [immutable](https://www.npmjs.com/package/eslint-plugin-immutable)
+      * [promise](https://www.npmjs.com/package/eslint-plugin-promise), [optimize-regex](https://www.npmjs.com/package/eslint-plugin-optimize-regex)
+    
+  * [StyleLint](http://stylelint.io/)
+    * [doiuse](https://www.npmjs.com/package/doiuse)
+  * [HTMLHint](https://github.com/yaniswang/HTMLHint)
+* Task Automation
+  * [npm-run-script](https://docs.npmjs.com/cli/run-script), [npm-scripts](https://docs.npmjs.com/misc/scripts)
+    * [task automation with npm run](http://substack.net/task_automation_with_npm_run), \
+      [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+      * [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
+    * Git Hooks - [Husky](https://github.com/typicode/husky)
+    * Environment Variables - [env-cmd](https://www.npmjs.com/package/env-cmd), [cross-env](https://www.npmjs.com/package/cross-env)
+    * [get-port](https://www.npmjs.com/package/get-port), [public-ip](https://www.npmjs.com/package/public-ip)
+
+### Workflow
+
+* Development
+  * Micro Generator
+    * [Plop](https://plopjs.com)
+  * Live Reload / Watch / Preview
+    * [webpack Dev Server](https://www.npmjs.com/package/webpack-dev-server)
+      * [webpack Dashboard](https://www.npmjs.com/package/webpack-dashboard)
+      * [webpack Dev Middleware](https://www.npmjs.com/package/webpack-dev-middleware)
+    * [React Hot Loader 3](http://gaearon.github.io/react-hot-loader/)
+    * [Browsersync](https://www.npmjs.com/package/browser-sync)
+    * React Native - [Expo](https://expo.io/)
+    * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
+  * Dev Tools
+    * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+    * Third-party Panels
+      * [React DevTools](https://github.com/facebook/react-devtools) / [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) / [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) / [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
+      * [React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm)
+      * [Redux DevTools](https://github.com/gaearon/redux-devtools)
+      * [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
+      * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools), [GraphQL Network](https://github.com/Ghirro/graphql-network)
+      * [JWT Inspector](https://jwtinspector.io/)
+      * [WebGL Insight](https://github.com/3Dparallax/insight/), [Three.js Editor Extension](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea)
+    * Electron - [Devtron](https://github.com/electron/devtron)
+
+    * Server-side Rendering
+      * [Next.js](https://github.com/zeit/next.js)
+      * [React Isomorphic Render](https://www.npmjs.com/package/react-isomorphic-render)
+      * [React Engine](https://www.npmjs.com/package/react-engine)
+      * [Express React Views](https://www.npmjs.com/package/express-react-views)
+
+      * Object Storage + CDN
+        * Global
+          * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
+          * [Google Cloud Storage + Cloud CDN](https://cloud.google.com/storage/docs/hosting-static-website) - [google-cloud](https://www.npmjs.com/package/google-cloud) / [gcloud](https://cloud.google.com/sdk/gcloud/)
+          * [Firebase Hosting](https://firebase.google.com/products/hosting/) - [firebase-tools](https://www.npmjs.com/package/firebase-tools)
+          * [Netlify](https://www.netlify.com/) - [netlify-cli](https://www.npmjs.com/package/netlify-cli)
+          * [Surge](https://surge.sh/) - [surge cli client](https://www.npmjs.com/package/surge)
+
+    * Packaged App
+      * [Electron Builder](https://www.npmjs.com/package/electron-builder)
+        * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update)
+      * [CodePush](https://www.npmjs.com/package/react-native-code-push)
+  * DevOps
+    * Process Supervisor
+      * [pm2](http://pm2.keymetrics.io/)
+        * [pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
+        * [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
+    * Containers
+      * [Docker](https://docs.docker.com/engine/reference/builder/)
+        * Learning
+          * [Play with docker classroom](http://training.play-with-docker.com/)
+          * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
+          * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
+        * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
+        * [Docker run reference](https://docs.docker.com/engine/reference/run/)
+        * [Docker Compose](https://docs.docker.com/compose/overview/)
+      * Docker Images
+        * [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
+        * [docker-lambda](https://github.com/lambci/docker-lambda)
+    * Container Clusters
+      * [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
+        * [Compose file reference](https://docs.docker.com/compose/compose-file/)
+      * [Kubernetes](https://kubernetes.io/)
+        * [Kubernetes Cheat Sheet](http://k8s.info/cs.html)
+    * PaaS
+      * Global
+        * [now](https://zeit.co/now)
+        * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
+* Monitoring
+  * Error Tracking
+    * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors), [Front-End Error Handling](https://staticapps.org/articles/front-end-error-handling/)
+      * [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
+    * Services
+      * [Sentry](https://sentry.io/for/javascript/)
+  * Logging
+    * Global
+      * [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) / [Google Stackdriver](https://cloud.google.com/stackdriver/)
+
+    * Global
+      * [New Relic](https://newrelic.com/) / [AppDynamics](https://www.appdynamics.com/) / [Datadog APM](https://www.datadoghq.com/apm/)
+      * [Pingdom](https://www.pingdom.com/), [AppNeta](https://www.appneta.com/)
+      * [Trace](https://trace.risingstack.com)
+
+### Command-line Environment (Mac)
+
+* Intro
+  * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+  * [The Bash Guide](http://guide.bash.academy/)
+
+* Git
+  * [Git-it](https://github.com/jlord/git-it-electron)
+  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
+  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+  
+  * [commitizen](https://github.com/commitizen/cz-cli)
+* [Docker for Mac](https://docs.docker.com/docker-for-mac/)
+
+### Command-line Libraries (Node.js)
+
+  * Generator - [Yeoman](http://yeoman.io/authoring/)
+  * Shell Commands - [ShellJS](https://www.npmjs.com/package/shelljs)
+
+### IDE / Editors
+
+* [Atom](https://atom.io/) Plugins
+    * [Project Manager](https://atom.io/packages/project-manager)
+    * [todo-show](https://atom.io/packages/todo-show) / [imdone-atom](https://atom.io/packages/imdone-atom)
+  * Integration
+    * [GitHub for Atom](https://github.atom.io/)
+    * [Build](https://atom.io/packages/build)
+      * [AtomBuild](https://atombuild.github.io/)
+    * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
+* Other Electron-based IDE
+  * [VS Code](https://code.visualstudio.com/)
+    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
+
+  * [Hack](http://sourcefoundry.org/hack/)
+
+### Useful Apps
+
+* Playground
+  * [RunKit](https://runkit.com)
+
+    * [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
+  * CSS
+    * Gradient - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
+  * JS
+    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+* Viewer
+  * [GraphQL Voyager](https://apis.guru/graphql-voyager/), [GraphQL Docs](https://graphql-docs.com/), [GraphQL Visualizer / graphqlviz](http://nathanrandal.com/graphql-visualizer/) / [graphqlviz](https://github.com/sheerun/graphqlviz)
+  * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
 
 ### Cloud Services (China)
 
@@ -1039,268 +1299,15 @@ Service Worker
   * Persona
     * [阿里云-画像分析](https://data.aliyun.com/product/porana) / [腾讯云-智能推荐 IR](https://www.qcloud.com/product/ir)
 
-### Testing
-
-* Unit Testing / Test Runner
-  * [Chai](http://chaijs.com/)
-* Web Testing
-  * Integration Testing
-    * [Enzyme](http://airbnb.io/enzyme/)
-  * Functional Testing
-    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/)
-    * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
-  * Visual Testing
-    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
-    * [BrowserStack](https://www.browserstack.com/)
-  * Monkey Testing
-  * Headless Browsers
-    * Browsers
-      * Chromium - [Headless Chrome/Chromium](https://developers.google.com/web/updates/2017/04/headless-chrome)
-      * Chromium + Node.js - [electron-prebuilt](https://www.npmjs.com/package/electron)
-      * WebKit - [PhantomJS](http://phantomjs.org/)
-      * Gecko - [SlimerJS](https://slimerjs.org/)
-    * In-memory X11 Display Server
-      * [xvfb](https://en.wikipedia.org/wiki/Xvfb) - [xvfb-run](http://manpages.ubuntu.com/manpages/trusty/man1/xvfb-run.1.html) / [headless](https://www.npmjs.com/package/headless)
-    * Docker
-      * [lighthouse-ci/builder/Dockerfile.headless](https://github.com/ebidel/lighthouse-ci/blob/master/builder/Dockerfile.headless#L16)
-      * [electron-headless](https://hub.docker.com/r/dannysu/electron-headless/~/dockerfile/)
-
-* Benchmark Testing
-  * JS
-    * [Benchmark.js](https://benchmarkjs.com/)
-    * [Speedracer](https://github.com/ngryman/speedracer)
-    * [stats.js](https://github.com/mrdoob/stats.js)
-  * Network
-    * [wrk](https://github.com/wg/wrk) / [httpstat](https://github.com/reorx/httpstat)
-* [Test Doubles](https://martinfowler.com/bliki/TestDouble.html) ([Fakes, Mocks, Stubs](https://dev.to/milipski/test-doubles---fakes-mocks-and-stubs) and Spies)
-  * HTTP Mocking - [Nock](https://www.npmjs.com/package/nock)
-  * Monkey Patching - [Mockery](https://www.npmjs.com/package/mockery), [babel-plugin-rewire](https://www.npmjs.com/package/babel-plugin-rewire)
-  * [SinonJS](http://sinonjs.org/) / [testdouble.js](https://www.npmjs.com/package/testdouble)
-    * [Best Practices for Spies, Stubs and Mocks in Sinon.js](https://semaphoreci.com/community/tutorials/best-practices-for-spies-stubs-and-mocks-in-sinon-js)
-    * [testdouble.js vs. sinon.js](http://blog.testdouble.com/posts/2016-03-13-testdouble-vs-sinon.html)
-* Analysis
-  * Node.js Security
-    * [nsp](https://www.npmjs.com/package/nsp) / [snyk](https://www.npmjs.com/package/snyk)
-      * [NSP Advisories](https://nodesecurity.io/advisories/) / [Snyk - Vulnerability DB](https://snyk.io/vuln/)
-  * Web Page
-    * [Lighthouse](https://developers.google.com/web/tools/lighthouse/) / [pwmetrics](https://github.com/paulirish/pwmetrics)
-    * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
-    * [Varvy SEO tool](https://varvy.com/)
-
-### Documentation
-
-* JS
-* CSS / Style Guide
-  * [KSS (Knyle Style Sheets)](http://warpspire.com/kss/)
-    * [kss-node](http://kss-node.github.io/kss-node/)
-    * [SC5 Style Guide Generator](http://styleguide.sc5.io/)
-  * [React Styleguidist](https://react-styleguidist.js.org/)
-
-[GitBook](https://www.npmjs.com/package/gitbook)
-
-### Toolchain
-
-* Compiler / Transpiler / Preprocessor
-  * [Babel](https://babeljs.io)
-    * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
-    * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md), [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
-    * Presets
-      * [Preset Env](https://github.com/babel/babel-preset-env)
-        * [Browserslist](https://github.com/ai/browserslist)
-      * [Preset React](http://babeljs.io/docs/plugins/preset-react/)
-      * [React Optimize](https://github.com/thejameskyle/babel-react-optimize)
-    * Plugins
-      * Proposals
-        * Shims - [Runtime Transform](http://babeljs.io/docs/plugins/transform-runtime/) / [Polyfill](http://babeljs.io/docs/usage/polyfill/)
-          * async/await - [fast-async](https://github.com/MatAtBread/fast-async) ([NoDent](https://www.npmjs.com/package/nodent))
-        * [Stage 3](http://babeljs.io/docs/plugins/preset-stage-3/), [Stage 2](http://babeljs.io/docs/plugins/preset-stage-2/), [Stage 1](http://babeljs.io/docs/plugins/preset-stage-1/), [Stage 0](http://babeljs.io/docs/plugins/preset-stage-0/)
-      * Libraries
-        * [lodash](https://www.npmjs.com/package/babel-plugin-lodash), [ramda](https://www.npmjs.com/package/babel-plugin-ramda)
-  * [TypeScript](http://www.typescriptlang.org/)
-    * [TypeScript: the missing introduction](https://toddmotto.com/typescript-the-missing-introduction)
-  * [PostCSS](https://github.com/postcss/postcss)
-
-  * [node-sass](https://www.npmjs.com/package/node-sass)
-  * [PostHTML](https://www.npmjs.com/package/posthtml)
-* Loader / Builder / Bundler
-  * [Webpack](http://webpack.github.io/docs/)
-    * [webpack-howto](https://github.com/petehunt/webpack-howto)
-      * [SurviveJS Webpack](https://survivejs.com/webpack/what-is-webpack/)
-      * [webpack-blocks](https://github.com/andywer/webpack-blocks)
-    * Loaders
-      * [babel-loader](https://www.npmjs.com/package/babel-loader) / [awesome-typescript-loader](https://www.npmjs.com/package/awesome-typescript-loader) / [vue-loader](https://www.npmjs.com/package/vue-loader)
-        * [imports-loader](https://www.npmjs.com/package/imports-loader)
-      * [css-loader](https://www.npmjs.com/package/css-loader), [style-loader](https://www.npmjs.com/package/style-loader) / [isomorphic-style-loader](https://www.npmjs.com/package/isomorphic-style-loader)
-        * [postcss-loader](https://www.npmjs.com/package/postcss-loader), [scss-loader](https://www.npmjs.com/package/sass-loader)
-    * Plugins
-      * [Lodash Plugin](https://www.npmjs.com/package/lodash-webpack-plugin)
-  * [Rollup](https://rollupjs.org/)
-    * [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
-      
-    * Plugins
-      * [babel](https://www.npmjs.com/package/babel-eslint), [eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments), [unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn), [no-use-extend-native](https://www.npmjs.com/package/eslint-plugin-no-use-extend-native)
-      * [compat](https://www.npmjs.com/package/eslint-plugin-compat)
-      * [node](https://www.npmjs.com/package/eslint-plugin-node), [security](https://www.npmjs.com/package/eslint-plugin-security)
-      * [react](https://www.npmjs.com/package/eslint-plugin-react), [graphql](https://www.npmjs.com/package/eslint-plugin-graphql)
-      * [flowtype](https://github.com/gajus/eslint-plugin-flowtype), [jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
-      * [ava](https://www.npmjs.com/package/eslint-plugin-ava), [mocha](https://www.npmjs.com/package/eslint-plugin-mocha), [chai-expect](https://www.npmjs.com/package/eslint-plugin-chai-expect)
-      * [fp](https://www.npmjs.com/package/eslint-plugin-fp), [lodash](https://www.npmjs.com/package/eslint-plugin-lodash), [lodash-fp](https://www.npmjs.com/package/eslint-plugin-lodash-fp), [immutable](https://www.npmjs.com/package/eslint-plugin-immutable)
-      * [promise](https://www.npmjs.com/package/eslint-plugin-promise), [optimize-regex](https://www.npmjs.com/package/eslint-plugin-optimize-regex)
-
-* [Flow](https://flow.org)
-    * [flow-typed](https://github.com/flowtype/flow-typed)
-    * [Flow Runtime](https://www.npmjs.com/package/babel-plugin-flow-runtime)
-  * [StyleLint](http://stylelint.io/)
-    * [doiuse](https://www.npmjs.com/package/doiuse)
-  * [HTMLHint](https://github.com/yaniswang/HTMLHint)
-* Task Automation
-  * [npm-run-script](https://docs.npmjs.com/cli/run-script), [npm-scripts](https://docs.npmjs.com/misc/scripts)
-    * [task automation with npm run](http://substack.net/task_automation_with_npm_run), \
-      [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
-      * [Why I Left Gulp and Grunt for npm Scripts](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
-    * Git Hooks - [Husky](https://github.com/typicode/husky)
-    * Environment Variables - [env-cmd](https://www.npmjs.com/package/env-cmd), [cross-env](https://www.npmjs.com/package/cross-env)
-    * [get-port](https://www.npmjs.com/package/get-port), [public-ip](https://www.npmjs.com/package/public-ip)
-
-### Workflow
-
-* Development
-  * Micro Generator
-    * [Plop](https://plopjs.com)
-  * Live Reload / Watch / Preview
-    * [webpack Dev Server](https://www.npmjs.com/package/webpack-dev-server)
-      * [webpack Dashboard](https://www.npmjs.com/package/webpack-dashboard)
-      * [webpack Dev Middleware](https://www.npmjs.com/package/webpack-dev-middleware)
-    * [React Hot Loader 3](http://gaearon.github.io/react-hot-loader/)
-    * [Browsersync](https://www.npmjs.com/package/browser-sync)
-    * React Native - [Expo](https://expo.io/)
-    * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
-  * Dev Tools
-    * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-    * Third-party Panels
-      * [React DevTools](https://github.com/facebook/react-devtools) / [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) / [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd) / [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-      * [React Perf](https://chrome.google.com/webstore/detail/react-perf/hacmcodfllhbnekmghgdlplbdnahmhmm)
-      * [Redux DevTools](https://github.com/gaearon/redux-devtools)
-      * [Immutable DevTools](https://github.com/andrewdavey/immutable-devtools)
-      * [Apollo Client Devtools](https://github.com/apollographql/apollo-client-devtools), [GraphQL Network](https://github.com/Ghirro/graphql-network)
-      * [JWT Inspector](https://jwtinspector.io/)
-      * [WebGL Insight](https://github.com/3Dparallax/insight/), [Three.js Editor Extension](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea)
-    * Electron - [Devtron](https://github.com/electron/devtron)
-
-    * Server-side Rendering
-      * [Next.js](https://github.com/zeit/next.js)
-      * [React Isomorphic Render](https://www.npmjs.com/package/react-isomorphic-render)
-      * [React Engine](https://www.npmjs.com/package/react-engine)
-      * [Express React Views](https://www.npmjs.com/package/express-react-views)
-
-      * Object Storage + CDN
-        * Global
-          * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
-          * [Google Cloud Storage + Cloud CDN](https://cloud.google.com/storage/docs/hosting-static-website) - [google-cloud](https://www.npmjs.com/package/google-cloud) / [gcloud](https://cloud.google.com/sdk/gcloud/)
-          * [Firebase Hosting](https://firebase.google.com/products/hosting/) - [firebase-tools](https://www.npmjs.com/package/firebase-tools)
-          * [Netlify](https://www.netlify.com/) - [netlify-cli](https://www.npmjs.com/package/netlify-cli)
-          * [Surge](https://surge.sh/) - [surge cli client](https://www.npmjs.com/package/surge)
         * China
           * [阿里云 OSS + CDN](https://help.aliyun.com/document_detail/31872.html) - [aliyun-sdk](https://www.npmjs.com/package/aliyun-sdk) / [oss-nodejs-sdk](https://www.npmjs.com/package/ali-oss)
           * [腾讯云 COS + CDN](https://www.qcloud.com/document/product/436/9512) - [cos-nodejs-sdk-v5](https://www.npmjs.com/package/cos-nodejs-sdk-v5)
-    * Packaged App
-      * [Electron Builder](https://www.npmjs.com/package/electron-builder)
-        * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update)
-      * [CodePush](https://www.npmjs.com/package/react-native-code-push)
-  * DevOps
-    * Process Supervisor
-      * [pm2](http://pm2.keymetrics.io/)
-        * [pm2-docker](http://pm2.keymetrics.io/docs/usage/docker-pm2-nodejs/)
-        * [Process File](http://pm2.keymetrics.io/docs/usage/application-declaration/)
-    * Containers
-      * [Docker](https://docs.docker.com/engine/reference/builder/)
-        * Learning
-          * [Play with docker classroom](http://training.play-with-docker.com/)
-          * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
-          * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
-        * [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
-        * [Docker run reference](https://docs.docker.com/engine/reference/run/)
-        * [Docker Compose](https://docs.docker.com/compose/overview/)
-      * Docker Images
-        * [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
-        * [docker-lambda](https://github.com/lambci/docker-lambda)
-    * Container Clusters
-      * [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
-        * [Compose file reference](https://docs.docker.com/compose/compose-file/)
-      * [Kubernetes](https://kubernetes.io/)
-        * [Kubernetes Cheat Sheet](http://k8s.info/cs.html)
-    * PaaS
-      * Global
-        * [now](https://zeit.co/now)
-        * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
       * China
         * [LeanCloud-云引擎](https://leancloud.cn/docs/leanengine_overview.html) ([云函数](https://leancloud.cn/docs/leanengine_cloudfunction_guide-node.html), [网站托管](https://leancloud.cn/docs/leanengine_webhosting_guide-node.html)) - [lean-cli](https://leancloud.cn/docs/leanengine_cli.html)
-* Monitoring
-  * Error Tracking
-    * [Capturing client-side JavaScript errors](https://www.thoughtworks.com/radar/techniques/capturing-client-side-javascript-errors), [Front-End Error Handling](https://staticapps.org/articles/front-end-error-handling/)
-      * [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
-    * Services
-      * [Sentry](https://sentry.io/for/javascript/)
-  * Logging
-    * Global
-      * [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) / [Google Stackdriver](https://cloud.google.com/stackdriver/)
     * China
       * [阿里云-云监控](https://www.aliyun.com/product/jiankong) + [阿里云-日志服务 SLS](https://www.aliyun.com/product/sls) / [腾讯云-基础监控 BCM](https://www.qcloud.com/product/bcm)
   * APM (Application Performance Management)
-    * Global
-      * [New Relic](https://newrelic.com/) / [AppDynamics](https://www.appdynamics.com/) / [Datadog APM](https://www.datadoghq.com/apm/)
-      * [Pingdom](https://www.pingdom.com/), [AppNeta](https://www.appneta.com/)
-      * [Trace](https://trace.risingstack.com)
     * China
       * [OneAPM](https://www.oneapm.com/) / [听云](http://www.tingyun.com/)
       * [腾讯云-云拨测 CAT](https://www.qcloud.com/product/cat) / [百度云观测](http://ce.baidu.com/)
       * [alinode](https://alinode.aliyun.com/)
-
-### Command-line Environment (Mac)
-
-* Intro
-  * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
-  * [The Bash Guide](http://guide.bash.academy/)
-
-* Git
-  * [Git-it](https://github.com/jlord/git-it-electron)
-  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
-  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
-  * [commitizen](https://github.com/commitizen/cz-cli)
-* [Docker for Mac](https://docs.docker.com/docker-for-mac/)
-
-### Command-line Libraries (Node.js)
-
-  * Generator - [Yeoman](http://yeoman.io/authoring/)
-  * Shell Commands - [ShellJS](https://www.npmjs.com/package/shelljs)
-
-### IDE / Editors
-
-* [Atom](https://atom.io/) Plugins
-    * [Project Manager](https://atom.io/packages/project-manager)
-    * [todo-show](https://atom.io/packages/todo-show) / [imdone-atom](https://atom.io/packages/imdone-atom)
-  * Integration
-    * [GitHub for Atom](https://github.atom.io/)
-    * [Build](https://atom.io/packages/build)
-      * [AtomBuild](https://atombuild.github.io/)
-    * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
-* Other Electron-based IDE
-  * [VS Code](https://code.visualstudio.com/)
-    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
-
-  * [Hack](http://sourcefoundry.org/hack/)
-
-### Useful Apps
-
-* Playground
-  * [RunKit](https://runkit.com)
-
-    * [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
-  * CSS
-    * Gradient - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-  * JS
-    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-* Viewer
-  * [GraphQL Voyager](https://apis.guru/graphql-voyager/), [GraphQL Docs](https://graphql-docs.com/), [GraphQL Visualizer / graphqlviz](http://nathanrandal.com/graphql-visualizer/) / [graphqlviz](https://github.com/sheerun/graphqlviz)
-  * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
