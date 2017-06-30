@@ -84,39 +84,25 @@
   
   * [Google Developers](https://developers.google.com/web/)
     * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-    
-  * Apple
-    * [WebKit JS](https://developer.apple.com/reference/webkitjs/), [WebKit DOM Programming Topics](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/SafariJSProgTopics)
-    * [Safari Web Content Guide](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariWebContent/), [Safari HTML Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariHTMLRef/Introduction.html), [Safari CSS Reference](https://developer.apple.com/library/content/documentation/AppleApplications/Reference/SafariCSSRef/), [Safari CSS Visual Effects Guide](https://developer.apple.com/library/content/documentation/InternetWeb/Conceptual/SafariVisualEffectsProgGuide/)
+            
   * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
           
       * [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
           
-  * Loading
-    * [How DNS works](https://howdns.works/)
-        
     * [CSS and the critical path](http://www.phpied.com/css-and-the-critical-path/)
        
     * [Evolution of Script Loading](https://www.stevesouders.com/blog/2010/12/06/evolution-of-script-loading/), [Browser script loading roundup](https://www.stevesouders.com/blog/2010/02/07/browser-script-loading-roundup/)
       
-  * [Using ARIA](https://w3c.github.io/using-aria/)
-
     * Workshop - [Codelabs - Real time communication with WebRTC](https://codelabs.developers.google.com/codelabs/webrtc-web/)
-          
-  * [WebVR](https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API)
-    * Status - [WebVR Rocks](https://webvr.rocks/) 
-    * Workshop - [Codelabs - Building for Virtual Reality on the Web](https://codelabs.developers.google.com/codelabs/webvr/)
-    
-    * Workshop - [Codelabs - An Introduction to Web Assembly](https://codelabs.developers.google.com/codelabs/web-assembly-intro/)
-  
-    * [WebAssembly.org](http://webassembly.org/)
-    * [An Abridged Cartoon Introduction To WebAssembly](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
+                    
+    * [An Abridged Cartoon](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
               
 * [CSS Modules](https://github.com/css-modules/css-modules)
 * [PostCSS](http://postcss.org/)
   * [CSSNext](http://cssnext.io/)
   * [Styled-Components](https://github.com/styled-components/styled-components)
     * [Writing your styles in JS ≠ writing inline styles](http://mxstbr.blog/2016/11/inline-styles-vs-css-in-js/)
+    
   * [Aphrodite](https://github.com/Khan/aphrodite)
     * [Inline CSS at Khan Academy: Aphrodite](http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm)
 * Best Practices
@@ -290,9 +276,6 @@ Service Worker
 
 
 
-
-
-
 * [PostCSS](http://postcss.org/)
 
 ### Next Generation JS
@@ -383,19 +366,6 @@ https://medium.com/the-node-js-collection
 
 ### Platform Compatibility and Proposal Status
     
-  * Platform Status
-    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
-    
-  * Platform Releases
-    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
-    
-  * Platform Updates
-    * [Mozilla Hacks](https://hacks.mozilla.org/)
-    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-    * [Webkit Blog](https://webkit.org/blog/)
-    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
-
-
   * [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
     * Polyfill - [What is a Polyfill?](https://remysharp.com/2010/10/08/what-is-a-polyfill)
     * Feature Detection - [Modernizr/feature-detects](https://github.com/Modernizr/Modernizr/tree/master/feature-detects), [feature.js](https://github.com/viljamis/feature.js/blob/master/feature.js)
@@ -502,9 +472,7 @@ https://medium.com/the-node-js-collection
       * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
  
      * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
-         
-  * [changed-log](https://www.npmjs.com/package/changed-log)
-          
+                   
   * Small Modules
     * [Unix Philosophy and Node.js](http://blog.izs.me/post/48281998870/unix-philosophy-and-nodejs)
     * [module best practices](https://github.com/mattdesl/module-best-practices)
@@ -523,11 +491,9 @@ https://medium.com/the-node-js-collection
     * [is.js](http://is.js.org/)
   * FP
     * [Immutable](http://facebook.github.io/immutable-js/)
-      * Lightweight Alternative - [object-path-immutable](https://www.npmjs.com/package/object-path-immutable) / [dot-prop-immutable](https://www.npmjs.com/package/dot-prop-immutable)
   * OOP
     * [Stampit](https://www.npmjs.com/package/stampit)
   * Async
-    * Observable - [RxJS](https://www.npmjs.com/package/rxjs)
     * Callback - [Async](http://caolan.github.io/async/)
 * Storage
   * IndexedDB / WebSQL / localStorage / Memory
@@ -566,10 +532,6 @@ https://medium.com/the-node-js-collection
     * [Designing Offline-First Web Apps](https://alistapart.com/article/offline-first)
     * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html), \
       [Offline First and the Circle Of Web](http://hood.ie/blog/offline-first-and-the-circle-of-web.html), [Part II: Breaking the Circle](http://hood.ie/blog/offline-first-and-the-circle-of-web-part-ii-breaking-the-circle.html)
-* Routing
-  * [React Router Redux](https://www.npmjs.com/package/react-router-redux)
-* Debugging
-  * [why-did-you-update](https://www.npmjs.com/package/why-did-you-update)
   
   * [angular-cli](https://cli.angular.io/)
   * [vue-cli](https://www.npmjs.com/package/vue-cli)
@@ -733,8 +695,7 @@ https://medium.com/the-node-js-collection
 * Debugging
   * [why-is-node-running](https://www.npmjs.com/package/why-is-node-running)
 * Network
-  * WebSocket - [ws](https://www.npmjs.com/package/ws) / [Socket.IO](https://www.npmjs.com/package/socket.io) / [Engine.IO](https://www.npmjs.com/package/engine.io) / [SockJS-node](https://www.npmjs.com/package/sockjs)
-  * [download](https://www.npmjs.com/package/download)
+
   * Email - [Nodemailer](https://nodemailer.com/)
     * Email HTML - [mailgen](https://www.npmjs.com/package/mailgen)
 * Crypto
@@ -897,23 +858,6 @@ https://medium.com/the-node-js-collection
     * [webpack-howto](https://github.com/petehunt/webpack-howto)
       * [SurviveJS Webpack](https://survivejs.com/webpack/what-is-webpack/)
       * [webpack-blocks](https://github.com/andywer/webpack-blocks)
-    * Loaders
-      * [babel-loader](https://www.npmjs.com/package/babel-loader) / [awesome-typescript-loader](https://www.npmjs.com/package/awesome-typescript-loader) / [vue-loader](https://www.npmjs.com/package/vue-loader)
-        * [imports-loader](https://www.npmjs.com/package/imports-loader)
-      * [css-loader](https://www.npmjs.com/package/css-loader), [style-loader](https://www.npmjs.com/package/style-loader) / [isomorphic-style-loader](https://www.npmjs.com/package/isomorphic-style-loader)
-        * [postcss-loader](https://www.npmjs.com/package/postcss-loader), [scss-loader](https://www.npmjs.com/package/sass-loader)
-    * Plugins
-      * [Lodash Plugin](https://www.npmjs.com/package/lodash-webpack-plugin)
-      
-    * Plugins
-      * [babel](https://www.npmjs.com/package/babel-eslint), [eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments), [unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn), [no-use-extend-native](https://www.npmjs.com/package/eslint-plugin-no-use-extend-native)
-      * [compat](https://www.npmjs.com/package/eslint-plugin-compat)
-      * [node](https://www.npmjs.com/package/eslint-plugin-node), [security](https://www.npmjs.com/package/eslint-plugin-security)
-      * [react](https://www.npmjs.com/package/eslint-plugin-react), [graphql](https://www.npmjs.com/package/eslint-plugin-graphql)
-      * [flowtype](https://github.com/gajus/eslint-plugin-flowtype), [jsdoc](https://www.npmjs.com/package/eslint-plugin-jsdoc)
-      * [ava](https://www.npmjs.com/package/eslint-plugin-ava), [mocha](https://www.npmjs.com/package/eslint-plugin-mocha), [chai-expect](https://www.npmjs.com/package/eslint-plugin-chai-expect)
-      * [fp](https://www.npmjs.com/package/eslint-plugin-fp), [lodash](https://www.npmjs.com/package/eslint-plugin-lodash), [lodash-fp](https://www.npmjs.com/package/eslint-plugin-lodash-fp), [immutable](https://www.npmjs.com/package/eslint-plugin-immutable)
-      * [promise](https://www.npmjs.com/package/eslint-plugin-promise), [optimize-regex](https://www.npmjs.com/package/eslint-plugin-optimize-regex)
     
   * [StyleLint](http://stylelint.io/)
 
@@ -922,8 +866,6 @@ https://medium.com/the-node-js-collection
     * [task automation with npm run](http://substack.net/task_automation_with_npm_run), \
       [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
     
-    * [get-port](https://www.npmjs.com/package/get-port), [public-ip](https://www.npmjs.com/package/public-ip)
-
 ### Workflow
       
           * [Firebase Hosting](https://firebase.google.com/products/hosting/) 
@@ -937,12 +879,7 @@ https://medium.com/the-node-js-collection
       * [A Guide to Proper Error Handling in JavaScript](https://www.sitepoint.com/proper-error-handling-javascript/)
     * Services
       * [Sentry](https://sentry.io/for/javascript/)
-      
-    * Global
-      * [New Relic](https://newrelic.com/) / [AppDynamics](https://www.appdynamics.com/) / [Datadog APM](https://www.datadoghq.com/apm/)
-      * [Pingdom](https://www.pingdom.com/), [AppNeta](https://www.appneta.com/)
-      * [Trace](https://trace.risingstack.com)
-      
+            
 * Development
   * Micro Generator
     * [Plop](https://plopjs.com)
@@ -967,14 +904,9 @@ https://medium.com/the-node-js-collection
 
     * Server-side Rendering
       * [Next.js](https://github.com/zeit/next.js)
-      * [React Isomorphic Render](https://www.npmjs.com/package/react-isomorphic-render)
-      * [React Engine](https://www.npmjs.com/package/react-engine)
-      * [Express React Views](https://www.npmjs.com/package/express-react-views)
 
     * Packaged App
-      * [Electron Builder](https://www.npmjs.com/package/electron-builder)
         * [Auto Update](https://github.com/electron-userland/electron-builder/wiki/Auto-Update)
-      * [CodePush](https://www.npmjs.com/package/react-native-code-push)
   * DevOps
     * Process Supervisor
       * [pm2](http://pm2.keymetrics.io/)
