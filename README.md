@@ -3750,6 +3750,42 @@ Node.js Package Managers (npm (build-step))
 * [Yarn](https://yarnpkg.com) and [Yarn GitHub](https://github.com/yarnpkg/yarn)
 * ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
 
+<!--
+  * [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
+  * [Why not to use version control hosting for packages](http://blog.npmjs.org/post/154387331670/the-right-tool-for-the-job-why-not-to-use-version)
+  * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
+  * [changes to npm’s unpublish policy](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy), [kik, left-pad, and npm](http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm)
+  
+  * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
+
+  * package.json
+    * [Specifics of npm's package.json](https://docs.npmjs.com/files/package.json)
+    * [Specifics of yarn's package.json](https://yarnpkg.com/en/docs/package-json)
+    * [What's the difference between dependencies, devDependencies and peerDependencies](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
+    
+    * Finding Packages
+  * Search
+    * [npms.io](https://npms.io/) / [node-modules.com](http://node-modules.com/) / [npmsearch.com](http://npmsearch.com/)
+      * [improved search in the npm CLI (and how we got here)](http://blog.npmjs.org/post/156076312840/search-update), \
+        [Better search is here!](http://blog.npmjs.org/post/154912817335/better-search-is-here)
+  * Stats
+    * [npm trends](http://www.npmtrends.com/)
+    * [NPMCompare](https://npmcompare.com/)
+    * [npm-stat](https://npm-stat.com/)
+  * Rank
+    * [The State Of JavaScript](http://stateofjs.com/), \
+      [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+    * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
+* Dependency Management / Release / Maintenance
+  * [npm Developer Guide](https://docs.npmjs.com/misc/developers)
+    * [npm's CLI](https://docs.npmjs.com/#cli)
+    * [v5.0.0](http://blog.npmjs.org/post/161081169345/v500)
+    * [npm’s lockfiles](http://blog.npmjs.org/post/161627993435/learn-more-about-npms-lockfiles)
+  * [Yarn](https://yarnpkg.com/)
+    * [yarn's CLI](https://yarnpkg.com/en/docs/cli/)
+    * [yarn.lock](https://yarnpkg.com/en/docs/yarn-lock)
+-->
+
 Check Update
 * [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
 
