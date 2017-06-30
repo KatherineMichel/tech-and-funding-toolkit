@@ -1,10 +1,9 @@
 * The JS/web technology is like [an ocean of stuff you don’t know](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f). Simply collecting more stuff or composing dozens of "awesome lists" into a single one will only exacerbate the [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4). So this document must __stay lean__ and focus on __the most frequent problems__ and __the most commonly used stuff__.
 * __The npm package statistics (like download count) are given more weight than Github repo statistics (like starring data)__ because npm statistics can better reflect the actual usage and popularity.
 * Prefer __fine-grained classifications and deep hierarchies__ over __featureless descriptions and distractive comments__.
-* I wish this document could be closer to a kind of __knowledge graph__ or __skill tree__ than a list or a collection.
-* It currently contains __2000+__<!-- \[[^\]]+\] --> links (projects, tools, plugins, services, articles, books, sites, etc.)
-* Feel free to submit the __missing__ or __better__ links in your opinion. Also, please provide the __reason__.
-* [Why not add a Europe (or other regions) section](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/4#issuecomment-308073026)? [Why not add your project](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/5)? [Why so many React-based projects? Why not Angular/Vue.js/XXX](http://www.npmtrends.com/rxjs-vs-mobx-vs-redux-vs-vue-vs-react-vs-@angular/core-vs-@cycle/dom-vs-backbone-vs-jquery-vs-vuex)
+* __knowledge graph__ or __skill tree__
+
+[Why so many React-based projects? Why not Angular/Vue.js/XXX](http://www.npmtrends.com/rxjs-vs-mobx-vs-redux-vs-vue-vs-react-vs-@angular/core-vs-@cycle/dom-vs-backbone-vs-jquery-vs-vuex)
 
 ---
 
@@ -388,40 +387,14 @@ Service Worker
   * [ES6 In Depth](https://hacks.mozilla.org/category/es6-in-depth/)
   * Nicholas C. Zakas's [Understanding ECMAScript 6](https://leanpub.com/understandinges6)
 * Re-intro to JS
-  * Articles
-    * MDN
-      * [A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
-      * [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness), [Data types and data structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures), [Inheritance and the prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
-      * [Concurrency model and Event Loop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop), [Memory Management](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management)
-    * Dmitry Soshnikov
-      * [JavaScript. The Core](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)
-      * ECMA-262-3 in detail
-        * [Execution Contexts](http://dmitrysoshnikov.com/ecmascript/chapter-1-execution-contexts/), [Variable object](http://dmitrysoshnikov.com/ecmascript/chapter-2-variable-object/), [This](http://dmitrysoshnikov.com/ecmascript/chapter-3-this/), [Scope chain](http://dmitrysoshnikov.com/ecmascript/chapter-4-scope-chain/), [Functions](http://dmitrysoshnikov.com/ecmascript/chapter-5-functions/), [Closures](http://dmitrysoshnikov.com/ecmascript/chapter-6-closures/), [Evaluation strategy](http://dmitrysoshnikov.com/ecmascript/chapter-8-evaluation-strategy/)
-        * OOP: [The general theory](http://dmitrysoshnikov.com/ecmascript/chapter-7-1-oop-general-theory/), [ECMAScript implementation](http://dmitrysoshnikov.com/ecmascript/chapter-7-2-oop-ecmascript-implementation/),
-      * ECMA-262-5 in detail
-        * [Properties and Property Descriptors](http://dmitrysoshnikov.com/ecmascript/es5-chapter-1-properties-and-property-descriptors/), [Strict Mode](http://dmitrysoshnikov.com/ecmascript/es5-chapter-2-strict-mode/)
-        * Lexical environments: [Common Theory](http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-1-lexical-environments-common-theory/), [ECMAScript implementation](http://dmitrysoshnikov.com/ecmascript/es5-chapter-3-2-lexical-environments-ecmascript-implementation/)
-      * Notes
-        * [Equality operators](http://dmitrysoshnikov.com/notes/note-2-ecmascript-equality-operators/), [Default values of parameters](http://dmitrysoshnikov.com/ecmascript/es6-notes-default-values-of-parameters/)
-    * Dmitri Pavlutin
-      * [equality operator](https://rainsoft.io/the-legend-of-javascript-equality-operator/), [undefined](https://rainsoft.io/7-tips-to-handle-undefined-in-javascript/)
-      * [variables hoisting](https://rainsoft.io/javascript-hoisting-in-details/), [variables lifecycle](https://rainsoft.io/variables-lifecycle-and-why-let-is-not-hoisted/)
-      * [declare functions](https://rainsoft.io/6-ways-to-declare-javascript-functions/), ['this' keyword](https://rainsoft.io/gentle-explanation-of-this-in-javascript/)
-      * [three dots](https://rainsoft.io/how-three-dots-changed-javascript/)
-      * [array creation](https://rainsoft.io/power-up-the-array-creation-in-javascript/), [object literals](https://rainsoft.io/why-object-literals-in-javascript-are-cool/)
-      * [well-known symbols](https://rainsoft.io/detailed-overview-of-well-known-symbols/)
-      * [small and plain functions](https://rainsoft.io/the-art-of-writing-small-and-plain-functions/)
-      * [unicode](https://rainsoft.io/what-every-javascript-developer-should-know-about-unicode/)
-    * Other
+
+  
       * [The Evolution of JavaScript Modularity](https://github.com/myshov/history-of-javascript/tree/master/4_evolution_of_js_modularity)
       * [About object-oriented design and the “class” & “extends” keywords in ES6](http://blog.wolksoftware.com/about-classes-inheritance-and-object-oriented-design-in-typescript-and-es6)
       * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/)
-  * Books
+
     * [Speaking JavaScript](http://speakingjs.com/es5/)
 
-* Reference
-  * [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-  * [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 * Important Proposals
   * [ES Modules](https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358) in [Browsers](https://jakearchibald.com/2017/es-modules-in-browsers/) and [Node.js](https://hackernoon.com/node-js-tc-39-and-modules-a1118aecf95e)
   * [Class Fields & Static Properties](https://github.com/tc39/proposal-class-public-fields/issues/46#issuecomment-239031422)
@@ -432,10 +405,11 @@ Service Worker
 * Functional Programming
   * [Functional Programming for JavaScript People](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504)
   * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon)
+  
   * [Composing Software](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
   * Books
     * [Professor Frisby's Mostly Adequate Guide to Functional Programming](https://drboolean.gitbooks.io/mostly-adequate-guide)
-    * [Functional-Light JavaScript](https://github.com/getify/functional-light-js)
+
   * [Lodash's FP Guide](https://github.com/lodash/lodash/wiki/FP-Guide)
   * [Introduction to Immutable.js and Functional Programming Concepts](https://auth0.com/blog/intro-to-immutable-js/)
   * [Why Ramda?](http://fr.umio.us/why-ramda/)
@@ -451,24 +425,14 @@ Service Worker
   * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
   * [How Is Reactive Different From Procedural Programming?](http://insights.dice.com/2014/01/13/how-is-reactive-different-from-procedural-programming/)
   * [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
-  * [Learn RxJS](https://www.learnrxjs.io/)
-    * [Rx Book](http://xgrommx.github.io/rx-book/index.html)
-    * [Functional Programming in JavaScript](http://reactivex.io/learnrx/)
-    * [RxMarbles](http://rxmarbles.com/)
-* Static Typing
-  * Intro
-    * [Why use static types in JavaScript?](https://medium.freecodecamp.com/why-use-static-types-in-javascript-part-1-8382da1e0adb)
-    * [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b)
+  * Learn RxJS
+
+    
   * [Flow](https://flow.org/en/docs/)
     * [Flow Runtime](https://codemix.github.io/flow-runtime/)
     * [Flow Comments](https://flow.org/blog/2015/02/20/Flow-Comments/)
-  * [TypeScript](http://www.typescriptlang.org/)
+
     * [DefinitelyTyped](http://definitelytyped.org/), [TypeSearch](http://microsoft.github.io/TypeSearch/)
-* Code Style
-  * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
-  * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
-  * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
-  * [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
 
 ### Node.js
 
@@ -495,7 +459,6 @@ Service Worker
 
 ### Platform Compatibility and Proposal Status
 
-* Web
   * Platform Status
     * [Can I Use](http://caniuse.com/)
     * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
@@ -580,8 +543,6 @@ Service Worker
     * [The truth about traditional JavaScript benchmarks](http://benediktmeurer.de/2016/12/16/the-truth-about-traditional-javascript-benchmarks/)
     * [Browser Benchmarks](http://browserbench.org/)
 * Web Runtime / JS Runtime
-  * [Electron](https://electron.atom.io/)
-    * Tutorials - [Essential Electron](http://jlord.us/essential-electron/)
 
   * [React Native](http://facebook.github.io/react-native/) / [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
     * [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
@@ -606,7 +567,14 @@ Service Worker
 
 ### npm Ecosystem
 
-* [npm](https://www.npmjs.com/)
+      * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+      * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+      * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+      * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+    * Changelog
+      * [Conventional Commits](https://conventionalcommits.org/)
+      * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
+      
   * [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
   * [Why not to use version control hosting for packages](http://blog.npmjs.org/post/154387331670/the-right-tool-for-the-job-why-not-to-use-version)
   * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
@@ -636,24 +604,7 @@ Service Worker
     * [yarn.lock](https://yarnpkg.com/en/docs/yarn-lock)
   * [npm-check-updates](https://www.npmjs.com/package/npm-check-updates)
   * [changed-log](https://www.npmjs.com/package/changed-log)
-  * [license-checker](https://www.npmjs.com/package/license-checker)
-  
-* Convention
-  * Open Source
-    * README
-      * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-      * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-      * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-      * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-    * Changelog
-      * [Conventional Commits](https://conventionalcommits.org/)
-      * [Conventional Changelog](https://github.com/conventional-changelog/conventional-changelog)
-    * License
-      * [Choose an open source license](https://choosealicense.com/)
-  * SemVer
-    * [SemVer (Semantic Versioning)](http://semver.org/) / [The semantic versioner for npm](https://docs.npmjs.com/misc/semver) / [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
-    * [npm semver calculator](https://semver.npmjs.com/)
-    
+      
   * package.json
     * [Specifics of npm's package.json](https://docs.npmjs.com/files/package.json)
     * [Specifics of yarn's package.json](https://yarnpkg.com/en/docs/package-json)
@@ -683,8 +634,6 @@ Service Worker
     * [Stampit](https://www.npmjs.com/package/stampit)
   * Async
     * Observable - [RxJS](https://www.npmjs.com/package/rxjs)
-    * Promise - [Bluebird](http://bluebirdjs.com/docs/features.html)
-    * Generator - [Co](https://www.npmjs.com/package/co)
     * Callback - [Async](http://caolan.github.io/async/)
 * Storage
   * IndexedDB / WebSQL / localStorage / Memory
@@ -694,8 +643,6 @@ Service Worker
 ### GUI Framework
 
 * View / ViewModel / ViewController
-  * [React](https://facebook.github.io/react/)
-    * Learning
       * Pete Hunt's [react-howto](https://github.com/petehunt/react-howto)
       * [SurviveJS React](https://survivejs.com/react/introduction/)
       * [React Cheat Sheet](https://reactcheatsheet.com/)
@@ -707,7 +654,7 @@ Service Worker
       * [Preact](https://preactjs.com/) / [Inferno](https://infernojs.org/)
 * Model / App State
   * [Redux](http://redux.js.org/)
-    * Learning
+
       * [Notes of Dan Abramov's Redux course videos](https://github.com/tayiorbeii/egghead.io_redux_course_notes)
       * [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
       * [Tic-Tac-Toe.js: redux pattern in plain JavaScript](http://ramonvictor.github.io/tic-tac-toe-js/)
@@ -774,10 +721,6 @@ Service Worker
   * [React Desktop](http://reactdesktop.js.org/)
   * [React Native Web](https://www.npmjs.com/package/react-native-web)
 
-### Hybrid Libraries
-
-* Electron
-
 ### Network
 
 * HTTP
@@ -823,8 +766,6 @@ Service Worker
 
 ### Server-side Best Practices
 
-* SaaS
-  * [The Twelve-Factor App](https://12factor.net/)
 * Restful API
   * Heroku's [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/), \
     Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), \
@@ -1106,14 +1047,12 @@ Service Worker
 ### Testing
 
 * Unit Testing / Test Runner
-  * [Jest](https://facebook.github.io/jest/)
-  * [Mocha](https://mochajs.org/) + [Chai](http://chaijs.com/)
-  * [Karma](https://karma-runner.github.io)
+  * [Chai](http://chaijs.com/)
 * Web Testing
   * Integration Testing
     * [Enzyme](http://airbnb.io/enzyme/)
   * Functional Testing
-    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/) / [Nightwatch.js](http://nightwatchjs.org/) / [Nightmare](https://github.com/segmentio/nightmare) / [CasperJS](http://casperjs.org/)
+    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/)
     * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
   * Visual Testing
     * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
@@ -1156,23 +1095,13 @@ Service Worker
 ### Documentation
 
 * JS
-  * [JSDoc3](http://usejsdoc.org/)
-    * [documentation.js](http://documentation.js.org/)
-    * [jsdox](http://jsdox.org/)
-    * [dox](https://www.npmjs.com/package/dox)
-  * [ESDoc](https://esdoc.org/)
-  * [React DocGen](https://www.npmjs.com/package/react-docgen)
-* API
-  * [apiDoc](http://apidocjs.com/)
-  * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager)
-* CLI
 * CSS / Style Guide
   * [KSS (Knyle Style Sheets)](http://warpspire.com/kss/)
     * [kss-node](http://kss-node.github.io/kss-node/)
     * [SC5 Style Guide Generator](http://styleguide.sc5.io/)
   * [React Styleguidist](https://react-styleguidist.js.org/)
-* Writing
-  * Static Web Generator - [GitBook](https://www.npmjs.com/package/gitbook)
+
+[GitBook](https://www.npmjs.com/package/gitbook)
 
 ### Toolchain
 
@@ -1208,20 +1137,11 @@ Service Worker
         * [imports-loader](https://www.npmjs.com/package/imports-loader)
       * [css-loader](https://www.npmjs.com/package/css-loader), [style-loader](https://www.npmjs.com/package/style-loader) / [isomorphic-style-loader](https://www.npmjs.com/package/isomorphic-style-loader)
         * [postcss-loader](https://www.npmjs.com/package/postcss-loader), [scss-loader](https://www.npmjs.com/package/sass-loader)
-
-        * [json-loader](https://www.npmjs.com/package/json-loader) / [json5-loader](https://www.npmjs.com/package/json5-loader)
-        * [handlebars-loader](https://www.npmjs.com/package/handlebars-loader), [html-loader](https://www.npmjs.com/package/html-loader)
     * Plugins
       * [Lodash Plugin](https://www.npmjs.com/package/lodash-webpack-plugin)
   * [Rollup](https://rollupjs.org/)
     * [Webpack and Rollup: the same but different](https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c)
-* Formatter
-  * [Prettier](https://www.npmjs.com/package/prettier)
-    * [prettier-eslint](https://www.npmjs.com/package/prettier-eslint)
-* Static Analysis
-  * [ESLint](http://eslint.org/)
-    * [ESLint Rules](http://eslint.org/docs/rules/)
-      * [eslint-index](https://www.npmjs.com/package/eslint-index), [eslint-find-rules](https://www.npmjs.com/package/eslint-find-rules)
+      
     * Plugins
       * [babel](https://www.npmjs.com/package/babel-eslint), [eslint-comments](https://www.npmjs.com/package/eslint-plugin-eslint-comments), [unicorn](https://www.npmjs.com/package/eslint-plugin-unicorn), [no-use-extend-native](https://www.npmjs.com/package/eslint-plugin-no-use-extend-native)
       * [compat](https://www.npmjs.com/package/eslint-plugin-compat)
@@ -1231,7 +1151,8 @@ Service Worker
       * [ava](https://www.npmjs.com/package/eslint-plugin-ava), [mocha](https://www.npmjs.com/package/eslint-plugin-mocha), [chai-expect](https://www.npmjs.com/package/eslint-plugin-chai-expect)
       * [fp](https://www.npmjs.com/package/eslint-plugin-fp), [lodash](https://www.npmjs.com/package/eslint-plugin-lodash), [lodash-fp](https://www.npmjs.com/package/eslint-plugin-lodash-fp), [immutable](https://www.npmjs.com/package/eslint-plugin-immutable)
       * [promise](https://www.npmjs.com/package/eslint-plugin-promise), [optimize-regex](https://www.npmjs.com/package/eslint-plugin-optimize-regex)
-  * [Flow](https://flow.org)
+
+* [Flow](https://flow.org)
     * [flow-typed](https://github.com/flowtype/flow-typed)
     * [Flow Runtime](https://www.npmjs.com/package/babel-plugin-flow-runtime)
   * [StyleLint](http://stylelint.io/)
@@ -1346,9 +1267,6 @@ Service Worker
 * Intro
   * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   * [The Bash Guide](http://guide.bash.academy/)
-* Terminal
-  * [iTerm2](https://www.iterm2.com/)
-    * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 * Git
   * [Git-it](https://github.com/jlord/git-it-electron)
@@ -1365,8 +1283,6 @@ Service Worker
 ### IDE / Editors
 
 * [Atom](https://atom.io/) Plugins
-* Docs
-  * Assistant
     * [Project Manager](https://atom.io/packages/project-manager)
     * [todo-show](https://atom.io/packages/todo-show) / [imdone-atom](https://atom.io/packages/imdone-atom)
   * Integration
@@ -1374,12 +1290,10 @@ Service Worker
     * [Build](https://atom.io/packages/build)
       * [AtomBuild](https://atombuild.github.io/)
     * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
-* Out-of-the-box Atom IDE
 * Other Electron-based IDE
   * [VS Code](https://code.visualstudio.com/)
     * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
-* [WebStorm](https://www.jetbrains.com/webstorm/)
-* Programming Fonts
+
   * [Hack](http://sourcefoundry.org/hack/)
 
 ### Useful Apps
