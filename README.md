@@ -6378,14 +6378,13 @@ AWS- Lambda
 * [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
 * [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
 * [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
 * [Serverless GitHub](https://github.com/serverless/serverless) 
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
 * [IronFunctions](https://github.com/iron-io/functions)
     
-https://aws.amazon.com/api-gateway
-
 https://github.com/awslabs/chalice
 https://github.com/apex/apex
 https://github.com/apex/up
