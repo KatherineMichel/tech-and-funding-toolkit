@@ -1301,6 +1301,10 @@ Brackets control-e
 Visual Studio Code
 
 <!--
+* Other Electron-based IDE
+  * [VS Code](https://code.visualstudio.com/)
+    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
+    
 https://code.visualstudio.com/docs?start=true
 https://code.visualstudio.com/docs/setup/mac
 https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
@@ -3775,6 +3779,7 @@ Another JavaScript Library
 * [Zepto GitHub](https://github.com/madrobby/zepto) 
 
 <!--
+* [Introducing JSON](http://json.org)
 http://www.json.org/xml.html
 -->
 
@@ -3812,13 +3817,6 @@ https://github.com/bstavroulakis/progressive-web-apps
 https://github.com/bstavroulakis/progressive-web-apps/blob/master/car-deals/index.html
 https://twitter.com/bstavroulakis
 
-https://materialdesignkit.com
-https://material.io/guidelines
-https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
-https://getmdl.io/components/index.html#card-selection
-https://getmdl.io
-https://getmdl.io/components/index.html
-
 https://developers.google.com/web/showcase
 
 http://caniuse.com/#search=service%20worker
@@ -3827,9 +3825,6 @@ http://caniuse.com/#search=app%20cache
 https://github.com/localForage/localForage
 https://github.com/systemjs/systemjs
 https://github.com/github/fetch
-
-https://semantic-ui.com
-https://vuejs.org
 
 https://www.w3.org/TR/notifications
 https://www.w3.org/TR/push-api
@@ -4051,11 +4046,18 @@ Other React Stack Helpers (See also ESLint and JSX)
 
 Express (based on Sinatra) (React Stack)
 * [Sinatra GitHub](https://github.com/sinatra/sinatra)
+
+<!--
 * [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)
+-->
 
 Hapi, Koa (Express competitors) (React Stack) 
 * [Hapi](http://hapijs.com) and [Hapi GitHub](https://github.com/hapijs/hapi)
 * [Koa](http://koajs.com)
+
+<!--
+* [Feathers](https://feathersjs.com/)
+-->
 
 Lesser Used Package Managers (Bower, JSPM, Jam, volo)
 * [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
@@ -11263,12 +11265,26 @@ Email
 * [SendGrid](http://sendgrid.com)  
 * [Tiny Letter](https://www.tinyletter.com)
 
+<!--
+  * Search - [Algolia](https://www.algolia.com/)
+  * Email - [SendGrid](https://sendgrid.com/) / [Mailgun](https://www.mailgun.com/) / [Mandrill](http://www.mandrill.com/) / [Amazon SES](https://aws.amazon.com/ses/)
+  * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
+  * Payment - [Stripe](https://stripe.com/)
+  * Maps - [Mapbox](https://www.mapbox.com/)
+  * Customer Support - [Intercom](https://developers.intercom.com/) / [Zendesk](https://developer.zendesk.com/)
+  * IM - [Discord](https://discordapp.com/developers/)
+  * Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
+-->
+
 Email Organization
 * [SaneBox](https://www.sanebox.com)
 
 <!--
 https://www.drip.co
 
+    [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
+    * [Email Design Reference](https://templates.mailchimp.com/)
+    
 Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
 [Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
