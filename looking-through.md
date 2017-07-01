@@ -461,8 +461,6 @@ https://auth0.com
 
   * Microservices
     * [Micro](https://github.com/zeit/micro) / [Seneca](http://senecajs.org/)
-  * Bots
-    * [Botkit](https://www.npmjs.com/package/botkit)
     
 * GraphQL
   * [Schemas and Types](http://graphql.org/learn/schema/)
@@ -593,36 +591,16 @@ https://auth0.com
     * [SC5 Style Guide Generator](http://styleguide.sc5.io/)
   * [React Styleguidist](https://react-styleguidist.js.org/)
 
-[GitBook](https://www.npmjs.com/package/gitbook)
-
 ### Toolchain
-        
-    * [TypeScript: the missing introduction](https://toddmotto.com/typescript-the-missing-introduction)    
+            
   * [PostCSS](https://github.com/postcss/postcss)
-  
-* [Flow](https://flow.org)
-    * [flow-typed](https://github.com/flowtype/flow-typed)
-    * [Flow Runtime](https://www.npmjs.com/package/babel-plugin-flow-runtime)
-    
-    
+      
+            * [Browserslist](https://github.com/ai/browserslist)
+            
 * Compiler / Transpiler / Preprocessor
     * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
     * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md), [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
-    * Presets
-      * [Preset Env](https://github.com/babel/babel-preset-env)
-        * [Browserslist](https://github.com/ai/browserslist)
         
-      * [Preset React](http://babeljs.io/docs/plugins/preset-react/)
-
-        * Shims - [Runtime Transform](http://babeljs.io/docs/plugins/transform-runtime/) / [Polyfill](http://babeljs.io/docs/usage/polyfill/)
-
-        * [Stage 3](http://babeljs.io/docs/plugins/preset-stage-3/), [Stage 2](http://babeljs.io/docs/plugins/preset-stage-2/), [Stage 1](http://babeljs.io/docs/plugins/preset-stage-1/), [Stage 0](http://babeljs.io/docs/plugins/preset-stage-0/)
-
-* Loader / Builder / Bundler
-
-  * [Webpack](http://webpack.github.io/docs/)
-    * [webpack-howto](https://github.com/petehunt/webpack-howto)
-    
   * [StyleLint](http://stylelint.io/)
 
 * Task Automation
@@ -688,14 +666,9 @@ https://www.daocloud.io
   * Form - [金数据](https://help.jinshuju.net/articles/api-intro)
 * AIaaS / BDaaS
 
-        * China
-          * [阿里云 OSS + CDN](https://help.aliyun.com/document_detail/31872.html) - [aliyun-sdk](https://www.npmjs.com/package/aliyun-sdk) / [oss-nodejs-sdk](https://www.npmjs.com/package/ali-oss)
-          * [腾讯云 COS + CDN](https://www.qcloud.com/document/product/436/9512) - [cos-nodejs-sdk-v5](https://www.npmjs.com/package/cos-nodejs-sdk-v5)
       * China
         * [LeanCloud-云引擎](https://leancloud.cn/docs/leanengine_overview.html) ([云函数](https://leancloud.cn/docs/leanengine_cloudfunction_guide-node.html), [网站托管](https://leancloud.cn/docs/leanengine_webhosting_guide-node.html)) - [lean-cli](https://leancloud.cn/docs/leanengine_cli.html)
-    * China
-      * [阿里云-云监控](https://www.aliyun.com/product/jiankong) + [阿里云-日志服务 SLS](https://www.aliyun.com/product/sls) / [腾讯云-基础监控 BCM](https://www.qcloud.com/product/bcm)
-  * APM (Application Performance Management)
+
     * China
       * [OneAPM](https://www.oneapm.com/) / [听云](http://www.tingyun.com/)
       * [腾讯云-云拨测 CAT](https://www.qcloud.com/product/cat) / [百度云观测](http://ce.baidu.com/)
