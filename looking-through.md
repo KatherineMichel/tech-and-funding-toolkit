@@ -422,7 +422,7 @@ http://developer.telerik.com
 * Restful API
   * Heroku's [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/), \
     Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), \
-    [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), \
+
     [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
  
 * Cloud / Distributed
@@ -438,7 +438,7 @@ http://developer.telerik.com
 * Old-fashioned Web Hosting / Non-distributed
   * [Ultimate Guide to Web Hosting](http://www.whoishostingthis.com/resources/web-hosting/) / [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/)
 
-  * [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2), [Understanding OAuth2](http://www.bubblecode.net/en/2016/01/22/understanding-oauth2/)
+  * [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
     * [The OAuth Bible](http://oauthbible.com/)
 
 https://auth0.com
@@ -481,17 +481,8 @@ https://auth0.com
   * [Botpress](https://github.com/botpress/botpress)
 
 ### Server-side Libraries (Node.js)
-
-    * Environment Variables - [env-cmd](https://www.npmjs.com/package/env-cmd), [cross-env](https://www.npmjs.com/package/cross-env)
     
-* Configuration
-  * [dotenv](https://www.npmjs.com/package/dotenv)
-  * [jsonfile](https://www.npmjs.com/package/jsonfile)
-
   * Email - [Nodemailer](https://nodemailer.com/)
-    * Email HTML - [mailgen](https://www.npmjs.com/package/mailgen)
-* Crypto
-  * [bcrypt](https://www.npmjs.com/package/bcrypt)
 
     * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
 
@@ -622,11 +613,7 @@ https://auth0.com
   * Micro Generator
     * [Plop](https://plopjs.com)
   * Live Reload / Watch / Preview
-    * [webpack Dev Server](https://www.npmjs.com/package/webpack-dev-server)
-      * [webpack Dashboard](https://www.npmjs.com/package/webpack-dashboard)
-      * [webpack Dev Middleware](https://www.npmjs.com/package/webpack-dev-middleware)
-    * [React Hot Loader 3](http://gaearon.github.io/react-hot-loader/)
-    * [Browsersync](https://www.npmjs.com/package/browser-sync)
+
     * React Native - [Expo](https://expo.io/)
     * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
       
@@ -648,28 +635,18 @@ https://www.qcloud.com
 
 https://www.daocloud.io
 
+https://help.jinshuju.net
+https://leancloud.cn
+https://www.wilddog.com
 
-    * [LeanCloud-数据存储](https://leancloud.cn/docs/storage_overview.html)
-    * Realtime
-      * [野狗-实时通信引擎](https://www.wilddog.com/product/sync-overview) / [LeanCloud-实时通信](https://leancloud.cn/docs/realtime_v2.html)
-  * Auth
-    * [野狗-身份认证](https://www.wilddog.com/product/auth-overview)
-    * CAPTCHA
-      * [极验](http://www.geetest.com/) / [腾讯云-验证码服务 YY](https://www.qcloud.com/product/yy)
-  * Search -
+      * [极验](http://www.geetest.com/)
   * [SendCloud](http://sendcloud.sohu.com/)
-  * [云片](https://www.yunpian.com/) / [野狗-短信](https://www.wilddog.com/product/message-overview)
+  * [云片](https://www.yunpian.com/)
   * Payment - [Ping++](https://www.pingxx.com/products)
   * Maps - [高德开放平台](https://lbs.amap.com/getting-started/map/) / [百度地图开放平台](http://lbsyun.baidu.com/)
   * Customer Support - [美洽](https://meiqia.com/)
-  * IM - [野狗-即时通讯](https://www.wilddog.com/product/im-overview)
-  * Form - [金数据](https://help.jinshuju.net/articles/api-intro)
-* AIaaS / BDaaS
-
-      * China
-        * [LeanCloud-云引擎](https://leancloud.cn/docs/leanengine_overview.html) ([云函数](https://leancloud.cn/docs/leanengine_cloudfunction_guide-node.html), [网站托管](https://leancloud.cn/docs/leanengine_webhosting_guide-node.html)) - [lean-cli](https://leancloud.cn/docs/leanengine_cli.html)
 
     * China
       * [OneAPM](https://www.oneapm.com/) / [听云](http://www.tingyun.com/)
-      * [腾讯云-云拨测 CAT](https://www.qcloud.com/product/cat) / [百度云观测](http://ce.baidu.com/)
+      * [百度云观测](http://ce.baidu.com/)
       * [alinode](https://alinode.aliyun.com/)
