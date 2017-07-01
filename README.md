@@ -41,6 +41,8 @@ Table of Content
 
 * [Built With and Search](#built-with-and-search)
 
+
+
 * [Programming Language Style Guides](#programming-language-style-guides) 
 
 * [Basics](#basics)
@@ -62,15 +64,6 @@ Table of Content
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple General](#apple-general)
 
-* [Development Environment and Programming](#development-environment-and-programming)
-  * [Apple Developer](#apple-developer)
-  * [Google Developer](#google-developer)
-  * [Microsoft Developer](#microsoft-developer)
-  * [Mozilla Developer](#mozilla-developer)
-  * [Developer Tools](#developer-tools)
-
-* [Testing and Performance](#testing-and-performance)
-
 <!--
 #### Dashboard
 -->
@@ -82,16 +75,29 @@ Table of Content
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
 * [Themes and Static Site Generators](#themes-and-static-site-generators)
 
+
 * [Facebook and Google Design and Development Approaches](#facebook-and-google-design-and-development-approaches)
 
 * [Front-End Development](#front-end-development) 
 
 * [CSS Helpers](#css-helpers)
 
+
+
+* [Development Environment and Programming](#development-environment-and-programming)
+  * [Apple Developer](#apple-developer)
+  * [Google Developer](#google-developer)
+  * [Microsoft Developer](#microsoft-developer)
+  * [Mozilla Developer](#mozilla-developer)
+  * [Developer Tools](#developer-tools)
+
+* [Testing and Performance](#testing-and-performance)
+
+
+
 * [JavaScript](#javascript)
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
 
-  * [JavaScript Ecosystem](#javascript-ecosystem)
   * [JavaScript Framework](#javascript-framework)
   * [JavaScript Tools](#javascript-tools)
 
@@ -739,8 +745,9 @@ https://github.com/kciter/awesome-style-guide
       * Salesforce's [Lightning Design System](https://www.lightningdesignsystem.com/)
       * Yelp's [Styleguide](https://www.yelp.com/styleguide)
       * IBM's [Living Language](https://www.ibm.com/design/language/)
-      * BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines/)
       * A List Apart's [pattern library](http://patterns.alistapart.com/)
+
+      * BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines/)
       * <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov/)
       * MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide/)
 
@@ -1619,10 +1626,6 @@ https://github.com/opengovfoundation/hr-manual
 
 https://github.com/babel/babel.github.io/issues
 
-Standard JS
-https://github.com/standard/standard
-
-JavaScript Standard Style
 https://github.com/DockYard/styleguides
 http://kafka.apache.org/coding-guide.html
 
@@ -2335,366 +2338,8 @@ http://www.mac-forums.com/os-x-operating-system/282475-permissions-error-jpeg-fi
 http://osxdaily.com/2015/11/04/verify-repair-permissions-mac-os-x/
 -->
 
-#### Development Environment and Programming
 
-#### Apple Developer
 
-Mac OS X 
-* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
-* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
-* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
-
-Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-<!--
-[WebKit JS](https://developer.apple.com/reference/webkitjs/)
--->
-
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
-
-Apple iOS
-* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
-* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
-
-MacPorts
-* [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
-
-Mac OS X Directory Strucure and Listing Applications
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-
-<!--
-http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
-
-https://en.wikipedia.org/wiki/Apple_File_System
-https://en.wikipedia.org/wiki/HFS_Plus
--->
-
-Apple Developer Program Membership
-* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
-* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
-* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
-
-Apple Developer and Open Source
-* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
-* [Apple Developer Forum](https://forums.developer.apple.com)
-* [Apple Open Source](https://developer.apple.com/opensource)
-* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
-
-Apple Developer Helpers
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
-* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
-* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-<!--
-* [iTerm2](https://www.iterm2.com/)
-* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
--->
-
-App Store Submission
-* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
-* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
-* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
-
-Apple- More
-* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
-* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
-* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
-* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
-* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
-
-Apple- Kits
-* [ResearchKit and Carekit](http://www.apple.com/researchkit)
-* [Watchkit](https://developer.apple.com/watchkit) 
-
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
-<!--
-http://www.cnet.com/how-to/how-to-find-your-macs-basic-specs-in-os-x/
-
-http://www.tomsguide.com/faq/id-2330399/restore-macbook-pro-factory-settings.html
-
-https://developer.apple.com/download/more
-
-https://itunes.apple.com/us/app/avg-cleaner/id667434228?mt=12
-
-https://developer.apple.com/reference/applepayjs
-https://developer.apple.com/reference/accelerate/1912851-bnns
-https://developer.apple.com/sirikit
-https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
--->
-
-#### Google Developer
-
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Opera (Also Blink)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-* [Opera Neon](http://www.opera.com/computer/neon)
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
-
-Google Developers- General
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-
-Google Developers- Web
-* [Google Developer Web](https://developers.google.com/web)
-
-Chrome Extensions
-* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
-
-<!--
-chrome://apps
-
-google chrome experiments tab
-chrome://flags/#enable-devtools-experiments
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
-
-http://docs.ionic.io/docs/chrome-inspector
--->
-
-#### Microsoft Developer
-
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
-
-<!--
-https://www.microsoft.com/en-us/software-download/windows10ISO
--->
-
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
-
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
-
-Windows SSH and Telnet Client
-* [PuTTY](http://www.putty.org)
-
-<!--
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
--->
-
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
-
-#### Mozilla Developer
-
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
-Firefox Add-Ons
-* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
-
-<!--
-https://www.mozilla.org/en-US/firefox/channel/desktop/
-https://testpilot.firefox.com
--->
-
-#### Developer Tools
-
-<!--
-  * Dev Tools
-    * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-      
-  * Platform Status
-    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
-    
-  * Platform Releases
-    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
-    
-  * Platform Updates
-    * [Mozilla Hacks](https://hacks.mozilla.org/)
-    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-    * [Webkit Blog](https://webkit.org/blog/)
-    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
-    
-    * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
--->
-
-Safari Developer Tools
-* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
-
-Google Developers- Google Chrome Doc
-* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
-* [Google Chrome Home](https://developers.google.com/chrome)
-* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
-* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
-* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
-* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
-* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
-* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
-
-<!--
-https://developers.google.com/web/tools/setup/setup-workflow
-
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles
-https://developers.google.com/web/tools/chrome-devtools/javascript
-https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports
-https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
-https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
-
-https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
-https://developers.google.com/cast/docs/developers
-
-http://anti-code.com/devtools-cheatsheet
-
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
--->
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Developers- Google Chrome Tools
-* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
-
-<!--
-https://www.udacity.com/course/website-performance-optimization--ud884
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/docs
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/getstarted
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
-
-Miscellaneous
-https://bugs.chromium.org/p/v8/issues/list
-
-https://zapier.com/blog/inspect-element-tutorial/
-
-http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
-http://www.ibm.com/developerworks/library/os-extendchrome/
-https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
-http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-http://developer.samsung.com/technical-doc/view.do?v=T000000203
-https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
-https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
-
-https://developer.mozilla.org/en-US/docs/Chrome_Registration
-
-Google Maps JavaScript API
-https://developers.google.com/maps/documentation/javascript
--->
-
-Mozilla Developer Tools
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
-* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
-
-Microsoft Developer Tools
-* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
-* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
-* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
-
-#### Testing and Performance
-
-<!--
-  * Benchmarks
-    * [Browser Benchmarks](http://browserbench.org/)
-    
-    * Services
-      * [Sentry](https://sentry.io/for/javascript/)
-      
-browser market share
-
-https://github.com/WPO-Foundation/webpagetest
-
-https://saucelabs.com
-https://saucelabs.com/blog/sauce-labs-joins-the-w3c
--->
-
-Device Testing
-* [AWS Device Farm](https://aws.amazon.com/device-farm)
-* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
-* [Open Device Labs](http://OpenDeviceLab.com)
-
-Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
-* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
-* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
-* [New Relic](http://newrelic.com)
-* [Sentry](http://getsentry.com)
-
-A/B Testing
-* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
-
-App Invites or Beta Testing
-* [Google App Invites](https://developers.google.com/app-invites)
-* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
-* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-Example
-* [Example Org](http://www.example.org)  
-* [Example Org Mobile](https://m.example.com) 
-
-<!--
-HTTP Archive
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
--->
 
 #### Dashboard
 
@@ -3187,6 +2832,9 @@ https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
+
+
+
 #### Facebook and Google Design and Development Approaches
 
 Facebook and Google Design
@@ -3228,9 +2876,7 @@ HTML5 and CSS3- Info and Tutorials
 Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
 * [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
 * [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
--->
 
-<!--
 Web General (See also JavaScript) 
 * [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
 * [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
@@ -3246,17 +2892,24 @@ Web General (See also JavaScript)
 * [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 -->
 
-<!--
-https://developer.mozilla.org/en-US/docs/Web
 
+
+<!--
+* MDN's [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+
+* [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+
+* [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API) 
+    
+    
 https://developer.mozilla.org/en-US/Apps
 https://developer.mozilla.org/en-US/docs/Web/Reference
 https://developer.mozilla.org/en-US/docs/Web/Guide
 https://developer.mozilla.org/en-US/docs/Web/Tutorials
 https://developer.mozilla.org/en-US/docs/Web/Accessibility
 https://developer.mozilla.org/en-US/docs/Web/Security
-
-https://developer.mozilla.org/en-US/Learn
 
 https://developer.mozilla.org/en-US/docs/Web/API
 https://developer.mozilla.org/en-US/docs/Web/Reference/API
@@ -3279,7 +2932,9 @@ https://developer.mozilla.org/en-US/docs/Glossary
 -->
 
 <!--
-
+    
+    
+    
     * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
       [Introduction to HTTP](https://launchschool.com/books/http)
     * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
@@ -3315,17 +2970,9 @@ https://developer.mozilla.org/en-US/docs/Glossary
 * UDP
   * [QUIC](https://www.chromium.org/quic)
   
-  
-* MDN's [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
-
-* Reference
-  * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
-    * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)  
-    
+     
     * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-    
-   * [HTML: The Living Standard (Web Developer Edition)](https://developers.whatwg.org/)
-   
+       
   * Apple
     * [WebKit JS](https://developer.apple.com/reference/webkitjs/), [WebKit DOM Programming Topics](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/SafariJSProgTopics)
     
@@ -3760,6 +3407,423 @@ Cross Browser and Sniffing
 
 
 
+
+
+#### Development Environment and Programming
+
+#### Apple Developer
+
+Mac OS X 
+* [Mac OS X Wikipedia](https://en.wikipedia.org/wiki/OS_X)
+* [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
+* [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
+
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+<!--
+[WebKit JS](https://developer.apple.com/reference/webkitjs/)
+-->
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Apple iOS
+* [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
+* [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
+
+MacPorts
+* [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
+
+Mac OS X Directory Strucure and Listing Applications
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+
+<!--
+http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
+
+https://en.wikipedia.org/wiki/Apple_File_System
+https://en.wikipedia.org/wiki/HFS_Plus
+-->
+
+Apple Developer Program Membership
+* [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
+* [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
+* [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
+
+Apple Developer and Open Source
+* [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
+* [Apple Developer Forum](https://forums.developer.apple.com)
+* [Apple Open Source](https://developer.apple.com/opensource)
+* [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
+
+Apple Developer Helpers
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
+* [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
+* [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+<!--
+* [iTerm2](https://www.iterm2.com/)
+* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+-->
+
+App Store Submission
+* [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
+* [Apple Store App Review](https://developer.apple.com/app-store/review), [Apple Store App Review Guidelines](https://developer.apple.com/app-store/review/guidelines), and [Apple Store App Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines)
+* [Apple Store App Rejections](https://developer.apple.com/app-store/review/rejections) 
+
+Apple- More
+* [Objective-C Wikipedia](https://en.wikipedia.org/wiki/Objective-C)
+* [iOS SDK Wikipedia](http://en.wikipedia.org/wiki/IOS_SDK)  
+* [iPad/iPhone Objective-C/iOS](https://developer.apple.com/devcenter/ios/index.action)  
+* [Native Mac App Objective-C/Cocoa](https://developer.apple.com/technologies/mac/cocoa.html)  
+* [Retina Display Wikipedia](http://en.wikipedia.org/wiki/Retina_Display)  
+
+Apple- Kits
+* [ResearchKit and Carekit](http://www.apple.com/researchkit)
+* [Watchkit](https://developer.apple.com/watchkit) 
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+<!--
+http://www.cnet.com/how-to/how-to-find-your-macs-basic-specs-in-os-x/
+
+http://www.tomsguide.com/faq/id-2330399/restore-macbook-pro-factory-settings.html
+
+https://developer.apple.com/download/more
+
+https://itunes.apple.com/us/app/avg-cleaner/id667434228?mt=12
+
+https://developer.apple.com/reference/applepayjs
+https://developer.apple.com/reference/accelerate/1912851-bnns
+https://developer.apple.com/sirikit
+https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
+-->
+
+
+
+#### Google Developer
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Opera Neon](http://www.opera.com/computer/neon)
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+Google Developers- General
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+
+Google Developers- Web
+* [Google Developer Web](https://developers.google.com/web)
+
+Chrome Extensions
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
+<!--
+chrome://apps
+
+google chrome experiments tab
+chrome://flags/#enable-devtools-experiments
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
+
+http://docs.ionic.io/docs/chrome-inspector
+-->
+
+
+
+
+#### Microsoft Developer
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+<!--
+https://www.microsoft.com/en-us/software-download/windows10ISO
+-->
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
+
+<!--
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+-->
+
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
+#### Mozilla Developer
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
+
+<!--
+https://www.mozilla.org/en-US/firefox/channel/desktop/
+https://testpilot.firefox.com
+-->
+
+
+
+#### Developer Tools
+
+<!--      
+  * Platform Status
+    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+    
+  * Platform Releases
+    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+    
+  * Platform Updates
+    * [Mozilla Hacks](https://hacks.mozilla.org/)
+    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+    * [Webkit Blog](https://webkit.org/blog/)
+    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+    
+    * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
+-->
+
+<!--
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+-->
+
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+<!--
+      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+-->
+
+Google Developers- Google Chrome Doc
+* [Google Chrome DevTool Docs](https://developers.google.com/web/tools/chrome-devtools)
+
+
+* [Google Chrome Home](https://developers.google.com/chrome)
+* [Google Chrome Dev Tools Iterate](https://developers.google.com/web/tools/chrome-devtools/iterate)
+* [Google Chrome Dev Tools Debug](https://developers.google.com/web/tools/chrome-devtools/debug)
+* [Google Chrome Dev Tools Profile](https://developers.google.com/web/tools/chrome-devtools/profile)
+* [Google Chrome Dev Tools Using the Console](https://developers.google.com/web/tools/chrome-devtools/debug/console)
+* [Google Chrome Dev Tools Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/chrome-devtools/iterate/inspect-styles/shortcuts)
+* [Google Chrome Dev Tools Service Worker Libraries](https://developers.google.com/web/tools/service-worker-libraries)
+
+<!--
+https://developers.google.com/web/tools/setup/setup-workflow
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles
+https://developers.google.com/web/tools/chrome-devtools/javascript
+https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports
+https://developers.google.com/web/tools/chrome-devtools/debug/breakpoints
+https://developers.google.com/web/tools/chrome-devtools/debug/snippets/?hl=en#access-snippets
+
+https://developers.google.com/web/tools/chrome-devtools/debug/remote-debugging/remote-debugging
+https://developers.google.com/cast/docs/developers
+
+http://anti-code.com/devtools-cheatsheet
+
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+-->
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Developers- Google Chrome Tools
+* [Chrome Dev Tools (Awesome Chrome Dev Tools) GitHub](https://github.com/ChromeDevTools/awesome-chrome-devtools)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+<!--
+https://www.udacity.com/course/website-performance-optimization--ud884
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
+Miscellaneous
+https://bugs.chromium.org/p/v8/issues/list
+
+https://zapier.com/blog/inspect-element-tutorial/
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
+-->
+
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
+
+
+
+#### Testing and Performance
+
+<!--
+* Benchmark Testing
+  * JS
+    * [Benchmark.js](https://benchmarkjs.com/)
+    * [Speedracer](https://github.com/ngryman/speedracer)
+    * [stats.js](https://github.com/mrdoob/stats.js)
+  * [SinonJS](http://sinonjs.org/)
+
+    * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
+    * [Varvy SEO tool](https://varvy.com/)
+    
+  * Benchmarks
+    * [Browser Benchmarks](http://browserbench.org/)
+    
+    * Services
+      * [Sentry](https://sentry.io/for/javascript/)
+      
+browser market share
+
+https://github.com/WPO-Foundation/webpagetest
+
+https://saucelabs.com
+https://saucelabs.com/blog/sauce-labs-joins-the-w3c
+-->
+
+Device Testing
+* [AWS Device Farm](https://aws.amazon.com/device-farm)
+* [Google Cloud/Firebase Test Lab for Android](https://firebase.google.com/docs/test-lab)
+* [Open Device Labs](http://OpenDeviceLab.com)
+
+Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
+* [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
+* [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
+* [New Relic](http://newrelic.com)
+* [Sentry](http://getsentry.com)
+
+A/B Testing
+* [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
+* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+
+App Invites or Beta Testing
+* [Google App Invites](https://developers.google.com/app-invites)
+* [Google Play Alpha and Beta Testing](https://support.google.com/googleplay/android-developer/answer/3131213)
+* [TestFlight App Beta Testing](https://www.testflightapp.com) and [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
+
+Example
+* [Example Org](http://www.example.org)  
+* [Example Org Mobile](https://m.example.com) 
+
+<!--
+HTTP Archive
+https://en.wikipedia.org/wiki/.har
+https://toolbox.googleapps.com/apps/har_analyzer
+https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
+https://www.w3.org/webperf
+https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
+http://www.softwareishard.com/blog/har-12-spec
+http://www.softwareishard.com/blog/har-viewer
+
+https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
+https://www.maxcdn.com/one/visual-glossary/har-file
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
+-->
+
+
+#### JavaScript
+
+JavaScript Ecosystem
+* DOM (Document Object Model) (JavaScript, async, AJAX)
+* Node.js (Node.js, npm, nvm)
+* Packages and collaboration: (npm, GitHub)
+* Frameworks (React, Angular, Ember, Backbone)
+* Other jQuery, Underscore, Lodash
+* Types of JavaScript (ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN * reference)
+* Modules (AMD, commonJS modules, ES6 modules)
+* Build Tools (hot reloading, sourcemap)
+* Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
+
+5 Module Formats
+* IIFE (thing of the past)
+* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
+* Universal Module Definition (UMD)
+* CommonJS (CJS) (var jquery = require('jquery'))
+* ES6 Modules (import jQuery from 'jquery') (best choice)
+
+JavaScript Tutorials- Mozilla
+
 * [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
 W3C DOM4
@@ -3768,34 +3832,6 @@ W3C DOM4
 * [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
 
-
-
-
-
-#### JavaScript
-
-<!--
-https://html.spec.whatwg.org/multipage
-
-Semantic Site Audit, Semantic Elements
-Normal Document Flow
--->
-
-JavaScript
-* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
-
-<!--
-https://github.com/getify/Functional-Light-JS
-https://github.com/myshov/history-of-javascript
-https://github.com/verekia/js-stack-from-scratch
-https://github.com/sorrycc/awesome-javascript
-https://github.com/ryanmcdermott/clean-code-javascript
-https://github.com/iliakan/javascript-tutorial
-https://github.com/mjavascript/practical-modern-javascript
-
--->
-
-JavaScript Tutorials- Mozilla
 
 CommonJS
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
@@ -3822,30 +3858,6 @@ ECMAScript and ES6, ES7 Forthcoming
 ECMA Standards
 * [ECMA International](http://www.ecma-international.org)
 
-<!--
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
-
-http://standardjs.com/index.html
-https://github.com/standard/standard
-
-https://nodejs.org/en/docs/es6
-https://github.com/mjavascript/practical-es6
-https://github.com/lukehoban/es6features
-http://es6-features.org/
-http://es6-features.org/#Constants
-https://github.com/sgaurav/understanding-es6
-
-5 Module Formats
-* IIFE (thing of the past)
-* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
-* Universal Module Definition (UMD)
-* CommonJS (CJS) (var jquery = require('jquery'))
-* ES6 Modules (import jQuery from 'jquery') (best choice)
--->
-
 JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
 
@@ -3866,25 +3878,53 @@ jQuery Bootstrap and Boilerplate
 Another JavaScript Library
 * [Zepto GitHub](https://github.com/madrobby/zepto) 
 
-#### JavaScript Ecosystem
-
-DOM (Document Object Model) (JavaScript, async, AJAX)
-Node.js (Node.js, npm, nvm)
-Packages and collaboration: (npm, GitHub)
-Frameworks (React, Angular, Ember, Backbone)
-Other jQuery, Underscore, Lodash
-Types of JavaScript (ES5, ES6, ES2015, CoffeeScript, TypeScript, ClojureScript, Babel, transpiling, compiling, MDN reference)
-Modules (AMD, commonJS modules, ES6 modules)
-Build Tools (hot reloading, sourcemap)
-Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
-
 #### JavaScript Frameworks
 
 #### JavaScript Tools
 
 
 
+
 <!--
+https://html.spec.whatwg.org/multipage
+
+Semantic Site Audit, Semantic Elements
+Normal Document Flow
+
+JavaScript
+* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+https://github.com/getify/Functional-Light-JS
+https://github.com/myshov/history-of-javascript
+https://github.com/verekia/js-stack-from-scratch
+https://github.com/sorrycc/awesome-javascript
+https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/iliakan/javascript-tutorial
+https://github.com/mjavascript/practical-modern-javascript
+
+-->
+
+<!--
+http://www.ecma-international.org/ecma-262/5.1
+http://www.ecma-international.org/publications/standards/Ecma-262.htm
+http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+http://www.ecma-international.org/publications/standards/Ecma-402.htm
+
+http://standardjs.com/index.html
+https://github.com/standard/standard
+
+https://nodejs.org/en/docs/es6
+https://github.com/mjavascript/practical-es6
+https://github.com/lukehoban/es6features
+http://es6-features.org/
+http://es6-features.org/#Constants
+https://github.com/sgaurav/understanding-es6
+-->
+
+<!--
+JavaScript Standard Style
+https://github.com/standard/standard
+
     * Internal
       * [Introducing the WebKit FTL JIT](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
     * Next Generation
@@ -3908,7 +3948,10 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
   * Service Work - [sw-toolbox](https://googlechrome.github.io/sw-toolbox/)
   * IndexedDB
     * LocalStorage API - [localForage](https://www.npmjs.com/package/localforage)
-    
+   
+https://github.com/github/fetch
+https://github.com/localForage/localForage
+
 New
 Progressive Web Apps
 https://app.pluralsight.com/library/courses/web-apps-progressive-getting-started
@@ -3931,9 +3974,7 @@ https://developers.google.com/web/showcase
 http://caniuse.com/#search=service%20worker
 http://caniuse.com/#search=app%20cache
 
-https://github.com/localForage/localForage
 https://github.com/systemjs/systemjs
-https://github.com/github/fetch
 
 https://www.w3.org/TR/notifications
 https://www.w3.org/TR/push-api
@@ -3994,17 +4035,6 @@ https://en.wikipedia.org/wiki/Inversion_of_control
     * Docker
       * [lighthouse-ci/builder/Dockerfile.headless](https://github.com/ebidel/lighthouse-ci/blob/master/builder/Dockerfile.headless#L16)
       * [electron-headless](https://hub.docker.com/r/dannysu/electron-headless/~/dockerfile/)
-
-* Benchmark Testing
-  * JS
-    * [Benchmark.js](https://benchmarkjs.com/)
-    * [Speedracer](https://github.com/ngryman/speedracer)
-    * [stats.js](https://github.com/mrdoob/stats.js)
-  * [SinonJS](http://sinonjs.org/)
-
-    * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
-    * [Varvy SEO tool](https://varvy.com/)
-
 -->
 
 Node.js
