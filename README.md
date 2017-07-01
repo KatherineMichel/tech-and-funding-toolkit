@@ -1317,6 +1317,7 @@ More Shell/Text Editors (See also Visual Studio and XCode)
 * [Notepad++ (Windows)](https://notepad-plus-plus.org)
 
 <!--
+* Electron - [Devtron](https://github.com/electron/devtron)
 * Tutorials - [Essential Electron](http://jlord.us/essential-electron/)
 -->
 
@@ -3895,6 +3896,12 @@ Node.js Package Managers (npm (build-step))
 * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
   
 <!--
+* [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
+* [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
+      
+* [Meeting Notes](https://github.com/nodejs/CTC/tree/master/meetings)
+* [Node.js EPs (Enhancement Proposals)](https://github.com/nodejs/node-eps)
+    
   * [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
   * [Why not to use version control hosting for packages](http://blog.npmjs.org/post/154387331670/the-right-tool-for-the-job-why-not-to-use-version)
   * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
@@ -3999,7 +4006,9 @@ Facebook- React Native (React Stack)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
 
-
+<!--
+* React Native - [Expo](https://expo.io
+-->
 
 More
 
