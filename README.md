@@ -89,6 +89,7 @@ Table of Content
   * [Google Developer](#google-developer)
   * [Microsoft Developer](#microsoft-developer)
   * [Mozilla Developer](#mozilla-developer)
+  * [Browser and Layout Engines](#browser-and-layout-engines)    
   * [Developer Tools](#developer-tools)
 
 * [Testing and Performance](#testing-and-performance)
@@ -789,16 +790,6 @@ Styleguides- Various
 * [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 * [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
 
-JavaScript Styleguide
-* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
-* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
-
-<!--
-  * [Node.js Style Guide](https://github.com/felixge/node-style-guide)
-  * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
-  * [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
--->
-
 PHP Styleguides
 * [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
 * [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
@@ -1355,6 +1346,11 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 http://plnkr.co/
 
 https://www.jetbrains.com/pycharm
+-->
+
+<!--
+* [Prettier](https://www.npmjs.com/package/prettier)
+* [prettier-eslint](https://www.npmjs.com/package/prettier-eslint)
 
 See JavaScript Stack
 [Google Code Prettify](https://github.com/google/code-prettify)
@@ -1674,22 +1670,52 @@ The Distributed Developer Stack Field Guide
 
 
 <!--
+* Git
+  * [Git-it](https://github.com/jlord/git-it-electron)
+  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
+  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  
+  * GUI
+    * [SourceTree](https://www.sourcetreeapp.com/)
+  * Github
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+    * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+    * Chrome Extensions
+      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
+      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+      
+  * Workflow
+    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+    
+* DevOps
+  * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+  * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+  * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+
+* ChatOps
+  * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
+    [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+
+See also: adapters
+  * [Hubot](https://hubot.github.com/)
+
+* Kanban
+  * What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
+  * [Getting Started With Trello](https://trello.com/guide)
+  * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
+  
     * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
+ 
+ Documentation Driven Development. RDD
+    * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
       
       * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
       * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-      
-      * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-      
+            
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
       
-      
-https://en.wikipedia.org/wiki/Red_team
-
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-Trello
-https://upcase.com/design-for-developers-resources/principles
 https://github.com/thoughtbot/guides
 https://github.com/thoughtbot/guides/tree/master/protocol
 
@@ -1711,40 +1737,19 @@ https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 https://github.com/github/open-source-survey
 https://github.com/github/maturity-model
 
-Newer
-  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-  
-  * Workflow
-    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-  * GUI
-    * [SourceTree](https://www.sourcetreeapp.com/)
-  * Github
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-    * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
-    * Chrome Extensions
-      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
-      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-* ChatOps
-  * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
-    [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-  * [Hubot](https://hubot.github.com/)
-    * Adapters - [Slack](https://github.com/slackapi/hubot-slack) / [HipChat](https://www.npmjs.com/package/hubot-hipchat) / [Discord](http://npmjs.com/package/hubot-discord) / [IRC](https://www.npmjs.com/package/hubot-irc) / [Wechat](https://www.npmjs.com/package/hubot-weixin) / [QQ](https://www.npmjs.com/package/hubot-qq)
-* Kanban
-  * What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
-  * [Getting Started With Trello](https://trello.com/guide)
-  * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
-  
-* DevOps
-  * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-  * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-  * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-  
-* Git
-  * [Git-it](https://github.com/jlord/git-it-electron)
-  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
-  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
-  
+
+
+
+
+
+    
+    Trello
+https://upcase.com/design-for-developers-resources/principles
+https://en.wikipedia.org/wiki/Red_team
+
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
+
 New
 https://blog.golang.org/developer-experience
 https://www.ampproject.org/roadmap
@@ -3062,11 +3067,6 @@ https://developer.mozilla.org/en-US/docs/Glossary
 
 
 
-
-
-
-
-
 <!--
 https://v4-alpha.getbootstrap.com/layout/grid/
 
@@ -3418,17 +3418,6 @@ Mac OS X
 * [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
 * [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
 
-Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
-* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
-* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
-* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
-* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
-* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
-
-<!--
-[WebKit JS](https://developer.apple.com/reference/webkitjs/)
--->
-
 Mac OS X- Architecture
 * [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
 * [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
@@ -3469,10 +3458,9 @@ Apple Developer Helpers
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
-<!--
-* [iTerm2](https://www.iterm2.com/)
+iTerm2
+* [iTerm2](https://www.iterm2.com)
 * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
--->
 
 App Store Submission
 * [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
@@ -3512,22 +3500,6 @@ https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f894
 
 #### Google Developer
 
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
-
-Opera (Also Blink)
-* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
-* [Opera Neon](http://www.opera.com/computer/neon)
-
 Google
 * [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
@@ -3563,9 +3535,6 @@ https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-g
 http://docs.ionic.io/docs/chrome-inspector
 -->
 
-
-
-
 #### Microsoft Developer
 
 Windows
@@ -3576,14 +3545,6 @@ Windows
 <!--
 https://www.microsoft.com/en-us/software-download/windows10ISO
 -->
-
-Internet Explorer and Trident (Browser, Layout Engine)
-* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
-* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
-
-Edge and EdgeHTML (Browser, Layout Engine)
-* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
-* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
 
 Windows SSH and Telnet Client
 * [PuTTY](http://www.putty.org)
@@ -3597,10 +3558,6 @@ Linux Feeling- on Windows
 
 #### Mozilla Developer
 
-Mozilla (Browser, Layout Engine)
-* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
-* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
-
 Firefox Add-Ons
 * [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
 
@@ -3611,33 +3568,64 @@ https://testpilot.firefox.com
 
 
 
-#### Developer Tools
+#### Browser and Layout Engines
 
-<!--      
-  * Platform Status
-    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
-    
-  * Platform Releases
-    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
-    
-  * Platform Updates
-    * [Mozilla Hacks](https://hacks.mozilla.org/)
-    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
-    * [Webkit Blog](https://webkit.org/blog/)
-    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
-    
-    * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
--->
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Opera Neon](http://www.opera.com/computer/neon)
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
 
 <!--
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+  * [Chakra](https://github.com/Microsoft/ChakraCore)
+    * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
+    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
+    * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
+    * Internal
+      * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
+    * Next Generation
+      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
 -->
 
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+<!--
+[WebKit JS](https://developer.apple.com/reference/webkitjs/)
+-->
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
+
+#### Developer Tools
 
 Safari Developer Tools
 * [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
@@ -3727,12 +3715,64 @@ Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 * [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
-Microsoft Developer Tools
-* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
-* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
-* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
 
 
+
+<!--      
+  * Platform Status
+    * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+    
+  * Platform Releases
+    * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+    
+  * Platform Updates
+    * [Mozilla Hacks](https://hacks.mozilla.org/)
+    * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+    * [Webkit Blog](https://webkit.org/blog/)
+    * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+    * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
+-->
+
+<!--
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
+
+JavaScript- Microsoft
+* [Microsoft JavaScript](https://msdn.microsoft.com/en-us/library/aa902517.aspx)
+* [Microsoft JavaScript Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0(v=vs.94).aspx)
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)  
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [A Re-introduction to JS (JavaScript Tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+https://developer.mozilla.org/en-US/docs/Web
+
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/index
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+
+https://developer.mozilla.org/en-US/docs/DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
+
+JavaScript Tutorials- Mozilla
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+JavaScript Styleguide
+* [JavaScript Styleguide GitHub](https://github.com/styleguide/javascript)  
+* [Airbnb JavaScript Styleguide GitHub](https://github.com/airbnb/javascript)
+* [Google JavaScript Styleguide](https://google.github.io/styleguide/javascriptguide.xml)
+
+* [Node.js Style Guide](https://github.com/felixge/node-style-guide)
+* [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
+-->
 
 #### Testing and Performance
 
@@ -3822,16 +3862,11 @@ JavaScript Ecosystem
 * CommonJS (CJS) (var jquery = require('jquery'))
 * ES6 Modules (import jQuery from 'jquery') (best choice)
 
-JavaScript Tutorials- Mozilla
-
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
 W3C DOM4
 * [W3C DOM4](https://www.w3.org/TR/dom)
 * [What is the Document Object Model?](https://www.w3.org/DOM/#what)
 * [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
 * [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
 
 CommonJS
 * [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
@@ -3894,9 +3929,7 @@ Normal Document Flow
 JavaScript
 * [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
 
-https://github.com/getify/Functional-Light-JS
 https://github.com/myshov/history-of-javascript
-https://github.com/verekia/js-stack-from-scratch
 https://github.com/sorrycc/awesome-javascript
 https://github.com/ryanmcdermott/clean-code-javascript
 https://github.com/iliakan/javascript-tutorial
@@ -3910,9 +3943,6 @@ http://www.ecma-international.org/publications/standards/Ecma-262.htm
 http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 http://www.ecma-international.org/publications/standards/Ecma-402.htm
 
-http://standardjs.com/index.html
-https://github.com/standard/standard
-
 https://nodejs.org/en/docs/es6
 https://github.com/mjavascript/practical-es6
 https://github.com/lukehoban/es6features
@@ -3923,6 +3953,7 @@ https://github.com/sgaurav/understanding-es6
 
 <!--
 JavaScript Standard Style
+http://standardjs.com/index.html
 https://github.com/standard/standard
 
     * Internal
@@ -3930,15 +3961,7 @@ https://github.com/standard/standard
     * Next Generation
       * [JSC Love ES6](https://webkit.org/blog/7536/jsc-loves-es6/)
       * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/)
-  * [Chakra](https://github.com/Microsoft/ChakraCore)
-    * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
-    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
-    * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
-    * Internal
-      * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
-    * Next Generation
-      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
-      
+           
   * [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
   
 * Network
@@ -4097,8 +4120,6 @@ Node.js Package Managers (npm (build-step))
     * Finding Packages
   * Search
     * [npms.io](https://npms.io/) / [node-modules.com](http://node-modules.com/) / [npmsearch.com](http://npmsearch.com/)
-      * [improved search in the npm CLI (and how we got here)](http://blog.npmjs.org/post/156076312840/search-update), \
-        [Better search is here!](http://blog.npmjs.org/post/154912817335/better-search-is-here)
   * Stats
     * [npm trends](http://www.npmtrends.com/)
     * [NPMCompare](https://npmcompare.com/)
@@ -4130,36 +4151,6 @@ Security Scanning (checking all the packages for any known vulnerabilities)
 * [NSP Advisories](https://nodesecurity.io/advisories/) / [Snyk - Vulnerability DB](https://snyk.io/vuln/)
 -->
 
-See: Eric Elliot-inspired React Stack
-[Eric Elliott: Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
-* Progressive Web Apps
-* Node, Yarn
-* NPM
-* ESLint
-* Facebook- React
-* Create React App
-* React Bootstrap
-* React-Router
-* Flux
-* Redux
-* RxJS 
-* Next
-* Velocity React
-* Tern
-* Flow
-* Angular 2+
-* Babel, TypeScript
-* Webpack
-* Lodash
-* Vue
-* Node/Express (based on Sinatra)
-
-See: Cory House-inspired React Stack
-* npm Scripts
-* CommonJS
-* JSX
-* Mocha, Jest
-
 Facebook- React (JavaScript)
 
 React and Redux Developer Tools
@@ -4187,10 +4178,7 @@ Facebook- React Native (React Stack)
 * [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 * [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
-
-<!--
-* React Native - [Expo](https://expo.io
--->
+* [Expo](https://expo.io)
 
 More
 
@@ -4237,12 +4225,12 @@ Other React Stack Helpers (See also ESLint and JSX)
 Express (based on Sinatra) (React Stack)
 * [Sinatra GitHub](https://github.com/sinatra/sinatra)
 
-Hapi, Koa (Express competitors) (React Stack) 
+Hapi, Koa, Feather (Express competitors) (React Stack) 
 * [Hapi](http://hapijs.com) and [Hapi GitHub](https://github.com/hapijs/hapi)
 * [Koa](http://koajs.com)
 
 <!--
-* [Feathers](https://feathersjs.com/)
+* [Feathers](https://feathersjs.com)
 -->
 
 Lesser Used Package Managers (Bower, JSPM, Jam, volo)
