@@ -25,16 +25,11 @@ https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re
     * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
 
   * [Hack](http://sourcefoundry.org/hack/)
-    
-### Command-line Environment (Mac)
-  
+      
 * [commitizen](https://github.com/commitizen/cz-cli)
 * [Docker for Mac](https://docs.docker.com/docker-for-mac/)
 
-### Command-line Libraries (Node.js)
-
   * Generator - [Yeoman](http://yeoman.io/authoring/)
-  * Shell Commands - [ShellJS](https://www.npmjs.com/package/shelljs)
   
 ### Useful Apps
 
@@ -98,6 +93,7 @@ https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re
       
 * HTML / DOM
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
+  
   * [HEAD](https://github.com/joshbuchea/HEAD/)
   * [favicon](https://github.com/audreyr/favicon-cheat-sheet)
     
@@ -148,19 +144,11 @@ https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re
 
 * FRP (Functional Reactive Programming)
   * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-
-  * Learn RxJS
-
         
     * [DefinitelyTyped](http://definitelytyped.org/), [TypeSearch](http://microsoft.github.io/TypeSearch/)
 
 https://medium.com/the-node-js-collection
-
-### Node.js
-
 https://blog.risingstack.com
-
-### Platform Compatibility and Proposal Status
     
   * [Writing forward-compatible websites](https://developer.mozilla.org/en-US/docs/Web/Guide/Writing_forward-compatible_websites)
 
@@ -256,8 +244,6 @@ http://developer.telerik.com
   * [React Desktop](http://reactdesktop.js.org/)
   * [React Native Web](https://www.npmjs.com/package/react-native-web)
   
-### Network
-
 ### Server-side Best Practices
 
 * Restful API
@@ -306,7 +292,6 @@ https://auth0.com
     
   * Email - [Nodemailer](https://nodemailer.com/)
 
-    * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
     * RDS ORM - [Sequelize](http://docs.sequelizejs.com/)
 
   * DBaaS
@@ -315,6 +300,7 @@ https://auth0.com
       
     * Document NoSQL - [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) / [Google Cloud Datastore](https://cloud.google.com/datastore/)
       * MongoDB - [Compose](https://www.compose.com/mongodb) / [mLab](https://mlab.com/) / [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+      * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
       * CouchDB - [Couchbase](https://www.couchbase.com/products/server) / [Cloudant](https://www.ibm.com/analytics/us/en/technology/cloud-data-services/cloudant/)
     * Wide Column NoSQL - [Google Bigtable](https://cloud.google.com/bigtable/)
     
