@@ -681,7 +681,7 @@ http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-do
 
 Built With (Exluding Django; See also Squarespace)
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)  
-* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org)  
+* [Made with Angular](https://www.madewithangular.com)  
 * [Built with Bootstrap](http://expo.getbootstrap.com)  
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
 * [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
@@ -3191,6 +3191,76 @@ https://developers.google.com/web/showcase
 #### Front-End Development
 
 <!--
+HTML
+* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
+* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
+* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
+* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
+
+CSS
+* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
+* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
+* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
+* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
+
+HTML5 and CSS3- Info and Tutorials
+* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
+* [CSS3 Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
+
+Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
+-->
+
+<!--
+Web General (See also JavaScript) 
+* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
+* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
+* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
+* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
+* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
+* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
+* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
+* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
+* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
+* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
+* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
+* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
+-->
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web
+
+https://developer.mozilla.org/en-US/Apps
+https://developer.mozilla.org/en-US/docs/Web/Reference
+https://developer.mozilla.org/en-US/docs/Web/Guide
+https://developer.mozilla.org/en-US/docs/Web/Tutorials
+https://developer.mozilla.org/en-US/docs/Web/Accessibility
+https://developer.mozilla.org/en-US/docs/Web/Security
+
+https://developer.mozilla.org/en-US/Learn
+
+https://developer.mozilla.org/en-US/docs/Web/API
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
+https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
+https://developer.mozilla.org/en-US/docs/Web/Guide/Events
+https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
+https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
+https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
+https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
+
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
+https://developer.mozilla.org/en-US/docs/Web/SVG
+https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
+https://developer.mozilla.org/en-US/docs/Web/MathML
+https://developer.mozilla.org/en-US/docs/Glossary
+-->
+
+<!--
   * Apple
     * [WebKit JS](https://developer.apple.com/reference/webkitjs/), [WebKit DOM Programming Topics](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/SafariJSProgTopics)
     
@@ -3279,237 +3349,11 @@ https://developers.google.com/web/showcase
 -->
 
 
-<!--
-Web General (See also JavaScript) 
-* [Web Design Wikipedia](https://en.wikipedia.org/wiki/Web_design) and [Web Designer Wikipedia](http://en.wikipedia.org/wiki/Web_designer)  
-* [Web Development Wikipedia](https://en.wikipedia.org/wiki/Web_development) and [Web Developer Wikipedia](http://en.wikipedia.org/wiki/Web_developer)  
-* [Web Development Tools Wikipedia](http://en.wikipedia.org/wiki/Web_development_tools)  
-* [Web Application Wikipedia](https://en.wikipedia.org/wiki/Web_application) 
-* [Web Application Development Wikipedia](https://en.wikipedia.org/wiki/Web_application_development) 
-* [Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Web_application_framework) 
-* [Comparison of Web Application Framework Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_application_frameworks) 
-* [Dynamic Web Page Wikipedia](http://en.wikipedia.org/wiki/Dynamic_web_page)  
-* [Static Web Page Wikipedia](http://en.wikipedia.org/wiki/Static_web_page)
-* [Single Page App Wikipedia](http://en.wikipedia.org/wiki/Single-page_application) 
-* [Web Server Wikipedia](http://en.wikipedia.org/wiki/Web_server) 
-* [Staging Site Wikipedia](https://en.wikipedia.org/wiki/Staging_site)
 
-HTML
-* [Document Type Definition Wikipedia](https://en.wikipedia.org/wiki/Document_type_definition)
-* [Comparison of Document Markup Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_document_markup_languages)
-* [HTML Wikipedia](https://en.wikipedia.org/wiki/HTML)
-* [Dynamic HTML Wikipedia](https://en.wikipedia.org/wiki/Dynamic_HTML)
 
-CSS
-* [Style Sheet Wikipedia](https://en.wikipedia.org/wiki/Style_sheet_(web_development))
-* [Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) and [W3Schools CSS Tutorial](http://www.w3schools.com/css)
-* [Cascading Style Sheets Wikibook](https://en.wikibooks.org/wiki/Cascading_Style_Sheets)
-* [Dynamic Cascading Style Sheets Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Cascading_Style_Sheets)
 
-HTML5 and CSS3- Info and Tutorials
-* [HTML5 Wikipedia](https://en.wikipedia.org/wiki/HTML5)
-* [CSS3 Wikipedia](https://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3)
 
-Browser Object Model (BOM) and Document Object Model (DOM) (See also JavaScript)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events), and [DOM Scripting (versus DHTML) Wikipedia](https://en.wikipedia.org/wiki/DOM_scripting)
--->
 
-<!--
-HTML and CSS Tutorials- General
-* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
-* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
-* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
-* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
-
-* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
-
-Responsiveness- and Media Queries
-* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
-* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
-
-JavaScript
-* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
-
-JavaScript Books and Tutorials
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
-* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
-* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
-
-http://www.w3schools.com/js/js_reserved.asp
-
-http://learnjsthehardway.com
--->
-
-<!--
-AJAX
-* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [W3Schools AJAX Tutorials](http://www.w3schools.com/ajax/default.asp)
-* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
-
-* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
-* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
-
-JSON
-* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
-* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
-
-W3Schools
-Learn XML
-http://www.w3schools.com/xml/default.asp
-Learn XSLT
-http://www.w3schools.com/xsl/default.asp
-
-http://www.w3schools.com/xml/xsl_intro.asp
-http://www.w3schools.com/xml/xquery_intro.asp
-
-XML, XHTML
-* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
-* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
-* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
-* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
--->
-
-<!--
-HTML Graphics
-http://www.w3schools.com/canvas/default.asp
-Learn Canvas
-http://www.w3schools.com/canvas/default.asp
-Learn SVG
-http://www.w3schools.com/svg/default.asp
-Learn Icons
-http://www.w3schools.com/icons/default.asp
-Learn Google Maps
-http://www.w3schools.com/googleapi/default.asp
-Learn HTML Games
-http://www.w3schools.com/games/default.asp
-
-http://www.w3schools.com/appml/default.asp
-
-http://www.w3schools.com/website/default.asp
-http://www.w3schools.com/browsers/default.asp
--->
-
-<!--
-http://www.w3schools.com/css/css3_intro.asp
--->
-
-HTML and CSS Tutorials- Mozilla
-
-CSS Zen Garden  
-* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
-
-Foundation
-* [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
-* [Foundation for Emails](http://foundation.zurb.com/emails.html)
-* [Zurb Library](http://zurb.com/library)
-
-<!--
-https://github.com/daigofuji/jekyll-foundation-5-starter
-http://sass-lang.com/documentation
-http://sass-lang.com/documentation/file.SASS_REFERENCE.html
-
-http://foundation.zurb.com/learn
-http://foundation.zurb.com/sites/docs/v/5.5.3/sass-files.html
-http://foundation.zurb.com/sites/docs/sass.html#the-settings-file
-http://foundation.zurb.com/sites/docs/sass.html
-http://foundation.zurb.com/sites/docs/motion-ui.html
-http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html
-http://foundation.zurb.com/sites/docs/grid.html
-http://foundation.zurb.com/sites/docs/media-queries.html
-
-http://foundation.zurb.com/sites/docs/button.html
-https://webdesign.tutsplus.com/articles/foundation-for-beginners-buttons-and-dropdowns--webdesign-12465
-http://foundation.zurb.com/forum/posts/1115-centering-a-button-group
--->
-
-Bootstrap, Font Awesome
-* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com) 
-
-<!--
-http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
-
-http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
-http://glyphicons.bootstrapcheatsheets.com/
--->
-
-Other Kickstarters
-* [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
-
-<!--
-https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
-https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
--->
-
-#### CSS Helpers
-
-Compilation Resources (See also Gulp)
-* [Stylus](http://stylus-lang.com)
-* [Compass GitHub](https://github.com/chriseppstein/compass)  
-* [Less GitHub](https://github.com/less/less.js)  
-* [Less for Windows](http://winless.org)
-
-<!--
-https://github.com/sasstools/sass-lint/tree/master/docs/rules
-http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass
--->
-
-<!--
-https://en.wikipedia.org/wiki/Polyfill
-https://polyfill.io/v2/docs
--->
-
-Vendor-prefixed CSS Property Overview
-* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
-
-Cross Browser and Sniffing
-* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
-* [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
-* [User Agent Wikipedia](https://en.wikipedia.org/wiki/User_agent)
-* [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
-* [Feature Detection Wikipedia](https://en.wikipedia.org/wiki/Feature_detection_(web_development))
-
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web
-
-https://developer.mozilla.org/en-US/Apps
-https://developer.mozilla.org/en-US/docs/Web/Reference
-https://developer.mozilla.org/en-US/docs/Web/Guide
-https://developer.mozilla.org/en-US/docs/Web/Tutorials
-https://developer.mozilla.org/en-US/docs/Web/Accessibility
-https://developer.mozilla.org/en-US/docs/Web/Security
-
-https://developer.mozilla.org/en-US/Learn
-
-https://developer.mozilla.org/en-US/docs/Web/API
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/Mobile
-https://developer.mozilla.org/en-US/docs/Web/Guide/Performance
-https://developer.mozilla.org/en-US/docs/Web/Guide/Events
-https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics
-https://developer.mozilla.org/en-US/docs/Web/Guide/Localizations_and_character_encodings
-https://developer.mozilla.org/en-US/docs/Web/Guide/Parsing_and_serializing_XML
-https://developer.mozilla.org/en-US/docs/Web/Guide/WOFF
-
-https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
-https://developer.mozilla.org/en-US/docs/Web/SVG
-https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API
-https://developer.mozilla.org/en-US/docs/Web/MathML
-https://developer.mozilla.org/en-US/docs/Glossary
--->
 
 <!--
 https://v4-alpha.getbootstrap.com/layout/grid/
@@ -3612,37 +3456,87 @@ https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html#sec9.6
 http://www.w3.org/TR/CSS21/cover.html#minitoc
 -->
 
-#### JavaScript
 
 <!--
-https://html.spec.whatwg.org/multipage
+HTML and CSS Tutorials- General
+* [W3Schools HTML Tutorial](http://www.w3schools.com/html/default.asp)
+* [W3Schools Try It HTML](http://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic)
+* [Learn X in Y Minutes CSS](https://learnxinyminutes.com/docs/css)
+* [W3Schools CSS Tutorial](http://www.w3schools.com/css/default.asp)
 
-Semantic Site Audit, Semantic Elements
-Normal Document Flow
--->
+* [W3Schools Bootstrap Tutorial](http://www.w3schools.com/bootstrap)
+
+Responsiveness- and Media Queries
+* [W3Schools HTML Responsive Web Design Tutorial](http://www.w3schools.com/html/html_responsive.asp)
+* [W3Schools CSS Responsive Web Design Media Queries Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+* [W3Schools CSS3 @media Rule Tutorial](http://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 
 JavaScript
-* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+* [JavaScript Wikipedia](http://en.wikipedia.org/wiki/JavaScript)  
 
-<!--
-https://github.com/getify/Functional-Light-JS
-https://github.com/myshov/history-of-javascript
-https://github.com/verekia/js-stack-from-scratch
-https://github.com/sorrycc/awesome-javascript
-https://github.com/ryanmcdermott/clean-code-javascript
-https://github.com/iliakan/javascript-tutorial
-https://github.com/mjavascript/practical-modern-javascript
+JavaScript Books and Tutorials
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+* [W3Schools JavaScript Tutorial](http://www.w3schools.com/js/default.asp)
+* [W3Schools JavaScript HTML DOM Tutorial](http://www.w3schools.com/js/js_htmldom.asp)
+* [W3Schools XML DOM Tutorial](http://www.w3schools.com/xml/dom_intro.asp)
 
+http://www.w3schools.com/js/js_reserved.asp
+
+http://learnjsthehardway.com
 -->
 
-JavaScript Tutorials- Mozilla
+<!--
+AJAX
+* [AJAX Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [W3Schools AJAX Tutorials](http://www.w3schools.com/ajax/default.asp)
+* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
-CommonJS
-* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
-* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
+* [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+* [W3Schools jQuery (including AJAX) Tutorial](http://www.w3schools.com/jquery/default.asp)
 
-WebAssembly
-* [WebAssembly](http://webassembly.org), [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly), and [WebAssembly GitHub](https://github.com/webassembly
+JSON
+* [Learn X in Y Minutes JSON](https://learnxinyminutes.com/docs/json)
+* [W3Schools JSON Tutorial](http://www.w3schools.com/json)
+
+W3Schools
+Learn XML
+http://www.w3schools.com/xml/default.asp
+Learn XSLT
+http://www.w3schools.com/xsl/default.asp
+
+http://www.w3schools.com/xml/xsl_intro.asp
+http://www.w3schools.com/xml/xquery_intro.asp
+
+XML, XHTML
+* [XML Wikibook](https://en.wikipedia.org/wiki/XML)
+* [W3Schools Introduction to XML](http://www.w3schools.com/xml/xml_whatis.asp)
+* [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
+* [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-->
+
+<!--
+HTML Graphics
+http://www.w3schools.com/canvas/default.asp
+Learn Canvas
+http://www.w3schools.com/canvas/default.asp
+Learn SVG
+http://www.w3schools.com/svg/default.asp
+Learn Icons
+http://www.w3schools.com/icons/default.asp
+Learn Google Maps
+http://www.w3schools.com/googleapi/default.asp
+Learn HTML Games
+http://www.w3schools.com/games/default.asp
+
+http://www.w3schools.com/appml/default.asp
+
+http://www.w3schools.com/website/default.asp
+http://www.w3schools.com/browsers/default.asp
+-->
+
+<!--
+http://www.w3schools.com/css/css3_intro.asp
+-->
 
 <!--
     * Workshop - [Codelabs - An Introduction to Web Assembly](https://codelabs.developers.google.com/codelabs/web-assembly-intro/)
@@ -3698,6 +3592,153 @@ https://www.w3schools.com/js/js_htmldom_elements.asp
 https://api.jquery.com/category/miscellaneous/dom-element-methods/
 -->
 
+<!--
+http://easings.net
+https://jqueryui.com/easing
+jQuery Easing Function Generator
+
+jQuery Client-side Form Validation
+https://learn.jquery.com/events/handling-events
+
+https://api.jquery.com/category/events
+https://api.jquery.com/category/selectors
+jQuery Browser support
+https://blog.jquery.com/2013/04/18/jquery-2-0-released
+https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit
+
+Learn jQueryMobile
+
+http://learn.jquery.com/using-jquery-core
+-->
+
+<!--
+* [Introducing JSON](http://json.org)
+http://www.json.org/xml.html
+-->
+
+HTML and CSS Tutorials- Mozilla
+
+CSS Zen Garden  
+* [Guardian Pasteup Style Inspired by Dave Shea](http://mezzoblue.com/downloads/markupguide) 
+
+Foundation
+* [Foundation Demo GitHub](https://github.com/zurb/foundation-demo) 
+* [Foundation for Emails](http://foundation.zurb.com/emails.html)
+* [Zurb Library](http://zurb.com/library)
+
+<!--
+https://github.com/daigofuji/jekyll-foundation-5-starter
+http://sass-lang.com/documentation
+http://sass-lang.com/documentation/file.SASS_REFERENCE.html
+
+http://foundation.zurb.com/learn
+http://foundation.zurb.com/sites/docs/v/5.5.3/sass-files.html
+http://foundation.zurb.com/sites/docs/sass.html#the-settings-file
+http://foundation.zurb.com/sites/docs/sass.html
+http://foundation.zurb.com/sites/docs/motion-ui.html
+http://foundation.zurb.com/sites/docs/v/5.5.3/components/grid.html
+http://foundation.zurb.com/sites/docs/grid.html
+http://foundation.zurb.com/sites/docs/media-queries.html
+
+http://foundation.zurb.com/sites/docs/button.html
+https://webdesign.tutsplus.com/articles/foundation-for-beginners-buttons-and-dropdowns--webdesign-12465
+http://foundation.zurb.com/forum/posts/1115-centering-a-button-group
+-->
+
+Bootstrap, Font Awesome
+* [Bootstrap v4 Alpha](http://v4-alpha.getbootstrap.com) 
+
+<!--
+http://www.minimit.com/articles/solutions-tutorials/bootstrap-3-responsive-columns-of-same-height
+
+http://www.w3schools.com/bootstrap/bootstrap_ref_comp_glyphs.asp
+http://glyphicons.bootstrapcheatsheets.com/
+-->
+
+Other Kickstarters
+* [Initializr GitHub](https://github.com/verekia/initializr), and [Initializr Bootstrap GitHub](https://github.com/verekia/initializr-bootstrap) 
+
+<!--
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
+https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
+-->
+
+#### CSS Helpers
+
+Compilation Resources (See also Gulp)
+* [Stylus](http://stylus-lang.com)
+* [Compass GitHub](https://github.com/chriseppstein/compass)  
+* [Less GitHub](https://github.com/less/less.js)  
+* [Less for Windows](http://winless.org)
+
+<!--
+https://github.com/sasstools/sass-lint/tree/master/docs/rules
+http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass
+-->
+
+Polyfill
+
+<!--
+https://en.wikipedia.org/wiki/Polyfill
+https://polyfill.io/v2/docs
+-->
+
+Vendor-prefixed CSS Property Overview
+* [Vendor-Prefixed CSS Property Overview](http://peter.sh/experiments/vendor-prefixed-css-property-overview)
+
+Cross Browser and Sniffing
+* [Cross-Browser Wikipedia](https://en.wikipedia.org/wiki/Cross-browser)
+* [Browser Sniffing Wikipedia](https://en.wikipedia.org/wiki/Browser_sniffing)
+* [User Agent Wikipedia](https://en.wikipedia.org/wiki/User_agent)
+* [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
+* [Feature Detection Wikipedia](https://en.wikipedia.org/wiki/Feature_detection_(web_development))
+
+
+
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+W3C DOM4
+* [W3C DOM4](https://www.w3.org/TR/dom)
+* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
+* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
+
+
+
+
+
+#### JavaScript
+
+<!--
+https://html.spec.whatwg.org/multipage
+
+Semantic Site Audit, Semantic Elements
+Normal Document Flow
+-->
+
+JavaScript
+* [The Best Free JavaScript Resources](http://jsbooks.revolunet.com)
+
+<!--
+https://github.com/getify/Functional-Light-JS
+https://github.com/myshov/history-of-javascript
+https://github.com/verekia/js-stack-from-scratch
+https://github.com/sorrycc/awesome-javascript
+https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/iliakan/javascript-tutorial
+https://github.com/mjavascript/practical-modern-javascript
+
+-->
+
+JavaScript Tutorials- Mozilla
+
+CommonJS
+* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
+* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
+
+WebAssembly
+* [WebAssembly](http://webassembly.org), [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly), and [WebAssembly GitHub](https://github.com/webassembly
+
 JavaScript Libraries/Frameworks/Engine
 * [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
@@ -3752,25 +3793,6 @@ jQuery
 * [jQuery UI GitHub](https://github.com/jquery/jquery-ui)  
 * [jQuery Plugins GitHub](https://github.com/jquery/plugins.jquery.com)  
 
-<!--
-http://easings.net
-https://jqueryui.com/easing
-jQuery Easing Function Generator
-
-jQuery Client-side Form Validation
-https://learn.jquery.com/events/handling-events
-
-https://api.jquery.com/category/events
-https://api.jquery.com/category/selectors
-jQuery Browser support
-https://blog.jquery.com/2013/04/18/jquery-2-0-released
-https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/edit
-
-Learn jQueryMobile
-
-http://learn.jquery.com/using-jquery-core
--->
-
 jQuery Bootstrap and Boilerplate
 * [jQuery Boilerplate GitHub](https://github.com/jquery-boilerplate/jquery-boilerplate)  
 * [jQuery Patterns GitHub](https://github.com/jquery-boilerplate/jquery-patterns)  
@@ -3778,11 +3800,6 @@ jQuery Bootstrap and Boilerplate
 
 Another JavaScript Library
 * [Zepto GitHub](https://github.com/madrobby/zepto) 
-
-<!--
-* [Introducing JSON](http://json.org)
-http://www.json.org/xml.html
--->
 
 #### JavaScript Ecosystem
 
@@ -3865,13 +3882,44 @@ https://github.com/mesosphere/reactjs-components
 
 https://en.wikipedia.org/wiki/Dependency_injection
 https://en.wikipedia.org/wiki/Inversion_of_control
+
+
+  * Integration Testing
+    * [Enzyme](http://airbnb.io/enzyme/)
+  * Functional Testing
+    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/)
+    * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
+  * Visual Testing
+    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
+    * [BrowserStack](https://www.browserstack.com/)
+  * Headless Browsers
+    * Browsers
+      * Chromium - [Headless Chrome/Chromium](https://developers.google.com/web/updates/2017/04/headless-chrome)
+      * Chromium + Node.js - [electron-prebuilt](https://www.npmjs.com/package/electron)
+      * WebKit - [PhantomJS](http://phantomjs.org/)
+      * Gecko - [SlimerJS](https://slimerjs.org/)
+    * In-memory X11 Display Server
+      * [xvfb](https://en.wikipedia.org/wiki/Xvfb) - [xvfb-run](http://manpages.ubuntu.com/manpages/trusty/man1/xvfb-run.1.html) / [headless](https://www.npmjs.com/package/headless)
+    * Docker
+      * [lighthouse-ci/builder/Dockerfile.headless](https://github.com/ebidel/lighthouse-ci/blob/master/builder/Dockerfile.headless#L16)
+      * [electron-headless](https://hub.docker.com/r/dannysu/electron-headless/~/dockerfile/)
+
+* Benchmark Testing
+  * JS
+    * [Benchmark.js](https://benchmarkjs.com/)
+    * [Speedracer](https://github.com/ngryman/speedracer)
+    * [stats.js](https://github.com/mrdoob/stats.js)
+  * [SinonJS](http://sinonjs.org/)
+
+    * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
+    * [Varvy SEO tool](https://varvy.com/)
+
 -->
 
 Node.js
 * [Node.js](http://nodejs.org)    
 
-<!--
-* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website)    
+<!--   
 * [Node Beginner](http://www.nodebeginner.org) 
 -->
 
@@ -4013,18 +4061,17 @@ Facebook- React Native (React Stack)
 More
 
 TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples), and [TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc) 
+* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples) 
 
 MVCs General, Backbone, Ember
 * [Backbone](http://backbonejs.org)  
-* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone)  
+* [Backbone GitHub](https://github.com/jashkenas/backbone)  
 * [Chaplin (Backbone) GitHub](https://github.com/chaplinjs/chaplin)  
-* [Ember (Example Website) GitHub](https://github.com/emberjs/website)  
+* [Ember GitHub](https://github.com/emberjs/website)  
 * [Ember Rails GitHub](https://github.com/emberjs/ember-rails)  
 
 Automation
 * [Gulp](http://gulpjs.com), [Gulp GitHub](https://github.com/gulpjs/gulp), and [Gulp Plugins](http://gulpjs.com/plugins)
-* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
 
 Linting (JSLint (opinionated, old-school), JSHint (improvement on JSLint), ESLint (by far most popular))
 * [JSHint](http://jshint.com), [JSHint GitHub](https://github.com/jshint/jshint), and [JSHint Docs](http://jshint.com/docs)
@@ -4056,10 +4103,6 @@ Other React Stack Helpers (See also ESLint and JSX)
 Express (based on Sinatra) (React Stack)
 * [Sinatra GitHub](https://github.com/sinatra/sinatra)
 
-<!--
-* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)
--->
-
 Hapi, Koa (Express competitors) (React Stack) 
 * [Hapi](http://hapijs.com) and [Hapi GitHub](https://github.com/hapijs/hapi)
 * [Koa](http://koajs.com)
@@ -4069,7 +4112,7 @@ Hapi, Koa (Express competitors) (React Stack)
 -->
 
 Lesser Used Package Managers (Bower, JSPM, Jam, volo)
-* [Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
+* [Bower GitHub](https://github.com/bower/bower.github.io) and [Bower Package Search GitHub](http://bower.io/search) 
 * JSPM (JavaScript Package Manager, also bundles code)
 
 Testing (Jasmine (assertion library built in), Tape, Karma, QUnit, AVA)
@@ -4107,7 +4150,7 @@ Node Add-ons
 
 Yo/Yeoman (Bower, Grunt)
 * [Yo GitHub](https://github.com/yeoman/yo)  
-* [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
+* [Yeoman GitHub](https://github.com/yeoman/yeoman.io)  
 * [Yeoman Bootstrap Generator GitHub](https://github.com/yeoman/generator-bootstrap)  
 * [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-node)  
 * [Yeoman Node Generator GitHub](https://github.com/yeoman/generator-angular)  
@@ -4434,8 +4477,7 @@ Ruby- Executable Specification
 * [Ruby Testing Tool](http://rspec.info)  
 
 Rails- Preferred Templates and Documents
-* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)  
-* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)  
+* [Ruby on Rails](http://rubyonrails.org) and [Ruby on Rails API](http://api.rubyonrails.org)    
 * [Ruby on Rails Wikipedia](http://en.wikipedia.org/wiki/Ruby_on_Rails)  
 * [Ruby Guides](http://guides.rubyonrails.org) 
 * [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
@@ -4628,7 +4670,7 @@ PHP- Tutorials
 * [W3Schools PHP Tutorial](http://www.w3schools.com/php/default.asp)
 
 PHP- Laravel- Preferred Templates and Documents
-* [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website)  
+* [Laravel (Create project locally) GitHub](https://github.com/laravel)  
 * [Homestead- Possibility recommended by Gregg)](https://laravel.com/docs/5.2/homestead) and [Homestead- Laravel Development Environment GitHub](https://github.com/laravel/homestead)  
 
 PHP- Twitter OAuth
@@ -8030,7 +8072,7 @@ MongoDB- Drivers and Natives
 
 Mongoose, Mongoid, Moped, Mongomapper
 * [Mongoose.js](http://mongoosejs.com)  
-* [Mongoose (Example Website) GitHub](https://github.com/LearnBoost/mongoose)  
+* [Mongoose GitHub](https://github.com/Automattic/mongoose)  
 * [Mongoose Elastic GitHub](https://github.com/Waidd/elasticmongoose)  
 * [Mongoose Express Node GitHub](https://github.com/madhums/node-express-mongoose)  
 * [Mongoosastic (Example Blog) GitHub](https://github.com/jamescarr/mongoosastic)  
