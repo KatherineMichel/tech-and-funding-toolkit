@@ -63,11 +63,6 @@
             
 * Learning
   * [What is the Internet](http://www.20thingsilearned.com/en-US/what-is-the-internet/), [How does the Internet work](https://www.w3.org/wiki/How_does_the_Internet_work)
-    * HTTP - see _[Server Side > Network](#network)_
-  * [Evolution of the Web](http://www.evolutionoftheweb.com/)
-    * [Timeline of web browsers](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-    * [Dive Into HTML5 - A Quite Biased History of HTML5](http://diveintohtml5.info/past.html)
-    * [20 Things I Learned About Browsers and the Web](http://www.20thingsilearned.com/)
 
   * [HTML: The Living Standard (Web Developer Edition)](https://developers.whatwg.org/)
 
@@ -95,7 +90,6 @@
     * [An Abridged Cartoon](https://www.smashingmagazine.com/2017/05/abridged-cartoon-introduction-webassembly/)
               
 * [CSS Modules](https://github.com/css-modules/css-modules)
-* [PostCSS](http://postcss.org/)
   * [CSSNext](http://cssnext.io/)
   * [Styled-Components](https://github.com/styled-components/styled-components)
     * [Writing your styles in JS ≠ writing inline styles](http://mxstbr.blog/2016/11/inline-styles-vs-css-in-js/)
@@ -103,6 +97,7 @@
   * [Aphrodite](https://github.com/Khan/aphrodite)
     * [Inline CSS at Khan Academy: Aphrodite](http://engineering.khanacademy.org/posts/aphrodite-inline-css.htm)
 * Best Practices
+
   * [Skeleton.css](http://getskeleton.com/)
   
     * [BEM](https://en.bem.info/methodology/)
@@ -118,19 +113,12 @@
     * [Airbnb CSS-in-JavaScript Style Guide](https://github.com/airbnb/javascript/tree/master/css-in-javascript)
     * CSS + HTML
       * [Isobar Front-end Code Standards](http://isobar-idev.github.io/code-standards/)
-      * [Code Guide by @mdo](http://codeguide.co/)
-      
-      
-         
+
+          
   * Rendering
     * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/), \
       [How Browsers Lay Out Web Pages](https://dbaron.org/talks/2012-03-11-sxsw/master.xhtml)
-
-  * [The A11Y Project](http://a11yproject.com/)
-  
-### HTML5 Features
-### CSS Features
-
+      
 * HTML / DOM
   * [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/oneuijs/You-Dont-Need-jQuery)
   * [HEAD](https://github.com/joshbuchea/HEAD/)
@@ -145,8 +133,6 @@
   * [JSS](http://cssinjs.org/), [Radium](http://formidable.com/open-source/radium/)
   
     * flexbox grid system - [Flexbox Grid](http://flexboxgrid.com/)
-
-* [PostCSS](http://postcss.org/)
 
 ### Next Generation JS
 
@@ -250,20 +236,13 @@ https://medium.com/the-node-js-collection
     * [WHATWG Live Standards](https://spec.whatwg.org/)
     * Inside
       * [W3C vs. WHATWG HTML5 Specs – The Differences Documented](http://developer.telerik.com/featured/w3c-vs-whatwg-html5-specs-differences-documented/)
+      
   * [ECMA TC39](http://ecma-international.org/memento/TC39.htm) (Ecma International Technical Committee 39)
     * [Status, process, and documents for ECMA262](https://github.com/tc39/ecma262)
       * [ECMAScript Proposals](https://github.com/tc39/proposals)
     * Inside
       * [The TC39 Process](http://tc39.github.io/process-document/) / [The TC39 process for ECMAScript features](http://2ality.com/2015/11/tc39-process.html)
-  * [Node.js CTC](https://github.com/nodejs/CTC) (Node.js Core Technical Committee)
-    * [Meeting Notes](https://github.com/nodejs/CTC/tree/master/meetings)
-    * [Node.js EPs (Enhancement Proposals)](https://github.com/nodejs/node-eps)
-    * Inside
-      * [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
-      * [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
-* JS Engine
-  * [A Guide to JavaScript Engines for Idiots](http://developer.telerik.com/featured/a-guide-to-javascript-engines-for-idiots/)
-  * [V8](https://developers.google.com/v8/)
+
 
 http://developer.telerik.com
 
@@ -289,10 +268,7 @@ http://developer.telerik.com
 * Web Runtime / JS Runtime
 
   * [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
-    * [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
-    * [Bridging in React Native - An in-depth look into React Native's core](https://tadeuzagallo.com/blog/react-native-bridge/)
-    * Tutorials - [React Native Express](http://www.reactnativeexpress.com/), [React Native Workshop](https://rangle-io.gitbooks.io/react-native-workshop/), [React Native Training](https://unbug.gitbooks.io/react-native-training/content/)
-    * Examples - [30 Days of React Native](https://github.com/fangwei716/30-days-of-react-native)
+
 * Device
   * [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
   * [Device Metrics](https://material.io/devices/) / [Screen Sizes](http://screensiz.es/monitor)
@@ -307,6 +283,15 @@ http://developer.telerik.com
   * IndexedDB
     * LocalStorage API - [localForage](https://www.npmjs.com/package/localforage)
 
+### Universal Utility Libraries
+
+  * OOP
+    * [Stampit](https://www.npmjs.com/package/stampit)
+  * Async
+    * Callback - [Async](http://caolan.github.io/async/)
+* Storage
+  * IndexedDB / WebSQL / localStorage / Memory
+  
 ### npm Ecosystem
 
       * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
@@ -326,19 +311,7 @@ http://developer.telerik.com
   * Isomorphic JS / Universal JS
     * [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
 
-### Universal Utility Libraries
-
-  * OOP
-    * [Stampit](https://www.npmjs.com/package/stampit)
-  * Async
-    * Callback - [Async](http://caolan.github.io/async/)
-* Storage
-  * IndexedDB / WebSQL / localStorage / Memory
-
 ### GUI Framework
-
-* View / ViewModel / ViewController
-      * Pete Hunt's [react-howto](https://github.com/petehunt/react-howto)
       
       * Best Practices
         * [React Bits](https://github.com/vasanthk/react-bits), [React in patterns](https://github.com/krasimir/react-in-patterns)
@@ -420,7 +393,10 @@ http://developer.telerik.com
 ### Server-side Best Practices
 
 * Restful API
-  * Heroku's [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/), \
+  * Heroku's [HTTP API Design Guide](https://geemus.gitbooks.io/http-api-design/content/en/)
+https://devcenter.heroku.com/articles/platform-api-reference  
+  
+  
     Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), \
 
     [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
@@ -507,8 +483,8 @@ https://auth0.com
 
       * Object Storage + CDN
         * Global
-          * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
-          * [Google Cloud Storage + Cloud CDN](https://cloud.google.com/storage/docs/hosting-static-website) - [google-cloud](https://www.npmjs.com/package/google-cloud) / [gcloud](https://cloud.google.com/sdk/gcloud/)
+* [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
+* [Google Cloud Storage + Cloud CDN](https://cloud.google.com/storage/docs/hosting-static-website) - [google-cloud](https://www.npmjs.com/package/google-cloud) / [gcloud](https://cloud.google.com/sdk/gcloud/)
 
   * Logging
     * Global
@@ -573,9 +549,6 @@ https://auth0.com
     * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
     * [Varvy SEO tool](https://varvy.com/)
 
-### Documentation
-
-* JS
 * CSS / Style Guide
   * [KSS (Knyle Style Sheets)](http://warpspire.com/kss/)
     * [kss-node](http://kss-node.github.io/kss-node/)
@@ -583,19 +556,16 @@ https://auth0.com
   * [React Styleguidist](https://react-styleguidist.js.org/)
 
 ### Toolchain
-            
+         
+* [PostCSS](http://postcss.org/)         
   * [PostCSS](https://github.com/postcss/postcss)
-      
-            * [Browserslist](https://github.com/ai/browserslist)
-            
+                  
 * Compiler / Transpiler / Preprocessor
     * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
     * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md), [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
         
   * [StyleLint](http://stylelint.io/)
 
-* Task Automation
-  * [npm-run-script](https://docs.npmjs.com/cli/run-script), [npm-scripts](https://docs.npmjs.com/misc/scripts)
     * [task automation with npm run](http://substack.net/task_automation_with_npm_run), \
       [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
     
@@ -609,19 +579,10 @@ https://auth0.com
     * Services
       * [Sentry](https://sentry.io/for/javascript/)
             
-* Development
-  * Micro Generator
     * [Plop](https://plopjs.com)
-  * Live Reload / Watch / Preview
 
     * React Native - [Expo](https://expo.io/)
-    * Node.js - [nodemon](https://www.npmjs.com/package/nodemon)
-      
-    * Third-party Panels
-      * [React DevTools](https://github.com/facebook/react-devtools) 
-     
-    * Electron - [Devtron](https://github.com/electron/devtron)
-        
+             
 ### Cloud Services (China)
 
 > The evil twins inside [the Great Firewall of China](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/4)
@@ -639,14 +600,13 @@ https://help.jinshuju.net
 https://leancloud.cn
 https://www.wilddog.com
 
+http://ce.baidu.com
+
       * [极验](http://www.geetest.com/)
   * [SendCloud](http://sendcloud.sohu.com/)
   * [云片](https://www.yunpian.com/)
   * Payment - [Ping++](https://www.pingxx.com/products)
   * Maps - [高德开放平台](https://lbs.amap.com/getting-started/map/) / [百度地图开放平台](http://lbsyun.baidu.com/)
   * Customer Support - [美洽](https://meiqia.com/)
-
-    * China
       * [OneAPM](https://www.oneapm.com/) / [听云](http://www.tingyun.com/)
-      * [百度云观测](http://ce.baidu.com/)
       * [alinode](https://alinode.aliyun.com/)
