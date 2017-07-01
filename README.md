@@ -1473,6 +1473,7 @@ https://www.w3.org/International/getting-started/characters
 https://www.w3.org/International/articles/definitions-characters
 -->
 
+
 #### Dot Files
 
 See also Startup Engineering MOOC<br>
@@ -1513,6 +1514,7 @@ https://github.com/mathiasbynens/dotfiles/blob/master/.osx
 https://github.com/mitchty/src/blob/master/dotfiles/maid/rules.rb
 http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 -->
+
 
 #### Systems
 
@@ -1643,7 +1645,42 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
+Collaborative Development Models
+* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
+* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
+
+A Successful Git Branching Model
+* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
+* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
+* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+12 Factor App
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+
+Semver
+* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
+* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+The Distributed Developer Stack Field Guide
+* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
+
+
+
 <!--
+    * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
+      
+      * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+      * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+      
+      * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+      
+      * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+      
+      
 https://en.wikipedia.org/wiki/Red_team
 
 https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
@@ -1659,13 +1696,7 @@ https://robots.thoughtbot.com/keeping-a-github-fork-updated
 https://robots.thoughtbot.com/tags/git
 
 https://github.com/hypenotic/hypelabs
--->
 
-Collaborative Development Models
-* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
-* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
-
-<!--
 https://en.wikipedia.org/wiki/Open-source_model
 https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
 https://en.wikipedia.org/wiki/Capability_Maturity_Model
@@ -1676,14 +1707,7 @@ https://github.com/github/open-source-guide
 https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 https://github.com/github/open-source-survey
 https://github.com/github/maturity-model
--->
 
-A Successful Git Branching Model
-* [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
-* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-
-<!--
 Newer
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   
@@ -1784,33 +1808,13 @@ https://gist.github.com/PurpleBooth/b24679402957c63ec426
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 https://gist.github.com/PurpleBooth
 https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
--->
 
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-
-12 Factor App
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-
-<!--
 https://pivotal.io/beyond-the-twelve-factor-app
--->
 
-Semver
-* [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
-* [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
-
-<!--
   * SemVer
     * [The semantic versioner for npm](https://docs.npmjs.com/misc/semver) / [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
     * [npm semver calculator](https://semver.npmjs.com/)
--->
-
-The Distributed Developer Stack Field Guide
-* [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
-
-<!--
+    
 https://cloud.google.com/source-repositories/pricing
 
 https://github.com/thoughtbot/guides/tree/master/code-review
@@ -2529,6 +2533,10 @@ https://testpilot.firefox.com
 #### Developer Tools
 
 <!--
+  * Dev Tools
+    * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
+      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+      
   * Platform Status
     * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
     
@@ -2540,6 +2548,8 @@ https://testpilot.firefox.com
     * [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
     * [Webkit Blog](https://webkit.org/blog/)
     * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+    
+    * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
 -->
 
 Safari Developer Tools
@@ -2632,6 +2642,12 @@ Microsoft Developer Tools
 #### Testing and Performance
 
 <!--
+  * Benchmarks
+    * [Browser Benchmarks](http://browserbench.org/)
+    
+    * Services
+      * [Sentry](https://sentry.io/for/javascript/)
+      
 browser market share
 
 https://github.com/WPO-Foundation/webpagetest
@@ -3130,6 +3146,7 @@ Static Web Publishing
 * [Surge](https://surge.sh)
 
 <!--
+[surge cli client](https://www.npmjs.com/package/surge) 
 https://surge.sh/help/ignoring-files-and-directories
 -->
 
@@ -3142,6 +3159,7 @@ Favicon, Sitemap, robots.txt, humans.txt
 <!--
 robots.txt tutorial
 http://tools.seobook.com/robots-txt
+
 Real Favicon Generator
 http://realfavicongenerator.net
 -->
@@ -3261,6 +3279,53 @@ https://developer.mozilla.org/en-US/docs/Glossary
 -->
 
 <!--
+
+    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
+      [Introduction to HTTP](https://launchschool.com/books/http)
+    * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+    * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) / \
+
+    * [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
+    * [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+    * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+    * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
+    * [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+  * Reference
+    * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+    * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [httpstatuses.com](https://httpstatuses.com/)
+  * [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+    * [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) / [Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
+    * Content Security Policy (CSP) - [Google](https://developers.google.com/web/fundamentals/security/csp/) / [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
+  * Performance
+    * [High Performance Browser Networking](https://hpbn.co/), \
+    * HTTP Caching - [Google](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching), [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
+    * [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
+  * HTTPS
+    * [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
+    * [Is TLS Fast Yet?](https://istlsfastyet.com/) / [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
+    * [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
+    * [What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content), [Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
+  * HTTP/2
+
+      [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
+
+    * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+* TCP
+  * [Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
+* UDP
+  * [QUIC](https://www.chromium.org/quic)
+  
+  
+* MDN's [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
+
+* Reference
+  * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
+    * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)  
+    
+    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
+    
+   * [HTML: The Living Standard (Web Developer Edition)](https://developers.whatwg.org/)
+   
   * Apple
     * [WebKit JS](https://developer.apple.com/reference/webkitjs/), [WebKit DOM Programming Topics](https://developer.apple.com/library/content/documentation/AppleApplications/Conceptual/SafariJSProgTopics)
     
@@ -3817,7 +3882,33 @@ Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
 #### JavaScript Tools
 
+
+
 <!--
+    * Internal
+      * [Introducing the WebKit FTL JIT](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
+    * Next Generation
+      * [JSC Love ES6](https://webkit.org/blog/7536/jsc-loves-es6/)
+      * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/)
+  * [Chakra](https://github.com/Microsoft/ChakraCore)
+    * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
+    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
+    * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
+    * Internal
+      * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
+    * Next Generation
+      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
+      
+  * [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
+  
+* Network
+  * XHR - [window.fetch Polyfill](https://github.com/github/fetch)
+  * WebSocket - [Socket.IO-client](https://www.npmjs.com/package/socket.io-client) / [Engine.IO-client](https://www.npmjs.com/package/engine.io-client) / [SockJS-client](https://www.npmjs.com/package/sockjs-client)
+* Offline
+  * Service Work - [sw-toolbox](https://googlechrome.github.io/sw-toolbox/)
+  * IndexedDB
+    * LocalStorage API - [localForage](https://www.npmjs.com/package/localforage)
+    
 New
 Progressive Web Apps
 https://app.pluralsight.com/library/courses/web-apps-progressive-getting-started
@@ -3944,6 +4035,19 @@ Node.js Package Managers (npm (build-step))
 * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
   
 <!--
+  * [The Art of Node](https://github.com/maxogden/art-of-node)
+  * [You Don’t Know Node](https://webapplog.com/you-dont-know-node/)
+  * [RisingStack's](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/) / [NodeSource's](https://nodesource.com/blog/understanding-the-nodejs-event-loop/) Understanding the Node.js Event Loop
+  * [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
+  * [Stream Handbook](https://github.com/substack/stream-handbook)
+    * [A Brief History of Node Streams](https://medium.com/the-node-js-collection/a-brief-history-of-node-streams-pt-1-3401db451f21)
+    * [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
+  * [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
+  * [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
+    * [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
+  * [Joyent's Production Practices - Design](https://www.joyent.com/node-js/production/design/), [Error Handling](https://www.joyent.com/node-js/production/design/errors)
+  * [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
+  
 * [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
 * [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
       
@@ -7901,6 +8005,11 @@ Cross Platform Dev Environment
 * [Firebase Hosting](https://www.firebase.com/docs/hosting)
 
 <!--
+* [Firebase Hosting](https://firebase.google.com/products/hosting/) 
+* [Firebase Realtime Database](https://firebase.google.com/products/database/)
+      
+[firebase-tools](https://www.npmjs.com/package/firebase-tools)
+
 https://opensource.googleblog.com/2017/05/open-sourcing-firebase-sdks.html
 https://analytics.googleblog.com/2017/05/firebase-analytics-gets-new-features.html
 -->
