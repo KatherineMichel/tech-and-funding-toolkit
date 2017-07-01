@@ -507,44 +507,16 @@ https://auth0.com
     * Warehouse - [Amazon Redshift](https://aws.amazon.com/redshift/) / [Google BigQuery](https://cloud.google.com/bigquery/)
           
       * [Firebase Realtime Database](https://firebase.google.com/products/database/)
+      
+[firebase-tools](https://www.npmjs.com/package/firebase-tools)
+[surge cli client](https://www.npmjs.com/package/surge)      
+      
     * CMS
       * [WordPress.com REST API](https://developer.wordpress.com/docs/api/) / [Contentful](https://www.contentful.com/) / [DatoCMS](https://www.datocms.com/) / [GraphCMS](https://graphcms.com/) / [Baasic](http://www.baasic.com/)
   * Auth
     * [Auth0](https://auth0.com/) / [Amazon Cognito](https://aws.amazon.com/cognito/) / [Firebase Authentication](https://firebase.google.com/products/auth/)
     * [OAuth.io](https://oauth.io/)
       
-### Testing
-
-  * Integration Testing
-    * [Enzyme](http://airbnb.io/enzyme/)
-  * Functional Testing
-    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/)
-    * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
-  * Visual Testing
-    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
-    * [BrowserStack](https://www.browserstack.com/)
-  * Headless Browsers
-    * Browsers
-      * Chromium - [Headless Chrome/Chromium](https://developers.google.com/web/updates/2017/04/headless-chrome)
-      * Chromium + Node.js - [electron-prebuilt](https://www.npmjs.com/package/electron)
-      * WebKit - [PhantomJS](http://phantomjs.org/)
-      * Gecko - [SlimerJS](https://slimerjs.org/)
-    * In-memory X11 Display Server
-      * [xvfb](https://en.wikipedia.org/wiki/Xvfb) - [xvfb-run](http://manpages.ubuntu.com/manpages/trusty/man1/xvfb-run.1.html) / [headless](https://www.npmjs.com/package/headless)
-    * Docker
-      * [lighthouse-ci/builder/Dockerfile.headless](https://github.com/ebidel/lighthouse-ci/blob/master/builder/Dockerfile.headless#L16)
-      * [electron-headless](https://hub.docker.com/r/dannysu/electron-headless/~/dockerfile/)
-
-* Benchmark Testing
-  * JS
-    * [Benchmark.js](https://benchmarkjs.com/)
-    * [Speedracer](https://github.com/ngryman/speedracer)
-    * [stats.js](https://github.com/mrdoob/stats.js)
-  * [SinonJS](http://sinonjs.org/)
-
-    * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
-    * [Varvy SEO tool](https://varvy.com/)
-
 * CSS / Style Guide
   * [KSS (Knyle Style Sheets)](http://warpspire.com/kss/)
     * [kss-node](http://kss-node.github.io/kss-node/)
@@ -568,10 +540,7 @@ https://auth0.com
 ### Workflow
       
           * [Firebase Hosting](https://firebase.google.com/products/hosting/) 
-          
-[firebase-tools](https://www.npmjs.com/package/firebase-tools)
-[surge cli client](https://www.npmjs.com/package/surge)
-                 
+                           
     * Services
       * [Sentry](https://sentry.io/for/javascript/)
                          
