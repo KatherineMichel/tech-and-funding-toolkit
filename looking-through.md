@@ -8,7 +8,26 @@
 ---
 
 ### Collaboration
+
+* Cloud / Distributed
+  * Architecture
+    * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+ 
+     * [Defining Static Web Apps](https://staticapps.org/articles/defining-static-web-apps/)
+         
+    * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
+    
+  * [Ultimate Guide to Web Hosting](http://www.whoishostingthis.com/resources/web-hosting/) / [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/)
   
+      * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+      * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+      
+      * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+      
+      * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+       
+     * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+     
 * Intro
   * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   * [The Bash Guide](http://guide.bash.academy/)
@@ -293,15 +312,6 @@ http://developer.telerik.com
   * IndexedDB / WebSQL / localStorage / Memory
   
 ### npm Ecosystem
-
-      * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-      * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-      
-      * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-      
-      * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-       
-     * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
                    
   * Small Modules
     * Hyper Modular / One-line Modules
@@ -400,19 +410,9 @@ https://devcenter.heroku.com/articles/platform-api-reference
     Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), \
 
     [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
- 
-* Cloud / Distributed
-  * Architecture
-    * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
- 
-     * [Defining Static Web Apps](https://staticapps.org/articles/defining-static-web-apps/)
-         
-    * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
-    
+   
   * Multitenant
     * [Manage Identity in Multitenant Applications](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/)
-* Old-fashioned Web Hosting / Non-distributed
-  * [Ultimate Guide to Web Hosting](http://www.whoishostingthis.com/resources/web-hosting/) / [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/)
 
   * [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
     * [The OAuth Bible](http://oauthbible.com/)
@@ -461,8 +461,6 @@ https://auth0.com
   * Email - [Nodemailer](https://nodemailer.com/)
 
     * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
-
-  * RDS
     * RDS ORM - [Sequelize](http://docs.sequelizejs.com/)
 
   * DBaaS
@@ -508,8 +506,6 @@ https://auth0.com
       
     * Warehouse - [Amazon Redshift](https://aws.amazon.com/redshift/) / [Google BigQuery](https://cloud.google.com/bigquery/)
           
-* BaaS
-  * CRUD
       * [Firebase Realtime Database](https://firebase.google.com/products/database/)
     * CMS
       * [WordPress.com REST API](https://developer.wordpress.com/docs/api/) / [Contentful](https://www.contentful.com/) / [DatoCMS](https://www.datocms.com/) / [GraphCMS](https://graphcms.com/) / [Baasic](http://www.baasic.com/)
@@ -578,11 +574,7 @@ https://auth0.com
                  
     * Services
       * [Sentry](https://sentry.io/for/javascript/)
-            
-    * [Plop](https://plopjs.com)
-
-    * React Native - [Expo](https://expo.io/)
-             
+                         
 ### Cloud Services (China)
 
 > The evil twins inside [the Great Firewall of China](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/4)
@@ -602,11 +594,13 @@ https://www.wilddog.com
 
 http://ce.baidu.com
 
-      * [极验](http://www.geetest.com/)
-  * [SendCloud](http://sendcloud.sohu.com/)
-  * [云片](https://www.yunpian.com/)
-  * Payment - [Ping++](https://www.pingxx.com/products)
-  * Maps - [高德开放平台](https://lbs.amap.com/getting-started/map/) / [百度地图开放平台](http://lbsyun.baidu.com/)
-  * Customer Support - [美洽](https://meiqia.com/)
-      * [OneAPM](https://www.oneapm.com/) / [听云](http://www.tingyun.com/)
-      * [alinode](https://alinode.aliyun.com/)
+http://www.geetest.com
+http://sendcloud.sohu.com
+https://www.yunpian.com
+https://www.pingxx.com/products
+https://lbs.amap.com/getting-started/map
+http://lbsyun.baidu.com
+https://meiqia.com
+https://www.oneapm.com
+http://www.tingyun.com
+https://alinode.aliyun.com
