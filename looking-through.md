@@ -1,44 +1,20 @@
-* The JS/web technology is like [an ocean of stuff you don’t know](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f). Simply collecting more stuff or composing dozens of "awesome lists" into a single one will only exacerbate the [Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4). So this document must __stay lean__ and focus on __the most frequent problems__ and __the most commonly used stuff__.
-* __The npm package statistics (like download count) are given more weight than Github repo statistics (like starring data)__ because npm statistics can better reflect the actual usage and popularity.
-* Prefer __fine-grained classifications and deep hierarchies__ over __featureless descriptions and distractive comments__.
-* __knowledge graph__ or __skill tree__
-
+https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f
+[Javascript Fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4
 [Why so many React-based projects? Why not Angular/Vue.js/XXX](http://www.npmtrends.com/rxjs-vs-mobx-vs-redux-vs-vue-vs-react-vs-@angular/core-vs-@cycle/dom-vs-backbone-vs-jquery-vs-vuex)
 
----
-
-### Collaboration
-
-* Cloud / Distributed
-  * Architecture
     * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
- 
-     * [Defining Static Web Apps](https://staticapps.org/articles/defining-static-web-apps/)
-         
-    * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
-    
+
   * [Ultimate Guide to Web Hosting](http://www.whoishostingthis.com/resources/web-hosting/) / [Web Hosting Beginner Guide](http://www.webhostingsecretrevealed.net/web-hosting-beginner-guide/)
-  
-      * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-      * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-      
-      * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-      
-      * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-       
+     * [Defining Static Web Apps](https://staticapps.org/articles/defining-static-web-apps/)
+        
      * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
      
 * Intro
   * [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
   * [The Bash Guide](http://guide.bash.academy/)
   
-  * Dev Tools
-    * [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/)
-      * Console - [Console API](https://developers.google.com/web/tools/chrome-devtools/console/console-reference), [Command Line API](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-      
-<!--
-### IDE / Editors
-
+    * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+                
 * [Atom](https://atom.io/) Plugins
     * [Project Manager](https://atom.io/packages/project-manager)
     * [todo-show](https://atom.io/packages/todo-show) / [imdone-atom](https://atom.io/packages/imdone-atom)
@@ -49,11 +25,10 @@
     * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
 
   * [Hack](http://sourcefoundry.org/hack/)
-
-
+    
 ### Command-line Environment (Mac)
   
-  * [commitizen](https://github.com/commitizen/cz-cli)
+* [commitizen](https://github.com/commitizen/cz-cli)
 * [Docker for Mac](https://docs.docker.com/docker-for-mac/)
 
 ### Command-line Libraries (Node.js)
@@ -69,12 +44,8 @@
     * [Critical Path CSS Generator](https://jonassebastianohlsson.com/criticalpathcssgenerator/)
   * CSS
     * Gradient - [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
-  * JS
-    * [Keyboard Event Viewer](https://w3c.github.io/uievents/tools/key-event-viewer.html)
-* Viewer
-  * [GraphQL Voyager](https://apis.guru/graphql-voyager/), [GraphQL Docs](https://graphql-docs.com/), [GraphQL Visualizer / graphqlviz](http://nathanrandal.com/graphql-visualizer/) / [graphqlviz](https://github.com/sheerun/graphqlviz)
+  
   * [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/)
--->
 
 ### CSS Features
 
@@ -82,22 +53,9 @@
             
 * Learning
   * [What is the Internet](http://www.20thingsilearned.com/en-US/what-is-the-internet/), [How does the Internet work](https://www.w3.org/wiki/How_does_the_Internet_work)
-
-  * [HTML: The Living Standard (Web Developer Edition)](https://developers.whatwg.org/)
-
+  
   * [Mastering CSS Principles: A Comprehensive Guide](https://www.smashingmagazine.com/mastering-css-principles-comprehensive-reference-guide/)
-  
-  * MDN's [Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)
-
-* Reference
-  * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web)
-    * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference), [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG), [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference), [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model), [DOM Events](https://developer.mozilla.org/en-US/docs/Web/Events), [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)  
-  
-  * [Google Developers](https://developers.google.com/web/)
-    * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
             
-  * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
-          
       * [Everything You Need to Know About the CSS will-change Property](https://dev.opera.com/articles/css-will-change-property/)
           
     * [CSS and the critical path](http://www.phpied.com/css-and-the-critical-path/)
@@ -167,9 +125,6 @@
   * Nicholas C. Zakas's [Understanding ECMAScript 6](https://leanpub.com/understandinges6)
 * Re-intro to JS
 
-  
-      * [The Evolution of JavaScript Modularity](https://github.com/myshov/history-of-javascript/tree/master/4_evolution_of_js_modularity)
-      * [About object-oriented design and the “class” & “extends” keywords in ES6](http://blog.wolksoftware.com/about-classes-inheritance-and-object-oriented-design-in-typescript-and-es6)
       * [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/)
 
 * Important Proposals
@@ -203,26 +158,7 @@ https://medium.com/the-node-js-collection
 
 ### Node.js
 
-* Intro
-  * [The Art of Node](https://github.com/maxogden/art-of-node)
-  * [You Don’t Know Node](https://webapplog.com/you-dont-know-node/)
-  * [RisingStack's](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/) / [NodeSource's](https://nodesource.com/blog/understanding-the-nodejs-event-loop/) Understanding the Node.js Event Loop
-  * [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
-  * [Stream Handbook](https://github.com/substack/stream-handbook)
-    * [A Brief History of Node Streams](https://medium.com/the-node-js-collection/a-brief-history-of-node-streams-pt-1-3401db451f21)
-    * [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
-  * [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
-  * [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
-    * [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-    * [How to Debug Node.js with the Best Tools Available](https://blog.risingstack.com/how-to-debug-nodej-js-with-the-best-tools-available/)
-* Workshop
-  * [NodeSchool](https://nodeschool.io/)
-    * [learnyounode](https://www.npmjs.com/package/learnyounode)
-* Best Practices
-  * [The Node Way](http://thenodeway.io/introduction/)
-  * [Joyent's Production Practices - Design](https://www.joyent.com/node-js/production/design/), [Error Handling](https://www.joyent.com/node-js/production/design/errors)
-  * [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-  * [Node.js Best Practices](https://github.com/alanjames1987/Node.js-Best-Practices)
+https://blog.risingstack.com
 
 ### Platform Compatibility and Proposal Status
     
@@ -268,39 +204,9 @@ http://developer.telerik.com
     * Next Generation
         * [Launching Ignition and TurboFan](https://v8project.blogspot.hk/2017/05/launching-ignition-and-turbofan.html)
 
-    * Internal
-      * [Introducing the WebKit FTL JIT](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
-    * Next Generation
-      * [JSC Love ES6](https://webkit.org/blog/7536/jsc-loves-es6/)
-      * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/)
-  * [Chakra](https://github.com/Microsoft/ChakraCore)
-    * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
-    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
-    * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
-    * Internal
-      * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
-    * Next Generation
-      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
-      
-  * Benchmarks
-    * [Browser Benchmarks](http://browserbench.org/)
-* Web Runtime / JS Runtime
-
-  * [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
-
 * Device
   * [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
   * [Device Metrics](https://material.io/devices/) / [Screen Sizes](http://screensiz.es/monitor)
-
-### Cross-browser / Polyfill Libraries
-
-* Network
-  * XHR - [window.fetch Polyfill](https://github.com/github/fetch)
-  * WebSocket - [Socket.IO-client](https://www.npmjs.com/package/socket.io-client) / [Engine.IO-client](https://www.npmjs.com/package/engine.io-client) / [SockJS-client](https://www.npmjs.com/package/sockjs-client)
-* Offline
-  * Service Work - [sw-toolbox](https://googlechrome.github.io/sw-toolbox/)
-  * IndexedDB
-    * LocalStorage API - [localForage](https://www.npmjs.com/package/localforage)
 
 ### Universal Utility Libraries
 
@@ -321,26 +227,13 @@ http://developer.telerik.com
   * Isomorphic JS / Universal JS
     * [Isomorphic JavaScript: The Future of Web Apps](https://medium.com/airbnb-engineering/isomorphic-javascript-the-future-of-web-apps-10882b7a2ebc)
 
-### GUI Framework
-      
-      * Best Practices
-        * [React Bits](https://github.com/vasanthk/react-bits), [React in patterns](https://github.com/krasimir/react-in-patterns)
+
+        * [React in patterns](https://github.com/krasimir/react-in-patterns)
     * Lightweight Alternative
       * [Preact](https://preactjs.com/)
-
-* API
-  * [GraphQL](http://graphql.org/)
-    * Learning
-      * [Learn GraphQL](https://learngraphql.com)
-      * [Queries and Mutations](http://graphql.org/learn/queries/)
-      * Playground - [GraphQLHub](https://www.graphqlhub.com/)      
-    * [React Apollo](http://dev.apollodata.com/react/), [Learn Apollo](https://www.learnapollo.com/)
   
  http://hood.ie/blog
  
-  * [angular-cli](https://cli.angular.io/)
-  * [vue-cli](https://www.npmjs.com/package/vue-cli)
-
 * GUI Architectures
   * Comparison
     * [Scaling Isomorphic JavaScript Code](https://blog.nodejitsu.com/scaling-isomorphic-javascript-code/)
@@ -364,41 +257,6 @@ http://developer.telerik.com
   * [React Native Web](https://www.npmjs.com/package/react-native-web)
   
 ### Network
-
-    * [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview), \
-      [Introduction to HTTP](https://launchschool.com/books/http)
-    * [Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-    * [Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web) / \
-
-    * [Architecture of the World Wide Web: Identification](https://www.w3.org/TR/webarch/#identification)
-    * [MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-    * [HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-    * [Connection management in HTTP/1.x](https://developer.mozilla.org/en-US/docs/Web/HTTP/Connection_management_in_HTTP_1.x)
-    * [Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-  * Reference
-    * [HTTP headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-    * [HTTP response status codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status) / [httpstatuses.com](https://httpstatuses.com/)
-  * [Same-origin policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
-    * [HTTP access control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) / [Using CORS](https://www.html5rocks.com/en/tutorials/cors/)
-    * Content Security Policy (CSP) - [Google](https://developers.google.com/web/fundamentals/security/csp/) / [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
-  * Performance
-    * [High Performance Browser Networking](https://hpbn.co/), \
-    * HTTP Caching - [Google](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching), [Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
-    * [Compression in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Compression)
-  * HTTPS
-    * [Why HTTPS Matters](https://developers.google.com/web/fundamentals/security/encrypt-in-transit/why-https)
-    * [Is TLS Fast Yet?](https://istlsfastyet.com/) / [HTTP vs HTTPS Test](https://www.httpvshttps.com/)
-    * [HTTP Strict-Transport-Security (HSTS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
-    * [What Is Mixed Content?](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/what-is-mixed-content), [Preventing Mixed Content](https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content)
-  * HTTP/2
-
-      [Introduction to HTTP/2](https://developers.google.com/web/fundamentals/performance/http2/)
-
-    * [Protocol Buffers](https://developers.google.com/protocol-buffers/)
-* TCP
-  * [Writing WebSocket servers](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
-* UDP
-  * [QUIC](https://www.chromium.org/quic)
 
 ### Server-side Best Practices
 
@@ -427,23 +285,11 @@ https://auth0.com
   * [WebAppSec/Secure Coding Guidelines](https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines)
   * [Node.js Security Checklist](https://blog.risingstack.com/node-js-security-checklist/)
 
-  * [Logging The Ultimate Guide](https://www.loggly.com/ultimate-guide/category/node/)
-  * [The Definitive Guide for Monitoring Node.js Applications](https://blog.risingstack.com/monitoring-nodejs-applications-nodejs-at-scale/)
-  * [Monitoring and diagnostics](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
-
 ### Microservices / API Services (Node.js)
-
-(Example Website)
 
   * Microservices
     * [Micro](https://github.com/zeit/micro) / [Seneca](http://senecajs.org/)
-    
-* GraphQL
-  * [Schemas and Types](http://graphql.org/learn/schema/)
-    * [GraphQL Schema Language Cheat Sheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
-  * [graphql-tools](http://dev.apollodata.com/tools/graphql-tools/index.html)
-  * [graphql-anywhere](https://www.npmjs.com/package/graphql-anywhere)
-  
+      
 * DocGen + CodeGen
   * [API Blueprint](https://apiblueprint.org/) / [Swagger](http://swagger.io/) / [RAML](http://raml.org/)
   * [JSON Schema](http://json-schema.org/)
@@ -477,8 +323,6 @@ https://auth0.com
 
 ### Cloud Services (Global)
 
-    * [Graphcool Functions](https://www.graph.cool/docs/reference/functions/overview-boo6uteemo/)
-
       * Object Storage + CDN
         * Global
 * [Amazon S3 + CloudFront](http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html) - [aws-sdk](https://www.npmjs.com/package/aws-sdk) / [awscli](https://github.com/aws/aws-cli)
@@ -505,12 +349,7 @@ https://auth0.com
       * Elasticsearch - [Amazon Elasticsearch Service](https://aws.amazon.com/elasticsearch-service/) / [Elastic Cloud](https://www.elastic.co/cloud) / [Bonsai](https://bonsai.io/)
       
     * Warehouse - [Amazon Redshift](https://aws.amazon.com/redshift/) / [Google BigQuery](https://cloud.google.com/bigquery/)
-          
-      * [Firebase Realtime Database](https://firebase.google.com/products/database/)
-      
-[firebase-tools](https://www.npmjs.com/package/firebase-tools)
-[surge cli client](https://www.npmjs.com/package/surge)      
-      
+                
     * CMS
       * [WordPress.com REST API](https://developer.wordpress.com/docs/api/) / [Contentful](https://www.contentful.com/) / [DatoCMS](https://www.datocms.com/) / [GraphCMS](https://graphcms.com/) / [Baasic](http://www.baasic.com/)
   * Auth
@@ -530,20 +369,34 @@ https://auth0.com
                   
 * Compiler / Transpiler / Preprocessor
     * [Setting up ES6](https://leanpub.com/setting-up-es6/read)
-    * [Babel User Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/user-handbook.md), [Babel Plugin Handbook](https://github.com/thejameskyle/babel-handbook/blob/master/translations/en/plugin-handbook.md)
         
   * [StyleLint](http://stylelint.io/)
 
     * [task automation with npm run](http://substack.net/task_automation_with_npm_run), \
       [How to Use npm as a Build Tool](https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
+
+
+* GraphQL
+  * [Schemas and Types](http://graphql.org/learn/schema/)
+    * [GraphQL Schema Language Cheat Sheet](https://wehavefaces.net/graphql-shorthand-notation-cheatsheet-17cd715861b6)
+  * [graphql-tools](http://dev.apollodata.com/tools/graphql-tools/index.html)
+  * [graphql-anywhere](https://www.npmjs.com/package/graphql-anywhere)
+  
+    * [Graphcool Functions](https://www.graph.cool/docs/reference/functions/overview-boo6uteemo/)
     
-### Workflow
-      
-          * [Firebase Hosting](https://firebase.google.com/products/hosting/) 
-                           
-    * Services
-      * [Sentry](https://sentry.io/for/javascript/)
-                         
+* API
+  * [GraphQL](http://graphql.org/)
+    * Learning
+      * [Learn GraphQL](https://learngraphql.com)
+      * [Queries and Mutations](http://graphql.org/learn/queries/)
+      * Playground - [GraphQLHub](https://www.graphqlhub.com/)      
+    * [React Apollo](http://dev.apollodata.com/react/), [Learn Apollo](https://www.learnapollo.com/)
+ 
+ * Viewer
+  * [GraphQL Voyager](https://apis.guru/graphql-voyager/), [GraphQL Docs](https://graphql-docs.com/), [GraphQL Visualizer / graphqlviz](http://nathanrandal.com/graphql-visualizer/) / [graphqlviz](https://github.com/sheerun/graphqlviz)
+  
+   * [angular-cli](https://cli.angular.io/)
+  
 ### Cloud Services (China)
 
 > The evil twins inside [the Great Firewall of China](https://github.com/dexteryy/spellbook-of-modern-webdev/pull/4)
