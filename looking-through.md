@@ -28,9 +28,6 @@
     * [Build](https://atom.io/packages/build)
       * [AtomBuild](https://atombuild.github.io/)
     * [Markdown Preview Plus](https://atom.io/packages/markdown-preview-plus)
-* Other Electron-based IDE
-  * [VS Code](https://code.visualstudio.com/)
-    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
 
   * [Hack](http://sourcefoundry.org/hack/)
 
@@ -510,11 +507,6 @@ http://developer.telerik.com
 * Crypto
   * [bcrypt](https://www.npmjs.com/package/bcrypt)
 
-* Auth
-  * [passwordless](https://passwordless.net/)
-  * [oauth](https://www.npmjs.com/package/oauth)
-  * OAuth Providers - [hello.js](http://adodson.com/hello.js/) / [grant](https://www.npmjs.com/package/grant)
-  
     * MongoDB ORM - [Mongooose](http://mongoosejs.com/)
 
   * RDS
@@ -565,7 +557,6 @@ http://developer.telerik.com
           
 * BaaS
   * CRUD
-    * Realtime
       * [Firebase Realtime Database](https://firebase.google.com/products/database/)
     * CMS
       * [WordPress.com REST API](https://developer.wordpress.com/docs/api/) / [Contentful](https://www.contentful.com/) / [DatoCMS](https://www.datocms.com/) / [GraphCMS](https://graphcms.com/) / [Baasic](http://www.baasic.com/)
@@ -573,15 +564,6 @@ http://developer.telerik.com
     * [Auth0](https://auth0.com/) / [Amazon Cognito](https://aws.amazon.com/cognito/) / [Firebase Authentication](https://firebase.google.com/products/auth/)
     * [OAuth.io](https://oauth.io/)
       
-  * Search - [Algolia](https://www.algolia.com/)
-  * Email - [SendGrid](https://sendgrid.com/) / [Mailgun](https://www.mailgun.com/) / [Mandrill](http://www.mandrill.com/) / [Amazon SES](https://aws.amazon.com/ses/)
-  * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
-  * Payment - [Stripe](https://stripe.com/)
-  * Maps - [Mapbox](https://www.mapbox.com/)
-  * Customer Support - [Intercom](https://developers.intercom.com/) / [Zendesk](https://developer.zendesk.com/)
-  * IM - [Discord](https://discordapp.com/developers/)
-  * Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
-
 ### Testing
 
   * Integration Testing
