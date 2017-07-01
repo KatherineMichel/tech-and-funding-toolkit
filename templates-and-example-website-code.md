@@ -18,6 +18,19 @@ https://opencollective.com/
 
 Ruby, React
 https://github.com/tootsuite/mastodon
+
+* [Node.js (Example Website) GitHub](https://github.com/joyent/node-website) 
+* [Express (Example Website) GitHub](https://github.com/visionmedia/expressjs.com)
+* [Built with Angular (Example Website) GitHub](https://github.com/angular/builtwith.angularjs.org) 
+[TodoMVC (Example Website; nice meta) GitHub](https://github.com/tastejs/todomvc)
+* [Grunt (Example Website) GitHub](https://github.com/gruntjs/gruntjs.com) 
+* [Rails (Create project locally) (Example Website) GitHub](https://github.com/rails/rails.github.com)
+* [Mongoose (Example Website) GitHub](https://github.com/Automattic/mongoose) 
+* [Laravel (Create project locally) (Example Website) GitHub](https://github.com/laravel/website) 
+* [Yeoman (Example Website) GitHub](https://github.com/yeoman/yeoman.io)  
+[Bower (Example Website) GitHub](https://github.com/bower/bower.github.io) 
+* [Ember (Example Website) GitHub](https://github.com/emberjs/website) 
+* [Backbone (Example Website) GitHub](https://github.com/jashkenas/backbone) 
 -->
 
 ## Gov
