@@ -311,7 +311,9 @@ http://developer.telerik.com
 
       * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
       * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+      
       * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+      
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
        
      * [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
@@ -326,18 +328,12 @@ http://developer.telerik.com
 
 ### Universal Utility Libraries
 
-* Standard Library Extensions
-    * [is.js](http://is.js.org/)
-  * FP
-    * [Immutable](http://facebook.github.io/immutable-js/)
   * OOP
     * [Stampit](https://www.npmjs.com/package/stampit)
   * Async
     * Callback - [Async](http://caolan.github.io/async/)
 * Storage
   * IndexedDB / WebSQL / localStorage / Memory
-* ML
-  * [MLJS](https://www.npmjs.com/package/ml)
 
 ### GUI Framework
 
@@ -428,7 +424,6 @@ http://developer.telerik.com
     Microsoft's [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design), [REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md), \
     [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api), \
     [Principles of good RESTful API Design](https://codeplanet.io/principles-good-restful-api-design/)
-  * [Introducing JSON](http://json.org/)
  
 * Cloud / Distributed
   * Architecture
@@ -437,6 +432,7 @@ http://developer.telerik.com
      * [Defining Static Web Apps](https://staticapps.org/articles/defining-static-web-apps/)
          
     * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
+    
   * Multitenant
     * [Manage Identity in Multitenant Applications](https://docs.microsoft.com/en-us/azure/architecture/multitenant-identity/)
 * Old-fashioned Web Hosting / Non-distributed
@@ -461,13 +457,10 @@ https://auth0.com
 
 ### Microservices / API Services (Node.js)
 
-    * Middleware Framework
-      * [Express](http://expressjs.com/)
-    * Rich Framework
-      * Configuration - [Hapi](https://hapijs.com/)
-      * Realtime - [Feathers](https://feathersjs.com/)
+(Example Website)
+
   * Microservices
-    * [Micro](https://github.com/zeit/micro) / [Seneca](http://senecajs.org/) / [StdLib](https://stdlib.com/)
+    * [Micro](https://github.com/zeit/micro) / [Seneca](http://senecajs.org/)
   * Bots
     * [Botkit](https://www.npmjs.com/package/botkit)
     
