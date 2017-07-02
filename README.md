@@ -1644,6 +1644,29 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
+<!--
+https://github.com/thoughtbot/guides
+https://github.com/thoughtbot/guides/tree/master/protocol
+
+https://thoughtbot.com/playbook
+https://github.com/thoughtbot/templates
+https://robots.thoughtbot.com/keeping-a-github-fork-updated
+https://robots.thoughtbot.com/tags/git
+
+https://github.com/hypenotic/hypelabs
+
+https://blog.golang.org/developer-experience
+https://www.ampproject.org/roadmap
+https://www.debian.org/social_contract
+http://hood.ie/contribute
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
+https://www.subscribewithamazon.com
+https://www.amazon.jobs/principles
+https://github.com/basecamp/handbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+-->
+
 Collaborative Development Models
 * [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
 * ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
@@ -1660,6 +1683,8 @@ A Successful Git Branching Model
     * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
     
 https://www.atlassian.com/blog/archives/simple-git-workflow-simple
+https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 
 http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
 
@@ -1677,6 +1702,8 @@ http://www.integralist.co.uk/posts/github-workflow.html
 
 GitLab Flow
 https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/
+https://docs.gitlab.com/ee/workflow/gitlab_flow.html
+https://about.gitlab.com/2014/09/29/gitlab-flow/
 -->
 
 Code Review (See also Project Management)
@@ -1743,16 +1770,19 @@ https://pivotal.io/beyond-the-twelve-factor-app
             
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
       
-      
-https://github.com/thoughtbot/guides
-https://github.com/thoughtbot/guides/tree/master/protocol
+Triaging
+https://github.com/isaacs/github/issues/248
+https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
+https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
+https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
+https://github.com/v8/v8/wiki/Triaging-issues
+http://docs.hood.ie/en/latest/developers/TRIAGING.html
 
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/templates
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-https://robots.thoughtbot.com/tags/git
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://gist.github.com/PurpleBooth
+https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
 
-https://github.com/hypenotic/hypelabs
 
 https://en.wikipedia.org/wiki/Open-source_model
 https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
@@ -1778,20 +1808,8 @@ https://en.wikipedia.org/wiki/Red_team
 https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
 
 
-New
-https://blog.golang.org/developer-experience
-https://www.ampproject.org/roadmap
-https://www.debian.org/social_contract
-http://hood.ie/contribute
-
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
-
-http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
-https://www.subscribewithamazon.com
-https://www.amazon.jobs/principles
-https://github.com/basecamp/handbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
 
 https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
 
@@ -1809,19 +1827,8 @@ https://contribute.jquery.org/commits-and-pull-requests
 https://www.visualstudio.com/en-us/docs/git/pull-requests
 https://datasift.github.io/gitflow/
 
-Triaging
-https://github.com/isaacs/github/issues/248
-https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
-https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
-https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
-https://github.com/v8/v8/wiki/Triaging-issues
-http://docs.hood.ie/en/latest/developers/TRIAGING.html
 
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-https://gist.github.com/PurpleBooth
-https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
-    
+       
 https://cloud.google.com/source-repositories/pricing
 
 https://github.com/thoughtbot/guides/tree/master/code-review
@@ -1841,9 +1848,6 @@ https://gist.github.com/seshness/3943237
 
 https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
-https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
-https://www.atlassian.com/blog/archives/simple-git-workflow-simple
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 
 https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
 https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
