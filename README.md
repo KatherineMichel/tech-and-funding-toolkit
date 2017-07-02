@@ -1653,6 +1653,32 @@ A Successful Git Branching Model
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
+<!--
+  * Workflow
+    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+    * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
+    
+https://www.atlassian.com/blog/archives/simple-git-workflow-simple
+
+http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
+
+Single version in production simple software - use Github-flow
+Single Version in production but very complex software - use Gitlab-flow
+Multiple versions in production - use Git-flow
+
+GitHub Flow
+https://guides.github.com/introduction/flow
+https://help.github.com/articles/github-flow-in-the-browser/
+http://scottchacon.com/2011/08/31/github-flow.html
+
+GitHub Workflow (used by Frameworks team at BBC News)
+http://www.integralist.co.uk/posts/github-workflow.html
+
+GitLab Flow
+https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/
+-->
+
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
@@ -1667,11 +1693,20 @@ Semver
 The Distributed Developer Stack Field Guide
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 
+<!--
+* [The Reactive Manifesto](http://www.reactivemanifesto.org)
+
+https://pivotal.io/beyond-the-twelve-factor-app
+
+  * SemVer
+    * [The semantic versioner for npm](https://docs.npmjs.com/misc/semver) / [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
+    * [npm semver calculator](https://semver.npmjs.com/)
+-->
 
 
 <!--
-* Git
-  * [Git-it](https://github.com/jlord/git-it-electron)
+* [Git-it](https://github.com/jlord/git-it-electron)
+
   * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
   * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
@@ -1684,37 +1719,30 @@ The Distributed Developer Stack Field Guide
     * Chrome Extensions
       * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
       * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-      
-  * Workflow
-    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-    
+          
 * DevOps
   * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-  * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
   * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
 
 * ChatOps
   * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
     [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
 
-See also: adapters
-  * [Hubot](https://hubot.github.com/)
-
 * Kanban
   * What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
   * [Getting Started With Trello](https://trello.com/guide)
   * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
+
   
-    * [The Reactive Manifesto](http://www.reactivemanifesto.org/)
- 
+   
  Documentation Driven Development. RDD
     * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-      
+    
       * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
       * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
             
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+      
       
 https://github.com/thoughtbot/guides
 https://github.com/thoughtbot/guides/tree/master/protocol
@@ -1756,8 +1784,6 @@ https://www.ampproject.org/roadmap
 https://www.debian.org/social_contract
 http://hood.ie/contribute
 
-https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/
-https://about.gitlab.com/2014/09/29/gitlab-flow/
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
 
@@ -1771,30 +1797,9 @@ https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requ
 
 
 
-http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
-
-Single version in production simple software - use Github-flow
-Single Version in production but very complex software - use Gitlab-flow
-Multiple versions in production - use Git-flow
-
-GitHub Flow
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/github-flow-in-the-browser/
-http://scottchacon.com/2011/08/31/github-flow.html
-
-GitHub Workflow (used by Frameworks team at BBC News)
-http://www.integralist.co.uk/posts/github-workflow.html
-
-GitLab Flow
-https://docs.gitlab.com/ee/workflow/gitlab_flow.html
-https://about.gitlab.com/2014/09/29/gitlab-flow/
-
 http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
 
 
-Atlassian- Comparing Workflows
-https://www.atlassian.com/git/tutorials/comparing-workflows
-https://www.atlassian.com/blog/archives/simple-git-workflow-simple
 
 https://www.gerritcodereview.com
 
@@ -1816,12 +1821,6 @@ https://gist.github.com/PurpleBooth/b24679402957c63ec426
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 https://gist.github.com/PurpleBooth
 https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
-
-https://pivotal.io/beyond-the-twelve-factor-app
-
-  * SemVer
-    * [The semantic versioner for npm](https://docs.npmjs.com/misc/semver) / [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
-    * [npm semver calculator](https://semver.npmjs.com/)
     
 https://cloud.google.com/source-repositories/pricing
 
@@ -2047,6 +2046,10 @@ Gist
 
 Hub
 * [Hub](https://hub.github.com) and [Hub GitHub](https://github.com/github/hub)
+
+<!--
+Hubot adapters
+-->
 
 GitHub- More
 * [GitHub DCMA](https://github.com/github/dmca)
