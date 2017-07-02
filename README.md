@@ -1660,6 +1660,8 @@ https://www.ampproject.org/roadmap
 https://www.debian.org/social_contract
 http://hood.ie/contribute
 
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
 http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
 https://www.subscribewithamazon.com
 https://www.amazon.jobs/principles
@@ -1677,6 +1679,8 @@ A Successful Git Branching Model
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
 <!--
+https://gist.github.com/seshness/3943237
+
   * Workflow
     * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
     * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
@@ -1704,11 +1708,25 @@ GitLab Flow
 https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/
 https://docs.gitlab.com/ee/workflow/gitlab_flow.html
 https://about.gitlab.com/2014/09/29/gitlab-flow/
+
+https://datasift.github.io/gitflow/
 -->
 
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+
+<!--
+https://www.gerritcodereview.com
+
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+https://github.com/blog/2123-more-code-review-tools
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
+-->
 
 12 Factor App
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -1732,6 +1750,20 @@ https://pivotal.io/beyond-the-twelve-factor-app
 
 
 <!--
+    Trello
+https://upcase.com/design-for-developers-resources/principles
+https://en.wikipedia.org/wiki/Red_team
+
+https://cloud.google.com/source-repositories/pricing
+
+
+
+http://blog.udacity.com/2015/06/become-github-pro.html
+
+https://www.git-tower.com/blog/git-cheat-sheet/
+
+https://github.com/Originate/git-town
+
 * [Git-it](https://github.com/jlord/git-it-electron)
 
   * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
@@ -1746,7 +1778,9 @@ https://pivotal.io/beyond-the-twelve-factor-app
     * Chrome Extensions
       * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
       * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-          
+        
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
+
 * DevOps
   * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
   * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
@@ -1761,7 +1795,6 @@ https://pivotal.io/beyond-the-twelve-factor-app
   * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
 
   
-   
  Documentation Driven Development. RDD
     * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
     
@@ -1796,55 +1829,15 @@ https://github.com/github/open-source-survey
 https://github.com/github/maturity-model
 
 
-
-
-
-
-    
-    Trello
-https://upcase.com/design-for-developers-resources/principles
-https://en.wikipedia.org/wiki/Red_team
-
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
-https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
-
-https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
-
-
-
-http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
-
-
-
-https://www.gerritcodereview.com
-
-https://github.com/Originate/git-town
-
-https://contribute.jquery.org/commits-and-pull-requests
-https://www.visualstudio.com/en-us/docs/git/pull-requests
-https://datasift.github.io/gitflow/
-
-
-       
-https://cloud.google.com/source-repositories/pricing
-
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://thoughtbot.com/playbook/developing/code-reviews
-https://github.com/blog/2123-more-code-review-tools
-
-http://blog.udacity.com/2015/06/become-github-pro.html
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-https://github.com/marketplace/category/code-review
 
 https://www.atlassian.com/git/tutorials/setting-up-a-repository
 https://help.github.com/articles/backing-up-a-repository
 
-https://www.git-tower.com/blog/git-cheat-sheet/
+https://contribute.jquery.org/commits-and-pull-requests
+https://www.visualstudio.com/en-us/docs/git/pull-requests
 
-https://gist.github.com/seshness/3943237
+https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
 
 https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
