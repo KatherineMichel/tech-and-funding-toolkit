@@ -1538,6 +1538,7 @@ Phabricator
 
 GitLab (See also Project Management and Docker)
 * [GitLab Docs](http://docs.gitlab.com)
+* [GitLab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
 * ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
 * [GitLab Installation](https://about.gitlab.com/installation)
@@ -1545,8 +1546,6 @@ GitLab (See also Project Management and Docker)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
 <!--
-GitLab Enterprise Docs
-https://docs.gitlab.com/ee/README.html
 GitLab Org
 https://gitlab.com/groups/gitlab-org
 https://github.com/gitlabhq/gitlabhq
@@ -1653,11 +1652,17 @@ Digital Agency Playbook, Blog, Styleguide, Templates
 * [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
 
 <!--
-https://github.com/thoughtbot/guides
-https://github.com/thoughtbot/guides/tree/master/protocol
+Gitlab handbooks
+https://about.gitlab.com/2015/04/08/the-remote-manifesto
+https://about.gitlab.com/about
+https://about.gitlab.com/culture
+https://about.gitlab.com/handbook
+https://about.gitlab.com/handbook/hiring
 
 https://thoughtbot.com/playbook
-https://github.com/thoughtbot/templates
+https://github.com/thoughtbot/guides
+
+https://github.com/thoughtbot/guides/tree/master/protocol
 https://robots.thoughtbot.com/keeping-a-github-fork-updated
 https://robots.thoughtbot.com/tags/git
 
@@ -1862,6 +1867,7 @@ Bus Factor
 Open Source Hosting
 * [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
 
+<!--
 Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
 
 Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
@@ -1878,6 +1884,7 @@ Make Something Static- Jekyll (Can Use Git Bash)
 
 Make Something Dynamic/Server-Side- Can Store Code on GitHub, but Host Elsewhere (Heroku, AWS, Digital Ocean)
 * Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
+-->
 
 Start contributing to open source
 * Seek out mentor(s) (some frameworks such as Django have mentor lists) 
@@ -2045,7 +2052,6 @@ Git Homepage, Resources
 * [Git Tower Learn](https://www.git-tower.com/learn)
 
 <!--
-https://docs.gitlab.com
 http://gitready.com
 http://gitref.org
 https://git-scm.com/documentation/external-links
