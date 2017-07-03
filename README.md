@@ -1551,7 +1551,6 @@ https://gitlab.com/groups/gitlab-org
 https://github.com/gitlabhq/gitlabhq
 
 https://www.atlassian.com/licensing/starter
-https://www.atlassian.com/software/jira/download
 https://www.atlassian.com/software/jira
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 
@@ -1584,6 +1583,14 @@ More
 * [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
 
 <!--
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
+http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
+https://www.subscribewithamazon.com
+https://www.amazon.jobs/principles
+https://github.com/basecamp/handbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+
 https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
 https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
 
@@ -1659,14 +1666,6 @@ https://blog.golang.org/developer-experience
 https://www.ampproject.org/roadmap
 https://www.debian.org/social_contract
 http://hood.ie/contribute
-
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
-https://www.subscribewithamazon.com
-https://www.amazon.jobs/principles
-https://github.com/basecamp/handbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
 -->
 
 Collaborative Development Models
@@ -1678,47 +1677,26 @@ A Successful Git Branching Model
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
-<!--
-https://gist.github.com/seshness/3943237
-
-  * Workflow
-    * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-    * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-    * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow/)
-    
-https://www.atlassian.com/blog/archives/simple-git-workflow-simple
-https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
-
-http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
-
-Single version in production simple software - use Github-flow
-Single Version in production but very complex software - use Gitlab-flow
-Multiple versions in production - use Git-flow
-
-GitHub Flow
-https://guides.github.com/introduction/flow
-https://help.github.com/articles/github-flow-in-the-browser/
-http://scottchacon.com/2011/08/31/github-flow.html
-
-GitHub Workflow (used by Frameworks team at BBC News)
-http://www.integralist.co.uk/posts/github-workflow.html
-
-GitLab Flow
-https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/
-https://docs.gitlab.com/ee/workflow/gitlab_flow.html
-https://about.gitlab.com/2014/09/29/gitlab-flow/
-
-https://datasift.github.io/gitflow/
--->
+More Workflows
+* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
+* [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
+* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+* [GitHub Flow](https://help.github.com/articles/github-flow)
+* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
+* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
+* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
+* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
 
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+* [Gerrit Code Review](https://www.gerritcodereview.com)
+
+Triaging
 
 <!--
-https://www.gerritcodereview.com
-
 https://github.com/thoughtbot/guides/tree/master/code-review
 https://thoughtbot.com/playbook/developing/code-reviews
 https://github.com/blog/2123-more-code-review-tools
@@ -1726,27 +1704,34 @@ https://github.com/blog/2123-more-code-review-tools
 https://github.com/marketplace/category/code-review
 
 https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
+
+Triaging
+https://github.com/isaacs/github/issues/248
+https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
+https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
+https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
+https://github.com/v8/v8/wiki/Triaging-issues
+http://docs.hood.ie/en/latest/developers/TRIAGING.html
 -->
 
-12 Factor App
-* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
-
-Semver
+Semver (See also: npm packages)
 * [Software Versioning Wikipedia](https://en.wikipedia.org/wiki/Software_versioning)
 * [Semver](http://semver.org) and [Semver GitHub](https://github.com/mojombo/semver) 
+
+<!--
+* [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
+-->
+
+12 Factor App and Beyond
+* [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
+* [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
 
 The Distributed Developer Stack Field Guide
 * [The Distributed Developer Stack Field Guide](http://sites.oreilly.com/odewahn/dds-field-guide) and [The Distributed Developer Stack Field Guide GitHub](https://github.com/odewahn/dds-field-guide)
 
-<!--
+A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
-https://pivotal.io/beyond-the-twelve-factor-app
-
-  * SemVer
-    * [The semantic versioner for npm](https://docs.npmjs.com/misc/semver) / [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
-    * [npm semver calculator](https://semver.npmjs.com/)
--->
 
 
 <!--
@@ -1755,9 +1740,9 @@ https://upcase.com/design-for-developers-resources/principles
 https://en.wikipedia.org/wiki/Red_team
 
 https://cloud.google.com/source-repositories/pricing
+-->
 
-
-
+<!--
 http://blog.udacity.com/2015/06/become-github-pro.html
 
 https://www.git-tower.com/blog/git-cheat-sheet/
@@ -1803,14 +1788,6 @@ http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
             
       * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
       
-Triaging
-https://github.com/isaacs/github/issues/248
-https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
-https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
-https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
-https://github.com/v8/v8/wiki/Triaging-issues
-http://docs.hood.ie/en/latest/developers/TRIAGING.html
-
 https://gist.github.com/PurpleBooth/b24679402957c63ec426
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 https://gist.github.com/PurpleBooth
@@ -1827,6 +1804,17 @@ https://github.com/github/open-source-guide
 https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 https://github.com/github/open-source-survey
 https://github.com/github/maturity-model
+
+
+https://gist.github.com/seshness/3943237
+
+http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
+
+Single version in production simple software - use Github-flow
+Single Version in production but very complex software - use Gitlab-flow
+Multiple versions in production - use Git-flow
+
+https://datasift.github.io/gitflow
 
 
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
@@ -1849,6 +1837,9 @@ http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
+
+https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
 
 https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
