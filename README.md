@@ -1736,7 +1736,7 @@ A Reactive Manifesto
 
 
 <!--
-    Trello
+Trello
 https://upcase.com/design-for-developers-resources/principles
 https://en.wikipedia.org/wiki/Red_team
 
