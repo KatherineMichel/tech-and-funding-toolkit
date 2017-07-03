@@ -1610,7 +1610,6 @@ https://github.com/goinvo/InvoPlaybook
 https://github.com/18F/partnership-playbook
 https://github.com/sprintly/sprint.ly-culture
 https://github.com/bonusly/un-handbook
-https://about.gitlab.com/handbook/people-operations
 https://corner.squareup.com/2016/02/womeng-handbook-launch.html
 https://github.com/digitalocean/engineering-code-of-conduct
 https://github.com/Prismatic/eng-practices
@@ -1658,6 +1657,8 @@ https://about.gitlab.com/about
 https://about.gitlab.com/culture
 https://about.gitlab.com/handbook
 https://about.gitlab.com/handbook/hiring
+
+https://about.gitlab.com/handbook/people-operations
 
 https://thoughtbot.com/playbook
 https://github.com/thoughtbot/guides
