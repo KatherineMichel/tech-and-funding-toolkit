@@ -56,7 +56,9 @@ Table of Content
   * [DevOps](#devops)
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
-  
+
+  * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
+
   * [Git and Markdown](#git-and-markdown)
   
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
@@ -157,7 +159,6 @@ Table of Content
 * [Common MEAN Back-end Tools](#common-mean-back-end-tools)
 
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
-* [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
 
 * [Mobile](#mobile)
 * [Swift](#swift)
@@ -1847,6 +1848,115 @@ https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-81
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
 -->
+
+#### Open Source Management and Programming Tiers
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
+
+Bus Factor
+* [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
+
+Open Source Hosting
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
+Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
+
+Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
+* [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
+
+Learn Git/GitHub
+* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
+
+Make Something Static/Client-Side- HTML (Can Use GitHub Browser)
+* [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
+
+Make Something Static- Jekyll (Can Use Git Bash)
+* [Jekyll via GitHub Pages](https://jekyllrb.com)
+
+Make Something Dynamic/Server-Side- Can Store Code on GitHub, but Host Elsewhere (Heroku, AWS, Digital Ocean)
+* Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
+
+Start contributing to open source
+* Seek out mentor(s) (some frameworks such as Django have mentor lists) 
+* Follow community members and projects (for instance, on Twitter) and look for opportunities
+* Look for guides in repos that explain how to contribute
+* Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
+
+Look for First-Timers Info
+* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
+
+Example First-Timers Info
+* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
+* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
+* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
+* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
+* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
+
+<!--
+https://github.com/search?utf8=%E2%9C%93&q=help+wanted
+https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
+https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
+https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
+
+https://opensource.com
+https://opensource.com/how-submit-article
+
+http://williln.github.io/
+https://github.com/williln/williln.github.io
+
+https://github.com/HackathonHackers/code-of-conduct
+http://hackforchange.org/tips-for-better-open-source-documentation
+https://github.com/zalando/zalando-howto-open-source
+https://github.com/ddbeck/readme-checklist
+
+CODE_OF_CONDUCT
+https://github.com/stevemao/github-issue-templates
+
+https://github.com/devspace/awesome-github-templates
+https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
+https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
+
+https://github.com/jdorfman/awesome-help-wanted
+
+https://github.com/search?utf8=%E2%9C%93&q=interview+questions
+https://github.com/MaximAbramchuck/awesome-interview-questions
+https://github.com/blakeembrey/code-problems
+
+http://pyfound.blogspot.com
+http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
+
+http://blog.djangogirls.org
+http://blog.djangogirls.org/submit
+http://blog.djangogirls.org/post/137825610883/about-your-django-story
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
+
+https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
+
+http://pinaxproject.com/pinax/how_to_contribute
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
+https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
+
+https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
+https://github.com/pybee/pybee.github.io
+http://pybee.org
+
+http://slides.com/kentcdodds/1st-pr#/
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
+https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
+https://github.com/jfmengels/all-contributors-cli
+https://github.com/kentcdodds/ama/issues/93
+http://javascriptair.com
+-->
+
+Example Help Tweets
+* [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
 
 #### Git and Markdown
 
@@ -8261,115 +8371,6 @@ API Docs (see also Python- Django- Rest Framework Swagger)
 * [Swagger API Docs](http://swagger.io)  
 * [Slate API Docs GitHub](https://github.com/tripit/slate)  
 * [Dwolla Example- Slate API Docs GitHub](https://docs.dwolla.com) 
-
-#### Open Source Management and Programming Tiers
-
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
-* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
-* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
-
-Bus Factor
-* [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
-
-Open Source Hosting
-* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
-
-Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
-
-Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
-* [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
-
-Learn Git/GitHub
-* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
-
-Make Something Static/Client-Side- HTML (Can Use GitHub Browser)
-* [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
-
-Make Something Static- Jekyll (Can Use Git Bash)
-* [Jekyll via GitHub Pages](https://jekyllrb.com)
-
-Make Something Dynamic/Server-Side- Can Store Code on GitHub, but Host Elsewhere (Heroku, AWS, Digital Ocean)
-* Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
-
-Start contributing to open source
-* Seek out mentor(s) (some frameworks such as Django have mentor lists) 
-* Follow community members and projects (for instance, on Twitter) and look for opportunities
-* Look for guides in repos that explain how to contribute
-* Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
-
-Look for First-Timers Info
-* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
-
-Example First-Timers Info
-* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
-* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
-* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-
-<!--
-https://github.com/search?utf8=%E2%9C%93&q=help+wanted
-https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
-https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
-https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
-
-https://opensource.com
-https://opensource.com/how-submit-article
-
-http://williln.github.io/
-https://github.com/williln/williln.github.io
-
-https://github.com/HackathonHackers/code-of-conduct
-http://hackforchange.org/tips-for-better-open-source-documentation
-https://github.com/zalando/zalando-howto-open-source
-https://github.com/ddbeck/readme-checklist
-
-CODE_OF_CONDUCT
-https://github.com/stevemao/github-issue-templates
-
-https://github.com/devspace/awesome-github-templates
-https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
-https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
-
-https://github.com/jdorfman/awesome-help-wanted
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
-
-http://pyfound.blogspot.com
-http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
-
-http://blog.djangogirls.org
-http://blog.djangogirls.org/submit
-http://blog.djangogirls.org/post/137825610883/about-your-django-story
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
-
-https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
-
-http://pinaxproject.com/pinax/how_to_contribute
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
-https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
-
-https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
-https://github.com/pybee/pybee.github.io
-http://pybee.org
-
-http://slides.com/kentcdodds/1st-pr#/
-https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-https://github.com/kentcdodds/all-contributors
-https://www.npmjs.com/package/all-contributors-cli
-https://github.com/jfmengels/all-contributors-cli
-https://github.com/kentcdodds/ama/issues/93
-http://javascriptair.com
--->
-
-Example Help Tweets
-* [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
 
 #### Mobile
 
