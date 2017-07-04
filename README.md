@@ -410,8 +410,12 @@ https://www.khanacademy.org/computing/computer-programming/sql
 https://www.khanacademy.org/computing/computer-programming
 https://www.khanacademy.org/computing/computer-science
 
+https://medium.com/udacity
+https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
+
 https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
 https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
 
 https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
@@ -696,6 +700,10 @@ Built With (Exluding Django; See also Squarespace)
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 
 <!--
+http://madewithreact.com
+https://facebook.github.io/react-native/showcase.html
+http://builtinnode.com
+
 http://www.builtwithshopify.com
 http://webbyawards.com
 -->
@@ -1740,9 +1748,11 @@ A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
 <!--
+http://principlesofchaos.org
 http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
+https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
 
 
 Trello
