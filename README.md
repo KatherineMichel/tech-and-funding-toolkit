@@ -1739,9 +1739,12 @@ The Distributed Developer Stack Field Guide
 A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
-
-
 <!--
+http://stevesouders.com/hpws
+https://www.enterpriseready.io
+https://github.com/enterpriseready/enterpriseready
+
+
 Trello
 https://upcase.com/design-for-developers-resources/principles
 https://en.wikipedia.org/wiki/Red_team
