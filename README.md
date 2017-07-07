@@ -10754,11 +10754,8 @@ http://www.tristanharris.com/the-need-for-a-new-design-ethics/
 -->
 
 Learning Transfer
+* [How Elon Musk Learns Faster and Better than Everyone Else](https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else)
 * [Transfer of Learning Wikipedia](https://en.wikipedia.org/wiki/Transfer_of_learning)
-
-<!--
-https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else/
--->
 
 Memory Methods
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -11317,35 +11314,23 @@ https://myactivity.google.com/myactivity
 https://www.google.com/landing/2step
 -->
 
-<!--
-Password Services
-https://1password.com
-https://www.dashlane.com
-https://www.lastpass.com
-https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd/related?hl=en-US
-https://www.lastpass.com/how-it-works
--->
+Password Management
+* [1Password](https://1password.com)
+* [LastPass](https://www.lastpass.com) and [LastPass Chrome](https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd/related?hl=en-US)
+* [Dashlane](https://www.dashlane.com)
 
 Encrypted Communication
-* [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
+* [Tor Project](https://www.torproject.org)
+* [Whisper Systems](https://whispersystems.org) and [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
+
+Privacy
+* [Electronic Frontier Foundation](https://www.eff.org)
 
 <!--
-https://whispersystems.org/
-https://itunes.apple.com/us/app/signal-private-messenger/id874139669?mt=8
-
-https://www.eff.org
-
 Browse in private with Incognito mode
 https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
 
-https://brave.com
-https://brave.com/downloads.html
-
-https://www.torproject.org
 https://www.torproject.org/docs/tor-doc-osx.html.en
-
-https://duckduckgo.com
-https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg/related?hl=en
 
 https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
 https://www.eff.org/https-everywhere
@@ -11356,6 +11341,10 @@ Microsoft Office
 
 Browser
 * [OneTab](https://www.one-tab.com)
+
+Brave and DuckDuckGo
+* [Brave](https://brave.com)
+* [DuckDuckGo](https://duckduckgo.com) and [DuckDuckGo for Chrome](https://chrome.google.com/webstore/detail/duckduckgo-for-chrome/bkdgflcldnnnapblkhphbgpggdiikppg/related?hl=en)
 
 Google Products
 * [Google Products](http://www.google.com/intl/en/about/products) 
@@ -11381,6 +11370,7 @@ https://beta.doodle.com
 
 https://takeout.google.com/settings/takeout
 
+Storage
 https://www.amazon.com/gp/drive/landing/everything
 https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
 https://support.google.com/drive/answer/2375123
@@ -11390,6 +11380,15 @@ Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 * [Google Docs Do quick research in a document or presentation](https://support.google.com/docs/answer/2481802)
 
+Google News Publisher
+* [Google News Publisher Help](https://support.google.com/news/publisher)
+
+Google World
+* [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
+* [Google Trips](https://get.google.com/trips)  
+* [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
+* [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)
+
 <!--
 Twitter Data
 * [Twitter Data](https://twitter.com/TwitterData)
@@ -11398,21 +11397,12 @@ Twitter Media and News
 * [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
 * [Twitter News](https://twitter.com/TwitterForNews) 
 
-Google News Publisher
-* [Google News Publisher Help](https://support.google.com/news/publisher)
-
 Twitter Advanced Search
 * [Twitter Advanced Search](https://twitter.com/search-advanced) and [Twitter Using Advanced Search](https://support.twitter.com/articles/71577-using-advanced-search) 
 
 Reddit and Quora Advertising
 * [Reddit Advertising](https://www.reddit.com/advertising)
 * [Quora Advertising](https://www.quora.com/business)
-
-Google World
-* [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
-* [Google Trips](https://get.google.com/trips)  
-* [Google Crisis Map Weather and Events](https://google.org/crisismap/weather_and_events)
-* [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)  
 
 Alerts
 * [Google Alerts](https://www.google.com/alerts)
@@ -11963,10 +11953,9 @@ Harvard Referencing
 APA Referencing
 https://en.wikipedia.org/wiki/Parenthetical_referencing
 
-    <rule name="Spelling and grammar">
-      <link url="http://en.wikipedia.org/wiki/Capitalization">Capitalization</link>
-      <link url="http://en.wikipedia.org/wiki/Writing_style">Writing Style</link>
-      <link url="http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences">Word Variations e.g. UK vs US</link>
+http://en.wikipedia.org/wiki/Capitalization
+http://en.wikipedia.org/wiki/Writing_style
+http://en.wikipedia.org/wiki/American_and_British_English_spelling_differences
 -->
 
 <!--
