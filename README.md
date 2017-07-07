@@ -533,6 +533,11 @@ Twitch Creative- Accounts
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 * [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
 
+<!--
+https://www.reddit.com/r/Twitch/comments/4eyva6/a_guide_to_streaming_and_finding_success_on_twitch
+https://medium.com/@suzhinton/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
+-->
+
 Robotics and/or Geared toward Kids
 * [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
 * [Arduino](https://www.arduino.cc)
@@ -1763,6 +1768,18 @@ https://cloud.google.com/source-repositories/pricing
 -->
 
 <!--
+New
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+http://endoflineblog.com/gitflow-considered-harmful
+https://github.com/github/training-kit
+
+https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+https://influitive.com/blog/introduction-developer-relations/
+
+
+
 http://blog.udacity.com/2015/06/become-github-pro.html
 
 https://www.git-tower.com/blog/git-cheat-sheet/
