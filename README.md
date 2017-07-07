@@ -701,13 +701,12 @@ Built With (Exluding Django; See also Squarespace)
 * [Made with Angular](https://www.madewithangular.com)  
 * [Built with Bootstrap](http://expo.getbootstrap.com)  
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 
 <!--
 http://madewithreact.com
-https://facebook.github.io/react-native/showcase.html
-http://builtinnode.com
 
 http://www.builtwithshopify.com
 http://webbyawards.com
@@ -9132,9 +9131,6 @@ http://a16z.com/2017/04/08/culture-open-source-community
 http://a16z.com/tag/open-v-closed
 https://www.wired.com/tag/open-vs-closed
 
-http://jvns.ca
-https://twitter.com/b0rk
-
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
@@ -9978,20 +9974,15 @@ Google and Alphabet
 
 Berkshire Hathaway
 * [Original Warren Buffett Partnership Agreement Found Here](http://www.stockrip.com/finance/original-warren-buffett-partnership-agreement-found-here) and [A Look at Warren Buffett’s Original 7 Investment Partnerships](http://www.joshuakennon.com/buffett-associates-ltd-buffett-fund-ltd)
-* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), and [Reports](http://www.berkshirehathaway.com/reports.html)
+* [Berkshire Hathaway](http://www.berkshirehathaway.com), [Owner's Manual (Inspired Google)](http://www.berkshirehathaway.com/ownman.pdf), [Reports](http://www.berkshirehathaway.com/reports.html), and [Letters](http://www.berkshirehathaway.com/letters/letters.html)
 * [Warren Buffet Wikipedia](http://en.wikipedia.org/wiki/Warren_Buffett)  
 * [Charlie Munger Wikipedia](http://en.wikipedia.org/wiki/Charlie_Munger)  
 * [Benjamin Graham Wikipedia](http://en.wikipedia.org/wiki/Benjamin_Graham)  
 * [Philip Arthur Fisher Wikipedia](http://en.wikipedia.org/wiki/Philip_Arthur_Fisher) 
 
-Long Bets
+Bookmaking and Long Bets
 * [Long Bets](https://longbets.org)
-
-<!--
-http://www.berkshirehathaway.com/letters/letters.html
-
-https://en.wikipedia.org/wiki/Mathematics_of_bookmaking
--->
+* [Mathematics of Bookmaking Wikipedia](https://en.wikipedia.org/wiki/Mathematics_of_bookmaking)
 
 Poor Charlie's Almanack
 * [Poor Charlie's Almanack Wikipedia](https://en.wikipedia.org/wiki/Poor_Charlie%27s_Almanack)
@@ -10705,15 +10696,12 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * Crunchies
 * [Recode Events](http://recode.net/events) 
 * [LeWeb](http://leweb.co) 
+* [Mind the Product](http://www.mindtheproduct.com)
 * [Pitch at the Palace Livestream](http://pitchatpalace.com/pitchlive)
 * [Salesforce Dreamforce](http://www.salesforce.com/dreamforce) 
 * [SXSW](http://sxsw.com) 
+* [Web Summit](https://websummit.com)
 * [KC Addys](http://aafkc.com/addys)
-
-<!--
-http://www.mindtheproduct.com
-https://websummit.com
--->
 
 Mobile (See also Mobile)
 * [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
@@ -11458,6 +11446,9 @@ Etsy and Gumroad
 * [Etsy Pattern](https://www.etsy.com/pattern)
 * [Gumroad](https://gumroad.com)
 
+Easy Blog
+* [SVBTLE](https://svbtle.com)
+
 LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
 * [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
@@ -11476,18 +11467,8 @@ Email
 * [Mailgun](http://www.mailgun.com)  
 * [Mandrill](http://mandrill.com)  
 * [SendGrid](http://sendgrid.com)  
+* [Amazon SES](https://aws.amazon.com/ses)
 * [Tiny Letter](https://www.tinyletter.com)
-
-<!--
-  * Search - [Algolia](https://www.algolia.com/)
-  * Email - [SendGrid](https://sendgrid.com/) / [Mailgun](https://www.mailgun.com/) / [Mandrill](http://www.mandrill.com/) / [Amazon SES](https://aws.amazon.com/ses/)
-  * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
-  * Payment - [Stripe](https://stripe.com/)
-  * Maps - [Mapbox](https://www.mapbox.com/)
-  * Customer Support - [Intercom](https://developers.intercom.com/) / [Zendesk](https://developer.zendesk.com/)
-  * IM - [Discord](https://discordapp.com/developers/)
-  * Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
--->
 
 Email Organization
 * [SaneBox](https://www.sanebox.com)
@@ -11502,12 +11483,13 @@ Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
 [Send with Us Guide](https://www.sendwithus.com/resources/guide) and [Send with Us GitHub](https://github.com/sendwithus/templates) 
 
-https://github.com/sendwithus/templates
-https://www.sendwithus.com/resources/templates
 https://github.com/zurb/foundation-emails/tree/develop/templates
 https://github.com/mailgun/transactional-email-templates
 http://blog.mailgun.com/transactional-html-email-templates/
 https://github.com/groupon/gleemail
+
+https://github.com/sendwithus/templates
+https://www.sendwithus.com/resources/templates
 
 https://www.htmlemailtemplates.net/startup-emails
 
@@ -11589,10 +11571,6 @@ Livestreaming, Video, Audio
 * [Meerkat](http://meerkatapp.co)
 * [Periscope](https://www.periscope.tv)
 
-<!--
-YouTube Live
--->
-
 Photo Hosting
 * [Amazon: Share Your Photos, Videos, & Albums](https://www.amazon.com/gp/help/customer/display.html?nodeId=201480990)
 * [Flickr](https://www.flickr.com) 
@@ -11644,12 +11622,12 @@ https://blogs.dropbox.com/business/2016/04/announcing-project-infinite
 
 Links
 * [Bitly](https://bitly.com)
+* [Ow.ly via Hootsuite](http://ow.ly)
+* [Google URL Shortener](https://goo.gl)
+* [Git.io](https://git.io)
 
 <!--
-https://git.io/
 https://github.com/isaacs/github/issues/165
-https://goo.gl/
-http://ow.ly/url/shorten-url
 -->
 
 API
@@ -11659,7 +11637,8 @@ Customer Relationship Management
 * [Salesforce](https://www.salesforce.com)
 * [RelateIQ](https://www.relateiq.com) 
 * [Zendesk](https://www.zendesk.com)
-
+* [Intercom](https://developers.intercom.com)
+  
 <!--
 https://admin.salesforce.com
 https://developer.salesforce.com
@@ -11749,20 +11728,22 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
-https://www.easyship.com
+  * Search - [Algolia](https://www.algolia.com/)
+  * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
+  * Maps - [Mapbox](https://www.mapbox.com/)
+  * IM - [Discord](https://discordapp.com/developers/)
+  * Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
+-->
 
-https://svbtle.com
-
+<!--
 https://www.eventbrite.com
-
-https://www.paymoapp.com
-https://letsfreckle.com
-IIRC
-
-https://www.creditsesame.com
 
 https://mightybell.com
 
+IIRC
+https://www.paymoapp.com
+https://letsfreckle.com
+https://www.creditsesame.com
 https://www.hellobonsai.com
 https://www.hellobonsai.com/freelancers
 
@@ -11772,6 +11753,9 @@ http://www.nytimes.com/packages/html/business/20060510_LEONHARDT/cost_per_mile.h
 
 https://www.diffchecker.com/diff
 -->
+
+Shipping
+* [Easy Ship (International)](https://www.easyship.com)
 
 Logistics
 * [Craigslist](https://craigslist.org) and [Craigslist U.K.](http://london.craigslist.co.uk)
@@ -11831,13 +11815,11 @@ Salary/Compensation, Labor Information, Economic Graph
 * [LinkedIn Economic Graph Research Project](https://engineering.linkedin.com/data/economic-graph-research) and [LinkedIn Economic Graph Research Project Details](https://engineering.linkedin.com/data/economic-graph-research/economic-graph-details)
 * [salary.com](http://salary.com)
 * [How Much to Make an App](http://howmuchtomakeanapp.com)
+* [Trulia Trends](https://www.trulia.com/blog/trends)
 
 <!--
-https://www.trulia.com/blog/trends/census-17/
-
 https://www.linkedin.com/jobs/blog/linkedin-workforce-report-june-2017-seattle-wa
 
-Compensation
 * [CompStudy](https://www.compstudy.com)
 
 https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
