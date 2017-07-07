@@ -11406,10 +11406,7 @@ Twitter Advanced Search
 
 Reddit and Quora Advertising
 * [Reddit Advertising](https://www.reddit.com/advertising)
-
-<!--
-https://business.quora.com/Quoras-advertising-platform-is-now-open-to-all-businesses
--->
+* [Quora Advertising](https://www.quora.com/business)
 
 Google World
 * [Google Earth Engine](https://earthengine.google.org) and [Google Earth Engine Pro is Now Free](http://google-latlong.blogspot.co.uk/2015/01/google-earth-pro-is-now-free.html) 
@@ -11809,6 +11806,7 @@ https://techcrunch.com/2016/10/11/stack-overflow-puts-a-new-spin-on-resumes-for-
 Salary/Compensation, Labor Information, Economic Graph
 * [Kansas Labor Information Center](https://klic.dol.ks.gov/vosnet/Default.aspx)
 * [Bureau of Labor Statistics](http://www.bls.gov) and [Bureau of Labor Statistics Wikipedia](https://en.wikipedia.org/wiki/Bureau_of_Labor_Statistics)
+* [CompStudy](https://www.compstudy.com)
 * [Glassdoor Salaries](https://www.glassdoor.com/Salaries/index.htm)
 * [LinkedIn Salary](https://www.linkedin.com/salary)
 * [LinkedIn Economic Graph](https://www.linkedin.com/showcase/3632240)
@@ -11819,8 +11817,6 @@ Salary/Compensation, Labor Information, Economic Graph
 
 <!--
 https://www.linkedin.com/jobs/blog/linkedin-workforce-report-june-2017-seattle-wa
-
-* [CompStudy](https://www.compstudy.com)
 
 https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
 https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
@@ -11935,12 +11931,7 @@ Personal Kanban
 #### Journalism Handbooks and Grammatical Style Guides
 
 <!--
-Harvard Referencing
-APA Referencing
-https://en.wikipedia.org/wiki/Parenthetical_referencing
-
-http://fieldguide.opennews.org
-https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide
+[The Field Guide to Open Source in the Newsroom](http://fieldguide.opennews.org)
 
 http://www.economist.com/style-guide/inverted-commas-quotation-marks
 -->
@@ -11948,6 +11939,7 @@ http://www.economist.com/style-guide/inverted-commas-quotation-marks
 Journalism Handbooks
 * [BBC Journalism Academy Article](http://ijnet.org/blog/bbc-makes-its-training-resources-free-public-11-languages), [BBC Journalism Academy- Journalism](http://www.bbc.co.uk/academy/journalism), [BBC Journalism Academy- Production Online](http://www.bbc.co.uk/academy/production/online), and [BBC Journalism Academy- Technology](http://www.bbc.co.uk/academy/technology)
 * [BBC Journalism Academy- Project Management](http://www.bbc.co.uk/academy/production/online/project-management)
+* [The BuzzFeed News Standards And Ethics Guide](https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide)
 * [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
 
 Journalism Style Guides 
@@ -11964,7 +11956,13 @@ Journalism Style Guides
 BBC
 * [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 
+Referencing
+
 <!--
+Harvard Referencing
+APA Referencing
+https://en.wikipedia.org/wiki/Parenthetical_referencing
+
     <rule name="Spelling and grammar">
       <link url="http://en.wikipedia.org/wiki/Capitalization">Capitalization</link>
       <link url="http://en.wikipedia.org/wiki/Writing_style">Writing Style</link>
