@@ -167,10 +167,6 @@ Table of Content
 
 * [Appendix](#appendix)
 
-* [Company and Product Databases](#company-and-product-databases)
-* [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-
-
 * [People](#people)
   * [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   * [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
@@ -179,8 +175,13 @@ Table of Content
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
 
-* [Venture](#venture)
   * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
+  
+* [Company and Product Databases](#company-and-product-databases)
+* [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
+
+* [Venture](#venture)
+
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
 
@@ -8789,125 +8790,11 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 
 
 
+
+
+
+
 #### Appendix
-
-#### Company and Product Databases
-
-Database List
-* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
-* [Betalist](https://betalist.com)
-* [CB Insights](https://www.cbinsights.com)
-* [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
-* [Datafox](http://www.datafox.co)
-* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
-* [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
-* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-* [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
-
-<!--
-New
-https://betapage.co
-https://blog.betapage.co
-
-https://betalist.com/trends
-https://betalist.com/jobs/collections
-
-https://www.producthunt.com/tech
-https://www.producthunt.com/topics/developer-tools
-https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
-
-https://www.producthunt.com/tech/product-hunt-3-0
-https://www.producthunt.com/tech/product-hunt-2-0
-https://www.producthunt.com/live
-https://www.producthunt.com/collections
-https://www.producthunt.com/topics
-https://www.producthunt.com/shop
-https://www.producthunt.com/podcasts
-https://www.producthunt.com/apps/mac
-https://www.producthunt.com/apps/chrome
-
-https://angel.co/spv
-https://angel.co/track
-https://angel.co/angel-funds
-https://angel.co/freelancers
-http://blog.angel.co/post/131017147560/csc-upshot
-
-https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
-
-https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
--->
-
-Databases and Benchmarking- Freemium
-* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [A-List](https://alist.co), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
-* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
-* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
-* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters), and [Product Hunt Today](http://ph.needles.me)
-* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
-
-<!--
-https://www.amazon.com/b/ref=s9_acss_bw_cg_alcolsu2_2c1?node=14865665011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=KVXE9BWJ4FTAGQ6G16KF&pf_rd_t=101&pf_rd_p=2578969862&pf_rd_i=12034488011
-
-http://beondeck.co
--->
-
-Europe and U.K.
-* [AngelList U.K.](https://angel.co/uk)
-* [Tech EU App Database Companies](https://app.tech.eu/companies)
-
-Database APIs
-* [AngelList API](https://angel.co/api)
-* [CrunchBase API](https://developer.crunchbase.com)
-* [Mattermark API](https://mattermark.com/api)  
-* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
-
-#### Unicorns, Companies, Industry and Product Classifications, Associations
-
-Unicorns
-* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
-* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
-The Terms Behind the Unicorn Valuations
-* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-
-Breakout Companies
-* [Breakout List](https://breakoutlist.com)
-
-Companies and Indices
-* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
-* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
-* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
-* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
-* [Inc. 5000](http://www.inc.com/inc5000)
-* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
-* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
-* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
-* [London Stock Exchange](http://www.londonstockexchange.com)
-* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
-* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
-* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
-
-Industry and Product Classifications
-* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
-* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 #### People
 
@@ -9234,6 +9121,8 @@ https://twitter.com/awealthofcs
 https://twitter.com/jasonzweigwsj
 -->
 
+
+
 #### Venture
 
 #### Venture Frameworks and Theses
@@ -9249,112 +9138,126 @@ Investor Frameworks
 Thesis
 * [Semil Shah](http://blog.semilshah.com/haystack)
 
-#### VC Theory
 
-Funding Options
-* [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
-* [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
-* [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity) and [List of Private Equity Firms Wikipedia](https://en.wikipedia.org/wiki/List_of_private_equity_firms)
-* [History of Private Equity and Venture Capital Wikipedia](https://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital)
 
-Venture Capital and How Funding Works
-* [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3), [Wealthfront Venture Capital Economics, Part 4](https://blog.wealthfront.com/venture-capital-economics-part-4), and [Wealthfront Venture Capital Economics, Part 5](https://blog.wealthfront.com/venture-capital-economics-part-5)   
-* [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
-* [Startup Growth Calculator](http://growth.tlb.org)
-* [Venture Dealr](http://dlopuch.github.io/venture-dealr)
+#### Company and Product Databases
 
-Venture Capital Terminology- General
-* [Entrepreneurship Wikipedia](https://en.wikipedia.org/wiki/Entrepreneurship)
-* [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
-* [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
-* [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
-* [Carried Interest (Deduction) Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
-* [Capital Gains Tax Wikipedia](https://en.wikipedia.org/wiki/Capital_gains_tax)
-* [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
-* [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
-* [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
-* [Froth](http://www.investopedia.com/terms/f/froth.asp)
-* [Proxy (Law of Agency) Wikipedia](https://en.wikipedia.org/wiki/Law_of_agency)
+Database List
+* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
+* [Betalist](https://betalist.com)
+* [CB Insights](https://www.cbinsights.com)
+* [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
+* [Datafox](http://www.datafox.co)
+* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
+* [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
+* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+* [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
 
-Venture Capital Terminology- Documents
-* [Due Diligence Wikipedia](https://en.wikipedia.org/wiki/Due_diligence)
-* [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
-* [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
-* [Non-Disclosure Agreement Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
-* [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
+<!--
+New
+https://betapage.co
+https://blog.betapage.co
 
-Venture Capital Terminology- Funding Instruments
-* [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
-* [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+https://betalist.com/trends
+https://betalist.com/jobs/collections
 
-Venture Capital Terminology- Stock Classes
-* [Dual Class Stock (Important for Public Companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
-* [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
-* [Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
-* [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
-* [Startup Company Lawyer: What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
-* [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
-* [Warrant Wikipedia](https://en.wikipedia.org/wiki/Warrant_(finance))
+https://www.producthunt.com/tech
+https://www.producthunt.com/topics/developer-tools
+https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
 
-Venture Capital Terminology- Stock Options
-* [Employee Stock Ownership Plan Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_ownership_plan)
-* [Employee Stock Option Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_option)
-* [Restricted Stock Unit](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
-* [Incentive Stock Option Wikipedia](https://en.wikipedia.org/wiki/Incentive_stock_option)
-* [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
-* [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
-* [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
+https://www.producthunt.com/tech/product-hunt-3-0
+https://www.producthunt.com/tech/product-hunt-2-0
+https://www.producthunt.com/live
+https://www.producthunt.com/collections
+https://www.producthunt.com/topics
+https://www.producthunt.com/shop
+https://www.producthunt.com/podcasts
+https://www.producthunt.com/apps/mac
+https://www.producthunt.com/apps/chrome
 
-Venture Capital Terminology- Rights- Pro Rata, Refusal, Pre-Emption, Redemption
-* [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)
-* [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
-* [Pre-Emption Right Wikipedia](https://en.wikipedia.org/wiki/Pre-emption_right)
-* [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
+https://angel.co/spv
+https://angel.co/track
+https://angel.co/angel-funds
+https://angel.co/freelancers
+http://blog.angel.co/post/131017147560/csc-upshot
 
-Venture Capital Terminology- Rights- Senority 
-* [Senior Debt Wikipedia](https://en.wikipedia.org/wiki/Senior_debt)
-* [Subordinated Debt Wikipedia](https://en.wikipedia.org/wiki/Subordinated_debt)
-* [Liquidation Preference (Also: Multiple Liquidation Preference)](http://www.investopedia.com/terms/l/liquidation-preference.asp)
-* [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
+https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
 
-Venture Capital Terminology- Rights- Anti-Dilution
-* [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
-* [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
+https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
+-->
 
-Venture Capital Terminology- Rights- Voting Rights
-* [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
-* [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
+Databases and Benchmarking- Freemium
+* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
+* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [A-List](https://alist.co), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
+* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
+* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
+* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
+* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
+* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters), and [Product Hunt Today](http://ph.needles.me)
+* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
 
-Venture Capital Terminology- Rights- Minority
-* [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
-* [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
-* [Tag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Tag-along_right)
+<!--
+https://www.amazon.com/b/ref=s9_acss_bw_cg_alcolsu2_2c1?node=14865665011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=KVXE9BWJ4FTAGQ6G16KF&pf_rd_t=101&pf_rd_p=2578969862&pf_rd_i=12034488011
 
-Venture Capital Terminology- Rights- Activism
-* [Activist Shareholder Wikipedia](https://en.wikipedia.org/wiki/Activist_shareholder)
-* [Shareholder Rights Plan (Poison Pill) Wikipedia](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
-* [Super-Majority Amendment Wikipedia](https://en.wikipedia.org/wiki/Super-majority_amendment)
-* [Staggered Board of Directors Wikipedia](https://en.wikipedia.org/wiki/Staggered_board_of_directors)
-* [Control Premium Wikipedia](https://en.wikipedia.org/wiki/Control_premium)
-* [Corporate Raid Wikipedia](https://en.wikipedia.org/wiki/Corporate_raid)
-* [Takeover Wikipedia](https://en.wikipedia.org/wiki/Takeover)
-* [Reverse Takeover Wikipedia](https://en.wikipedia.org/wiki/Reverse_takeover)
-* [Proxy Fight Wikipedia](https://en.wikipedia.org/wiki/Proxy_fight)
-* [Tender Offer Wikipedia](https://en.wikipedia.org/wiki/Tender_offer)
+http://beondeck.co
+-->
 
-Endings
-* [Mergers and Acquisitions Wikipedia](https://en.wikipedia.org/wiki/Mergers_and_acquisitions)
-* [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
-* [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
-* [Corporate Spin-Off Wikipedia](https://en.wikipedia.org/wiki/Corporate_spin-off)
-* [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale) 
+Europe and U.K.
+* [AngelList U.K.](https://angel.co/uk)
+* [Tech EU App Database Companies](https://app.tech.eu/companies)
 
-More
-* [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
-* [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
-* [Clawback Wikipedia](https://en.wikipedia.org/wiki/Clawback)
-* [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
-* [Hamburger Helper](https://twitter.com/trengriffin/status/660536443308109824)
+Database APIs
+* [AngelList API](https://angel.co/api)
+* [CrunchBase API](https://developer.crunchbase.com)
+* [Mattermark API](https://mattermark.com/api)  
+* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+
+#### Unicorns, Companies, Industry and Product Classifications, Associations
+
+Unicorns
+* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
+* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+The Terms Behind the Unicorn Valuations
+* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+
+Breakout Companies
+* [Breakout List](https://breakoutlist.com)
+
+Companies and Indices
+* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
+* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
+* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
+* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
+* [Inc. 5000](http://www.inc.com/inc5000)
+* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
+* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
+* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
+* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
+* [London Stock Exchange](http://www.londonstockexchange.com)
+* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
+* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
+* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
+
+Industry and Product Classifications
+* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
+* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
 
 <!--
 https://en.wikipedia.org/wiki/Side_letter
@@ -9389,69 +9292,6 @@ https://medium.com/@sparkszilla/help-build-the-open-guide-to-startup-fundraising
 https://medium.com/startup-grind/help-build-the-open-guide-to-startup-fundraising-b1c206da808f#.jmnmozu2g
 
 -->
-
-#### VC Firms, Accelerators, Resources
-
-:) 
-* [Palo Alto, California](https://en.wikipedia.org/wiki/Palo_Alto,_California)
-* [Sand Hill Road](https://en.wikipedia.org/wiki/Sand_Hill_Road)
-
-Lists of VC Firms and Accelerators
-* [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [Venture Capital Firms (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Venture_capital_firms)
-* [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
-* [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
-* [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
-* [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
-* [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
-
-Angel Investors
-* [Jason Calcanis Syndicate](http://www.jasonssyndicate.com), [Jason Calcanis Syndicate AngelList](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
-
-Accelerators
-* [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
-* [Techstars](http://www.techstars.com)
-* [YCombinator](http://ycombinator.com)
-
-VC Funds/Accelerators
-* [Union Square Ventures](https://www.usv.com)
-
-Equity
-* [CapitalG](https://www.capitalg.com)
-
-<!--
-https://www.googleforentrepreneurs.com
--->
-
-Startup Studios
-* [Betaworks](https://betaworks.com) and [Betaworks Bot Camp](https://betaworks.com/botcamp)
-* [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
-* [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
-
-Other
-* [Silicon Valley Bank](http://www.svb.com) 
-
-Accelerator, Angel, VC Firm Blogs and Learning Resources
-* [500 Startups Activity](http://500.co/activity), [500 Startups Video Archive](http://livestream.com/500SAcc), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
-* [A16Z Blog](http://a16z.com), [A16Z Medium](https://medium.com/software-is-eating-the-world) [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
-* [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
-* [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
-* [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
-* [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Medium](https://medium.com/@firstround), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
-* [Founders Club Learn](https://fundersclub.com/learn)  
-* [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), [Google Ventures Library](https://library.gv.com), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-* [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
-* [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
-* [NEA](http://www.nea.com)
-* [NFX Guild Program](http://www.nfx.com/company/program)
-* [OS Fund Playbook](http://osfund.co/the-osf-playbook)
-* [Sam Altman: Startup Playbook](http://playbook.samaltman.com) and [Sam Altman: Startup Playbook (Spanish)](https://platzi.com/startup-playbook)
-* [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
-* [Social Capital Eightball Diligence Tool](https://analytics.socialcapital.com/eightball)
-* [StackExchange Startups](http://startups.stackexchange.com)
-* [True University](http://trueuniversity.com) 
-* [Upfront Insights](http://insights.upfront.com)
-* [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
-* [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 <!--
 https://signal.nfx.com/login
@@ -9605,6 +9445,208 @@ http://indexventures.com
 https://medium.com/@DFJvc
 https://medium.com/lightspeed-venture-partners
 -->
+
+<!--
+https://github.com/leonar15/startup-checklist
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
+
+https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
+https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
+http://also.roybahat.com/post/91847335194/the-trust-thing
+
+http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
+https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
+https://angel.co/max-simkoff/syndicate
+https://angel.co/shruti_gandhi/syndicate
+https://angel.co/pt/syndicate
+http://also.roybahat.com/post/82904179747/why-most-demos-confuse
+http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
+http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
+http://also.roybahat.com/post/102969262108/boreds
+http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
+https://www.ycombinator.com/handshake
+https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
+https://www.highly.co/hl/56e6f2323533356aeb5a0000
+
+http://www.gsbeclub.org/startup-resources
+https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
+http://www.seriesseed.com
+https://www.harrisonmetal.com
+
+https://www.rocketlawyer.com/document/web-hosting-agreement.rl
+-->
+
+
+#### VC Theory
+
+Funding Options
+* [Angel Investor Wikipedia](https://en.wikipedia.org/wiki/Angel_investor)
+* [Venture Capital Wikipedia](http://en.wikipedia.org/wiki/Venture_capital) and [Venture Capital Financing Wikipedia](https://en.wikipedia.org/wiki/Venture_capital_financing)
+* [Private Equity Wikipedia](https://en.wikipedia.org/wiki/Private_equity) and [List of Private Equity Firms Wikipedia](https://en.wikipedia.org/wiki/List_of_private_equity_firms)
+* [History of Private Equity and Venture Capital Wikipedia](https://en.wikipedia.org/wiki/History_of_private_equity_and_venture_capital)
+
+Venture Capital and How Funding Works
+* [Wealthfront Venture Capital Economics](https://blog.wealthfront.com/venture-capital-economics), [Wealthfront Venture Capital Economics, Part 2](https://blog.wealthfront.com/venture-capital-economics-part-2), [Wealthfront Venture Capital Economics, Part 3](https://blog.wealthfront.com/demystifying-venture-capital-economics-part-3), [Wealthfront Venture Capital Economics, Part 4](https://blog.wealthfront.com/venture-capital-economics-part-4), and [Wealthfront Venture Capital Economics, Part 5](https://blog.wealthfront.com/venture-capital-economics-part-5)   
+* [How Funding Works Infographic](http://fundersandfounders.com/wp-content/uploads/2013/05/how-funding-works-infographic.png)
+* [Startup Growth Calculator](http://growth.tlb.org)
+* [Venture Dealr](http://dlopuch.github.io/venture-dealr)
+
+Venture Capital Terminology- General
+* [Entrepreneurship Wikipedia](https://en.wikipedia.org/wiki/Entrepreneurship)
+* [Fear of Missing Out Wikipedia](http://en.wikipedia.org/wiki/Fear_of_missing_out)
+* [Loss Aversion Wikipedia](http://en.wikipedia.org/wiki/Loss_aversion)
+* [Signalling (Economics) Wikipedia](https://en.wikipedia.org/wiki/Signalling_(economics))
+* [Carried Interest (Deduction) Wikipedia](http://en.wikipedia.org/wiki/Carried_interest)
+* [Capital Gains Tax Wikipedia](https://en.wikipedia.org/wiki/Capital_gains_tax)
+* [Equity Wikipedia](https://en.wikipedia.org/wiki/Equity_(finance))
+* [Oversubscribed](http://www.thefreedictionary.com/oversubscribed)
+* [Pay to Play Wikipedia](https://en.wikipedia.org/wiki/Pay_to_play)
+* [Froth](http://www.investopedia.com/terms/f/froth.asp)
+* [Proxy (Law of Agency) Wikipedia](https://en.wikipedia.org/wiki/Law_of_agency)
+
+Venture Capital Terminology- Documents
+* [Due Diligence Wikipedia](https://en.wikipedia.org/wiki/Due_diligence)
+* [Letter of Intent Wikipedia](https://en.wikipedia.org/wiki/Letter_of_intent)
+* [Term Sheet Wikipedia](https://en.wikipedia.org/wiki/Term_sheet) and [Termsheet Investopedia](http://www.investopedia.com/terms/t/termsheet.asp)
+* [Non-Disclosure Agreement Wikipedia](http://en.wikipedia.org/wiki/Non-disclosure_agreement)
+* [Capitalization Table Wikipedia](http://en.wikipedia.org/wiki/Capitalization_table) 
+
+Venture Capital Terminology- Funding Instruments
+* [Convertible Bond Wikipedia](http://en.wikipedia.org/wiki/Convertible_bond)  
+* [Convertible Security Wikipedia](http://en.wikipedia.org/wiki/Convertible_security) 
+
+Venture Capital Terminology- Stock Classes
+* [Dual Class Stock (Important for Public Companies)](http://www.investopedia.com/terms/d/dualclassstock.asp)
+* [Common Stock Wikipedia](https://en.wikipedia.org/wiki/Common_stock)
+* [Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Preferred_stock)
+* [Participating Preferred Stock Wikipedia](https://en.wikipedia.org/wiki/Participating_preferred_stock)
+* [Startup Company Lawyer: What is the difference between non-participating preferred stock and participating preferred stock?](http://www.startupcompanylawyer.com/2007/06/15/what-is-the-difference-between-non-participating-preferred-stock-and-participating-preferred-stock)
+* [Class B Shares](http://www.investopedia.com/terms/c/classbshares.asp)
+* [Warrant Wikipedia](https://en.wikipedia.org/wiki/Warrant_(finance))
+
+Venture Capital Terminology- Stock Options
+* [Employee Stock Ownership Plan Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_ownership_plan)
+* [Employee Stock Option Wikipedia](https://en.wikipedia.org/wiki/Employee_stock_option)
+* [Restricted Stock Unit](http://www.investopedia.com/terms/r/restricted-stock-unit.asp)
+* [Incentive Stock Option Wikipedia](https://en.wikipedia.org/wiki/Incentive_stock_option)
+* [Vesting Wikipedia](https://en.wikipedia.org/wiki/Vesting)
+* [Strike Price Wikipedia](https://en.wikipedia.org/wiki/Strike_price)
+* [Option Pool Shuffle Wikipedia](https://en.wikipedia.org/wiki/Option_pool_shuffle)
+
+Venture Capital Terminology- Rights- Pro Rata, Refusal, Pre-Emption, Redemption
+* [Pro Rata Wikipedia](http://en.wikipedia.org/wiki/Pro_rata)
+* [Right of First Refusal Wikipedia](https://en.wikipedia.org/wiki/Right_of_first_refusal)
+* [Pre-Emption Right Wikipedia](https://en.wikipedia.org/wiki/Pre-emption_right)
+* [Right of Redemption Wikipedia](https://en.wikipedia.org/wiki/Right_of_redemption)
+
+Venture Capital Terminology- Rights- Senority 
+* [Senior Debt Wikipedia](https://en.wikipedia.org/wiki/Senior_debt)
+* [Subordinated Debt Wikipedia](https://en.wikipedia.org/wiki/Subordinated_debt)
+* [Liquidation Preference (Also: Multiple Liquidation Preference)](http://www.investopedia.com/terms/l/liquidation-preference.asp)
+* [What is a senior liquidation preference?](https://www.quora.com/What-is-a-senior-liquidation-preference)
+
+Venture Capital Terminology- Rights- Anti-Dilution
+* [Anti-Dilution Protection](http://www.investopedia.com/terms/d/dilution-protection.asp)
+* [Full Ratchet](http://www.investopedia.com/terms/f/fullratchet.asp)
+
+Venture Capital Terminology- Rights- Voting Rights
+* [Voting Rights](http://www.investopedia.com/terms/v/votingright.asp)
+* [Super-Voting Share (Reuters Financial Glossary)](http://glossary.reuters.com/index.php?title=Super-Voting_Share)
+
+Venture Capital Terminology- Rights- Minority
+* [Minority Interest Wikipedia](https://en.wikipedia.org/wiki/Minority_interest)
+* [Drag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Drag-along_right)
+* [Tag-Along Right Wikipedia](https://en.wikipedia.org/wiki/Tag-along_right)
+
+Venture Capital Terminology- Rights- Activism
+* [Activist Shareholder Wikipedia](https://en.wikipedia.org/wiki/Activist_shareholder)
+* [Shareholder Rights Plan (Poison Pill) Wikipedia](https://en.wikipedia.org/wiki/Shareholder_rights_plan)
+* [Super-Majority Amendment Wikipedia](https://en.wikipedia.org/wiki/Super-majority_amendment)
+* [Staggered Board of Directors Wikipedia](https://en.wikipedia.org/wiki/Staggered_board_of_directors)
+* [Control Premium Wikipedia](https://en.wikipedia.org/wiki/Control_premium)
+* [Corporate Raid Wikipedia](https://en.wikipedia.org/wiki/Corporate_raid)
+* [Takeover Wikipedia](https://en.wikipedia.org/wiki/Takeover)
+* [Reverse Takeover Wikipedia](https://en.wikipedia.org/wiki/Reverse_takeover)
+* [Proxy Fight Wikipedia](https://en.wikipedia.org/wiki/Proxy_fight)
+* [Tender Offer Wikipedia](https://en.wikipedia.org/wiki/Tender_offer)
+
+Endings
+* [Mergers and Acquisitions Wikipedia](https://en.wikipedia.org/wiki/Mergers_and_acquisitions)
+* [Equity Carve-Out Wikipedia](https://en.wikipedia.org/wiki/Equity_carve-out)
+* [Carve-Out](http://www.investopedia.com/terms/c/carveout.asp)
+* [Corporate Spin-Off Wikipedia](https://en.wikipedia.org/wiki/Corporate_spin-off)
+* [Fire Sale Wikipedia](http://en.wikipedia.org/wiki/Fire_sale) 
+
+More
+* [Pro Forma Wikipedia](https://en.wikipedia.org/wiki/Pro_forma)
+* [Single Trigger and Double Trigger](https://www.quora.com/What-is-the-difference-between-single-trigger-and-double-trigger-acceleration-of-vesting-in-connection-with-a-merger-acquisition-or-other-change-of-control)
+* [Clawback Wikipedia](https://en.wikipedia.org/wiki/Clawback)
+* [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
+* [Hamburger Helper](https://twitter.com/trengriffin/status/660536443308109824)
+
+#### VC Firms, Accelerators, Resources
+
+:) 
+* [Palo Alto, California](https://en.wikipedia.org/wiki/Palo_Alto,_California)
+* [Sand Hill Road](https://en.wikipedia.org/wiki/Sand_Hill_Road)
+
+Lists of VC Firms and Accelerators
+* [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [Venture Capital Firms (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Venture_capital_firms)
+* [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
+* [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
+* [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
+* [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
+* [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
+
+Angel Investors
+* [Jason Calcanis Syndicate](http://www.jasonssyndicate.com), [Jason Calcanis Syndicate AngelList](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
+
+Accelerators
+* [500 Startups](http://500.co) and [500 Startups Distrofund](http://500.co/distrofund)
+* [Techstars](http://www.techstars.com)
+* [YCombinator](http://ycombinator.com)
+
+VC Funds/Accelerators
+* [Union Square Ventures](https://www.usv.com)
+
+Equity
+* [CapitalG](https://www.capitalg.com)
+
+<!--
+https://www.googleforentrepreneurs.com
+-->
+
+Startup Studios
+* [Betaworks](https://betaworks.com) and [Betaworks Bot Camp](https://betaworks.com/botcamp)
+* [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
+* [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
+
+Other
+* [Silicon Valley Bank](http://www.svb.com) 
+
+Accelerator, Angel, VC Firm Blogs and Learning Resources
+* [500 Startups Activity](http://500.co/activity), [500 Startups Video Archive](http://livestream.com/500SAcc), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
+* [A16Z Blog](http://a16z.com), [A16Z Medium](https://medium.com/software-is-eating-the-world) [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
+* [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
+* [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
+* [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
+* [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Medium](https://medium.com/@firstround), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
+* [Founders Club Learn](https://fundersclub.com/learn)  
+* [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), [Google Ventures Library](https://library.gv.com), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
+* [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
+* [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
+* [NEA](http://www.nea.com)
+* [NFX Guild Program](http://www.nfx.com/company/program)
+* [OS Fund Playbook](http://osfund.co/the-osf-playbook)
+* [Sam Altman: Startup Playbook](http://playbook.samaltman.com) and [Sam Altman: Startup Playbook (Spanish)](https://platzi.com/startup-playbook)
+* [Sequoia Capital Grove](http://www.sequoiacap.com/grove)
+* [Social Capital Eightball Diligence Tool](https://analytics.socialcapital.com/eightball)
+* [StackExchange Startups](http://startups.stackexchange.com)
+* [True University](http://trueuniversity.com) 
+* [Upfront Insights](http://insights.upfront.com)
+* [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
+* [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
 Blogs and Whatnot
 * [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
@@ -9805,36 +9847,7 @@ Raising a Seed Round- The Spreadsheet
 Equity Investment Simulation
 * [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
 
-<!--
-https://github.com/leonar15/startup-checklist
-https://github.com/jlevy/og-equity-compensation
-https://github.com/holman/extended-exercise-windows
 
-https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
-https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
-http://also.roybahat.com/post/91847335194/the-trust-thing
-
-http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
-https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
-https://angel.co/max-simkoff/syndicate
-https://angel.co/shruti_gandhi/syndicate
-https://angel.co/pt/syndicate
-http://also.roybahat.com/post/82904179747/why-most-demos-confuse
-http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
-http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
-http://also.roybahat.com/post/102969262108/boreds
-http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
-https://www.ycombinator.com/handshake
-https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
-https://www.highly.co/hl/56e6f2323533356aeb5a0000
-
-http://www.gsbeclub.org/startup-resources
-https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
-http://www.seriesseed.com
-https://www.harrisonmetal.com
-
-https://www.rocketlawyer.com/document/web-hosting-agreement.rl
--->
 
 #### Economics, Models
 
