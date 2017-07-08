@@ -10770,7 +10770,19 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
-New
+Masters of Scale with Reid Hoffman
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1&_branch_match_id=345698913933613519
+
+Stanford Continuing Studies
+https://continuingstudies.stanford.edu/courses/courses-overview
+
+Stanford Bitcoin Engineering MOOC
+https://docs.google.com/forms/d/e/1FAIpQLScQwu-EpUYWYrfTKXxYNB2htxd8qgui7_CoTbdgwD9_dMh-WQ/viewform?c=0&w=1
+
+Mental Radio
+https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
+
+Nick Kokonas
 https://medium.com/@nickkokonas/why-we-are-self-publishing-the-aviary-cookbook-lessons-from-the-alinea-book-e89236ab6ca1
 https://www.kickstarter.com/projects/thealineagroup/the-aviary-cocktail-book?ref=ksrtwitter&__prclt=xnsUpJRa
 https://medium.com/@nickkokonas/why-we-are-self-publishing-the-aviary-cookbook-lessons-from-the-alinea-book-e89236ab6ca1
@@ -10816,10 +10828,6 @@ https://en.wikipedia.org/wiki/Psycho-Cybernetics
 https://mobile.audible.com/pd/Self-Development/This-Naked-Mind-Control-Alcohol-Audiobook/B06XB2VWQD
 https://www.amazon.com/dp/B000FA5SGG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
-https://medium.com/the-xplane-collection/liminal-thinking-99f60ef57606
-https://medium.com/@davegray/the-roots-of-liminal-thinking-3be4bea6fd63
-http://liminalthinking.com/
-
 https://en.wikipedia.org/wiki/Made_to_Stick
 https://en.wikipedia.org/wiki/Story_arc
 
@@ -10834,25 +10842,9 @@ https://www.hardbound.co/read/homo-deus/1
 https://www.hardbound.co/read/sapiens/1
 https://www.hardbound.co/read/wait-but-why-on-neuralink
 
-https://www.nirandfar.com/download/hooked-workbook.pdf
-
 https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
 
 http://fourhourworkweek.com/sitemap.xml
-
-http://tim.blog/2017/01/25/tools-of-titans-index/
-https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
-
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-
-Rec from Tim Ferris
-http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
-https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-http://vagabonding.net/
-https://en.wikipedia.org/wiki/Rolf_Potts
-https://en.wikipedia.org/wiki/The_Graveyard_Book
-https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 
 https://www.amazon.com/gp/product/0307353133
 http://tim.blog/2014/10/04/how-to-travel-to-20-countries-and-build-a-massive-business-in-the-process
@@ -10862,8 +10854,6 @@ http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
 
 https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals#t-789871
 
-https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
-
 http://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
 http://tim.blog/2016/12/20/becoming-the-best-version-of-you/
 http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/
@@ -10871,18 +10861,60 @@ http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-5
 https://www.youtube.com/watch?v=-e0iPI2WLrs
 
 http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
+http://fourhourworkweek.com/
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
 http://tim.blog/2012/05/22/neil-gaiman-commencement-speech
+-->
 
+<!--
+Keith Rabois Reading List
+https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
 
+Tools of Titans
+http://tim.blog/2017/01/25/tools-of-titans-index/
+https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+
+FreshBooks: Breaking the Time Barrier
+https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+
+Rec from Tim Ferris
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+http://vagabonding.net
+https://en.wikipedia.org/wiki/Rolf_Potts
+https://en.wikipedia.org/wiki/The_Graveyard_Book
+https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
+
+Liminal Thinking
+http://liminalthinking.com
+https://medium.com/the-xplane-collection/liminal-thinking-99f60ef57606
+https://medium.com/@davegray/the-roots-of-liminal-thinking-3be4bea6fd63
+
+A Brief History of Existential Terror
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
+
+The Upside of Stress
+http://online.stanford.edu/course/upside-stress
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
 https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
-https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
+Venture Capital, Private Equity, and the Financing of Entrepreneurship
+https://www.amazon.com/Venture-Capital-Private-Financing-Entrepreneurship/dp/0470591439
 
-https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
+Nir Eyal
+https://www.nirandfar.com/download/hooked-workbook.pdf
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+
+Carlota Perez
+Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
+http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
+
+Madhavan Ramanujam and Georg Tacke
+http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
 -->
 
 Books
@@ -10902,25 +10934,6 @@ Books
 * [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 * [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
-
-<!--
-New
-https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1&_branch_match_id=345698913933613519
-
-https://docs.google.com/forms/d/e/1FAIpQLScQwu-EpUYWYrfTKXxYNB2htxd8qgui7_CoTbdgwD9_dMh-WQ/viewform?c=0&w=1
-https://continuingstudies.stanford.edu/courses/courses-overview
-http://online.stanford.edu/course/upside-stress
-
-
-https://www.amazon.com/Venture-Capital-Private-Financing-Entrepreneurship/dp/0470591439
-
-http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
-
-Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
-http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
-
-http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
--->
 
 Whole Earth Catalog
 * [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
@@ -11715,11 +11728,11 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
-  * Search - [Algolia](https://www.algolia.com/)
-  * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
-  * Maps - [Mapbox](https://www.mapbox.com/)
-  * IM - [Discord](https://discordapp.com/developers/)
-  * Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
+* Search - [Algolia](https://www.algolia.com/)
+* SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
+* Maps - [Mapbox](https://www.mapbox.com/)
+* IM - [Discord](https://discordapp.com/developers/)
+* Form - [Typeform.io](http://docs.typeform.io/) / [Form.io](https://form.io/)
 -->
 
 <!--
