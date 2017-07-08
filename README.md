@@ -11476,8 +11476,8 @@ Email Organization
 <!--
 https://www.drip.co
 
-    [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
-    * [Email Design Reference](https://templates.mailchimp.com/)
+[Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
+[Email Design Reference](https://templates.mailchimp.com/)
     
 Email
 [MailChimp Patterns](http://ux.mailchimp.com/patterns) and [MailChimp Patterns/Grids](http://ux.mailchimp.com/patterns/grids)  
