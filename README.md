@@ -11322,12 +11322,6 @@ Mobile Two Factor Authentication
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
 <!--
-Google Permissions
-https://myaccount.google.com/permissions
-
-Google Activity
-https://myactivity.google.com/myactivity
-
 https://www.google.com/landing/2step
 -->
 
@@ -11379,19 +11373,15 @@ Google Account
 * [Google Calendar](https://www.google.com/calendar) 
 * [Google Spaces](https://get.google.com/spaces)
 
-
+My Google Activity and Info
+* [Google Permissions](https://myaccount.google.com/permissions)
 * [Google My Activity](https://myactivity.google.com/myactivity)
+* [Google Takeout](https://takeout.google.com/settings/takeout)
 
-<!--
-https://beta.doodle.com
-
-https://takeout.google.com/settings/takeout
-
-Storage
-https://www.amazon.com/gp/drive/landing/everything
-https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
-https://support.google.com/drive/answer/2375123
--->
+Cloud Storage
+* [Amazon Drive Pricing](https://www.amazon.com/b/?_encoding=UTF8&node=15547130011)
+* [Amazon Drive](https://www.amazon.com/gp/drive/landing/everything)
+* ["View Google Drive plan prices or upgrade storage"](https://support.google.com/drive/answer/2375123)
 
 Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
@@ -11566,6 +11556,10 @@ Group Communication/Chat
 * [BlueJeans](https://bluejeans.com)
 * [Zoom](https://zoom.us)
   
+<!--
+https://beta.doodle.com
+-->
+  
 Livestreaming, Video, Audio 
 * [Livestream](http://new.livestream.com) 
 * [SoundCloud](https://soundcloud.com)  
@@ -11678,12 +11672,11 @@ https://stripe.com/docs/examples
 -->
 
 Coins
+* [Bitcoin](https://bitcoin.org/en)
+* [Ethereum](https://www.ethereum.org) and [Ethereum Installations for Mac GitHub](https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac)
+* [Litecoin](https://litecoin.com)
 
 <!--
-https://www.ethereum.org
-https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac
-https://litecoin.com
-
 https://www.coinbase.com
 http://coinmarketcap.com
 http://coincap.io
@@ -11731,6 +11724,9 @@ Admin, Hiring, Payroll, Expenses
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
 
+Events
+* [Eventbrite](https://www.eventbrite.com)
+
 <!--
 * Search - [Algolia](https://www.algolia.com/)
 * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
@@ -11740,8 +11736,6 @@ Admin, Hiring, Payroll, Expenses
 -->
 
 <!--
-https://www.eventbrite.com
-
 https://mightybell.com
 
 IIRC
