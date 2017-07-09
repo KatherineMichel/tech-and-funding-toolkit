@@ -10018,13 +10018,14 @@ Mental Models
 * [Farnam Street Mental Models](https://www.farnamstreetblog.com/mental-models)
 * [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
 
+Rationality Community
+* ["What is the "rationality community" and what does it consist of?"](https://www.quora.com/What-is-the-rationality-community-and-what-does-it-consist-of)
+* [Overcoming Bias](http://www.overcomingbias.com)
+* [Slate Star Codex](http://slatestarcodex.com)
+* [Less Wrong](http://lesswrong.com)
+
 <!--
 http://www.rationality.org/resources/rationality-checklist
-
-http://www.overcomingbias.com
-http://slatestarcodex.com
-http://lesswrong.com
-https://www.quora.com/What-is-the-rationality-community-and-what-does-it-consist-of
 
 https://www.farnamstreetblog.com/2016/04/munger-operating-system
 
@@ -10086,27 +10087,15 @@ https://25iq.com/2013/02/17/mauboussin
 https://25iq.com/2013/07/11/a-dozen-things-ive-learned-from-michael-mauboussin-about-investing
 
 https://25iq.com/2016/09/24/a-dozen-ways-you-can-use-seth-klarmans-margin-of-safety-approach-when-voting
-
-Assembling a Dream Team 
-https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1074677761&serialid=4nVFWyrExy%2blOirO84AqroGIVWY2NAeugIptVGTw2Fc%3d
-
-The Incredible Shrinking Universe of Stocks
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=1072753661&serialid=h%2b%2fwLdU%2fTIaitAx1rnamfYsPRAuTFRGdTSF4HZIvTkA%3d
-
-The Base Rate Book 
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d
-
-Looking for Easy Games
-https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=x745112&serialid=knrGGNw%2bo620toTTx96qBQ%3d%3d
-
-What Does a Price-Earnings Multiple Mean?
-http://www.valuewalk.com/wp-content/uploads/2014/02/document-805915460.pdf
-
-Understanding Skill
-https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1051045621&serialid=CFuLyFE%2BEXHlo12BGWMqq8fSzI8Xcj0miB1nOa39p9U%3D
 -->
 
 Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
+* [Assembling a Dream Team ](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&sourceid=csplusresearchcp&document_id=1074677761&serialid=4nVFWyrExy%2blOirO84AqroGIVWY2NAeugIptVGTw2Fc%3d)
+* [The Incredible Shrinking Universe of Stocks](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=1072753661&serialid=h%2b%2fwLdU%2fTIaitAx1rnamfYsPRAuTFRGdTSF4HZIvTkA%3d)
+* [The Base Rate Book ](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1065113751&serialid=Z1zrAAt3OJhElh4iwIYc9JHmliTCIARGu75f0b5s4bc%3d)
+* [Looking for Easy Games](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&sourceid=em&document_id=x745112&serialid=knrGGNw%2bo620toTTx96qBQ%3d%3d)
+* [What Does a Price-Earnings Multiple Mean?](http://www.valuewalk.com/wp-content/uploads/2014/02/document-805915460.pdf)
+* [Understanding Skill](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=csplusresearchcp&document_id=1051045621&serialid=CFuLyFE%2BEXHlo12BGWMqq8fSzI8Xcj0miB1nOa39p9U%3D)
 * [Thirty Years, Reflections on the Ten Attributes of Great Investors](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1063945621&serialid=1wRGyN6EnJdsEAzicRfCQyDmuExS84d2HcYRBRMNZJ8%3d)
 * [Operating Leverage: A Framework for Anticipating Changes in Earnings](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=807204400&serialid=bI5Je99tuDvZmNA7BwBkBy1aqMN3iU%2bmkdoAiYB8aT4%3d)
 * [Sharpening Your Forecasting Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1053681521&serialid=gRAGx5o9KjpeAGBLPq7bp6zs%2bvwjFbfjfyqvXhDSF0g%3d)
@@ -10581,6 +10570,27 @@ Good Infographics
 * [Jeremiah Owyang Collaborative Economy Honeycomb Version 2.0](https://www.flickr.com/photos/jeremiah_owyang/15928658251/sizes/o/), [Jeremiah Owyang Collaborative Economy Timeline](http://www.web-strategist.com/blog/2014/04/04/graphic-a-timeline-of-corporations-in-the-collaborative-economy), and [Jeremiah Owyang Collaborative Economy Funding in 2014](https://docs.google.com/spreadsheets/d/1uaU3VlqbigjYOpAXDDKOlsfk5APVkD-H0YAVlRra9WE/edit#gid=0), 
 * [Kevin Ryan: Craig's List Unbundled](http://www.businessinsider.in/If-You-Want-A-Billion-Dollar-Startup-Idea-Take-A-Look-At-This-Chart/articleshow/45506357.cms)
 
+Miscellaneous
+* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
+* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
+* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
+* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
+* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
+
+Laws
+* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
+* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
+
+Models and Theories
+* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
+* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
+* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
+* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
+* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
+* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
+
+
 <!--
 The 4ps
 https://www.cleverism.com/understanding-marketing-mix-concept-4ps
@@ -10603,26 +10613,6 @@ http://www.huffingtonpost.com/vala-afshar/2015-state-of-analytics-2_b_8611382.ht
 https://twitter.com/sean_a_rose/status/593260107066048512
 -->
 
-Miscellaneous
-* [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
-* [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
-* [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
-* [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
-* [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
-
-Laws
-* [Dion Hinchcliffe: Twenty-Two Power Laws of the Emerging Social Economy](http://www.zdnet.com/blog/hinchcliffe/twenty-two-power-laws-of-the-emerging-social-economy/961)
-* [Ray Kurzweil Wikipedia](https://en.wikipedia.org/wiki/Ray_Kurzweil) and [Ray Kurzweil: Law of Accelerating Returns](http://en.wikipedia.org/wiki/Accelerating_change#Kurzweil.27s_The_Law_of_Accelerating_Returns)
-
-Models and Theories
-* [Dreyfus Model of Skill Acquisition Wikipedia](https://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition)
-* [John Doerr via Venture Hacks: Mercenaries vs. Missionaries](http://venturehacks.com/articles/missionaries)
-* [Kurt von Hammerstein-Equord: Classification of Officers Wikipedia](http://en.wikipedia.org/wiki/Kurt_von_Hammerstein-Equord#Classification_of_officers) 
-* [Maslow's Hierarchy of Needs Wikipedia](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
-* [Simon Sinek: The Golden Circle Wikipedia](https://en.wikipedia.org/wiki/Simon_Sinek)
-* [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
-* [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
-
 <!--
 https://www.youtube.com/watch?v=3Oz3TDf59wg&sns=tw
 
@@ -10644,6 +10634,7 @@ http://opensourceecology.org/gvcs
 https://www.amazon.com/Knowledge-Rebuild-Civilization-Aftermath-Cataclysm/dp/0143127047
 http://the-knowledge.org/en-gb/the-book
 
+Systems Design
 http://www.cmo.com/opinion/articles/2016/10/11/understanding-the-roi-of-customer-journey-mapping.html#gs.iyTTcHo
 http://www.ribbonfarm.com/2016/09/27/mapping-organizational-realities/
 https://www.complexityexplorer.org/courses/59-introduction-to-complexity-fall-2016
@@ -10783,6 +10774,9 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
+http://fourhourworkweek.com
+http://fourhourworkweek.com/sitemap.xml
+
 Masters of Scale with Reid Hoffman
 https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1&_branch_match_id=345698913933613519
 
@@ -10792,13 +10786,27 @@ https://continuingstudies.stanford.edu/courses/courses-overview
 Stanford Bitcoin Engineering MOOC
 https://docs.google.com/forms/d/e/1FAIpQLScQwu-EpUYWYrfTKXxYNB2htxd8qgui7_CoTbdgwD9_dMh-WQ/viewform?c=0&w=1
 
-Mental Radio
-https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
-
 Nick Kokonas
 https://medium.com/@nickkokonas/why-we-are-self-publishing-the-aviary-cookbook-lessons-from-the-alinea-book-e89236ab6ca1
 https://www.kickstarter.com/projects/thealineagroup/the-aviary-cocktail-book?ref=ksrtwitter&__prclt=xnsUpJRa
 https://medium.com/@nickkokonas/why-we-are-self-publishing-the-aviary-cookbook-lessons-from-the-alinea-book-e89236ab6ca1
+
+https://www.hardbound.co/read/homo-deus/1
+https://www.hardbound.co/read/sapiens/1
+https://www.hardbound.co/read/wait-but-why-on-neuralink
+
+https://en.wikipedia.org/wiki/Psycho-Cybernetics
+
+https://mobile.audible.com/pd/Self-Development/This-Naked-Mind-Control-Alcohol-Audiobook/B06XB2VWQD
+https://www.amazon.com/dp/B000FA5SGG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://www.amazon.com/Getting-Maybe-Excel-School-Exams/dp/0890897603/
+https://www.scribd.com/doc/141766597/Getting-To-Maybe-How-to-Excel-on-Law-School-Exams
+
+Mental Radio
+https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
+
+
 
 http://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
 http://tim.blog/2015/11/03/dominic-dagostino
@@ -10835,37 +10843,11 @@ http://tim.blog/2014/09/15/what-i-learned-losing-a-million-dollars/
 http://tim.blog/2014/03/20/the-art-of-learning-joshua-waitzkin/
 http://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/
 
-
-
-https://en.wikipedia.org/wiki/Psycho-Cybernetics
-https://mobile.audible.com/pd/Self-Development/This-Naked-Mind-Control-Alcohol-Audiobook/B06XB2VWQD
-https://www.amazon.com/dp/B000FA5SGG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://en.wikipedia.org/wiki/Made_to_Stick
-https://en.wikipedia.org/wiki/Story_arc
-
-https://www.amazon.com/Power-Moments-Certain-Extraordinary-Impact/dp/1501147765/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=sprint05-20&linkId=dd982c05770c271c83fce155e1e1d547
- 
-https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital/dp/0393254291/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=
- 
-https://www.amazon.com/Getting-Maybe-Excel-School-Exams/dp/0890897603/
-https://www.scribd.com/doc/141766597/Getting-To-Maybe-How-to-Excel-on-Law-School-Exams
-
-https://www.hardbound.co/read/homo-deus/1
-https://www.hardbound.co/read/sapiens/1
-https://www.hardbound.co/read/wait-but-why-on-neuralink
-
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-http://fourhourworkweek.com/sitemap.xml
-
 https://www.amazon.com/gp/product/0307353133
 http://tim.blog/2014/10/04/how-to-travel-to-20-countries-and-build-a-massive-business-in-the-process
 http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
 http://tim.blog/2008/01/06/from-shanghai-to-silicon-valley-3-tips-for-turning-lack-of-resources-into-strength
 http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
-
-https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals#t-789871
 
 http://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
 http://tim.blog/2016/12/20/becoming-the-best-version-of-you/
@@ -10874,15 +10856,18 @@ http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-5
 https://www.youtube.com/watch?v=-e0iPI2WLrs
 
 http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
-http://fourhourworkweek.com/
 http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
 
 http://tim.blog/2012/05/22/neil-gaiman-commencement-speech
 -->
 
+
 <!--
 Keith Rabois Reading List
 https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
+
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
 
 Tools of Titans
 http://tim.blog/2017/01/25/tools-of-titans-index/
@@ -10907,6 +10892,10 @@ http://liminalthinking.com
 https://medium.com/the-xplane-collection/liminal-thinking-99f60ef57606
 https://medium.com/@davegray/the-roots-of-liminal-thinking-3be4bea6fd63
 
+https://www.amazon.com/Power-Moments-Certain-Extraordinary-Impact/dp/1501147765
+https://en.wikipedia.org/wiki/Made_to_Stick
+https://en.wikipedia.org/wiki/Story_arc
+
 A Brief History of Existential Terror
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 
@@ -10925,6 +10914,8 @@ http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
 Carlota Perez
 Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
 http://www.carlotaperez.org/downloads/pubs/TRs_TEP_shifts_and_SIF_ch.pdf
+
+https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital/dp/0393254291/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=
 
 Madhavan Ramanujam and Georg Tacke
 http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
