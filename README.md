@@ -10805,60 +10805,6 @@ https://www.scribd.com/doc/141766597/Getting-To-Maybe-How-to-Excel-on-Law-School
 
 Mental Radio
 https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
-
-
-
-http://tim.blog/2009/05/19/vanity-metrics-vs-actionable-metrics/
-http://tim.blog/2015/11/03/dominic-dagostino
-http://tim.blog/2014/07/21/harrys-prelaunchr-email/
- 
-http://tim.blog/producthunt-tfx
-http://tim.blog/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable/
-http://tim.blog/2015/01/20/elon-musk-and-jeff-bezos/
-http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
-http://tim.blog/2016/04/11/tim-ferriss-podcast-business/
-http://tim.blog/2012/11/11/the-value-of-aggression-ode-to-dan-gable
-http://tim.blog/2015/08/18/the-evolutionary-angel-naval-ravikant/
-https://overcast.fm/+BmGUMrSCc/12:05
- 
-http://tim.blog/2017/05/15/fear-setting
-https://www.ted.com/talks/tim_ferriss_why_you_should_define_your_fears_instead_of_your_goals
-http://tim.blog/2017/06/04/nick-szabo/
-http://tim.blog/2010/06/28/mba/
-http://tim.blog/2013/04/15/how-to-get-a-book-deal/
-http://tim.blog/2014/06/16/not-to-do-lists-drugs-and-other-productivity-tricks/
-http://tim.blog/2015/08/26/how-to-build-a-world-class-network-in-record-time/
-http://tim.blog/2016/09/14/practicing-what-you-preach/
-http://tim.blog/2011/12/06/the-painless-path-to-endurance-plus-breville-winner-and-more/
-http://tim.blog/2008/10/21/rethinking-investing-common-sense-rules-for-uncommon-times/
-http://tim.blog/2016/04/11/tim-ferriss-podcast-business/
-http://tim.blog/2014/02/13/anxiety-treatments/
-http://tim.blog/2012/11/16/the-magic-of-thinking-big-how-to-break-world-records-in-times-square/
-http://tim.blog/2008/04/01/low-cost-high-reward-mini-retirements-explore-the-world-with-international-volunteering/
- 
-http://tim.blog/2008/07/21/push-vs-pull-processes/
-http://fourhourworkweek.com/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
-http://tim.blog/2016/02/28/how-to-achieve-self-ownership/
-http://tim.blog/2014/09/15/what-i-learned-losing-a-million-dollars/
-http://tim.blog/2014/03/20/the-art-of-learning-joshua-waitzkin/
-http://tim.blog/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas/
-
-https://www.amazon.com/gp/product/0307353133
-http://tim.blog/2014/10/04/how-to-travel-to-20-countries-and-build-a-massive-business-in-the-process
-http://tim.blog/2007/07/11/how-to-travel-the-world-with-10-pounds-or-less-plus-how-to-negotiate-convertibles-and-luxury-treehouses/
-http://tim.blog/2008/01/06/from-shanghai-to-silicon-valley-3-tips-for-turning-lack-of-resources-into-strength
-http://tim.blog/2013/08/05/cheap-travel-in-paris-new-york-hong-kong/
-
-http://tim.blog/2008/06/24/the-margin-manifesto-11-tenets-for-reaching-or-doubling-profitability-in-3-months/
-http://tim.blog/2016/12/20/becoming-the-best-version-of-you/
-http://tim.blog/2007/11/26/a-beginners-guide-how-to-rent-your-ideas-to-fortune-500-companies-plus-video/
-
-https://www.youtube.com/watch?v=-e0iPI2WLrs
-
-http://tim.blog/2008/09/17/how-to-never-forget-anything-again/
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning/
-
-http://tim.blog/2012/05/22/neil-gaiman-commencement-speech
 -->
 
 
@@ -11556,9 +11502,8 @@ Group Communication/Chat
 * [BlueJeans](https://bluejeans.com)
 * [Zoom](https://zoom.us)
   
-<!--
-https://beta.doodle.com
--->
+Scheduling
+* [Doodle](https://beta.doodle.com)
   
 Livestreaming, Video, Audio 
 * [Livestream](http://new.livestream.com) 
