@@ -57,6 +57,8 @@ Table of Content
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
 
+  * [Collaborative Development](#collaborative-development)
+
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
 
   * [Git and Markdown](#git-and-markdown)
@@ -1683,6 +1685,8 @@ https://robots.thoughtbot.com/tags/git
 https://github.com/hypenotic/hypelabs
 -->
 
+## Collaborative Development
+
 Collaborative Development Models
 * [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
 * ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
@@ -1783,43 +1787,6 @@ https://en.wikipedia.org/wiki/Red_team
 https://cloud.google.com/source-repositories/pricing
 -->
 
-<!--
-Docs
-
-http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
-
-https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-
-https://www.atlassian.com/git/tutorials/setting-up-a-repository
-https://help.github.com/articles/backing-up-a-repository
-
-https://contribute.jquery.org/commits-and-pull-requests
-https://www.visualstudio.com/en-us/docs/git/pull-requests
-
-https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
-
-https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
-
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
-
-https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
-
-https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
-https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
-
-https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
--->
-
-
 
 #### Open Source Management and Programming Tiers
 
@@ -1885,7 +1852,6 @@ https://github.com/marketplace/category/code-review
 
 https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
 
-Triaging
 https://github.com/isaacs/github/issues/248
 https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
 https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
@@ -2012,6 +1978,42 @@ Example Help Tweets
 
 
 #### Git and Markdown
+
+<!--
+Docs
+
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
+
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+https://help.github.com/articles/backing-up-a-repository
+
+https://contribute.jquery.org/commits-and-pull-requests
+https://www.visualstudio.com/en-us/docs/git/pull-requests
+
+https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
+
+https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
+
+https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+
+https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
+-->
 
 <!--
 New 
