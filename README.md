@@ -1692,6 +1692,27 @@ Collaborative Development Models
 * [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
 * ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
 
+X Driven Development
+* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
+* Documentation Driven Development
+* [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+
+Continuousness
+
+<!--
+https://en.wikipedia.org/wiki/Continuous_delivery
+https://en.wikipedia.org/wiki/Continuous_integration
+
+http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
+
+Single version in production simple software - use Github-flow
+Single Version in production but very complex software - use Gitlab-flow
+Multiple versions in production - use Git-flow
+
+Mainline Development
+Trunk-based Development
+-->
+
 A Successful Git Branching Model
 * [A Successful Git Branching Model](http://nvie.com/posts/a-successful-git-branching-model)
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
@@ -1708,6 +1729,15 @@ More Workflows
 * [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
 * [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
 * [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
+
+<!--
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
+https://datasift.github.io/gitflow
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+http://endoflineblog.com/gitflow-considered-harmful
+
+https://github.com/Originate/git-town
+-->
 
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
@@ -1753,13 +1783,27 @@ A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
 <!--
+X Driven Development
+
 http://principlesofchaos.org
 http://stevesouders.com/hpws
 https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
 
+* DevOps
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
 
+* ChatOps
+* [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
+    [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+
+* Kanban
+* What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
+* [Getting Started With Trello](https://trello.com/guide)
+* [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
+  
 Trello
 https://upcase.com/design-for-developers-resources/principles
 https://en.wikipedia.org/wiki/Red_team
@@ -1769,90 +1813,14 @@ https://cloud.google.com/source-repositories/pricing
 
 <!--
 New
-https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
-https://datasift.github.io/gitflow/IntroducingGitFlow.html
-http://endoflineblog.com/gitflow-considered-harmful
-https://github.com/github/training-kit
-
-https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
-https://influitive.com/blog/introduction-developer-relations/
-
-
-
-http://blog.udacity.com/2015/06/become-github-pro.html
-
-https://www.git-tower.com/blog/git-cheat-sheet/
-
-https://github.com/Originate/git-town
-
-* [Git-it](https://github.com/jlord/git-it-electron)
-
-  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
-  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
-  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-  
-  * GUI
-    * [SourceTree](https://www.sourcetreeapp.com/)
-  * Github
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-    * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
-    * Chrome Extensions
-      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
-      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-        
-http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
-
-* DevOps
-  * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
-  * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-
-* ChatOps
-  * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
-    [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-
-* Kanban
-  * What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
-  * [Getting Started With Trello](https://trello.com/guide)
-  * [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
-
-  
- Documentation Driven Development. RDD
-    * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-    
-      * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-      * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
             
-      * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-      
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-https://gist.github.com/PurpleBooth
-https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
-
-
-https://en.wikipedia.org/wiki/Open-source_model
-https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
-https://en.wikipedia.org/wiki/Capability_Maturity_Model
-https://en.wikipedia.org/wiki/Free_and_open-source_software
-https://martinfowler.com/bliki/MaturityModel.html
-
-https://github.com/github/open-source-guide
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/github/open-source-survey
-https://github.com/github/maturity-model
-
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
 
 https://gist.github.com/seshness/3943237
 
-http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
 
-Single version in production simple software - use Github-flow
-Single Version in production but very complex software - use Gitlab-flow
-Multiple versions in production - use Git-flow
-
-https://datasift.github.io/gitflow
-
+Docs
 
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
 
@@ -1888,6 +1856,47 @@ https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-fr
 
 
 #### Open Source Management and Programming Tiers
+
+Community
+* [Mikeal Rogers Medium](https://medium.com/@mikeal) and [Mikeal Rogers Twitter](https://twitter.com/mikeal)
+* [Nadia Eghbal Medium](https://medium.com/@nayafia)
+
+Developer Relations
+
+<!--
+https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+https://influitive.com/blog/introduction-developer-relations/
+
+https://en.wikipedia.org/wiki/Open-source_model
+https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
+https://en.wikipedia.org/wiki/Capability_Maturity_Model
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://martinfowler.com/bliki/MaturityModel.html
+
+https://github.com/github/open-source-guide
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+https://github.com/github/open-source-survey
+https://github.com/github/maturity-model
+
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+http://gousios.gr/bibliography/GSB16.html
+http://gousios.gr/bibliography/GB15.html
+http://opensourcesurvey.org/2017/#insights
+http://opensourcesurvey.org/2017/
+https://twitter.com/mikeal/status/872253127038181376
+https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
+    
+* [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+            
+* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+      
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://gist.github.com/PurpleBooth
+https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
+-->
 
 Open Source Management, Codes of Conduct, Roadmaps
 * [Open Source Management at Docker](https://github.com/docker/opensource)
@@ -2003,6 +2012,26 @@ Example Help Tweets
 #### Git and Markdown
 
 <!--
+New 
+https://github.com/github/training-kit
+http://blog.udacity.com/2015/06/become-github-pro.html
+https://www.git-tower.com/blog/git-cheat-sheet/
+
+* [Git-it](https://github.com/jlord/git-it-electron)
+
+  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
+  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  
+  * GUI
+    * [SourceTree](https://www.sourcetreeapp.com/)
+  * Github
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+    * Chrome Extensions
+      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
+      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+      
+      
 https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
