@@ -1681,11 +1681,6 @@ https://robots.thoughtbot.com/keeping-a-github-fork-updated
 https://robots.thoughtbot.com/tags/git
 
 https://github.com/hypenotic/hypelabs
-
-https://blog.golang.org/developer-experience
-https://www.ampproject.org/roadmap
-https://www.debian.org/social_contract
-http://hood.ie/contribute
 -->
 
 Collaborative Development Models
@@ -1701,15 +1696,17 @@ Continuousness
 * [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
 * [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
 
-<!--
-http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
+Pros and Cons
+* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
 
+General Approaches
+* Mainline Development
+* Trunk-based Development
+
+<!--
 Single version in production simple software - use Github-flow
 Single Version in production but very complex software - use Gitlab-flow
 Multiple versions in production - use Git-flow
-
-Mainline Development
-Trunk-based Development
 -->
 
 A Successful Git Branching Model
@@ -1738,31 +1735,6 @@ http://endoflineblog.com/gitflow-considered-harmful
 https://github.com/Originate/git-town
 
 https://gist.github.com/seshness/3943237
--->
-
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-* [Gerrit Code Review](https://www.gerritcodereview.com)
-
-Triaging
-
-<!--
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://thoughtbot.com/playbook/developing/code-reviews
-https://github.com/blog/2123-more-code-review-tools
-
-https://github.com/marketplace/category/code-review
-
-https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
-
-Triaging
-https://github.com/isaacs/github/issues/248
-https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
-https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
-https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
-https://github.com/v8/v8/wiki/Triaging-issues
-http://docs.hood.ie/en/latest/developers/TRIAGING.html
 -->
 
 Semver (See also: npm packages)
@@ -1885,19 +1857,53 @@ https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-th
 
 * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
 * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-            
-* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-      
+                  
 https://gist.github.com/PurpleBooth/b24679402957c63ec426
 https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 https://gist.github.com/PurpleBooth
 https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
+
+https://blog.golang.org/developer-experience
+https://www.ampproject.org/roadmap
+https://www.debian.org/social_contract
+http://hood.ie/contribute
+-->
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+* [Gerrit Code Review](https://www.gerritcodereview.com)
+
+Triaging
+
+<!--
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+https://github.com/blog/2123-more-code-review-tools
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
+
+Triaging
+https://github.com/isaacs/github/issues/248
+https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
+https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
+https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
+https://github.com/v8/v8/wiki/Triaging-issues
+http://docs.hood.ie/en/latest/developers/TRIAGING.html
 -->
 
 Open Source Management, Codes of Conduct, Roadmaps
 * [Open Source Management at Docker](https://github.com/docker/opensource)
+
+Document Examples
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
+
+<!--
+* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+-->
 
 Bus Factor
 * [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
