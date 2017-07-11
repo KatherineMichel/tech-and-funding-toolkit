@@ -1774,11 +1774,6 @@ https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-suppor
 * ChatOps
 * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
     [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-
-* Kanban
-* What is Kanban? - [A](https://leankit.com/learn/kanban/what-is-kanban/), [B](http://kanbanblog.com/explained/)
-* [Getting Started With Trello](https://trello.com/guide)
-* [Github Project Boards](https://help.github.com/articles/tracking-the-progress-of-your-work-with-project-boards/)
   
 Trello
 https://upcase.com/design-for-developers-resources/principles
@@ -10869,6 +10864,9 @@ http://vagabonding.net
 https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
+
+Angela Duckworth Grit
+https://en.wikipedia.org/wiki/Carol_Dweck#.22Mindset.22
 
 Liminal Thinking
 http://liminalthinking.com
