@@ -1698,11 +1698,10 @@ X Driven Development
 * [Readme Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 Continuousness
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+* [Continuous Delivery Wikipedia](https://en.wikipedia.org/wiki/Continuous_delivery)
 
 <!--
-https://en.wikipedia.org/wiki/Continuous_delivery
-https://en.wikipedia.org/wiki/Continuous_integration
-
 http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110
 
 Single version in production simple software - use Github-flow
@@ -1737,6 +1736,8 @@ https://datasift.github.io/gitflow/IntroducingGitFlow.html
 http://endoflineblog.com/gitflow-considered-harmful
 
 https://github.com/Originate/git-town
+
+https://gist.github.com/seshness/3943237
 -->
 
 Code Review (See also Project Management)
@@ -1791,7 +1792,6 @@ https://www.enterpriseready.io
 https://github.com/enterpriseready/enterpriseready
 https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-support
 
-* DevOps
 * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
 * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
 
@@ -1812,15 +1812,9 @@ https://cloud.google.com/source-repositories/pricing
 -->
 
 <!--
-New
-* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
-            
-http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
-
-https://gist.github.com/seshness/3943237
-
-
 Docs
+
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
 
 https://github.com/blog/1943-how-to-write-the-perfect-pull-request
 
@@ -1887,6 +1881,8 @@ http://opensourcesurvey.org/2017/
 https://twitter.com/mikeal/status/872253127038181376
 https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
     
+* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+
 * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
 * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
             
