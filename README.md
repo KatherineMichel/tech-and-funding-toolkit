@@ -1790,29 +1790,32 @@ Community
 * [Nadia Eghbal Medium](https://medium.com/@nayafia)
 
 Developer Relations
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+Open Source
+* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+
+GitHub Open Source Survey
+* [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
+* [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/open-source-guide)
 
 <!--
-https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 https://influitive.com/blog/introduction-developer-relations/
 
-https://en.wikipedia.org/wiki/Open-source_model
-https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies
 https://en.wikipedia.org/wiki/Capability_Maturity_Model
 https://en.wikipedia.org/wiki/Free_and_open-source_software
 https://martinfowler.com/bliki/MaturityModel.html
-
-https://github.com/github/open-source-guide
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/github/open-source-survey
 https://github.com/github/maturity-model
 
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+http://opensourcesurvey.org/2017/#insights
+
+https://twitter.com/mikeal/status/872253127038181376
 https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 http://gousios.gr/bibliography/GSB16.html
 http://gousios.gr/bibliography/GB15.html
-http://opensourcesurvey.org/2017/#insights
-http://opensourcesurvey.org/2017/
-https://twitter.com/mikeal/status/872253127038181376
 https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
     
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
