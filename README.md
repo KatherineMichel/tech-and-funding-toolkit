@@ -1733,6 +1733,11 @@ More Workflows
 
 <!--
 New
+https://twitter.com/sehurlburt/status/882421726562234369
+https://twitter.com/sehurlburt/status/885604819632705536
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+
 https://www.kernel.org/pub/software/scm/git/docs/gitworkflows.html
 
 https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
@@ -3968,21 +3973,24 @@ JavaScript Styleguide
 
 <!--
 * Benchmark Testing
-  * JS
-    * [Benchmark.js](https://benchmarkjs.com/)
-    * [Speedracer](https://github.com/ngryman/speedracer)
-    * [stats.js](https://github.com/mrdoob/stats.js)
-  * [SinonJS](http://sinonjs.org/)
+* JS
+* [Benchmark.js](https://benchmarkjs.com/)
+* [Speedracer](https://github.com/ngryman/speedracer)
+* [stats.js](https://github.com/mrdoob/stats.js)
+* [SinonJS](http://sinonjs.org/)
 
-    * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
-    * [Varvy SEO tool](https://varvy.com/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/)
+* [Varvy SEO tool](https://varvy.com/)
     
-  * Benchmarks
-    * [Browser Benchmarks](http://browserbench.org/)
+* Benchmarks
+* [Browser Benchmarks](http://browserbench.org/)
     
-    * Services
-      * [Sentry](https://sentry.io/for/javascript/)
+* Services
+* [Sentry](https://sentry.io/for/javascript/)
       
+https://github.com/blog/2388-how-to-fix-errors-in-production-with-github-and-sentry
+https://github.com/getsentry/sentry
+
 browser market share
 
 https://github.com/WPO-Foundation/webpagetest
@@ -4087,6 +4095,13 @@ JavaScript Event Keycodes
 * [JavaScript Event Keycodes](http://keycode.info)
 
 #### AJAX, jQuery, JSON
+
+<!--
+New
+https://en.wikipedia.org/wiki/JSON
+https://en.wikipedia.org/wiki/Ajax_(programming)
+https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
+-->
 
 jQuery
 * [jQuery](https://jquery.com) and [jQuery GitHub](https://github.com/jquery/jquery)  
@@ -4897,6 +4912,8 @@ https://mmistakes.github.io/so-simple-theme
 
 <!--
 New
+https://github.com/wpaccessibility
+
 https://developer.wordpress.org/files/2014/10/template-hierarchy.png
 https://codex.wordpress.org/Function_Reference
 https://developer.wordpress.org/reference/functions/
@@ -6767,6 +6784,8 @@ Malware and Encryption
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
 <!--
+https://letsencrypt.org/2017/07/06/wildcard-certificates-coming-jan-2018.html
+
 https://github.com/Hack-with-Github/Awesome-Hacking
 https://github.com/carpedm20/awesome-hacking
 https://github.com/onlurking/awesome-infosec
@@ -8289,6 +8308,7 @@ https://blog.codeship.com
 http://resources.codeship.com
 
 CI
+https://circleci.com/beta-access
 https://circleci.com
 https://circleci.com/docs/config-sample/
 
@@ -9047,6 +9067,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+https://en.wikipedia.org/wiki/Diane_Greene
+
 New
 https://medium.com/@tjholowaychuk
 https://medium.com/@dan_abramov
@@ -11442,6 +11464,7 @@ Etsy and Gumroad
 * [Gumroad](https://gumroad.com)
 
 <!--
+https://carrd.co
 https://www.shopify.com/pricing
 https://exchange.shopify.com
 -->
