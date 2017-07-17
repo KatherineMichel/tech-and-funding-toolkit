@@ -1526,6 +1526,7 @@ https://github.com/jefftriplett/dotfiles/blob/master/roles/python/tasks/install_
 
 https://github.com/ginatrapani/dotfiles
 
+https://github.com/AustinMCrane/dotfiles
 https://github.com/epicserve/dotfiles
 https://github.com/geerlingguy/mac-dev-playbook
 https://github.com/JohnColvin/.maid/blob/master/rules.rb
@@ -1731,6 +1732,22 @@ More Workflows
 * [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
 
 <!--
+New
+https://www.kernel.org/pub/software/scm/git/docs/gitworkflows.html
+
+https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
+
+https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches
+https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
+http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html
+http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
+
+https://about.gitlab.com/comparison/
+https://about.gitlab.com/2016/12/01/how-to-keep-your-fork-up-to-date-with-its-origin/
+
+
+
+
 https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
 https://datasift.github.io/gitflow
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
@@ -2332,7 +2349,7 @@ https://ifttt.com/github/recipes
 https://www.producthunt.com/@jordan_gonen/collections/everything-github
 -->
 
-#### Operating System, Browser, Layout Engine
+#### Operating System, Browser, Layout Engine2
 
 Operating Systems
 * [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
@@ -11424,6 +11441,11 @@ Etsy and Gumroad
 * [Etsy Pattern](https://www.etsy.com/pattern)
 * [Gumroad](https://gumroad.com)
 
+<!--
+https://www.shopify.com/pricing
+https://exchange.shopify.com
+-->
+
 Easy Blog
 * [SVBTLE](https://svbtle.com)
 
@@ -11666,6 +11688,8 @@ http://coincap.io
 https://xapo.com
 https://exchange.gemini.com
 https://ripple.com/xrp
+
+https://news.21.co
 -->
 
 Crowd Sourced Internet Marketplace
