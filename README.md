@@ -2037,6 +2037,9 @@ https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-fr
 
 <!--
 New 
+https://github.com/progit/progit2
+http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
+https://opensourcefriday.com
 https://github.com/github/training-kit
 http://blog.udacity.com/2015/06/become-github-pro.html
 https://www.git-tower.com/blog/git-cheat-sheet/
@@ -8211,6 +8214,8 @@ Bots
 * [Microsoft Bot Framework](https://dev.botframework.com)
 
 <!--
+https://glitch.com/art
+
 https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
 https://chatbotsmagazine.com
 
@@ -9067,6 +9072,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+http://cyberomin.github.io
+
 https://en.wikipedia.org/wiki/Diane_Greene
 
 New
@@ -11320,6 +11327,8 @@ Digital Stats
 #### Popular Tools
 
 <!--
+http://www.avg.com
+
 Google Assistant: Google Allo
 https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&hl=en
 https://itunes.apple.com/us/app/the-google-assistant-get-help-anytime-anywhere/id1220976145?mt=8
@@ -11352,6 +11361,8 @@ Mobile Two Factor Authentication
 
 <!--
 https://www.google.com/landing/2step
+
+Yubikey, Google Authenticator, Authy
 -->
 
 Password Management
@@ -11367,6 +11378,8 @@ Privacy
 * [Electronic Frontier Foundation](https://www.eff.org)
 
 <!--
+https://www.eff.org/https-everywhere
+
 Browse in private with Incognito mode
 https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
 
@@ -11482,6 +11495,10 @@ LinkedIn
 * [LinkedIn Business](https://business.linkedin.com), [LinkedIn Ads](https://www.linkedin.com/ads/start), and [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions/products/sales-navigator)
 * [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
 
+<!--
+https://business.linkedin.com/sales-solutions/blog/linkedin-sales-navigator/2017/04/introducing-pointdrive
+-->
+
 Social Media Distribution 
 * [Buffer](https://bufferapp.com)
 * [Hootsuite](https://hootsuite.com)
@@ -11503,6 +11520,8 @@ Email Organization
 * [SaneBox](https://www.sanebox.com)
 
 <!--
+https://www.getrevue.co
+
 https://www.drip.co
 
 [Email Client CSS Support](https://templates.mailchimp.com/resources/email-client-css-support/)
@@ -11581,6 +11600,10 @@ Voice
 * [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
 * [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
 
+<!--
+http://dictate.ms
+-->
+
 Group Communication/Chat
 * [Glitter (Chat for GitHub](https://gitter.im)
 * [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
@@ -11640,6 +11663,10 @@ Docs
 * [HelloSign](https://www.hellosign.com)
 * [Streak](https://www.streak.com)
 * [Scribd](https://www.scribd.com)
+
+<!--
+https://acrobat.adobe.com/us/en/acrobat/mobile-app/scan-documents.html
+-->
 
 PDF Reader
 * [Nitro](https://www.gonitro.com/pdf-reader)
@@ -11730,6 +11757,10 @@ Crowd Sourced Internet Marketplace
 Task Automation
 * [IFTTT](https://ifttt.com), [IFTTT Channels](https://ifttt.com/channels), and [IFTTT Developers](https://ifttt.com/developers)
 * [Microsoft Flow](https://flow.microsoft.com)
+
+<!--
+https://ifttt.com/blog/2017/06/non-profits-and-ifttt
+-->
 
 Kits
 * [Kits](http://kit.com)
