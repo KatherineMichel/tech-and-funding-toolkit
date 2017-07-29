@@ -394,6 +394,12 @@ W3Schools
 * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
 
 <!--
+New
+https://medium.freecodecamp.org/tagged/events
+https://github.com/freeCodeCamp/contribute
+
+
+
 http://jvns.ca
 https://twitter.com/b0rk
 
@@ -3975,6 +3981,15 @@ JavaScript Styleguide
 #### Testing and Performance
 
 <!--
+New
+http://beta.speedtest.net/
+https://www.webpagetest.org/
+https://github.com/google/googletest
+https://webspeedtest.cloudinary.com
+https://saucelabs.com/cross-browser-testing-tutorial
+https://saucelabs.com/blog/outfitting-a-testing-tool-belt
+
+
 * Benchmark Testing
 * JS
 * [Benchmark.js](https://benchmarkjs.com/)
@@ -11415,6 +11430,10 @@ Google Account
 * [Google Calendar](https://www.google.com/calendar) 
 * [Google Spaces](https://get.google.com/spaces)
 
+<!--
+https://support.google.com/docs/answer/1689475?hl=en&vid=0-236960046453-1499920685649
+-->
+
 My Google Activity and Info
 * [Google Permissions](https://myaccount.google.com/permissions)
 * [Google My Activity](https://myactivity.google.com/myactivity)
@@ -11429,6 +11448,10 @@ Google Docs and Research
 * [Google Docs](https://docs.google.com), [Google Docs Help Center](https://support.google.com/docs), and [Google Docs Editors Help](https://support.google.com/docs/answer/1046024?hl=en)
 * [Google Docs Do quick research in a document or presentation](https://support.google.com/docs/answer/2481802)
 
+<!--
+https://developers.google.com/apps-script
+-->
+
 Google News Publisher
 * [Google News Publisher Help](https://support.google.com/news/publisher)
 
@@ -11439,8 +11462,11 @@ Google World
 * [Google News](https://news.google.com) and [Google Contributor](https://www.google.com/contributor/welcome)
 
 <!--
+https://www.skyscanner.com
+
 Twitter Data
 * [Twitter Data](https://twitter.com/TwitterData)
+-->
 
 Twitter Media and News
 * [Twitter Media](https://media.twitter.com), [Twitter Media Best Practices](https://media.twitter.com/best-practices), and [Twitter Media for News](https://media.twitter.com/news)  
@@ -11507,6 +11533,10 @@ Social Media Distribution
 * [TweetDeck](https://tweetdeck.twitter.com) and [Tweetdeck Column Advanced Twitter List Searches](https://si0.twimg.com/help/1344275097_85887) 
 * [Tweetbot](http://tapbots.com/tweetbot)
 
+<!--
+https://support.twitter.com/articles/20171753
+-->
+
 Email
 * [Mad Mimi (GoDaddy)](https://madmimi.com)
 * [MailChimp](http://mailchimp.com) and [MailChimp Email Blueprints](https://github.com/mailchimp/email-blueprints)
@@ -11559,7 +11589,9 @@ Screencasting
 * [Camtasia Studio Wikipedia](https://en.wikipedia.org/wiki/Camtasia_Studio)
 
 <!--
-https://www.nvidia.com/en-us/geforce/geforce-experience/
+https://support.bluejeans.com/knowledge/chrome-microphone-bug-no-audio
+
+https://www.nvidia.com/en-us/geforce/geforce-experience
 
 https://screenhero.com
 https://screenhero.com/features.html
@@ -11837,8 +11869,14 @@ Remote
 * [remoteok](https://remoteok.io)
 
 <!--
+New
+http://cyberomin.github.io/work/2017/05/30/remote-work.html
+http://blog.screenhero.com/post/110852538851/already-a-screenhero-user-heres-how-to-invite
+
+
 http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
 
+https://hire.google.com
 https://hire.withgoogle.com/sign-in
 https://blog.google/products/search/connecting-more-americans-jobs
 
