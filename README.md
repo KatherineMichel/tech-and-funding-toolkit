@@ -5597,9 +5597,13 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
-New
-https://www.python.org/downloads
+https://github.com/python/cpython/blob/master/Misc/NEWS
 
+https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
+ 
+https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
+
+New
 https://pypi.org/project/cherry-picker
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
@@ -5612,8 +5616,6 @@ http://www.miniwebtool.com/django-secret-key-generator
 
 https://djangogirls.org/spokane
   
-http://bugs.python.org/user26332
-
 https://github.com/python/devguide/issues/129
 
 https://www.python.org/doc/versions/
@@ -5624,7 +5626,6 @@ https://github.com/kennethreitz/pipenv
  
 http://djangoappschecklist.com
 https://github.com/python/planet
-https://github.com/PyCon/pycon
 https://github.com/epicserve/epicserve-docs
  
 
@@ -5678,27 +5679,6 @@ https://docs.python.org/3/library/logging.config.html
 
 CPython
 * [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
-
-<!--
-https://github.com/python/cpython/blob/master/Misc/NEWS
-
-https://github.com/python/devguide
-https://docs.python.org/devguide/gitbootcamp.html
-https://docs.python.org/devguide
-
-https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
-
-http://bugs.python.org/
- 
-https://github.com/python/cpython
-https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
- 
-http://cpython-devguide.readthedocs.io/
-http://cpython-devguide.readthedocs.io/documenting.html#building-doc
-http://cpython-devguide.readthedocs.io/#quick-reference
-https://github.com/python/core-workflow/tree/master/cherry_picker
--->
-
 
 Python Authorities
 * [Python Authority Authority GitHub](https://github.com/pyaa)
@@ -5883,74 +5863,7 @@ Python- Django- Resources
 * [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
-#### Python and Django Contributing
 
-Python- Users and Members
-* [Python Members](https://www.python.org/psf/members)
-* [Python Info for New Members](https://wiki.python.org/psf/Info%20for%20new%20PSF%20members)
-
-<!--
-Guido van Rossum
-https://docs.python.org/devguide
-https://github.com/python/devguide
-
-https://www.djangoproject.com/foundation/developer-members
-
-https://wiki.python.org/moin/FrontPage
-https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2016
-
-https://www.djangoproject.com/fundraising/campaign/django-fellowship
--->
-
-Python Mentors
-* [Python Mentors](http://pythonmentors.com)
-
-Python- Django- Roadmaps
-* [Django Enhancement Proposals](https://github.com/django/deps)
-* [Django 1.10 Roadmap](https://code.djangoproject.com/wiki/Version1.10Roadmap) 
-* [Django 1.9 Roadmap](https://code.djangoproject.com/wiki/Version1.9Roadmap) 
-
-Python- Django- Code of Conduct and Contributing
-* [Django Code of Conduct[](https://www.djangoproject.com/conduct)
-* [Django Contributing](https://docs.djangoproject.com/en/dev/internals/contributing)
-* [Django Contributor License Agreements](https://www.djangoproject.com/foundation/cla)
-
-Python- Django- Forums and Lists
-* [Django Mailing Lists](https://docs.djangoproject.com/en/dev/internals/mailing-lists)
-* [Django Original Team List](https://docs.djangoproject.com/en/1.9/internals/team/#original-team-list)
-* [Django Core Developers (Old Version)](https://docs.djangoproject.com/en/1.7/internals/committers/#core-developers)
-* [Django Organizational Repo People](https://github.com/orgs/django/people)
-* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
-
-Python- Django- Slack
-* [Django Developers](https://django-developers.herokuapp.com)
-
-#### Python and Django Support Groups
-
-Django Girls- Events and Cities
-* [Django Girls Events](https://djangogirls.org/events)
-* [Django Girls London](https://djangogirls.org/london)
-* [Django Girls Kansas City](https://djangogirls.org/kansascity)
-
-Django Girls- Help
-* [Django Girls Organize](http://organize.djangogirls.org)  
-* [Django Girls Coach](http://coach.djangogirls.org)  
-* [Django Girls Resources](https://github.com/DjangoGirls/resources) 
-* [Django Girls Store](https://store.djangogirls.org)
-
-<!--
-Make movies the same way Ola makes Coding is for Girls
-https://twitter.com/CodingIsForGirl/status/695712398024511490
-https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
-https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-
-Make movies the same way Ola makes Coding is for Girls
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-http://www.apple.com/mac/imovie
--->
-
-PyLadies
-* [PyLadies](http://www.pyladies.com), [PyLadies GitHub](https://github.com/pyladies), [PyLadies Remote](https://tlk.io/pyladiesremote), and [PyLadies Slack](http://slackin.pyladies.com)
 
 #### Python and Django Books and Tutorials
 
@@ -6619,28 +6532,6 @@ Python- Django- Cmatrix
 https://github.com/docopt/docopt
 
 http://www.djangopony.com/
-
-#### Python and Django Conferences and Mentors 
-
-https://docs.google.com/forms/d/1C1bvkk8qDR0khlH6bEAmILkbiZs6YXWvrM3ZrKZ9CE8/viewform
-
-Python and Django Conferences- Proposal Examples
-* Russell Keith-McGee, DjangoCon Europe- [A tale of two cellphones: Python on Android and iOS](https://gist.github.com/freakboy3742/973d1e79e6523c7de097), [Beyond Web 2.0 - Django and Python in the modern web ecosystem](https://gist.github.com/freakboy3742/cb4476bc25ff49d4553a), and [Rapid mobile application development with Python](https://gist.github.com/freakboy3742/a594fe79b16b6f3a0d7e)
-* [PyCon Proposals GitHub](https://github.com/akaptur/pycon-proposals)
-
-Python and Django Conferences- Speaker Mentors
-* [DjangoCon E.U. 2016 Call for Proposals/Speaking Mentors](https://2016.djangocon.eu/cfp)  
-* [DjangoCon E.U. 2015 Speaking Mentors](http://2015.djangocon.eu/proposals/speaker-mentors) 
-* [DjangoCon U.S. 2015 Call for Proposals](http://2015.djangocon.us/speaking/cfp)
-* [DjangoCon U.S. 2015 Speaking Mentors](https://2015.djangocon.us/speaking/mentors) 
-
-DjangoCon Talk Ideas
-* [DjangoCon Talk Ideas](https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8)
-
-Lacey Williams Henschel- PyLadies Remote: Your First Conference Proposal!
-* [Tweet Storm with Resources](https://twitter.com/laceynwilliams/status/693514103931801600)
-* [Slides](https://docs.google.com/presentation/d/1vgYS-STJl9epz7_RiRGSKnnf4vYi4rtaF3zbJc8S1yA/pub?start=false&loop=false&delayms=3000&slide=id.p)
-* [Replay](https://www.youtube.com/watch?v=OAQAXVU1jIo)
 -->
 
 #### Web Host Newsletters
