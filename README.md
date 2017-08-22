@@ -5757,9 +5757,10 @@ Python- Python and Django People and Jobs
 * [The Django Jobs Board](http://djangojobsboard.com) 
 
 Python- Django Community
-* [Adrienne Friend](http://codingwithkniv.es)
+* [Adrienne Friend](https://codingwithknives.com)
 * [Audrey Roy Greenfield](https://www.audreyr.com) and [Audrey Roy Greenfield GitHub](https://github.com/audreyr)
 * [Frank Wiles](http://www.frankwiles.com)
+* [Heather Marie Luna](http://heats.life)
 * [Kenneth Reitz](http://www.kennethreitz.org)
 * [Daniel Greenfeld](http://www.pydanny.com) and [Daniel Greenfeld](https://github.com/pydanny)
 * [Jacob Kalplan-Moss](http://jacobian.org)
