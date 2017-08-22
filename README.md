@@ -5597,29 +5597,16 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
-https://github.com/python/cpython/blob/master/Misc/NEWS
-
-https://github.com/python/devguide/blob/bbd38631554165a64e187bd29815125098159a13/developers.rst
- 
-https://paper.dropbox.com/doc/CPython-workflow-changes-mx1k8G6M0rg5JLy80F1r6
-
 New
 https://pypi.org/project/cherry-picker
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
 
-https://www.twoscoopspress.com/pages/current-django-books
-
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
 
 http://www.miniwebtool.com/django-secret-key-generator
-
-https://djangogirls.org/spokane
   
 https://github.com/python/devguide/issues/129
-
-https://www.python.org/doc/versions/
-https://www.python.org/downloads/
  
 https://github.com/kennethreitz/env
 https://github.com/kennethreitz/pipenv
@@ -5645,10 +5632,6 @@ https://www.coursera.org/courses?query=python
 http://campus.codeschool.com/courses/try-django/contents
 
 http://pytz.sourceforge.net
-
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
 -->
 
 Python (See also Data Science)
@@ -5661,6 +5644,9 @@ Python (See also Data Science)
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
 <!--
+https://www.python.org/doc/versions/
+https://www.python.org/downloads/
+
 https://wiki.python.org/moin/Python2orPython3
 https://www.djangopackages.com/python3/
 www.python.org/download/releases/2.3/mro/
@@ -5850,9 +5836,10 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 <!--
 https://www.djangoproject.com/community/
-https://groups.google.com/forum/#!forum/django-announce
-https://docs.djangoproject.com/en/stable/releases
-https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/coding-style/
+
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
 -->
 
 Python- Django
@@ -5867,6 +5854,10 @@ Python- Django- Resources
 
 
 #### Python and Django Books and Tutorials
+
+<!--
+https://www.twoscoopspress.com/pages/current-django-books
+-->
 
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
