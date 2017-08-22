@@ -5848,10 +5848,10 @@ Python- Django
 
 Python- Django- Resources
 * [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
-* [Django Users Forum](https://groups.google.com/forum/#!forum/django-users) 
+* [Django Google Users Forum](https://groups.google.com/forum/#!forum/django-users) 
+* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
+* [Django Developers Slack](https://django-developers.herokuapp.com)
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
-
-
 
 #### Python and Django Books and Tutorials
 
