@@ -5937,9 +5937,13 @@ Python- Django- Hello Web App
 * [Hello Web App Intermediate Concepts Code GitHub](https://github.com/hellowebapp/hellowebapp-ic-code)
 * [Hello Web App Setup](https://hellowebapp.com/setup)
 * [Hello Web App Discuss](http://discuss.hellowebapp.com)
-* [Hello Web App Twitter](http://twitter.com/hellowebapp)
+* [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://github.com/hellowebbooks
+https://github.com/hellowebapp/hellowebdesign
+
+
 https://hellowebapp.com/news/tutorial-class-based-views
 https://hellowebapp.com/news/tutorial-setting-up-a-contact-form-with-django/
 
