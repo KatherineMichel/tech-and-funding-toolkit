@@ -5597,6 +5597,36 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
+
+Documentation tool for inspecting Django forms, form fields and form widgets.
+https://github.com/ana-balica/classy-django-forms 
+Classy Django REST Framework
+https://github.com/vintasoftware/classy-django-rest-framework 
+Django Class-Based-View Inspector -- Classy CBV
+http://ccbv.co.uk
+
+https://github.com/tomchristie
+http://www.encode.io/reports/july-2017
+https://github.com/encode/django-rest-framework/projects
+http://www.django-rest-framework.org
+http://www.django-rest-framework.org/tutorial/quickstart/#project-setup
+http://www.django-rest-framework.org/api-guide/filtering
+https://github.com/encode/uvicorn
+https://github.com/encode/apistar
+
+https://github.com/django/channels
+http://channels.readthedocs.io/en/stable
+https://channels.readthedocs.io/en/stable/concepts.html
+https://github.com/django/daphne
+http://gunicorn.org
+
+https://github.com/pypa/warehouse
+
+https://github.com/revsys/django-test-plus
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+
+
 New
 https://pypi.org/project/cherry-picker
 
