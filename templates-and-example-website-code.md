@@ -3,7 +3,7 @@
 Table of Contents
 - [Gov](#gov)
 - [Jekyll](#jekyll)
-- [Python](#python) 
+- [Python- Django](#python-django) 
 - [ASP](#asp) 
 - [node.js](#nodejs)
 - [PHP](#php)
@@ -101,16 +101,12 @@ Jekyll Themes
 * [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
-## Python
+## Python- Django
 
-<!--
-https://github.com/DevOpsBootcamp/website
--->
-
-Python- Django- Heroku Deployment
+Heroku Deployment
 * [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
 
-Python- Django- Pinax
+Pinax
 * [Pinax](http://pinaxproject.com)  
 * [Pinax GitHub](https://github.com/pinax)  
 * [Pinax Starter Projects GitHub](https://github.com/pinax/pinax-starter-projects)  
@@ -126,18 +122,21 @@ https://github.com/pinax/pinax-starter-projects/tree/static
 https://github.com/pinax/pinax-starter-projects/tree/team-wiki
 -->
 
-Python- Django- Cookiecutter (See also Packages)
+Cookiecutter (See also Packages)
 * [Cookiecutter (List of All Cookie Cutters in README) GitHub](https://github.com/audreyr/cookiecutter)
 * [Cookiecutter Django GitHub](https://github.com/pydanny/cookiecutter-django)
 * [PyBee Cookiecutter Project GitHub](https://github.com/pybee/cookiecutter-project)
 
-Python- Django- Python and Django official websites and code
+Caktus- Django Project Template
+* [Django Project Template](https://github.com/caktus/django-project-template)
+
+Python and Django official websites and code
 * [Python Org](https://www.python.org), [Python Org GitHub](https://github.com/python/pythondotorg), [Python Org Docs](https://pythondotorg.readthedocs.org)
 * [Python Org Installation Assistance (Important!)](https://github.com/python/pythondotorg/issues/987)
 * [Django Project](https://www.djangoproject.com) and [Django Project GitHub](https://github.com/django/djangoproject.com)
 * [Django Project Trac](https://github.com/django/code.djangoproject.com)
 
-Python- Django- PyCon, DjangoCon, and PyData
+PyCon, DjangoCon, and PyData
 * [PyCon GitHub](https://github.com/PyCon/pycon) and [PyCon Read the Docs](https://pycon.readthedocs.org/en/latest)
 * [DjangoCon Europe 2017 GitHub](https://github.com/djangocon/2017.djangocon.eu)
 * [DjangoCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
@@ -146,18 +145,18 @@ Python- Django- PyCon, DjangoCon, and PyData
 * [PyData 2015 GitHub](https://github.com/pydata/conf_site)
 * [DjangoCon Website Archive GitHub](https://github.com/djangocon/djangocon-backups)
 
-Python- Django Under the Hood
+Django Under the Hood
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood/duh-web)
 
-Python- Django- Django Birthday
+Django Birthday
 * [Django Birthday GitHub](https://github.com/jacobian/djangobirthday)
 
-Python- Django Hello Web App
+Hello Web App
 * [Hello Web App Documents and Information](https://github.com/hellowebapp/hellowebapp)
 * [Hello Web App Beginner Tutorial](https://github.com/hellowebapp/hellowebapp-code)
 * [Hello Web App Intermediate Concepts](https://github.com/hellowebapp/hellowebapp-ic-code)
 
-Python- Django- Django Girls (Python- Django)
+Django Girls (Python- Django)
 * [Django Girls](http://djangogirls.org) and [Django Girls GitHub](https://github.com/DjangoGirls/djangogirls) 
 
 Template Examples
@@ -166,28 +165,31 @@ Template Examples
 * [Django Girls Website Templates](https://github.com/DjangoGirls/djangogirls/tree/master/templates)
 * [Django Under the Hood Templates](https://github.com/djangounderthehood/duh-web/blob/master/templates/home.html)
 
-Python- Django Brent O'Connor Django Base Template and Front-End Framework
+Brent O'Connor Django Base Template and Front-End Framework
 * [Brent O'Connor Django Base Template GitHub](https://github.com/epicserve/django-base-site) and [Django Base Template Docs](http://django-base-site.readthedocs.io/en/latest)
 * [Brent O'Connor Front-End Framework GitHub](https://github.com/epicserve/front-end-template) 
 
-Python- Django- Django Product Websites
+Django Product Websites
 * [Django Sites GitHub](https://github.com/rossp/djangosites.org)
 * [Python 2 Sites](http://python2sites.com/detail/python2sites) and [Python 2 Sites GitHub](https://github.com/electrocoder/python2sites)
 * [Django Packages GitHub](https://github.com/pydanny/djangopackages)
 * [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
 
-Python- Django- Python Product Websites
+Python Product Websites
 * [Celery Project](http://www.celeryproject.org)  and [Celery Project GitHub](https://github.com/celery/celeryproject) 
 * [SciPy Central (Deprecated?) GitHub](https://github.com/scipy/SciPyCentral)
 
-Python- Django- Wharton
+Read the Docs
+* [Read the Docs](https://github.com/rtfd/readthedocs.org)
+
+Wharton
 * [Wharton Django Base Theme GitHub](https://github.com/wharton/django-base-theme)
 
-Python- Django- Lawrence Trail Hawks
+Lawrence Trail Hawks
 * [Lawrence Trail Hawks](https://trailhawks.com) and [Lawrence Trail Hawks GitHub](https://github.com/trailhawks/lawrencetrailhawks)
 * [The Hawk Hundred](https://www.hawkhundred.com) and [The Hawk Hundred GitHub](https://github.com/trailhawks/lawrencetrailhawks/tree/master/templates/hawkhundred.com)
 
-Vitor Freitas (Python- Django)
+Vitor Freitas
 * [Simple Django Skeleton (Simple is Better than Complex) GitHub](https://github.com/simpleisbetterthancomplex/simple-django-skeleton)
 * [Simple Django Widget Tweaks (Simple is Better than Complex) GitHub](https://github.com/simpleisbetterthancomplex/simple-django-widget-tweaks)
 * [Bootcamp 1.9x GitHub](https://github.com/vitorfs/bootcamp)  
@@ -196,13 +198,16 @@ Vitor Freitas (Python- Django)
 * [Woid GitHub](https://github.com/vitorfs/woid)
 * [Bloodhound GitHub](https://github.com/vitorfs/bloodhound)
 
-David Leonard- Django Hackathon Starter (Python- Django) and Django tutorial
+David Leonard- Django Hackathon Starter and Django tutorial
 * [Django Hackathon Starter GitHub](https://github.com/DrkSephy/django-hackathon-starter) 
 * [Django Tutorial](https://github.com/DrkSephy/django-tutorial)
 
-18F and Peace Corps New Website (Python- Django)
+18F and Peace Corps New Website
 * [Peace Corps New Website GitHub](https://github.com/18F/peacecorps-site/blob/master/peacecorps/peacecorps/static/peacecorps/README.md)  
 * [Peace Corps New Website Front End GitHub](https://github.com/18F/peacecorps-site) 
+
+Melanie Crutchfield- FiveUp
+* [FiveUp](https://github.com/HelloMelanieC/FiveUp)
 
 Pier Angelo
 * [Pier Angelo GitHub](https://github.com/pierangelo1982)
@@ -211,7 +216,7 @@ Pier Angelo
 Python- Django- templates
 * [Django + HTML5B + Bootstrap GitHub](https://github.com/xenith/django-base-template)  
 
-App.net (Python- Django (Also Node))
+App.net (also node.js)
 * [App.net Alpha Github](https://github.com/appdotnet/alpha)  
 * [App.net Angular Github](https://github.com/appdotnet/angular-adn)  
 * [App.net RSS Github](https://github.com/appdotnet/pourover)  
@@ -221,17 +226,17 @@ App.net (Python- Django (Also Node))
 * [App.net Comments Widget Github](https://github.com/appdotnet/adn-comments)  
 * [App.net Private Messaging Github](https://github.com/appdotnet/ohe)  
 
-EdX (Python- Django (Also Ruby))
+EdX (also Ruby)
 * [EdX Code Website](http://code.edx.org)  
 * [EdX Platform Github](https://github.com/edx/edx-platform)  
 
-Elle (Python- Django)
+Elle
 * [Ella CMS (deprecated) GitHub](https://github.com/ella/ella)  
 
-Gov Track (Python- Django)
+Gov Track
 * [Gov Track](https://www.govtrack.us)  and [Gov Track GitHub](https://github.com/govtrack/govtrack.us-web)  
 
-LA Times Datadesk Project Template (Python- Django)
+LA Times Datadesk Project Template
 * [LA Times Datadesk](http://www.latimes.com/local/datadesk)  
 * [LA Times Datadesk Project Template GitHub](https://github.com/datadesk/django-project-template)  
 
@@ -252,19 +257,19 @@ https://github.com/SexualHealthInnovations/callisto-core
 https://github.com/SexualHealthInnovations/
 -->
 
-National Geospatial-Intelligence Agency (Python- Django)
+National Geospatial-Intelligence Agency
 * [GeoQ Geographic Data System GitHub](https://github.com/ngageoint/geoq)  
 * [GeoEvents for Deployers and First Responders GitHub](https://github.com/ngageoint/geoevents)  
 
-OpenStack (Python- Django)
+OpenStack
 * [OpenStack OpenStack GitHub](https://github.com/openstack/openstack)  
 * [OpenStack Horizon GitHub](https://github.com/openstack/horizon)  
 * [OpenStack Wikipedia](http://en.wikipedia.org/wiki/OpenStack)  
 
-Open Knowledge Foundation (Python- Django)
+Open Knowledge Foundation
 * [Open Knowledge Foundation GitHub](https://github.com/okfn/foundation)  
 
-Opps (Python- Django)
+Opps
 * [Opps CMS GitHub](https://github.com/opps/opps)  
 
 Reddit (Python- adapted from Django)
@@ -280,11 +285,14 @@ Reddit (Python- adapted from Django)
 https://github.com/reddit/baseplate
 -->
 
-Reddit- mobile (node.js)
+Python- Jinja- Dev Ops Bootcamp Website
+* [Dev Ops Bootcamp Website](https://github.com/DevOpsBootcamp/website)
+
+Reddit- mobile (also node.js)
 * [Reddit Mobile Github](https://github.com/reddit/reddit-mobile) 
 * Reddit Android?
 
-NPR + others (Python (Also Node for Less))
+NPR + others (Python, also node.js for Less)
 * [NPR App Templates (Python and OSX) GitHub](https://github.com/nprapps/app-template)  
 * [Planet Money Makes a T-Shirt](http://planetmoney.com/shirt)  
 * [Planet Money Makes a T-Shirt (Example website) GitHub](https://github.com/nprapps/tshirt)  
@@ -331,11 +339,11 @@ https://github.com/kelseyleftwich/capsule_grid
 
 ## ASP
 
-ASP.Net- Heroku deployment
+Heroku deployment
 * [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
 * [Vadim Abdrashitov's Heroku ASP.NET 5 Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
 
-ASP.NET- Boilerplate
+ASP.NET Boilerplate
 * [ASP.NET Boilerplate](http://www.aspnetboilerplate.com), [ASP.NET Boilerplate Docs](http://aspnetboilerplate.com/Pages/Documents), and [ASP.NET Boilerplate GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate)
 * [ASP.NET Boilerplate Module Zero GitHub](https://github.com/aspnetboilerplate/module-zero)
 * [ASP.NET Boilerplate Templates GitHub](https://github.com/aspnetboilerplate/aspnetboilerplate-templates)
@@ -343,7 +351,7 @@ ASP.NET- Boilerplate
 * [ASP.NET Boilerplate Questions/Answers GitHub](https://github.com/aspnetboilerplate/questions-answers)
 * [ASP.NET Boilerplate Event Cloud GitHub](https://github.com/aspnetboilerplate/eventcloud)
 
-ASP.NET- Example Website
+Example Website
 * [Parts Unlimited GitHub](https://github.com/Microsoft/PartsUnlimited) and [Parts Unlimited MRP GitHub](https://github.com/Microsoft/PartsUnlimitedMRP)
 
 ## Node and Javascript
