@@ -3,7 +3,7 @@
 Table of Contents
 - [Gov](#gov)
 - [Jekyll](#jekyll)
-- [Python- Django](#python-django) 
+- [Django](#django) 
 - [ASP](#asp) 
 - [node.js](#nodejs)
 - [PHP](#php)
@@ -101,7 +101,7 @@ Jekyll Themes
 * [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
-## Python- Django
+## Django
 
 Heroku Deployment
 * [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template)
@@ -118,6 +118,10 @@ Pinax
 * [Pinax Symposion GitHub](https://github.com/pinax/symposion)  
 
 <!--
+https://github.com/eldarion/djangocon.us
+https://ky395.us2.gondor.io
+http://eldarion.com
+
 https://github.com/pinax/pinax-starter-projects/tree/static
 https://github.com/pinax/pinax-starter-projects/tree/team-wiki
 -->
@@ -327,9 +331,6 @@ https://github.com/launchkit/launchkit
 https://github.com/cfpb/cfgov-refresh
 
 https://symposion.readthedocs.org/en/latest/
-https://github.com/eldarion/djangocon.us
-https://ky395.us2.gondor.io
-http://eldarion.com
 
 Flask
 https://github.com/jazzband/website
