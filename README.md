@@ -2311,6 +2311,8 @@ More GitHub Alternatives
 <!--
 https://github.com/open-source
 
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+
 https://opensource.google.com
 https://opensource.google.com/projects/explore/featured
 https://github.com/github/opensource.guide
@@ -2342,6 +2344,13 @@ Types of Licenses
 * [Creative Commons](https://creativecommons.org/licenses)
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 * [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
+
+<!--
+https://creativecommons.org/publicdomain/zero/1.0
+https://creativecommons.org/choose/zero/ | CC0
+https://creativecommons.org/share-your-work/public-domain/cc0/
+https://creativecommons.org/licenses/by/3.0/us/
+-->
 
 Code of Conduct
 * [Contributor Covenant](http://contributor-covenant.org) and [Contributor Covenant GitHub](https://github.com/ContributorCovenant/contributor_covenant)
