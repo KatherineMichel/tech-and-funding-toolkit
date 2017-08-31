@@ -11276,6 +11276,9 @@ Digital Stats
 #### Popular Tools
 
 <!--
+http://markup.su/highlighter
+http://www.striphtml.com
+
 http://www.avg.com
 
 Google Assistant: Google Allo
@@ -11540,6 +11543,11 @@ https://www.telestream.net/pdfs/user-guides/ScreenFlow-6-Tutorial.pdf
 
 http://www.telestream.net/wirecastplay/landing.htm
 
+http://www.telestream.net/controls/wirecast-play/download-wirecast-play-resources.htm
+http://www.telestream.net/application-content/wirecast/play/help/6-0/mac/index.html#Wirecast_Users_Guide/Tutorials/Tutorials.htm
+http://www.telestream.net/wirecastforyoutube/documentation/Wirecast-for-YouTube-User-Guide-Mac.pdf 
+http://www.telestream.net/controls/wirecast/download-wirecast.htm
+
 YouTube Livestreaming Info
 https://support.google.com/youtube/answer/2853700
 https://support.google.com/youtube/answer/2474026?hl=en
@@ -11553,6 +11561,21 @@ https://support.google.com/youtube/answer/7083786?hl=en
 New
 https://www.youtube.com/live_dashboard_splash
 
+Google voice and video calls
+https://www.google.com/tools/dlpage/hangoutplugin/thankyou.html
+https://support.google.com/youtube/answer/2907883?hl=en&authuser=2
+https://www.youtube.com/user/wc4ytlive
+https://support.google.com/hangouts/answer/3110347?co=GENIE.Platform%3DDesktop&hl=en
+
+
+Make movies the same way Ola makes Coding is for Girls
+https://twitter.com/CodingIsForGirl/status/695712398024511490
+https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+
+Make movies the same way Ola makes Coding is for Girls
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
+http://www.apple.com/mac/imovie
 
 https://blog.bufferapp.com/social-media-slideshares-2016
 https://blog.slideshare.net/2015/12/18/the-must-read-slideshares-of-2015
@@ -11580,17 +11603,6 @@ Group Communication/Chat
 * [BlueJeans](https://bluejeans.com)
 * [Zoom](https://zoom.us)
   
-<!--
-Make movies the same way Ola makes Coding is for Girls
-https://twitter.com/CodingIsForGirl/status/695712398024511490
-https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
-https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
-
-Make movies the same way Ola makes Coding is for Girls
-https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
-http://www.apple.com/mac/imovie
--->
-
 Scheduling
 * [Doodle](https://beta.doodle.com)
   
@@ -11809,6 +11821,12 @@ Logistics
 * [Teleport](http://teleport.org)
 * [Trulia](https://www.trulia.com)
 * [Zillow](http://www.zillow.com)
+
+<!--
+https://www.dhs.gov/real-id-public-faqs
+https://www.tsa.gov/
+https://www.cbp.gov/travel/trusted-traveler-programs/global-entry
+-->
 
 Remote
 * [remoteok](https://remoteok.io)
