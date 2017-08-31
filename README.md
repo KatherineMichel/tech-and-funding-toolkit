@@ -584,6 +584,8 @@ Programming style
 
 http://www.appinventor.org
 
+http://ladieslearningcode.com/girlscodeday/2017/
+
 https://github.com/FreeCodeCamp/hour-of-code
 
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
