@@ -11290,6 +11290,9 @@ Digital Stats
 #### Popular Tools
 
 <!--
+https://happinesspackets.io
+https://merch.amazon.com/landing
+
 http://markup.su/highlighter
 http://www.striphtml.com
 
