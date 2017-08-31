@@ -2064,7 +2064,6 @@ https://www.git-tower.com/blog/git-cheat-sheet/
       * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
       * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
       
-      
 https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
@@ -2079,6 +2078,7 @@ https://education.github.com/git-cheat-sheet-education.pdf
 https://education.github.com/
 https://education.github.com/guide/sandboxing
 https://education.github.com/guide/assignments
+https://education.github.com/guide/private_repos
 https://github.com/education/classroom
  
 https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/group-assignments/starter-files
@@ -2095,6 +2095,10 @@ https://github.com/github-archive
 https://github.com/github-archive/training.github.com
 https://github.com/github/teach.github.com
 https://github.com/githubteacher
+https://github.com/githubschool
+
+https://github.com/blog/2376-how-to-grade-programming-assignments-on-github
+https://github.com/githubteacher/intro-to-github-june-2017
 
 http://jlord.us/git-it
 https://github.com/jlord/git-it
@@ -5785,6 +5789,7 @@ Python- Django Community
 * [Ola Sendecka](http://blog.sendecka.me)
 * [Ola Sitarska](http://ola.sitarska.com)
 * [Timothy Allen](http://www.peregrinesalon.com) and [Timothy Allen GitHub](https://github.com/FlipperPA)
+* [Tom Christie](https://github.com/tomchristie)
 * [Tracy Osborn Twitter](http://twitter.com/limedaring)
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
@@ -6347,12 +6352,14 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
 <!--
-https://github.com/tomchristie
+http://www.aeracode.org/2017/7/11/towards-channels-20/
 http://www.encode.io/reports/july-2017
+https://github.com/encode/django-rest-framework/issues
 https://github.com/encode/django-rest-framework/projects
 http://www.django-rest-framework.org/tutorial/quickstart/#project-setup
 http://www.django-rest-framework.org/api-guide/filtering
 https://github.com/encode/uvicorn
+http://www.uvicorn.org/toolkit
 https://github.com/encode/apistar
 
 http://gunicorn.org
