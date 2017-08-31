@@ -5597,37 +5597,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
-https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
-
-Documentation tool for inspecting Django forms, form fields and form widgets.
-https://github.com/ana-balica/classy-django-forms 
-Classy Django REST Framework
-https://github.com/vintasoftware/classy-django-rest-framework 
-Django Class-Based-View Inspector -- Classy CBV
-http://ccbv.co.uk
-
-https://github.com/tomchristie
-http://www.encode.io/reports/july-2017
-https://github.com/encode/django-rest-framework/projects
-http://www.django-rest-framework.org
-http://www.django-rest-framework.org/tutorial/quickstart/#project-setup
-http://www.django-rest-framework.org/api-guide/filtering
-https://github.com/encode/uvicorn
-https://github.com/encode/apistar
-
-https://github.com/django/channels
-http://channels.readthedocs.io/en/stable
-https://channels.readthedocs.io/en/stable/concepts.html
-https://github.com/django/daphne
-http://gunicorn.org
-
-https://github.com/pypa/warehouse
-
 https://github.com/revsys/django-test-plus
 http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
 
-
-New
 https://pypi.org/project/cherry-picker
 
 https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
@@ -5732,21 +5704,19 @@ https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-Consulting Forms
+Consulting Firms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
 * [Lincoln Loop](http://lincolnloop.com)
 * [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
-
-<!--
-http://www.ellingtoncms.com
--->
+* [Vinta Software GitHub](https://github.com/vintasoftware)
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source) 
 * [Python 2 Sites](http://python2sites.com)
 * [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
 * [KU Sports](http://www2.kusports.com)  
+* [Ellington CMS](http://www.ellingtoncms.com)
 
 Python- Django- Major Organizations and Projects that Use Django (Excluding Templates)
 * [18F GitHub](https://github.com/18F)  
@@ -5762,8 +5732,14 @@ Python- Django- Major Organizations and Projects that Use Django (Excluding Temp
 * [Rdio GitHub](https://github.com/rdio)  
 * [Reddit GitHub](https://github.com/reddit)  
 * [StyleSeat GitHub](https://github.com/styleseat) 
+* [The Spokesman Review](http://www.spokesman.com)
 * [Wharton GitHub](https://github.com/wharton)
 * [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
+
+<!--
+http://www.spokesman.com/staff/
+http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
+-->
 
 Python- Python and Django People and Jobs
 * [Python Official Jobs Board](https://www.python.org/jobs)
@@ -5774,6 +5750,7 @@ Python- Python and Django People and Jobs
 
 Python- Django Community
 * [Adrienne Friend](https://codingwithknives.com)
+* [Ana Balica GitHub](https://github.com/ana-balica)
 * [Audrey Roy Greenfield](https://www.audreyr.com) and [Audrey Roy Greenfield GitHub](https://github.com/audreyr)
 * [Frank Wiles](http://www.frankwiles.com)
 * [Heather Marie Luna](http://heats.life)
@@ -5865,8 +5842,6 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 #### Django General
 
 <!--
-https://www.djangoproject.com/community/
-
 https://github.com/django/django-localflavor
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
@@ -5875,6 +5850,9 @@ https://github.com/django/django-contrib-comments
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Documentation](https://docs.djangoproject.com)  
+
+Python- Django DEPS
+* [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 Python- Django- Resources
 * [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
@@ -5898,6 +5876,8 @@ Python- Django- Dedicated Websites
 
 <!--
 https://github.com/simpleisbetterthancomplex/simple-academy
+
+https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
@@ -6160,7 +6140,13 @@ Database
 #### Python and Django Common Deployment Tools
 
 <!--
-https://ccbv.co.uk
+Documentation tool for inspecting Django forms, form fields and form widgets.
+https://github.com/ana-balica/classy-django-forms 
+Classy Django REST Framework
+https://github.com/vintasoftware/classy-django-rest-framework 
+Django Class-Based-View Inspector -- Classy CBV
+http://ccbv.co.uk
+
 http://cdrf.co
 
 http://www.fullstackpython.com/deployment.html
@@ -6317,6 +6303,10 @@ Python- Django Extensions
 Python- Django- Migrations
 * [South](http://south.aeracode.org) and [South Read the Docs](http://django-south.readthedocs.io)
 
+Python- Django- Records, Requests
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org)  
 * [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
@@ -6332,13 +6322,21 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
-Python- Django- Records, Requests
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+<!--
+https://github.com/tomchristie
+http://www.encode.io/reports/july-2017
+https://github.com/encode/django-rest-framework/projects
+http://www.django-rest-framework.org/tutorial/quickstart/#project-setup
+http://www.django-rest-framework.org/api-guide/filtering
+https://github.com/encode/uvicorn
+https://github.com/encode/apistar
+
+http://gunicorn.org
+-->
 
 Python- Django- Channels
-* [Channels GitHub](https://github.com/andrewgodwin/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
-* [Django Channels HTTP/WebSocket Server](https://github.com/andrewgodwin/daphne)
+* [Channels GitHub](https://github.com/django/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
+* [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
 https://github.com/jacobian/demo-thing
@@ -11563,6 +11561,17 @@ Group Communication/Chat
 * [BlueJeans](https://bluejeans.com)
 * [Zoom](https://zoom.us)
   
+<!--
+Make movies the same way Ola makes Coding is for Girls
+https://twitter.com/CodingIsForGirl/status/695712398024511490
+https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK
+https://www.youtube.com/watch?v=7bzxqIKYgf4&feature=youtu.be
+
+Make movies the same way Ola makes Coding is for Girls
+https://itunes.apple.com/us/app/affinity-designer/id824171161?mt=12
+http://www.apple.com/mac/imovie
+-->
+
 Scheduling
 * [Doodle](https://beta.doodle.com)
   
