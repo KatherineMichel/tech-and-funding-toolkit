@@ -387,6 +387,12 @@ Courses (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
+<!--
+https://www.producthunt.com/posts/codecademy-pro-2
+http://ready.codecademy.com/
+https://www.codecademy.com/learn/beta
+-->
+
 W3Schools
 * [W3Schools Web Development Tutorials](http://www.w3schools.com)
 * [W3Fools](http://www.w3fools.com/)
