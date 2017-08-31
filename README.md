@@ -2353,6 +2353,8 @@ Types of Licenses
 * [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
 
 <!--
+https://www.apache.org/legal/resolved.html#category-x
+
 https://creativecommons.org/publicdomain/zero/1.0
 https://creativecommons.org/choose/zero/ | CC0
 https://creativecommons.org/share-your-work/public-domain/cc0/
@@ -11344,6 +11346,10 @@ Privacy
 <!--
 https://www.eff.org/https-everywhere
 
+https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history
+https://www.mozilla.org/en-US/firefox/features/private-browsing/
+
+
 Browse in private with Incognito mode
 https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
 
@@ -11614,6 +11620,13 @@ Group Communication/Chat
 * [Internet Relay Chat Wikipedia](https://en.wikipedia.org/wiki/Internet_Relay_Chat)
 * [BlueJeans](https://bluejeans.com)
 * [Zoom](https://zoom.us)
+  
+<!--
+https://hangouts.google.com
+
+Anchor - Radio, reinvented
+https://anchor.fm
+-->  
   
 Scheduling
 * [Doodle](https://beta.doodle.com)
