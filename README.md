@@ -2072,6 +2072,9 @@ https://github.com/settings/applications/511051
 https://github.com/KatherineMichel/personal-goals/settings/installations
 https://github.com/github/github-services/tree/master/docs
 
+My link
+https://classroom.github.com/classrooms
+
 https://education.github.com/git-cheat-sheet-education.pdf
 https://education.github.com/
 https://education.github.com/guide/sandboxing
@@ -5726,6 +5729,8 @@ Consulting Firms
 * [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+https://github.com/roverdotcom
+https://github.com/caktus
 https://www.caktusgroup.com/talks/speaker/mark-lavin
 https://www.caktusgroup.com/blog/2016/02/02/writing-unit-tests-django-migrations
 -->
