@@ -5597,6 +5597,11 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+http://docs.python-guide.org/en/latest/
+https://teamtreehouse.com/tracks/learn-python
+https://github.com/kennethreitz/python-guide
+
+
 https://github.com/revsys/django-test-plus
 http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
 
@@ -5710,6 +5715,11 @@ Consulting Firms
 * [Lincoln Loop](http://lincolnloop.com)
 * [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
 * [Vinta Software GitHub](https://github.com/vintasoftware)
+
+<!--
+https://www.caktusgroup.com/talks/speaker/mark-lavin
+https://www.caktusgroup.com/blog/2016/02/02/writing-unit-tests-django-migrations
+-->
 
 Python- Django- Sites
 * [Django Sites](https://www.djangosites.org/with-source) 
