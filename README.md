@@ -2156,6 +2156,7 @@ A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
 <!--
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 http://principlesofchaos.org
 http://stevesouders.com/hpws
 https://www.enterpriseready.io
@@ -2165,9 +2166,8 @@ https://www.oreilly.com/ideas/how-the-tensorflow-team-handles-open-source-suppor
 * [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
 * [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
 
-* ChatOps
 * [What is ChatOps? And How do I Get Started?](https://www.pagerduty.com/blog/what-is-chatops/), \
-    [What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+[What is ChatOps? A guide to its evolution, adoption, and significance](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
   
 Trello
 https://upcase.com/design-for-developers-resources/principles
@@ -6147,6 +6147,10 @@ Python- Microframeworks and Template Engines
 * [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
 * [WebPy GitHub](https://github.com/webpy/webpy)
 * [Tornado](http://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
+
+<!--
+http://flask.pocoo.org/docs/0.12/blueprints
+-->
 
 Python- Django- Pinax
 * [Pinax](http://pinaxproject.com) 
