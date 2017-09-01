@@ -5804,6 +5804,11 @@ Python- Django Community
 * [Tracy Osborn Twitter](http://twitter.com/limedaring)
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
+<!--
+http://treyhunner.com/talk-talk/#/
+https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
+-->
+
 Python- Django- News
 * [Django Weblog GitHub](https://www.djangoproject.com/weblog)
 * [Get Topical Django Framework](http://gettopical.com/djangoframework) 
@@ -7130,7 +7135,8 @@ http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
 https://aws.amazon.com/business-builder/?nc1=f_dr
 
-Amazon Merch
+Amazon 
+
 https://developer.amazon.com/public/apis
 
 http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
