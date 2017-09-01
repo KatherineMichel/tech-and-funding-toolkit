@@ -5624,8 +5624,10 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
-http://python.apichecklist.com/
-http://docs.python-guide.org/en/latest/
+https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
+https://django-unleashed.com
+http://python.apichecklist.com
+http://docs.python-guide.org/en/latest
 https://teamtreehouse.com/tracks/learn-python
 https://github.com/kennethreitz/python-guide
 
