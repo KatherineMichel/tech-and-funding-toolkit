@@ -5624,6 +5624,7 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+http://python.apichecklist.com/
 http://docs.python-guide.org/en/latest/
 https://teamtreehouse.com/tracks/learn-python
 https://github.com/kennethreitz/python-guide
@@ -9101,6 +9102,11 @@ Awards
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
 <!--
+https://idea.org.uk/
+http://www.xprize.org/
+https://presidentialinnovationfellows.gov/
+
+http://thinkers50.com/hall-of-fame/ | Hall of Fame - Thinkers 50
 http://thinkers50.com/event/thinkers50-2017-awards-gala
 -->
 
@@ -10764,6 +10770,10 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 * [SXSW](http://sxsw.com) 
 * [Web Summit](https://websummit.com)
 * [KC Addys](http://aafkc.com/addys)
+
+<!--
+https://theeuropas.com
+-->
 
 Mobile (See also Mobile)
 * [Groupe Speciale Mobile Association (GSMA)](http://www.gsma.com)
