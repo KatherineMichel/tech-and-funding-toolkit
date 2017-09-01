@@ -1578,6 +1578,7 @@ https://github.com/sprintly/sprint.ly-culture
 https://github.com/bonusly/un-handbook
 https://corner.squareup.com/2016/02/womeng-handbook-launch.html
 https://github.com/digitalocean/engineering-code-of-conduct
+
 https://github.com/Prismatic/eng-practices
 
 https://code.gov/#/policy-guide/docs/compliance/measuring-code
@@ -2199,63 +2200,36 @@ Innovators Patent Agreements
 * [Balanced Employee IP Agreement GitHub](https://github.com/github/balanced-employee-ip-agreement)
 * [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
 
+<!--
+Document Examples
+* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
 
+* [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+
+https://github.com/atom/atom/blob/master/CONTRIBUTING.md
+https://github.com/rails/rails/blob/master/CONTRIBUTING.md
+https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
+https://github.com/HSIDANA/REPORTINGEASY/blob/2bc147b9de68c75cff97080599c2ac796b5ff0e3/www/lib/ng-table/RELEASING.md
+https://github.com/rails/rails/blob/master/.github/issue_template.md
+
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://gist.github.com/PurpleBooth
+https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
+
+https://twitter.com/housecor/status/883304305117323264
+-->
 
 
 #### Open Source Management and Programming Tiers
 
 <!--
-https://blog.x.company
-https://x.company/graduated
-
-
-https://www.cebglobal.com/insights/challenger-sale.html
-https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
-
-https://twitter.com/housecor/status/883304305117323264
-http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
-https://opensourcefriday.com
-
-https://github.com/open-source
-
-http://opensourcesurvey.org/2017/#insights
-https://opensource.google.com
-https://opensource.google.com/projects/explore/featured
-https://github.com/github/opensource.guide
-
 https://twitter.com/sehurlburt/status/882421726562234369
 https://twitter.com/sehurlburt/status/885604819632705536
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
--->
-
-<!--
-https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
-https://influitive.com/blog/introduction-developer-relations/
-
-https://en.wikipedia.org/wiki/Capability_Maturity_Model
-https://en.wikipedia.org/wiki/Free_and_open-source_software
-https://martinfowler.com/bliki/MaturityModel.html
-https://github.com/github/maturity-model
-
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-http://opensourcesurvey.org/2017/#insights
-
-https://twitter.com/mikeal/status/872253127038181376
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-http://gousios.gr/bibliography/GSB16.html
-http://gousios.gr/bibliography/GB15.html
-https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
-    
-* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
-
-* [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-                  
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-https://gist.github.com/PurpleBooth
-https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
 
 https://blog.golang.org/developer-experience
 https://www.ampproject.org/roadmap
@@ -2267,8 +2241,31 @@ Community
 * [Mikeal Rogers Medium](https://medium.com/@mikeal) and [Mikeal Rogers Twitter](https://twitter.com/mikeal)
 * [Nadia Eghbal Medium](https://medium.com/@nayafia)
 
+<!--
+https://twitter.com/mikeal/status/872253127038181376
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+http://gousios.gr/bibliography/GSB16.html
+http://gousios.gr/bibliography/GB15.html
+https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
+-->
+
 Developer Relations
 * ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+<!--
+Sales and DevRel
+https://www.cebglobal.com/insights/challenger-sale.html
+https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
+https://influitive.com/blog/introduction-developer-relations/
+
+https://en.wikipedia.org/wiki/Capability_Maturity_Model
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://martinfowler.com/bliki/MaturityModel.html
+https://github.com/github/maturity-model
+-->
 
 Open Source
 * [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
@@ -2278,6 +2275,18 @@ GitHub Open Source Survey
 * [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
 * [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/open-source-guide)
 
+<!--
+https://opensourcefriday.com
+
+https://opensource.google.com
+https://opensource.google.com/projects/explore/featured
+https://github.com/open-source
+
+https://github.com/github/opensource.guide
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+http://opensourcesurvey.org/2017/#insights
+-->
+
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
 * [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
@@ -2286,6 +2295,10 @@ Code Review (See also Project Management)
 Triaging
 
 <!--
+http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
+
+* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+
 https://github.com/thoughtbot/guides/tree/master/code-review
 https://thoughtbot.com/playbook/developing/code-reviews
 https://github.com/blog/2123-more-code-review-tools
@@ -2302,22 +2315,18 @@ https://github.com/v8/v8/wiki/Triaging-issues
 http://docs.hood.ie/en/latest/developers/TRIAGING.html
 -->
 
+
 Open Source Management, Codes of Conduct, Roadmaps
 * [Open Source Management at Docker](https://github.com/docker/opensource)
-
-Document Examples
-* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
-* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
-
-<!--
-* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
--->
 
 Bus Factor
 * [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
 
+
+
 Open Source Hosting
 * [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
 
 <!--
 Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
@@ -2416,10 +2425,6 @@ http://javascriptair.com
 
 Example Help Tweets
 * [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
-
-
-
-
 
 
 
@@ -11277,6 +11282,9 @@ Labs, Kitchens, Garages
 * [MIT Lincoln Laboratory](http://www.ll.mit.edu) and [MIT Lincoln Laboratory Wikipedia](https://en.wikipedia.org/wiki/MIT_Lincoln_Laboratory)
 
 <!--
+https://blog.x.company
+https://x.company/graduated
+
 https://en.wikipedia.org/wiki/Information_Processing_Techniques_Office
 
 https://www.google.com/search?q=first+prototype+of+a+computer+mouse&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjgutW008jSAhWo5IMKHSdnDpUQ_AUICCgB&biw=1366&bih=585
