@@ -54,9 +54,10 @@ Table of Content
   * [DevOps](#devops)
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
-  * [Collaborative Development](#collaborative-development)
-  * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
   * [Git and Markdown](#git-and-markdown)
+  * [Collaborative Development](#collaborative-development)
+  * [Open Source Documentation](#open-source-documentation)
+  * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -1635,11 +1636,426 @@ https://robots.thoughtbot.com/tags/git
 https://github.com/hypenotic/hypelabs
 -->
 
+
+
+#### Git and Markdown
+
+<!--
+https://githubengineering.com/dns-infrastructure-at-github/
+
+    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
+    * Chrome Extensions
+      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
+      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+-->
+
+<!--
+New 
+https://github.com/settings/connections/applications/64a051cf1598b9f0658f
+https://github.com/organizations/code-collaboration-and-review/invite
+https://github.com/settings/applications/511051
+
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
+
+My link
+https://classroom.github.com/classrooms
+https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/group-assignments/starter-files
+https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
+
+
+Education and Training
+
+https://education.github.com/git-cheat-sheet-education.pdf
+https://education.github.com/
+https://education.github.com/guide/sandboxing
+https://education.github.com/guide/assignments
+https://education.github.com/guide/private_repos
+https://github.com/education/classroom
+
+https://classroom.github.com/
+https://classroom.github.com/#getting-started-video
+
+https://github.com/github/training-kit
+https://github.com/github/training-utils
+https://github.com/github-archive
+https://github.com/github-archive/training.github.com
+https://github.com/github/teach.github.com
+https://github.com/githubteacher
+https://github.com/githubschool
+
+https://github.com/blog/2376-how-to-grade-programming-assignments-on-github
+https://github.com/githubteacher/intro-to-github-june-2017
+
+http://jlord.us/git-it
+https://github.com/jlord/git-it
+http://jlord.us/patchwork
+https://github.com/jlord/reporobot
+https://github.com/jlord/patchwork/tree/gh-pages/contributors
+
+* [Git-it](https://github.com/jlord/git-it-electron)
+
+https://services.github.com/training
+https://services.github.com/resources/
+https://services.github.com/resources/tools/
+https://services.github.com/resources/tutorials/
+https://services.github.com/classnotes/
+https://services.github.com/on-demand
+https://services.github.com/on-demand/downloads/subversion-migration
+
+
+Miscellaneous
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+https://github.com/settings/keys
+https://gist.github.com/adamjohnson/5682757
+
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+
+https://git-for-windows.github.io
+-->
+
+
+Concurrent Version System
+* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
+* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
+* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1) 
+
+Git Origin
+* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [Git GitHub](https://github.com/git/git)  
+* [Git Mojombo GitHub](https://github.com/mojombo/git)  
+* [Git GitHub](https://github.com/xlymian/git) 
+
+Git Homepage, Resources
+* [Git Homepage](https://git-scm.com)
+* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
+* [Git Documentation](https://git-scm.com/documentation)
+* [Git Pro Git Book](https://git-scm.com/book/en/v2)
+* [GitHub Help](https://help.github.com)
+* [GitHub Guides](https://guides.github.com)
+* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
+* [Git Index](http://gitref.org) 
+* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
+* [Git Tower Learn](https://www.git-tower.com/learn)
+
+<!--
+https://github.com/git/git-scm.com
+
+https://github.com/progit/progit2
+
+http://gitready.com
+http://gitref.org
+https://git-scm.com/documentation/external-links
+https://git-scm.com/docs/git-difftool
+
+https://www.atlassian.com/git/tutorials
+https://www.atlassian.com/git
+https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html
+https://developer.atlassian.com/blog/2015/10/cool-features-git-2.x/
+
+GitHub Docs
+https://www.digitalocean.com/community/tutorials
+https://www.digitalocean.com/community/tutorials?q=git
+
+https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
+
+https://sourceforge.net/p/forge/documentation/Git/
+
+https://www.git-tower.com/blog/git-cheat-sheet/
+
+  * [Git Glossary](https://www.atlassian.com/git/glossary)
+  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  
+https://www.amazon.com/Pragmatic-Guide-Git-Guides/dp/1934356727
+
+http://blog.udacity.com/2015/06/become-github-pro.html
+-->
+
+
+Git- Official Learning Resources
+* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+
+GitHub- Main
+* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
+* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git) 
+* [GitHub Blog](https://github.com/blog)  
+* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+Git Ignore and Licenses
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
+
+<!--
+https://github.com/joeblau/gitignore.io
+-->
+
+Ribbons, Buttons, Octicons, Shields
+* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
+* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
+* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
+* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
+* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
+
+GitHub Services Integration
+* [Service Hooks GitHub](https://github.com/github/github-services)  
+* [GitHub Integrations](https://github.com/integrations)  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+
+<!--
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+
+https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
+https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
+
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
+-->
+
+
+GitHub Business
+* [GitHub Business](https://github.com/business)
+
+GitHub Organizations Dashboard
+* [GitHub Organizations](https://github.com/account/organizations/new)
+
+GitHub Organizations
+* [About Organizations](https://help.github.com/articles/about-organizations)
+
+
+<!--
+New
+https://github.com/updates
+
+https://github.com/marketplace
+https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
+
+GitHub Standards
+https://standards.github.io
+
+https://github.com/contact
+
+https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
+https://github.com/desktop/desktop
+https://github.atom.io
+http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html
+
+https://help.github.com/enterprise
+https://github.com/business/customers
+
+https://github.com/github-tools
+https://github.com/showcases/projects-with-great-wikis
+
+https://pages.github.com
+-->
+
+
+Gist
+* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
+
+Hub
+* [Hub](https://hub.github.com) and [Hub GitHub](https://github.com/github/hub)
+
+<!--
+Hubot adapters
+-->
+
+GitHub- More
+* [GitHub DCMA](https://github.com/github/dmca)
+* [Octokit](https://github.com/octokit) 
+* [Education Pack](https://education.github.com/pack)
+
+GitHub- Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending](https://github.com/josephyzhou/github-trending)
+* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+GitHub and GitLab Shops
+* [GitHub Shop](https://github.myshopify.com)
+* [GitLab Shop](https://shop.gitlab.com)
+
+Markdown
+* [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
+* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
+* [Markdown](http://daringfireball.net/projects/markdown)  
+* [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
+* [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+* [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+<!--
+http://www.yaml.org/refcard.html
+http://yaml.org/spec/1.2/spec.html
+-->
+
+Atlassian: Bitbucket and SourceTree
+* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
+* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
+* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
+* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
+* [Atlassian SourceTree App (GUI)](https://www.sourcetreeapp.com)
+    
+<!--
+https://bitbucket.org/product/features
+https://www.atlassian.com/licensing/cloud/future-pricing
+-->
+
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+<!--
+https://about.gitlab.com/
+https://about.gitlab.com/comparison/
+https://github.com/gitlabhq/gitlabhq
+https://gitlab.com/ | Projects · Dashboard · GitLab
+https://about.gitlab.com/2017/07/17/redesigning-gitlabs-navigation/ | Redesigning GitLab's navigation | GitLab
+-->
+
+More GitHub Alternatives
+* [Google Code](https://code.google.com)  
+* [Sourceforge](http://sourceforge.net)  
+* [Codebase](https://www.codebasehq.com)  
+
+<!--
+http://getgitorious.com
+https://github.com/tv42/gitosis
+
+One Click Deploy
+
+https://www.atlassian.com/software-trends
+
+https://github.com/git-ftp
+https://github.com/github/git-lfs
+https://git-lfs.github.com
+
+https://github.com/ajaxorg/ace
+
+https://ifttt.com/github/recipes
+
+https://www.producthunt.com/@jordan_gonen/collections/everything-github
+-->
+
+
+
 ## Collaborative Development
+
+<!--
+https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches
+https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
+http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html
+http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
+
+https://about.gitlab.com/2016/12/01/how-to-keep-your-fork-up-to-date-with-its-origin/
+
+
+
+
+http://schacon.github.io/git/user-manual.html#examining-remote-branches
+
+https://www.kernel.org/pub/software/scm/git/docs/gitworkflows.html
+
+https://git-scm.com/docs/gitworkflows
+https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
+https://git-scm.com/book/gr/v2/Customizing-Git-Git-Hooks
+https://git-scm.com/docs/git-worktree
+
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
+https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-workflows
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+
+
+
+https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase | git rebase | Atlassian Git Tutorial
+http://genomewiki.ucsc.edu/index.php/Working_with_branches_in_Git#Three_types_of_projects_you_might_to_do_in_a_development_branch
+https://launchschool.com/books/git/read/github
+https://git-scm.com/docs/giteveryday
+
+https://about.gitlab.com/eep-demo/
+-->
+
+
+<!--
+https://zachholman.com/talk/git-github-secrets
+https://zachholman.com/talk/more-git-and-github-secrets/
+
+https://github.com/git-tips/tips
+
+https://github.com/mdo/config
+https://github.com/wearehive/project-guidelines
+https://github.com/tiimgreen/github-cheat-sheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://guides.github.com/activities/forking/
+https://help.github.com/articles/about-git-rebase/
+
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+https://github.com/blog/2415-introducing-embedded-code-snippets
+https://github.com/blog/2392-introducing-code-owners
+
+* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
+https://help.github.com/articles/backing-up-a-repository
+
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
+
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
+
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+https://www.atlassian.com/git/tutorials/advanced-overview
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+
+https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
+
+https://contribute.jquery.org/commits-and-pull-requests
+https://www.visualstudio.com/en-us/docs/git/pull-requests
+
+https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
+-->
+
 
 Collaborative Development Models
 * [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
 * ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
+
+<!--
+https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models/
+https://help.github.com/articles/about-collaborative-development-models
+https://help.github.com/articles/what-is-a-good-git-workflow
+-->
 
 X Driven Development
 * [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
@@ -1653,14 +2069,15 @@ Continuousness
 Pros and Cons
 * ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
 
+Advice
+* Single version in production simple software - use Github-flow
+* Single Version in production but very complex software - use Gitlab-flow
+* Multiple versions in production - use Git-flow
+
+<!--
 General Approaches
 * Mainline Development
 * Trunk-based Development
-
-<!--
-Single version in production simple software - use Github-flow
-Single Version in production but very complex software - use Gitlab-flow
-Multiple versions in production - use Git-flow
 -->
 
 A Successful Git Branching Model
@@ -1668,43 +2085,38 @@ A Successful Git Branching Model
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
-More Workflows
+Atlassian Workflow
+* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+
+<!--
 * [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
 * [Start your DevOps journey](https://www.atlassian.com/devops/start-your-journey)
-* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
+
+https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches
+-->
+
+GitHub Flow
 * [GitHub Flow](https://help.github.com/articles/github-flow)
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 * [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+GitLab Flow
 * [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
 * [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
 * [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+
+Company or Organization Specific Workflows
 * [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
 
 <!--
-New
-https://twitter.com/sehurlburt/status/882421726562234369
-https://twitter.com/sehurlburt/status/885604819632705536
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-
-https://www.kernel.org/pub/software/scm/git/docs/gitworkflows.html
-
-https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
-
-https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches
-https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
-http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html
-http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
-
-https://about.gitlab.com/comparison/
-https://about.gitlab.com/2016/12/01/how-to-keep-your-fork-up-to-date-with-its-origin/
-
-
-
-
 https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
+
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+
 https://datasift.github.io/gitflow
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
+https://datasift.github.io/gitflow/Versioning.html
+
 http://endoflineblog.com/gitflow-considered-harmful
 
 https://github.com/Originate/git-town
@@ -1720,6 +2132,8 @@ Semver (See also: npm packages)
 * [Semver: A Primer](https://nodesource.com/blog/semver-a-primer/)
 -->
 
+
+
 12 Factor App and Beyond
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
 * [Beyond the 12 Factor App](https://pivotal.io/beyond-the-twelve-factor-app)
@@ -1731,8 +2145,6 @@ A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
 <!--
-X Driven Development
-
 http://principlesofchaos.org
 http://stevesouders.com/hpws
 https://www.enterpriseready.io
@@ -1754,22 +2166,67 @@ https://cloud.google.com/source-repositories/pricing
 -->
 
 
+#### Open Source Documentation
+
+Types of Licenses
+* [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
+* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+* [Creative Commons](https://creativecommons.org/licenses)
+* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+* [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
+
+<!--
+https://www.apache.org/legal/resolved.html#category-x
+
+https://creativecommons.org/publicdomain/zero/1.0
+https://creativecommons.org/choose/zero/ | CC0
+https://creativecommons.org/share-your-work/public-domain/cc0/
+https://creativecommons.org/licenses/by/3.0/us/
+-->
+
+Code of Conduct
+* [Contributor Covenant](http://contributor-covenant.org) and [Contributor Covenant GitHub](https://github.com/ContributorCovenant/contributor_covenant)
+* [Citizen Code of Conduct](http://citizencodeofconduct.org)
+
+Innovators Patent Agreements
+* [Balanced Employee IP Agreement GitHub](https://github.com/github/balanced-employee-ip-agreement)
+* [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
+
+
+
+
 #### Open Source Management and Programming Tiers
 
-Community
-* [Mikeal Rogers Medium](https://medium.com/@mikeal) and [Mikeal Rogers Twitter](https://twitter.com/mikeal)
-* [Nadia Eghbal Medium](https://medium.com/@nayafia)
+<!--
+https://blog.x.company
+https://x.company/graduated
 
-Developer Relations
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 
-Open Source
-* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
-* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+https://www.cebglobal.com/insights/challenger-sale.html
+https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
 
-GitHub Open Source Survey
-* [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
-* [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/open-source-guide)
+https://twitter.com/housecor/status/883304305117323264
+http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
+https://opensourcefriday.com
+
+https://github.com/open-source
+
+http://opensourcesurvey.org/2017/#insights
+https://opensource.google.com
+https://opensource.google.com/projects/explore/featured
+https://github.com/github/opensource.guide
+
+https://twitter.com/sehurlburt/status/882421726562234369
+https://twitter.com/sehurlburt/status/885604819632705536
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+-->
 
 <!--
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
@@ -1804,6 +2261,21 @@ https://www.ampproject.org/roadmap
 https://www.debian.org/social_contract
 http://hood.ie/contribute
 -->
+
+Community
+* [Mikeal Rogers Medium](https://medium.com/@mikeal) and [Mikeal Rogers Twitter](https://twitter.com/mikeal)
+* [Nadia Eghbal Medium](https://medium.com/@nayafia)
+
+Developer Relations
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+Open Source
+* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+
+GitHub Open Source Survey
+* [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
+* [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/open-source-guide)
 
 Code Review (See also Project Management)
 * [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
@@ -1946,383 +2418,9 @@ Example Help Tweets
 
 
 
-#### Git and Markdown
 
-<!--
-Docs
 
-http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
 
-https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-
-https://www.atlassian.com/git/tutorials/setting-up-a-repository
-https://help.github.com/articles/backing-up-a-repository
-
-https://contribute.jquery.org/commits-and-pull-requests
-https://www.visualstudio.com/en-us/docs/git/pull-requests
-
-https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
-
-https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
-
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
-
-https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
-
-https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
-https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
-
-https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
--->
-
-<!--
-New 
-https://github.com/progit/progit2
-http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
-https://opensourcefriday.com
-https://github.com/github/training-kit
-http://blog.udacity.com/2015/06/become-github-pro.html
-https://www.git-tower.com/blog/git-cheat-sheet/
-
-* [Git-it](https://github.com/jlord/git-it-electron)
-
-  * [Become a git guru](https://www.atlassian.com/git/tutorials), [Git Glossary](https://www.atlassian.com/git/glossary)
-  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
-  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-  
-  * GUI
-    * [SourceTree](https://www.sourcetreeapp.com/)
-  * Github
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-    * Chrome Extensions
-      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
-      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
-      
-https://github.com/settings/connections/applications/64a051cf1598b9f0658f
-https://github.com/organizations/code-collaboration-and-review/invite
-https://github.com/settings/applications/511051
-
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-
-My link
-https://classroom.github.com/classrooms
-
-https://education.github.com/git-cheat-sheet-education.pdf
-https://education.github.com/
-https://education.github.com/guide/sandboxing
-https://education.github.com/guide/assignments
-https://education.github.com/guide/private_repos
-https://github.com/education/classroom
- 
-https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/group-assignments/starter-files
-https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
-
-https://classroom.github.com/
-https://classroom.github.com/#getting-started-video
-
-https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models/
-
-https://github.com/github/training-kit
-https://github.com/github/training-utils
-https://github.com/github-archive
-https://github.com/github-archive/training.github.com
-https://github.com/github/teach.github.com
-https://github.com/githubteacher
-https://github.com/githubschool
-
-https://github.com/blog/2376-how-to-grade-programming-assignments-on-github
-https://github.com/githubteacher/intro-to-github-june-2017
-
-http://jlord.us/git-it
-https://github.com/jlord/git-it
-http://jlord.us/patchwork
-https://github.com/jlord/reporobot
-https://github.com/jlord/patchwork/tree/gh-pages/contributors
-
-https://services.github.com/training
-https://services.github.com/resources/
-https://services.github.com/resources/tools/
-https://services.github.com/resources/tutorials/
-https://services.github.com/classnotes/
-https://services.github.com/on-demand
-https://services.github.com/on-demand/downloads/subversion-migration
-
-
-
-New
-https://zachholman.com/talk/git-github-secrets
-https://zachholman.com/talk/more-git-and-github-secrets/
-https://github.com/git-tips/tips
-
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
-https://github.com/settings/keys
-https://gist.github.com/adamjohnson/5682757
-
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-
-https://git-for-windows.github.io
--->
-
-Concurrent Version System
-* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
-* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
-* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1) 
-
-Git Origin
-* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-* [Git GitHub](https://github.com/git/git)  
-* [Git Mojombo GitHub](https://github.com/mojombo/git)  
-* [Git GitHub](https://github.com/xlymian/git) 
-
-Git Homepage, Resources
-* [Git Homepage](https://git-scm.com)
-* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
-* [Git Documentation](https://git-scm.com/documentation)
-* [Git Pro Git Book](https://git-scm.com/book/en/v2)
-* [GitHub Help](https://help.github.com)
-* [GitHub Guides](https://guides.github.com)
-* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
-* [Git Index](http://gitref.org) 
-* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
-* [Git Tower Learn](https://www.git-tower.com/learn)
-
-<!--
-http://gitready.com
-http://gitref.org
-https://git-scm.com/documentation/external-links
-https://git-scm.com/docs/git-difftool
-
-https://www.atlassian.com/git/tutorials
-https://www.atlassian.com/git
-https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html
-
-GitHub Docs
-https://www.digitalocean.com/community/tutorials
-https://www.digitalocean.com/community/tutorials?q=git
--->
-
-Git- Official Learning Resources
-* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
-
-GitHub- Main
-* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
-* [GitHub Features (Code Review, ect.)](https://github.com/features)
-* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git) 
-* [GitHub Blog](https://github.com/blog)  
-* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
-Git Ignore and Licenses
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/articles/open-source-licensing)  
-
-<!--
-https://github.com/joeblau/gitignore.io
--->
-
-Ribbons, Buttons, Octicons, Shields
-* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
-* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
-* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
-* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
-* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
-
-GitHub Services Integration
-* [Service Hooks GitHub](https://github.com/github/github-services)  
-* [GitHub Integrations](https://github.com/integrations)  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
-
-<!--
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
-
-https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
-https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
-
-https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
--->
-
-GitHub Business
-* [GitHub Business](https://github.com/business)
-
-GitHub Organizations Dashboard
-* [GitHub Organizations](https://github.com/account/organizations/new)
-
-GitHub Organizations
-* [About Organizations](https://help.github.com/articles/about-organizations)
-
-<!--
-New
-https://github.com/updates
-
-https://github.com/marketplace
-https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
-
-GitHub Standards
-https://standards.github.io
-
-https://github.com/contact
-
-https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
-https://github.com/desktop/desktop
-https://github.atom.io
-http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html
-
-https://help.github.com/enterprise
-https://github.com/business/customers
-
-https://github.com/github-tools
-https://github.com/showcases/projects-with-great-wikis
-
-https://pages.github.com
--->
-
-Gist
-* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
-
-Hub
-* [Hub](https://hub.github.com) and [Hub GitHub](https://github.com/github/hub)
-
-<!--
-Hubot adapters
--->
-
-GitHub- More
-* [GitHub DCMA](https://github.com/github/dmca)
-* [Octokit](https://github.com/octokit) 
-* [Education Pack](https://education.github.com/pack)
-
-GitHub- Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending](https://github.com/josephyzhou/github-trending)
-* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
-
-GitHub- How To
-* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-GitHub Shop
-* [GitHub Shop](https://github.myshopify.com)
-
-Markdown
-* [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
-* [Learn X in Y Minutes Markdown](https://learnxinyminutes.com/docs/markdown)
-* [Markdown](http://daringfireball.net/projects/markdown)  
-* [Markdown Basics](http://daringfireball.net/projects/markdown/basics)  
-* [Dive into Markdown](http://daringfireball.net/2004/03/dive_into_markdown)  
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-* [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
-* [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
-
-<!--
-http://www.yaml.org/refcard.html
-http://yaml.org/spec/1.2/spec.html
--->
-
-Atlassian: Bitbucket and SourceTree
-* [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
-* [Bitbucket Cloud Docs](https://confluence.atlassian.com/bitbucket/bitbucket-cloud-documentation-home-221448814.html) 
-* [Bitbucket Integrations](https://bitbucket.org/integrations) and [Bitbucket Cloud Integrations](https://bitbucket.org/integrations/cloud)
-* [Bitbucket Highest Ratest Plugins](https://marketplace.atlassian.com/plugins/app/bitbucket/highest-rated?hosting=server)
-* [Atlassian SourceTree](https://www.sourcetreeapp.com)
-
-GitLab (See also Project Management and Docker)
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-More GitHub Alternatives
-* [Google Code](https://code.google.com)  
-* [Sourceforge](http://sourceforge.net)  
-* [Codebase](https://www.codebasehq.com)  
-
-<!--
-https://github.com/open-source
-
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-
-https://opensource.google.com
-https://opensource.google.com/projects/explore/featured
-https://github.com/github/opensource.guide
-
-https://blog.x.company
-https://x.company/graduated
-
-http://getgitorious.com
-https://github.com/tv42/gitosis
-
-One Click Deploy
-
-https://bitbucket.org/product/features
-https://about.gitlab.com/
-https://sourceforge.net/p/forge/documentation/Git/
-
-https://www.atlassian.com/software-trends
--->
-
-Types of Licenses
-* [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
-* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-* [Creative Commons](https://creativecommons.org/licenses)
-* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-* [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
-
-<!--
-https://www.apache.org/legal/resolved.html#category-x
-
-https://creativecommons.org/publicdomain/zero/1.0
-https://creativecommons.org/choose/zero/ | CC0
-https://creativecommons.org/share-your-work/public-domain/cc0/
-https://creativecommons.org/licenses/by/3.0/us/
--->
-
-Code of Conduct
-* [Contributor Covenant](http://contributor-covenant.org) and [Contributor Covenant GitHub](https://github.com/ContributorCovenant/contributor_covenant)
-* [Citizen Code of Conduct](http://citizencodeofconduct.org)
-
-Innovators Patent Agreements
-* [Balanced Employee IP Agreement GitHub](https://github.com/github/balanced-employee-ip-agreement)
-* [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
-
-<!--
-https://github.com/git-ftp
-https://github.com/github/git-lfs
-https://git-lfs.github.com
-
-https://github.com/ajaxorg/ace
-
-https://ifttt.com/github/recipes
-
-https://www.producthunt.com/@jordan_gonen/collections/everything-github
--->
 
 #### Operating System, Browser, Layout Engine2
 
