@@ -617,10 +617,14 @@ Developer Surveys
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 <!--
+https://stackoverflow.blog
+
+https://stackoverflow.blog/2017/08/22/world-mobile-development/#.WZxnRkDJWb4.twitter | Where in the World is Mobile Development? - Stack Overflow Blog
+https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends
+https://insights.stackoverflow.com/trends
+
 https://stackoverflow.com/company/salary/skills/product-designer?e=1&l=1
 https://www.stackoverflowbusiness.com/talent/resources/recruiting-developers-in-2017
-
-https://insights.stackoverflow.com/trends
 
 http://sogrady-media.redmonk.com/sogrady/files/2017/06/lang.rank_.617.wm_.png
 
@@ -1531,6 +1535,13 @@ Currently out of commission.
 <!--
 #### Open Companies
 
+https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
+http://blog.triplebyte.com/how-to-interview-engineers
+https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
+https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
+
+
+
 Buffer
 * [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
 * [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
@@ -1549,8 +1560,6 @@ More
 * [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
 
 <!--
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
 http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
 https://www.subscribewithamazon.com
 https://www.amazon.jobs/principles
