@@ -1664,8 +1664,83 @@ https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/g
 https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
 
 
-Education and Training
+Miscellaneous
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+https://github.com/settings/keys
+https://gist.github.com/adamjohnson/5682757
 
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+
+https://git-for-windows.github.io
+-->
+
+Concurrent Version System
+* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
+* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
+* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1) 
+
+Git Origin
+* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [Git GitHub](https://github.com/git/git)  
+* [Git Mojombo GitHub](https://github.com/mojombo/git)  
+* [Git GitHub](https://github.com/xlymian/git) 
+
+Git Homepage, Resources
+* [Git Homepage](https://git-scm.com)
+* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
+* [Git Documentation](https://git-scm.com/documentation)
+* [Git Pro Git Book](https://git-scm.com/book/en/v2)
+* [GitHub Help](https://help.github.com)
+* [GitHub Guides](https://guides.github.com)
+* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
+* [Git Index](http://gitref.org) 
+* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
+* [Git Tower Learn](https://www.git-tower.com/learn)
+
+<!--
+https://github.com/git/git-scm.com
+
+https://github.com/progit/progit2
+
+http://gitready.com
+https://git-scm.com/documentation/external-links
+https://git-scm.com/docs/git-difftool
+
+https://www.atlassian.com/git/tutorials
+https://www.atlassian.com/git
+https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html
+https://developer.atlassian.com/blog/2015/10/cool-features-git-2.x/
+
+GitHub Docs
+https://www.digitalocean.com/community/tutorials
+https://www.digitalocean.com/community/tutorials?q=git
+
+https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
+
+https://sourceforge.net/p/forge/documentation/Git
+
+https://www.git-tower.com/blog/git-cheat-sheet
+
+* [Git Glossary](https://www.atlassian.com/git/glossary)
+* [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+  
+https://www.amazon.com/Pragmatic-Guide-Git-Guides/dp/1934356727
+
+https://www.pluralsight.com/courses/git-advanced-tips-tricks
+https://www.codeschool.com/courses/git-real-2
+http://blog.udacity.com/2015/06/become-github-pro.html
+-->
+
+Git- Official Learning Resources
+* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+
+GitHub Education and Training
+
+<!--
 https://education.github.com/git-cheat-sheet-education.pdf
 https://education.github.com/
 https://education.github.com/guide/sandboxing
@@ -1702,82 +1777,7 @@ https://services.github.com/resources/tutorials/
 https://services.github.com/classnotes/
 https://services.github.com/on-demand
 https://services.github.com/on-demand/downloads/subversion-migration
-
-
-Miscellaneous
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
-https://github.com/settings/keys
-https://gist.github.com/adamjohnson/5682757
-
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-
-https://git-for-windows.github.io
 -->
-
-
-Concurrent Version System
-* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
-* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
-* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1) 
-
-Git Origin
-* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-* [Git GitHub](https://github.com/git/git)  
-* [Git Mojombo GitHub](https://github.com/mojombo/git)  
-* [Git GitHub](https://github.com/xlymian/git) 
-
-Git Homepage, Resources
-* [Git Homepage](https://git-scm.com)
-* [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
-* [Git Documentation](https://git-scm.com/documentation)
-* [Git Pro Git Book](https://git-scm.com/book/en/v2)
-* [GitHub Help](https://help.github.com)
-* [GitHub Guides](https://guides.github.com)
-* [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
-* [Git Index](http://gitref.org) 
-* [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
-* [Git Tower Learn](https://www.git-tower.com/learn)
-
-<!--
-https://github.com/git/git-scm.com
-
-https://github.com/progit/progit2
-
-http://gitready.com
-http://gitref.org
-https://git-scm.com/documentation/external-links
-https://git-scm.com/docs/git-difftool
-
-https://www.atlassian.com/git/tutorials
-https://www.atlassian.com/git
-https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html
-https://developer.atlassian.com/blog/2015/10/cool-features-git-2.x/
-
-GitHub Docs
-https://www.digitalocean.com/community/tutorials
-https://www.digitalocean.com/community/tutorials?q=git
-
-https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
-
-https://sourceforge.net/p/forge/documentation/Git/
-
-https://www.git-tower.com/blog/git-cheat-sheet/
-
-  * [Git Glossary](https://www.atlassian.com/git/glossary)
-  * [Pro Git - Index of Commands](https://git-scm.com/book/commands)
-  * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-  
-https://www.amazon.com/Pragmatic-Guide-Git-Guides/dp/1934356727
-
-http://blog.udacity.com/2015/06/become-github-pro.html
--->
-
-
-Git- Official Learning Resources
-* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
 
 GitHub- Main
 * [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
@@ -1959,16 +1959,8 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 ## Collaborative Development
 
 <!--
-https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches
-https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
-http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html
-http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
-
-https://about.gitlab.com/2016/12/01/how-to-keep-your-fork-up-to-date-with-its-origin/
-
-
-
-
+http://schacon.github.io/git/user-manual
+http://schacon.github.io/git/user-manual#setting-up-a-shared-repository
 http://schacon.github.io/git/user-manual.html#examining-remote-branches
 
 https://www.kernel.org/pub/software/scm/git/docs/gitworkflows.html
@@ -1978,11 +1970,7 @@ https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows
 https://git-scm.com/book/gr/v2/Customizing-Git-Git-Hooks
 https://git-scm.com/docs/git-worktree
 
-https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
-https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-workflows
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
-
-
 
 https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase | git rebase | Atlassian Git Tutorial
 http://genomewiki.ucsc.edu/index.php/Working_with_branches_in_Git#Three_types_of_projects_you_might_to_do_in_a_development_branch
@@ -1991,61 +1979,6 @@ https://git-scm.com/docs/giteveryday
 
 https://about.gitlab.com/eep-demo/
 -->
-
-
-<!--
-https://zachholman.com/talk/git-github-secrets
-https://zachholman.com/talk/more-git-and-github-secrets/
-
-https://github.com/git-tips/tips
-
-https://github.com/mdo/config
-https://github.com/wearehive/project-guidelines
-https://github.com/tiimgreen/github-cheat-sheet
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-
-https://guides.github.com/activities/forking/
-https://help.github.com/articles/about-git-rebase/
-
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-https://github.com/blog/2415-introducing-embedded-code-snippets
-https://github.com/blog/2392-introducing-code-owners
-
-* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
-https://help.github.com/articles/backing-up-a-repository
-
-https://github.com/blog/1943-how-to-write-the-perfect-pull-request
-https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
-
-http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
-
-https://www.atlassian.com/git/tutorials/setting-up-a-repository
-https://www.atlassian.com/git/tutorials/advanced-overview
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
-
-https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
-https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
-
-https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
-https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
-
-https://contribute.jquery.org/commits-and-pull-requests
-https://www.visualstudio.com/en-us/docs/git/pull-requests
-
-https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
-https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
-
-https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
-https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
-
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
-http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
--->
-
 
 Collaborative Development Models
 * [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
@@ -2109,7 +2042,67 @@ Company or Organization Specific Workflows
 * [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
 
 <!--
+https://zachholman.com/talk/git-github-secrets
+https://zachholman.com/talk/more-git-and-github-secrets/
+
+https://github.com/git-tips/tips
+
+https://github.com/mdo/config
+https://github.com/wearehive/project-guidelines
+https://github.com/tiimgreen/github-cheat-sheet
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://guides.github.com/activities/forking/
+https://help.github.com/articles/about-git-rebase/
+
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+https://github.com/blog/2415-introducing-embedded-code-snippets
+https://github.com/blog/2392-introducing-code-owners
+
+* [GitHub Duplicating a Repository](https://help.github.com/articles/duplicating-a-repository) 
+https://help.github.com/articles/backing-up-a-repository
+
+https://github.com/blog/1943-how-to-write-the-perfect-pull-request
+https://help.github.com/articles/about-pull-request-merges/#rebase-and-merge-your-pull-request-commits
+
+http://gitready.com/advanced/2009/03/23/whats-inside-your-git-directory.html
+http://gitready.com/beginner/2009/03/09/remote-tracking-branches.html
+http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
+
+https://about.gitlab.com/2016/12/01/how-to-keep-your-fork-up-to-date-with-its-origin/
+
+https://www.atlassian.com/git/tutorials/setting-up-a-repository
+https://www.atlassian.com/git/tutorials/advanced-overview
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+https://www.atlassian.com/git/tutorials/learn-branching-with-bitbucket-cloud
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing#the-golden-rule-of-rebasing
+
+https://confluence.atlassian.com/bbkb/how-to-locally-fetch-and-checkout-a-pull-request-724402529.html
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+
+https://help.github.com/enterprise/2.10/user/articles/creating-a-pull-request-from-a-fork
+
+https://contribute.jquery.org/commits-and-pull-requests
+https://contribute.jquery.org/commits-and-pull-requests/#commit-guidelines
+https://www.visualstudio.com/en-us/docs/git/pull-requests
+
+https://github.com/edx/edx-platform/wiki/How-to-Rebase-a-Pull-Request
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+https://git-scm.com/book/id/v2/Git-Branching-Remote-Branches
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing#the-perils-of-rebasing
+
+https://www.digitalocean.com/community/tutorials/how-to-use-git-branches
+https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github
+
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_07_basicGitCommands/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
+http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
+
+https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
 https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/branching-merging/branching-workflows
 
 https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
 
@@ -2117,11 +2110,19 @@ https://datasift.github.io/gitflow
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
 https://datasift.github.io/gitflow/Versioning.html
 
+https://trunkbaseddevelopment.com/game-changers/
+https://trunkbaseddevelopment.com/alternative-branching-models/
+
+https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
+
 http://endoflineblog.com/gitflow-considered-harmful
 
 https://github.com/Originate/git-town
 
 https://gist.github.com/seshness/3943237
+
+https://stackoverflow.com/questions/2428722/git-branch-strategy-for-small-dev-team
+https://stackoverflow.com/questions/42405888/what-is-upstream-first-policy
 -->
 
 Semver (See also: npm packages)
