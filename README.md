@@ -9057,6 +9057,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+https://hanselminutes.com/archives
+
 http://cyberomin.github.io
 
 https://en.wikipedia.org/wiki/Diane_Greene
