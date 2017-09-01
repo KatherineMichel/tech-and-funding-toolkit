@@ -2210,6 +2210,8 @@ Innovators Patent Agreements
 * [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
 
 <!--
+https://github.com/tj/gh-polls
+
 Document Examples
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
@@ -3621,6 +3623,8 @@ Foundation
 * [Zurb Library](http://zurb.com/library)
 
 <!--
+http://foundation.zurb.com/sites/docs/style-sherpa.html
+
 https://github.com/daigofuji/jekyll-foundation-5-starter
 http://sass-lang.com/documentation
 http://sass-lang.com/documentation/file.SASS_REFERENCE.html
@@ -6732,6 +6736,9 @@ Consoles: Webmaster and Analytics
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
 <!--
+New
+https://github.com/github/octodns
+
 New
 https://developers.google.com/google-apps/calendar/
 https://console.developers.google.com/apis
