@@ -3023,6 +3023,10 @@ Static Site Generators and CMS (See also Jekyll)
 * [Metalsmith GitHub](https://github.com/metalsmith/metalsmith)
 * [Prose (Content Editor for GitHub)](http://prose.io)
 
+<!--
+https://gohugo.io/getting-started/quick-start
+-->
+
 Static Web Publishing
 * [Surge](https://surge.sh)
 
@@ -11316,6 +11320,9 @@ Digital Stats
 #### Popular Tools
 
 <!--
+https://www.linkedin.com/directory/people-company-s/ | Browse Members by Name and Company: S a @ Larsen-&-toubro-limited - Số @ Acb-bank | LinkedIn
+https://blog.medium.com/expanding-the-medium-partner-program-3be09dd146e4
+
 https://happinesspackets.io
 https://merch.amazon.com/landing
 https://thehub.amazon.com/ | Welcome
