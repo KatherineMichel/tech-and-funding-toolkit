@@ -10483,9 +10483,16 @@ Digital Millennium Copyright Act
 * [Buzzfeed DMCA Policy](http://www.buzzfeed.com/about/dmca)  
 * [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
 
+
+
+
 #### Government Digital
 
 <!--
+https://code.gov
+https://www.whitehouse.gov/blog/2016/08/08/peoples-code
+https://sourcecode.cio.gov
+
 See
 * [Templates and Example Website Code]()
 -->
@@ -10546,6 +10553,9 @@ Estonian E-Residence
 
 U.S. Gov.: Code for America
 * [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
+
+
+
 
 #### Government and International Data
 
