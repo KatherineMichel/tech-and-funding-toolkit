@@ -7135,8 +7135,6 @@ http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
 
 https://aws.amazon.com/business-builder/?nc1=f_dr
 
-Amazon 
-
 https://developer.amazon.com/public/apis
 
 http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
@@ -11308,6 +11306,7 @@ Digital Stats
 <!--
 https://happinesspackets.io
 https://merch.amazon.com/landing
+https://thehub.amazon.com/ | Welcome
 
 http://markup.su/highlighter
 http://www.striphtml.com
