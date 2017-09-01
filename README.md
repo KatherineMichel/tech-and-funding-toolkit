@@ -5628,6 +5628,7 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+http://madewithwagtail.org
 https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
 https://django-unleashed.com
 http://python.apichecklist.com
@@ -11327,6 +11328,11 @@ https://happinesspackets.io
 https://merch.amazon.com/landing
 https://thehub.amazon.com/ | Welcome
 
+https://www.amazon.com/ap/signin
+https://www.audible.com/whatis
+https://www.amazon.com/kindle-dbs/thankYouPage
+
+https://www.diffchecker.com/diff
 http://markup.su/highlighter
 http://www.striphtml.com
 
@@ -11868,8 +11874,6 @@ https://www.hellobonsai.com/freelancers
 https://www.twilio.com/marketplace/add-ons
 
 http://www.nytimes.com/packages/html/business/20060510_LEONHARDT/cost_per_mile.html
-
-https://www.diffchecker.com/diff
 -->
 
 Shipping
