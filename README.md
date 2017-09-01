@@ -388,6 +388,9 @@ Courses (See also MOOCs)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
+https://egghead.io/
+https://egghead.io/tags/free
+
 https://www.producthunt.com/posts/codecademy-pro-2
 http://ready.codecademy.com/
 https://www.codecademy.com/learn/beta
@@ -591,8 +594,6 @@ https://github.com/FreeCodeCamp/hour-of-code
 https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
 https://github.com/pluralsight-projects/HelloPluralsightProject
-
-https://egghead.io/tags/free
 
 http://www.gnu.org/doc/other-free-books.html
 
@@ -5959,6 +5960,7 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://hellowebbooks.com/news/hello-web-app-online-forever
 https://github.com/hellowebbooks
 https://github.com/hellowebapp/hellowebdesign
 
