@@ -29,6 +29,11 @@ Update: This list has become larger than ever intended and is nearing a point of
 
 * [Venture Analysis](#venture-analysis)
 * [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
+
+* [Python and Django Conferences and Mentors](#python-and-django-conferences)
+* [Python and Django Girls](#python-and-django-girls)
+
+* [Open Companies](#open-companies) 
 -->
 
 Table of Content
@@ -36,58 +41,34 @@ Table of Content
 
 * [Programming Learning Tools](#programming-learning-tools) 
 * [Programming Documentation and Standards](#programming-documentation-and-standards) 
-
 * [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
-
 * [Built With and Search](#built-with-and-search)
-
-
-
 * [Programming Language Style Guides](#programming-language-style-guides) 
-
 * [Basics](#basics)
   * [Computer Basics](#computer-basics)
   * [Command Line and Shell](#command-line-and-shell)
   * [Keyboard Shortcuts](#keyboard-shortcuts)
   * [Encoding](#encoding)
   * [Dot Files](#dot-files)
-  
 * [Systems](#systems)
   * [DevOps](#devops)
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
-
   * [Collaborative Development](#collaborative-development)
-
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
-
   * [Git and Markdown](#git-and-markdown)
-  
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
   * [Apple General](#apple-general)
-
-<!--
-#### Dashboard
--->
-
 * [Social Media and Webmaster](#social-media-and-webmaster) 
-
 * [Social Media](#social-media)
 * [Design Thinking](#design-thinking)
 * [Pretotyping and Prototyping](#pretotyping-and-prototyping)
 * [Themes and Static Site Generators](#themes-and-static-site-generators)
-
-
 * [Facebook and Google Design and Development Approaches](#facebook-and-google-design-and-development-approaches)
-
 * [Front-End Development](#front-end-development) 
-
 * [CSS Helpers](#css-helpers)
-
-
-
 * [Development Environment and Programming](#development-environment-and-programming)
   * [Apple Developer](#apple-developer)
   * [Google Developer](#google-developer)
@@ -95,19 +76,12 @@ Table of Content
   * [Mozilla Developer](#mozilla-developer)
   * [Browser and Layout Engines](#browser-and-layout-engines)    
   * [Developer Tools](#developer-tools)
-
 * [Testing and Performance](#testing-and-performance)
-
-
-
 * [JavaScript](#javascript)
 * [AJAX, jQuery, JSON](#ajax-jquery-json)
-
   * [JavaScript Framework](#javascript-framework)
   * [JavaScript Tools](#javascript-tools)
-
 * [Back-End Programming Languages, MVCs](#back-end-programming-languages-mvcs)
-
 * [Ruby and Jekyll](#ruby-and-jekyll)
 * [PHP](#php)
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
@@ -129,12 +103,6 @@ Table of Content
   * [Python and Django CMS](#python-and-django-cms)
   * [Python and Django Geo](#python-and-django-geo)
   * [Python and Django Unique](#python-and-django-unique)
-
-<!--
-  * [Python and Django Conferences and Mentors](#python-and-django-conferences)
-  * [Python and Django Girls](#python-and-django-girls)
--->
-
 * [Web Host Newsletters](#web-host-newsletters)
 * [Events](#events)
 * [Dashboards](#dashboards)
@@ -153,22 +121,12 @@ Table of Content
 * [Apache, SQL, Nginx](#apach-sql-nginx) 
 * [Dev Ops Tools](#dev-ops-tools)
 * [More Back-End](#more-back-end)
-
-<!--
-#### New
--->
-
 * [Common MEAN Back-end Tools](#common-mean-back-end-tools)
-
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
-
 * [Mobile](#mobile)
 * [Swift](#swift)
-
 * [Video Gaming and Virtal Reality](#video-gaming-and-virtual-reality)
-
 * [Appendix](#appendix)
-
 * [People](#people)
   * [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
   * [Tech Analysts, Thought Leaders](#tech-analysts-thought-leaders)
@@ -176,54 +134,34 @@ Table of Content
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
-
   * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
-  
 * [Company and Product Databases](#company-and-product-databases)
 * [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
-
 * [Venture](#venture)
-
   * [VC Theory](#vc-theory)
   * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
-
 * [Documents and Advice](#documents-and-advice)
-
 * [Economics, Models](#economics-models)
 * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
 * [Chance](#chance)
 * [Finance Extra](#finance-extra)
- 
 * [Regulation, Business Entity](#regulation-business-entity)
 * [Government Digital](#government-digital)
 * [Government and International Data](#government-and-international-data)
-
-
 * [Software and Mobile are Eating the World, Software is Reorganizing the World](#software-and-mobile-are-eating-the-world-software-is-reorganizing-the-world)
-
 * [Philosophies, Milestones](#philosophies-milestones)
 * [Notable Interviews and Presentations](#notable-interviews-and-presentations)
 * [Notable Quotes](#notable-quotes)
-
 * [Events, Talks, People](#events-talks-people)
 * [Books and Courses](#books-and-courses)
 * [Business and Tech News Sources](#business-and-tech-news-sources)
 * [Analyst Groups](#analyst-groups)
-
 * [Labs, Kitchens, Garages](#labs-kitchens-garages)
-
-<!--
-* [Open Companies](#open-companies) 
--->
-
 * [Launch Strategies](#launch-strategies)
 * [Growth, Marketing, and Content Resources](#growth-marketing-and-content-resources)
 * [Internationalization](#internationalization)
-
 * [Popular Tools](#popular-tools)
-
 * [Learning Resources](#learning-resources)
-
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
 
@@ -794,11 +732,7 @@ GitHub StyleGuides
 * [GitHub StyleGuides](https://github.com/styleguide) 
 
 Google Style Guides
-* [Google Style Guides](https://google.github.io/styleguide)
-
-<!--
-https://github.com/google/styleguide
--->
+* [Google Style Guides](https://google.github.io/styleguide) and [Google Style Guides GitHub](https://github.com/google/styleguide)
 
 Mozilla Coding Style Guide
 * [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
