@@ -5751,6 +5751,14 @@ http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site 
 http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
 https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
 
+https://docs.python.org/3.4/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+
+https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
+https://github.com/coodict/python3-in-one-pic
+
 https://pythonclock.org Python 2.7 Countdown
 https://mail.python.org/mailman/listinfo/core-workflow 
 https://github.com/boto/boto
