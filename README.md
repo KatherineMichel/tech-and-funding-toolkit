@@ -11454,6 +11454,15 @@ Digital Stats
 #### Popular Tools
 
 <!--
+Dongle
+https://en.wikipedia.org/wiki/Thunderbolt_(interface) | Thunderbolt (interface) - Wikipedia
+https://www.amazon.com/AmazonBasics-Mini-DisplayPort-Thunderbolt-Adapter/dp/B00NH13K8S/ | Amazon.com: AmazonBasics Mini DisplayPort (Thunderbolt) to HDMI Adapter: Computers & Accessories
+
+https://www.dhs.gov/real-id-public-faqs
+https://www.tsa.gov/
+https://www.cbp.gov/travel/trusted-traveler-programs/global-entry
+
+
 https://www.linkedin.com/directory/people-company-s/ | Browse Members by Name and Company: S a @ Larsen-&-toubro-limited - Số @ Acb-bank | LinkedIn
 https://blog.medium.com/expanding-the-medium-partner-program-3be09dd146e4
 
@@ -12022,12 +12031,6 @@ Logistics
 * [Teleport](http://teleport.org)
 * [Trulia](https://www.trulia.com)
 * [Zillow](http://www.zillow.com)
-
-<!--
-https://www.dhs.gov/real-id-public-faqs
-https://www.tsa.gov/
-https://www.cbp.gov/travel/trusted-traveler-programs/global-entry
--->
 
 Remote
 * [remoteok](https://remoteok.io)
