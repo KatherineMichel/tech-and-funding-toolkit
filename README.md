@@ -2052,6 +2052,61 @@ Company or Organization Specific Workflows
 * [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
 
 <!--
+New
+https://puppet.com/resources/whitepaper/state-of-devops-report/thank-you | 2017 State of DevOps Report – Thank you | Puppet
+file:///Users/katherinemichel/Downloads/2017-state-of-devops-report.pdf | 2017-state-of-devops-report.pdf
+https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
+
+http://schacon.github.io/git/user-manual.html | Git User’s Manual (for version 1.5.3 or newer)
+
+A curated list of trunk based development resources
+https://github.com/cgbystrom/awesome-trunk-based-dev 
+
+Trunk-Based Development economics (Paul Hammant) - YouTube
+https://www.youtube.com/watch?v=meB_SWzZm8M
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
+https://paulhammant.com/2013/04/05/what-is-trunk-based-development/ | What is Trunk-Based Development?
+
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+
+https://git-scm.com/docs/ | Git - Reference
+https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows | Git - Branching Workflows
+https://git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project | Git - Contributing to a Project
+https://git-scm.com/book/en/v2/Distributed-Git-Distributed-Workflows#wfdiag_c | Git - Distributed Workflows
+https://git-scm.com/book/en/v2/Git-Tools-Interactive-Staging#_interactive_staging | Git - Interactive Staging
+https://git-scm.com/docs/git-notes | Git - git-notes Documentation
+
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow | Workflows with git-flow
+https://www.git-tower.com/learn/git/ebook/en/desktop-gui/branching-merging/branching-workflows | Branching Workflows
+https://www.git-tower.com/learn/git/ebook/en/command-line/branching-merging/branching-workflows | Branching Workflows
+
+https://docs.gitlab.com/ee/workflow/gitlab_flow.html | GitLab Documentation
+
+https://www.kernel.org/pub/software/scm/git/docs/gitworkflows.html | gitworkflows(7)
+https://www.kernel.org/pub/software/scm/git/docs/git-notes.html | git-notes(1)
+https://www.kernel.org/pub/software/scm/git/docs/ | git(1)
+
+https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
+https://www.atlassian.com/software-trends?agile=y&git=y&continuous=y&containers=n&code_review=y&industry=Software&team_size=39&team_name=Hello | Software Development Trends | Atlassian
+https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches | Living long and prospering with long-lived Git branches - Atlassian Blog
+https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
+https://www.atlassian.com/blog/archives/simple-git-workflow-simple | Simple Git workflow is simple - Atlassian Blog
+https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
+
+https://blog.rackspace.com/the-business-advantages-of-continuous-integration | The Business Advantages Of Continuous Integration - The Official Rackspace Blog
+https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful/ | Long-Running Branches Considered Harmful - New Relic Blog
+
+https://team-coder.com/from-git-flow-to-trunk-based-development/ | From Git Flow to Trunk Based Development
+https://team-coder.com/avoid-merge-conflicts/ | 4 Simple Tricks to Avoid Merge Conflicts
+
+
+
+
 https://zachholman.com/talk/git-github-secrets
 https://zachholman.com/talk/more-git-and-github-secrets/
 
@@ -2156,6 +2211,11 @@ A Reactive Manifesto
 * [The Reactive Manifesto](http://www.reactivemanifesto.org)
 
 <!--
+New
+https://landing.google.com/sre/book.html | Google - Site Reliability Engineering
+https://landing.google.com/sre/book/index.html | Google - Site Reliability Engineering
+
+
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 http://principlesofchaos.org
 http://stevesouders.com/hpws
