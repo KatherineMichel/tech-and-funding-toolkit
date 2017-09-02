@@ -5777,6 +5777,9 @@ http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
 https://github.com/kennethreitz/python-guide
 https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
 
+http://docs.pipenv.org/en/latest
+https://github.com/kennethreitz/pipenv
+
 Python Package Managers
 https://github.com/sdispater/poet
 https://github.com/takluyver/flit
