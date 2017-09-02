@@ -620,6 +620,7 @@ Developer Surveys
 https://stackoverflow.blog
 
 https://stackoverflow.blog/2017/08/22/world-mobile-development/#.WZxnRkDJWb4.twitter | Where in the World is Mobile Development? - Stack Overflow Blog
+https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/ | A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog
 https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends
 https://insights.stackoverflow.com/trends
 
