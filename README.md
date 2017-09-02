@@ -5739,6 +5739,39 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+New
+https://pythonclock.org Python 2.7 Countdown
+https://mail.python.org/mailman/listinfo/core-workflow 
+https://github.com/boto/boto
+https://github.com/boto/boto3 -- Python interface to Amazon Web Services
+https://github.com/pypa/python-packaging-user-guide/issues
+
+https://pythondotorg.readthedocs.io/contributing.html
+https://github.com/python/pythondotorg/tree/master
+https://github.com/python/performance
+
+https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
+https://packaging.python.org/new-tutorials/installing-and-using-packages
+
+https://docs.python.org/devguide/ | Python Developer’s Guide — Python Developer's Guide
+https://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
+https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
+https://docs.python.org/devguide/gitbootcamp.html#gitbootcamp | 32. Git Bootcamp and Cheat Sheet — Python Developer's Guide
+https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
+
+https://github.com/direnv
+http://docs.python-requests.org/en/master
+https://github.com/kennethreitz/setup.py
+http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
+https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
+
+Python Package Managers
+https://github.com/sdispater/poet
+https://github.com/takluyver/flit
+https://packaging.python.org/key_projects/?highlight=pipenv
+
+
+
 http://madewithwagtail.org
 https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
 https://django-unleashed.com
