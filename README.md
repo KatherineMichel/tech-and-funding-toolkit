@@ -5740,6 +5740,17 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
+https://github.com/eldarion | Eldarion, Inc.
+https://github.com/pinax | Pinax Project
+https://github.com/pinax/symposion/issues | Issues · pinax/symposion
+
+http://eldarion.com
+http://eldarion.cloud/ | Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes
+http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site Care and Maintenance from Eldarion
+
+http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
+https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
+
 https://pythonclock.org Python 2.7 Countdown
 https://mail.python.org/mailman/listinfo/core-workflow 
 https://github.com/boto/boto
@@ -5763,6 +5774,7 @@ https://github.com/direnv
 http://docs.python-requests.org/en/master
 https://github.com/kennethreitz/setup.py
 http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
+https://github.com/kennethreitz/python-guide
 https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
 
 Python Package Managers
@@ -5770,15 +5782,12 @@ https://github.com/sdispater/poet
 https://github.com/takluyver/flit
 https://packaging.python.org/key_projects/?highlight=pipenv
 
-
-
 http://madewithwagtail.org
 https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
 https://django-unleashed.com
 http://python.apichecklist.com
-http://docs.python-guide.org/en/latest
 https://teamtreehouse.com/tracks/learn-python
-https://github.com/kennethreitz/python-guide
+
 
 
 https://github.com/revsys/django-test-plus
