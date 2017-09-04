@@ -12,28 +12,6 @@ Update: This list has become larger than ever intended and is nearing a point of
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
-
-* [Data Science](#data-science)
-
-* [Other Enormous Tool Lists](#other-enormous-tool-lists)
-
-* [Brainstorming](#brainstorming)
-* [Surveys, Trends, Stats](#surveys-trends-stats)
-* [Site and App Research](#site-and-app-research)
-
-* [Creative Destruction, Innovator's Dilemma, and Attacker's Advantage](#creative-destruction-innovators-dilemma-and-attackers-advantage)
-* [Lean Startup and Launchpad](#lean-startup-and-launchpad)
-
-* [Market, Business Models, Pricing, Product Tiers](#market-business-models-pricing-product-tiers)
-* [Metrics](#metrics)
-
-* [Venture Analysis](#venture-analysis)
-* [Notable Proposals and Pitch Decks](#notable-proposals-and-pitch-decks)
-
-* [Python and Django Conferences and Mentors](#python-and-django-conferences)
-* [Python and Django Girls](#python-and-django-girls)
-
-* [Open Companies](#open-companies) 
 -->
 
 Table of Content
@@ -311,7 +289,7 @@ https://speakerdeck.com/limedaring/pycaribbean-1
 -->
 
 Guides for Development
-* [Google Guide for Technical Development](https://www.google.com/about/careers/students/guide-to-technical-development.html)
+* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
 * [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
 
 Courses (See also MOOCs)
