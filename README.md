@@ -683,37 +683,39 @@ DevCenter (Developer Center/API)
 
 <!--
 New
+* [Style Guide Driven Development / Living Style Guides](http://styleguides.io/)
+
 https://github.com/bradfrost/style-guide-guide
 https://github.com/alexpate/awesome-design-systems
 https://github.com/kciter/awesome-style-guide
 
-  * Style Guide
-    * [Style Guide Driven Development / Living Style Guides](http://styleguides.io/)
-    * Reference
-      * Apple's [Human Interface Guidelines](https://developer.apple.com/design/)
-      * Google's [Material Design](https://material.io/)
-      * Microsoft's [Fluent Design System](http://fluent.microsoft.com/)
-      * Airbnb's [new design system](https://airbnb.design/building-a-visual-language/)
-      * Github's [Primer](http://primercss.io/)
-      * Atlassian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
-      * Salesforce's [Lightning Design System](https://www.lightningdesignsystem.com/)
-      * Yelp's [Styleguide](https://www.yelp.com/styleguide)
-      * IBM's [Living Language](https://www.ibm.com/design/language/)
-      * A List Apart's [pattern library](http://patterns.alistapart.com/)
+* Apple's [Human Interface Guidelines](https://developer.apple.com/design/)
+https://developer.apple.com/design/awards/
 
-      * BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines/)
-      * <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov/)
-      * MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide/)
+* Microsoft's [Fluent Design System](http://fluent.microsoft.com/)
+* Airbnb's [new design system](https://airbnb.design/building-a-visual-language/)
+* Atlassian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
+* Salesforce's [Lightning Design System](https://www.lightningdesignsystem.com/)
+* Yelp's [Styleguide](https://www.yelp.com/styleguide)
+* IBM's [Living Language](https://www.ibm.com/design/language/)
+* A List Apart's [pattern library](http://patterns.alistapart.com/)
+
+* BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines/)
+* <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov/)
+* MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide/)
 
 https://github.com/buzzfeed/design
-https://developer.apple.com/design/
-https://developer.apple.com/design/awards/
 
 https://console.ng.bluemix.net
 -->
 
 GitHub StyleGuides
 * [GitHub StyleGuides](https://github.com/styleguide) 
+
+<!--
+* Google's [Material Design](https://material.io/)
+* Github's [Primer](http://primercss.io/)
+-->
 
 Google Style Guides
 * [Google Style Guides](https://google.github.io/styleguide) and [Google Style Guides GitHub](https://github.com/google/styleguide)
