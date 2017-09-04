@@ -1493,6 +1493,8 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 
 #### Systems
 
+
+
 #### DevOps
 
 DevOps- General
@@ -1519,6 +1521,7 @@ GitLab (See also Project Management and Docker)
 <!--
 GitLab Org
 https://gitlab.com/groups/gitlab-org
+Possible repeat
 https://github.com/gitlabhq/gitlabhq
 
 https://www.atlassian.com/licensing/starter
@@ -1936,7 +1939,7 @@ GitLab (See also Project Management and Docker)
 <!--
 https://about.gitlab.com/
 https://about.gitlab.com/comparison/
-https://github.com/gitlabhq/gitlabhq
+https://github.com/gitlabhq/gitlabhq repeat
 https://gitlab.com/ | Projects · Dashboard · GitLab
 https://about.gitlab.com/2017/07/17/redesigning-gitlabs-navigation/ | Redesigning GitLab's navigation | GitLab
 -->
@@ -1970,6 +1973,40 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 ## Collaborative Development
 
 <!--
+New
+http://endoflineblog.com/gitflow-considered-harmful | GitFlow considered harmful | End of Line Blog
+http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow | OneFlow - a Git branching model and workflow | End of Line Blog
+http://endoflineblog.com/follow-up-to-gitflow-considered-harmful#comment-2959961696 | Follow-up to 'GitFlow considered harmful' | End of Line Blog
+
+https://trunkbaseddevelopment.com/ | Trunk Based Development
+https://github.com/paul-hammant/tbd | paul-hammant/tbd: Source for TrunkBasedDevelopment.com ☛
+
+https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/ | Microsoft's Trunk-Based Development
+https://paulhammant.com/archive/ | Archive
+https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/ | Microsoft's Trunk-Based Development
+https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development/ | The origins of Trunk-Based Development
+
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+
+https://git-scm.com/book/en/v2/Distributed-Git-Maintaining-a-Project | Git - Maintaining a Project
+https://git-scm.com/book/en/v2/Git-Branching-Rebasing | Git - Rebasing
+https://git-scm.com/book/en/v2/Git-Tools-Rewriting-History | Git - Rewriting History
+
+https://www.atlassian.com/git/tutorials/comparing-workflows | Git Workflows and Tutorials | Atlassian Git Tutorial
+
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+https://bocoup.com/blog | Recent from Bocoup - Technical Blog Posts, JavaScript Tutorials, and How-Tos - Bocoup
+
+https://www.visualstudio.com/learn/understand-git-history/ | Understand Git history | Learn Git
+https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
+
+https://about.gitlab.com/2017/08/08/gitlab-issue-bash-september-2017/
+
+
+
 http://schacon.github.io/git/user-manual
 http://schacon.github.io/git/user-manual#setting-up-a-shared-repository
 http://schacon.github.io/git/user-manual.html#examining-remote-branches
