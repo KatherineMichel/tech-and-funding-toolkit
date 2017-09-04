@@ -5741,6 +5741,8 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+
 https://github.com/eldarion | Eldarion, Inc.
 https://github.com/pinax | Pinax Project
 https://github.com/pinax/symposion/issues | Issues · pinax/symposion
@@ -5779,12 +5781,22 @@ https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Reque
 https://docs.python.org/devguide/gitbootcamp.html#gitbootcamp | 32. Git Bootcamp and Cheat Sheet — Python Developer's Guide
 https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
 
+https://github.com/kennethreitz/setup.py
+https://github.com/kennethreitz/setup.py/blob/master/setup.py
+
 https://github.com/direnv
 http://docs.python-requests.org/en/master
 https://github.com/kennethreitz/setup.py
 http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
 https://github.com/kennethreitz/python-guide
 https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
+
+Setup.py Kenneth Reitz
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+https://www.kennethreitz.org/talks/ | Talks — Kenneth Reitz
 
 http://docs.pipenv.org/en/latest
 https://github.com/kennethreitz/pipenv
