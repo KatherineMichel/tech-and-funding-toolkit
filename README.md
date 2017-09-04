@@ -9126,6 +9126,10 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
 <!--
+http://www.eugenewei.com
+http://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative
+https://twitter.com/andrewchen/status/890076892698750976
+
 https://angel.co/davidle
 
 http://christophjanz.blogspot.de
@@ -10782,7 +10786,7 @@ International Organizations Special Reports: Business and Competitiveness
 
 International Organizations Special Reports: Development
 * [Human Development Index Wikipedia](http://en.wikipedia.org/wiki/Human_Development_Index) and [List of Countries by Human Development Index Wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index) 
-* [Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
+* [United Nations Sustainable Development Goals (Goal 8)](https://sustainabledevelopment.un.org)
 * [The 2015 Revision of World Population Prospects](http://esa.un.org/unpd/wpp)
 * [United Nations Millenium Goals Reports](http://www.un.org/millenniumgoals/reports.shtml)
 * [World Bank GINI Index](http://data.worldbank.org/indicator/SI.POV.GINI)
@@ -10874,6 +10878,21 @@ Models and Theories
 * [Steve McClatchy via Shane Parrish: Two Forms of Human Motivation: Gain And Prevent Pain](http://www.farnamstreetblog.com/2014/07/steve-mcclatchy-gain-and-preventing-pain) or [Painkiller versus Vitamin](https://www.google.com/search?q=painkiller+versus+vitamin&oq=painkiller+versus+vitamin&aqs=chrome..69i57j0.5625j0j4&sourceid=chrome&es_sm=93&ie=UTF-8)
 * [Trevor Blackwell: Trough of Sorrow](https://twitter.com/Loh/status/497535842005823488/photo/1) and [Kübler-Ross Change Curve Wikipedia](http://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model)
 
+<!--
+New
+https://twitter.com/Brand/status/895170049576763392 | Brand on Twitter: "“What we fear doing most is usually what we most need to do.” ~Tim Ferriss"
+https://twitter.com/arampell/status/902954657823076352
+https://twitter.com/naval/status/902795154628665344
+https://m.signalvnoise.com/the-deal-jeff-bezos-got-on-basecamp-b7a1cb39179e | The deal Jeff Bezos got on Basecamp
+
+http://googlepress.blogspot.com/1999/06/google-receives-25-million-in-equity.html
+
+https://twitter.com/awealthofcs/status/902350024595701760
+
+http://www.museumoffailure.se/
+https://laughingsquid.com/the-museum-of-failure/
+https://vimeo.com/220999602
+-->
 
 <!--
 The 4ps
