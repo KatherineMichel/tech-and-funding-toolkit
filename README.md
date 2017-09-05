@@ -5758,24 +5758,16 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
-https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
-https://github.com/coodict/python3-in-one-pic
-
 https://pythonclock.org Python 2.7 Countdown
 https://mail.python.org/mailman/listinfo/core-workflow 
+
+http://madewithwagtail.org
+http://python.apichecklist.com
+
 https://github.com/boto/boto
 https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 
-http://madewithwagtail.org
-https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
-https://django-unleashed.com
-http://python.apichecklist.com
-https://teamtreehouse.com/tracks/learn-python
-
-
-https://pypi.org/project/cherry-picker
-
-https://cloud.githubusercontent.com/assets/2680980/23276970/d14a380c-f9d1-11e6-883d-e13b6b211239.png
+http://www.sphinx-doc.org/en/stable/
 
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
 
@@ -5787,19 +5779,13 @@ http://djangoappschecklist.com
 https://github.com/python/planet
 https://github.com/epicserve/epicserve-docs
  
-
-New
-http://www.sphinx-doc.org/en/stable/
+https://pypi.org/project/cherry-picker
 https://pypi.python.org/pypi/johnny-cache
-https://coverage.readthedocs.io/en/coverage-4.3.4/
 
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
 34.4.1 9 Easy Ways to Participate
-
-https://www.coursera.org/courses?query=python
-http://campus.codeschool.com/courses/try-django/contents
 
 http://pytz.sourceforge.net
 -->
@@ -6067,6 +6053,15 @@ Python- Django- Resources
 
 <!--
 https://www.twoscoopspress.com/pages/current-django-books
+
+https://teamtreehouse.com/tracks/learn-python
+https://www.coursera.org/courses?query=python
+http://campus.codeschool.com/courses/try-django/contents
+
+https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
+
+https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
+https://github.com/coodict/python3-in-one-pic
 -->
 
 Python- Django- Official Tutorial
