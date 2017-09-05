@@ -9692,6 +9692,8 @@ VCs + Angel Investors
 https://docs.google.com/spreadsheets/d/1ENQyDDk418SSMUU_INBCxCOUvrcF7tdkMYxt4kS6cxE/edit#gid=0
 VC Finder (New York only)
 https://docs.google.com/spreadsheets/d/1khvSN2pcnsc7O5dr9mq8TwJv0h_zJJYLzhiZZ_KDmfM/edit#gid=1550181509
+Senior VC Investment Team Members (updated 4:35pm 10/8/15)
+https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
 
 Women In Venture (WIV) Universe
 https://docs.google.com/spreadsheets/d/10LkI_0WmVJHBR68F2eah8hqnHIk2x60YCot0K8wOu40/edit#gid=1049644618
