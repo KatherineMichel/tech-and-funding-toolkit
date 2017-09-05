@@ -9699,6 +9699,9 @@ https://docs.google.com/spreadsheets/d/1khvSN2pcnsc7O5dr9mq8TwJv0h_zJJYLzhiZZ_KD
 Senior VC Investment Team Members (updated 4:35pm 10/8/15)
 https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
 
+https://www.theinformation.com/bros-funding-bros-whats-wrong-with-venture-capital
+https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
+
 Women In Venture (WIV) Universe
 https://docs.google.com/spreadsheets/d/10LkI_0WmVJHBR68F2eah8hqnHIk2x60YCot0K8wOu40/edit#gid=1049644618
 https://medium.com/@sydneythomas/the-list-of-black-women-in-vc-dff25e8d52dc
@@ -9724,6 +9727,15 @@ https://twitter.com/semil/status/876703072679936001 | Semil on Twitter: "Request
 https://github.com/leonar15/startup-checklist
 https://github.com/jlevy/og-equity-compensation
 https://github.com/holman/extended-exercise-windows
+
+https://medium.com/@gerstenzang/how-ill-be-investing-in-2017-da71450076be#.jjd54mflw
+https://medium.com/@besvinick/my-vc-code-8120b942f06#.w0a808sd8
+https://startupsventurecapital.com/my-vc-code-2-0-a2658d3f2cf7#.on7v1af5h
+
+http://www.thisisgoingtobebig.com/blog/2015/7/30/venture-capital-return-model
+
+http://versionone.vc/marketplace-fundraising/
+http://versionone.vc/marketplace-deck
 -->
 
 Angel Investors
