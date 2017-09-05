@@ -5758,24 +5758,6 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 <!--
 New
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-
-https://github.com/eldarion | Eldarion, Inc.
-https://github.com/pinax | Pinax Project
-https://github.com/pinax/symposion/issues | Issues · pinax/symposion
-
-http://eldarion.com
-http://eldarion.cloud/ | Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes
-http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site Care and Maintenance from Eldarion
-
-http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
-https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
-
-https://docs.python.org/3.4/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-
 https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
 https://github.com/coodict/python3-in-one-pic
 
@@ -5783,45 +5765,6 @@ https://pythonclock.org Python 2.7 Countdown
 https://mail.python.org/mailman/listinfo/core-workflow 
 https://github.com/boto/boto
 https://github.com/boto/boto3 -- Python interface to Amazon Web Services
-https://github.com/pypa/python-packaging-user-guide/issues
-
-https://pythondotorg.readthedocs.io/contributing.html
-https://github.com/python/pythondotorg/tree/master
-https://github.com/python/performance
-
-https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
-https://packaging.python.org/new-tutorials/installing-and-using-packages
-
-https://docs.python.org/devguide/ | Python Developer’s Guide — Python Developer's Guide
-https://docs.python.org/devguide/devcycle.html | 18. Development Cycle — Python Developer's Guide
-https://docs.python.org/devguide/pullrequest.html | 3. Lifecycle of a Pull Request — Python Developer's Guide
-https://docs.python.org/devguide/gitbootcamp.html#gitbootcamp | 32. Git Bootcamp and Cheat Sheet — Python Developer's Guide
-https://docs.python.org/devguide/committing.html#working-with-git | 16. Committing and Pushing Changes — Python Developer's Guide
-
-https://github.com/kennethreitz/setup.py
-https://github.com/kennethreitz/setup.py/blob/master/setup.py
-
-https://github.com/direnv
-http://docs.python-requests.org/en/master
-https://github.com/kennethreitz/setup.py
-http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
-https://github.com/kennethreitz/python-guide
-https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
-
-Setup.py Kenneth Reitz
-https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-https://www.kennethreitz.org/talks/ | Talks — Kenneth Reitz
-
-http://docs.pipenv.org/en/latest
-https://github.com/kennethreitz/pipenv
-
-Python Package Managers
-https://github.com/sdispater/poet
-https://github.com/takluyver/flit
-https://packaging.python.org/key_projects/?highlight=pipenv
 
 http://madewithwagtail.org
 https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
@@ -5829,10 +5772,6 @@ https://django-unleashed.com
 http://python.apichecklist.com
 https://teamtreehouse.com/tracks/learn-python
 
-
-
-https://github.com/revsys/django-test-plus
-http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
 
 https://pypi.org/project/cherry-picker
 
@@ -5843,18 +5782,13 @@ https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
 http://www.miniwebtool.com/django-secret-key-generator
   
 https://github.com/python/devguide/issues/129
- 
-https://github.com/kennethreitz/env
-https://github.com/kennethreitz/pipenv
- 
+  
 http://djangoappschecklist.com
 https://github.com/python/planet
 https://github.com/epicserve/epicserve-docs
  
 
 New
-http://www.pyinvoke.org/
-https://pypi.python.org/pypi/mock
 http://www.sphinx-doc.org/en/stable/
 https://pypi.python.org/pypi/johnny-cache
 https://coverage.readthedocs.io/en/coverage-4.3.4/
@@ -5880,6 +5814,13 @@ Python (See also Data Science)
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
 <!--
+Kenneth Reitz
+https://docs.python.org/3.4/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+
+
 https://www.python.org/doc/versions/
 https://www.python.org/downloads/
 
@@ -5938,16 +5879,27 @@ https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
+<!--
+https://github.com/pinax/cloudspotting
+
+* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
+* [Pinax GitHub](https://github.com/pinax)
+
+http://eldarion.cloud/ | Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes
+http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site Care and Maintenance from Eldarion
+
+http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
+https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
+-->
+
 Consulting Firms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
 * [Lincoln Loop](http://lincolnloop.com)
-* [Caktus Group](https://www.caktusgroup.com) and [Caktus Group Blog](https://www.caktusgroup.com/blog)
+* [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
 * [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
-https://github.com/roverdotcom
-https://github.com/caktus
 https://www.caktusgroup.com/talks/speaker/mark-lavin
 https://www.caktusgroup.com/blog/2016/02/02/writing-unit-tests-django-migrations
 -->
@@ -5972,6 +5924,7 @@ Python- Django- Major Organizations and Projects that Use Django (Excluding Temp
 * [Pinterest GitHub](https://github.com/pinterest)  
 * [Rdio GitHub](https://github.com/rdio)  
 * [Reddit GitHub](https://github.com/reddit)  
+* [Rover GitHub](https://github.com/roverdotcom)
 * [StyleSeat GitHub](https://github.com/styleseat) 
 * [The Spokesman Review](http://www.spokesman.com)
 * [Wharton GitHub](https://github.com/wharton)
@@ -6007,6 +5960,8 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+https://www.kennethreitz.org/talks/ | Talks — Kenneth Reitz
+
 http://treyhunner.com/talk-talk/#/
 https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
 -->
@@ -6158,6 +6113,8 @@ Python- Django- Django Girls (Python- Django)
 Python- Django Carrots (Inspired Django Girls Tutorial)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
+Python- Django- Hello Web Books
+
 Python- Django- Hello Web App
 * [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
 * [Hello Web App Code GitHub](https://github.com/hellowebapp/hellowebapp-code) and [Hello Web App Deploy GitHub](https://github.com/hellowebapp/hellowebapp-deploy)
@@ -6261,6 +6218,21 @@ Python- Packages/Libraries
 * [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
+<!--
+https://github.com/pypa/python-packaging-user-guide/issues
+https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
+https://packaging.python.org/new-tutorials/installing-and-using-packages
+
+http://docs.pipenv.org/en/latest
+https://github.com/kennethreitz/env
+https://github.com/kennethreitz/pipenv
+
+Python Package Managers
+https://github.com/sdispater/poet
+https://github.com/takluyver/flit
+https://packaging.python.org/key_projects/?highlight=pipenv
+-->
+
 Python and Django- Creating Packages
 * [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
@@ -6351,8 +6323,7 @@ Dedicated Python Hosting
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
 <!--
-http://eldarion.cloud
-https://github.com/pinax/cloudspotting
+https://github.com/kelproject
 -->
 
 #### Lincoln Loop Stack
@@ -6488,12 +6459,33 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 * [Waitress GitHub](https://github.com/Pylons/waitress)  
 * [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
 
+
 Python- Django- DJ Static, DJ Database URL
 * [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
 * [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
 
 <!--
 https://github.com/kennethreitz/pip-purge
+-->
+
+Python- Django- Records, Requests
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+
+<!--
+https://github.com/kennethreitz/setup.py
+https://github.com/kennethreitz/setup.py/blob/master/setup.py
+
+https://github.com/direnv
+http://docs.python-requests.org/en/master
+http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
+https://github.com/kennethreitz/python-guide
+https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
+
+Setup.py Kenneth Reitz
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
 -->
 
 Python- Django and Celery (Asynchronicity) (Also Example code)
@@ -6528,6 +6520,12 @@ pytest and Nose (Unit Test Extension)
 * [mock PyPi](https://pypi.python.org/pypi/mock)
 
 <!--
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+http://www.pyinvoke.org/
+https://github.com/revsys/django-test-plus
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+
+
 http://doc.pytest.org/en/latest/contents.html#toc
 
 Testing
@@ -6554,10 +6552,6 @@ Python- Django Extensions
 
 Python- Django- Migrations
 * [South](http://south.aeracode.org) and [South Read the Docs](http://django-south.readthedocs.io)
-
-Python- Django- Records, Requests
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org)  
