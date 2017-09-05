@@ -9443,6 +9443,10 @@ Database List
 
 <!--
 New
+https://www.producthunt.com/upcoming/upcoming
+https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
+
+
 https://betapage.co
 https://blog.betapage.co
 
@@ -9713,6 +9717,13 @@ https://docs.google.com/spreadsheets/d/1cr4Q6iIq_sw1DccEQywH7axP57KungpjeSRCrk_M
 https://docs.google.com/spreadsheets/d/1buv2c0Q-2A220IBnBeRgYCOF4EiuPofAEhmlLd_36iY/edit#gid=0
 Venture Capitalists (VCs) & Angel Investors in MENA [List]
 http://www.menabytes.com/mena-vcs-angels
+
+https://twitter.com/semil/status/876702158929903616 | Semil on Twitter: "Request for feedback #1 - Trying to revise & improve my "Pilot's Checklist" for making new seed investments. Critical feedback welcome! https://t.co/8Lvynj2cgM"
+https://twitter.com/semil/status/876703072679936001 | Semil on Twitter: "Request for feedback #2 - Want to start off a new investment w/ "How I Hope To Work W/ You" Onboarding Flow. Critical feedback welcomed! https://t.co/sVYHuZsXaP"
+
+https://github.com/leonar15/startup-checklist
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
 -->
 
 Angel Investors
