@@ -9076,6 +9076,7 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 * [Brad Feld](http://www.feld.com) and [Brad Feld Archive](http://www.feld.com/archive)
 * [Bubba Murarka](http://bubba.vc)
 * [Caterina Fake](http://caterina.net)
+* [Chamath Palihapitiya Medium](https://medium.com/@chamath)
 * [Charles Hudson](http://www.charleshudson.net) 
 * [Charlie O'Donnell (This is Going to Be Big)](http://www.thisisgoingtobebig.com) and [Charlie O'Donnell Meet with Me](http://www.thisisgoingtobebig.com/meet-with-me) 
 * [Chris Dixon](http://cdixon.org), [Chris Dixon Old Blog (Nonchalantrepreneur)](http://nonchalantrepreneur.com), and [Chris Dixon Medium](https://medium.com/@cdixon)
@@ -9088,6 +9089,7 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 * [David Skok (For Entrepreneurs)](http://www.forentrepreneurs.com)
 * [Eric Friedman Medium](https://medium.com/@ericfriedman)
 * [Fred Wilson (AVC)](http://www.avc.com), [AVC Archive](http://avc.com/archive), [AVC MBA Mondays Archive](http://avc.com/archive/#mba_mondays_archive), and [Fred Wilson Hackpad Profile](https://hackpad.com/ep/profile/-2QvfuRcguKs4h2YzNropQf)
+* [Gil Penchina Medium](https://medium.com/@gilpenchina)
 * [Heidi Roizen](http://heidiroizen.tumblr.com)  
 * [Hunter Walk](http://hunterwalk.com)  
 * [Jason Calcanis](http://calacanis.com)
@@ -9126,6 +9128,10 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 * [Yuri Milner Wikipedia](https://en.wikipedia.org/wiki/Yuri_Milner)
 
 <!--
+https://www.quora.com/profile/Keith-Rabois
+https://clarity.fm/arlanhamilton
+https://medium.com/@gerstenzang
+
 http://www.eugenewei.com
 http://www.eugenewei.com/blog/2013/10/25/amazon-and-the-profitless-business-model-narrative
 https://twitter.com/andrewchen/status/890076892698750976
@@ -9262,6 +9268,8 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+http://vinay.howtolivewiki.com
+
 https://hanselminutes.com/archives
 
 http://cyberomin.github.io
@@ -9316,6 +9324,7 @@ Awards
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
 <!--
+http://pitchatpalace.com/apply-7-0/
 https://idea.org.uk/
 http://www.xprize.org/
 https://presidentialinnovationfellows.gov/
@@ -11372,7 +11381,7 @@ Off the Wall
 * [Farnam Street Blog](https://www.farnamstreetblog.com) and [Farnam Street Courses](https://fscourses.com)
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com)
-* [Wait But Why](http://waitbutwhy.com) 
+* [Wait But Why](http://waitbutwhy.com) and [Wait But Why Facebook](https://www.facebook.com/waitbutwhy) 
 
 Eccentric
 * [Brain Pickings](https://www.brainpickings.org)
