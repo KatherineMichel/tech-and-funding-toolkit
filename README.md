@@ -9410,6 +9410,9 @@ https://twitter.com/jasonzweigwsj
 
 
 
+
+
+
 #### Venture
 
 #### Venture Frameworks and Theses
@@ -9424,8 +9427,6 @@ Investor Frameworks
 
 Thesis
 * [Semil Shah](http://blog.semilshah.com/haystack)
-
-
 
 #### Company and Product Databases
 
@@ -9544,226 +9545,6 @@ Industry and Product Classifications
 
 Associations
 * [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
-
-
-<!--
-https://en.wikipedia.org/wiki/Side_letter
-
-http://pmarchive.com
-
-https://mattermark.com/venture-capital-dictionary
-https://mattermark.com/about-venture-capital-returns-valuations
-
-http://distributionhacks.com/post-startup-launch-checklist
-
-http://blog.learningbyshipping.com/2015/10/12/getting-the-right-stuff-done
-
-http://reactionwheel.net/2015/06/power-laws-in-venture.html
-
-http://abovethecrowd.com/2012/09/04/the-dangerous-seduction-of-the-lifetime-value-ltv-formula
-
-https://medium.com/@gerstenzang/how-ill-be-investing-in-2017-da71450076be#.jjd54mflw
-https://medium.com/@besvinick/my-vc-code-8120b942f06#.w0a808sd8
-https://startupsventurecapital.com/my-vc-code-2-0-a2658d3f2cf7#.on7v1af5h
- 
-https://medium.com/@henrysward/pte-vesting-344a787aba9a#.llc08c4gw
- 
-https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc#.m05mcrq74
-https://medium.com/startup-grind/all-the-venture-capital-fundraising-bloggers-you-should-be-following-6ea9817039c4#.w41jnjvwx
-https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e#.of31s43z3
-https://quip.com/92k3AGc5cvxp
-https://medium.com/startup-grind/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.4c02lfk8m
-https://medium.com/@sparkszilla/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc#.xq44cvcoj
-https://medium.com/@sparkszilla/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.uvqdf3im3
-https://medium.com/@sparkszilla/help-build-the-open-guide-to-startup-fundraising-b1c206da808f#.lft6h2mns
-https://medium.com/startup-grind/help-build-the-open-guide-to-startup-fundraising-b1c206da808f#.jmnmozu2g
-
--->
-
-<!--
-https://signal.nfx.com/login
-
-https://www.linkedin.com/pulse/unit-value-framework-scaling-jerry-chen
-
-https://mattermark.com/want-learn-venture-capital
-
-https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model?oldformat=true
-http://guykawasaki.com/the_venture_cap
-http://nvca.org/pressreleases/venture-capitalists-raise-12-billion-first-quarter-invest-startup-economy
-https://johngannonblog.com/2012/08/16/when-to-quit-your-venture-capital-job-hunt
-http://www.slideshare.net/jgannonslideshare/venture-capital-job-hunting-hacks?ref=https://johngannonblog.com/tag/vc-careers
-https://johngannonblog.com/tag/vc-careers
-http://www.thisisgoingtobebig.com/blog/2013/7/8/why-being-a-vc-sucks-advice-to-anyone-who-wants-to-get-into.html
-https://www.quora.com/What-are-the-downsides-of-being-a-venture-capitalist
-https://www.cbinsights.com/blog/biggest-startup-failures
-https://www.cbinsights.com/blog/startup-failure-post-mortem
-https://techcrunch.com/2013/08/31/the-decline-and-fall-of-flowtab-a-startup-story
-https://hackernoon.com/on-the-rebound-from-epic-failure-88e77d2b39af#.gavyhuili
-http://welcometobusinesstown.tumblr.com/post/109880943066/businesstown-sad-reality-the-venture-capital
-https://techcrunch.com/2015/10/06/s23p-racial-gender-diversity-venture
-https://www.theinformation.com/introducing-the-informations-future-list
-https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
-https://techcrunch.com/2015/12/13/dear-white-people-you-suck-at-diversity
-http://fr.slideshare.net/BorisGolden/understanding-vcs-59722764
-https://www.theventurealley.com/2011/02/how-vc-funds-work-typical-fund-structure
-http://www.angelblog.net/Fund_Structures.html
-https://microventures.com/accelerators-vs-incubators
-http://www.forbes.com/forbes/welcome/?/sites/allbusiness/2015/02/05/20-things-all-entrepreneurs-should-know-about-angel-investors
-http://www.askivy.net/articles/venture-capital/venture-capital-explained/role-descriptions-in-venture-capital
-http://avc.com/2010/08/what-is-a-venture-partner-and-does-it-matter-to-you
-https://bothsidesofthetable.com/the-importance-of-proprietary-deal-flow-in-early-stage-vc-f1858278a#.k3reirtsn
-http://www.wsj.com/articles/secretive-sprawling-network-of-scouts-spreads-money-through-silicon-valley-1447381377
-https://medium.com/point-nine-news/top-blog-posts-on-why-vcs-do-not-sign-ndas-40a825268bb7#.qua5sptdn
-http://www.kauffman.org/what-we-do/research
-http://nvca.org/research/stats-studies
-http://michiganvca.org
-http://www.illinoisvc.org
-https://mattermark.com/data-crush-producthunt-is-quickly-becoming-the-hot-new-destination-for-sourcing-startup-investment-opportunities
-http://www.seed-db.com
-http://boogar.com
-http://info.mattermark.com/reports/the-37-fastest-growing-startups
-http://www.kpcb.com/internet-trends
-http://www.ackrell.com/cannabis
-https://mattermark.com/vc-investment-sparks-high-times-american-cannabis-industry
-http://www.hbs.edu/faculty/Pages/profile.aspx?facId=6463
-http://www.hbs.edu/faculty/Pages/profile.aspx?facId=9961
-http://www.cis.upenn.edu/~mkearns/teaching/NetworkedLife/VC_networks.pdf
-http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1680198
-http://www.jstor.org/stable/3665619
-https://www.slideshare.net/Mattermark/2015-venture-capital-startup-traction-report
-
-Something Ventured” documentary
-
-Books
-Venture Capital, Private Equity, and The Financing of Entrepreneurship: The Power of Active Investing
-Brad Feld’s Startup Revolution series, Startup CEO, Startup Communities, and Venture Deals, with special emphasis on Venture Deals
-Venture Capital Due Diligence by Justin J. Camp and Deal Terms by Alex Wilmerding.
-Mahendra Ramsinghani’s The Business of Venture Capital or Paul Gompers and Josh Lerner’s The Money of Invention.
-John L. Nesheim’s High Tech Start Up
-
-https://medium.com/point-nine-news
-http://nextviewventures.com/blog
-http://labs.openviewpartners.com
-http://snapstorms.com
-https://vcwithme.co
-https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table
-https://docs.google.com/spreadsheets/d/1HBeAJAKXGAsQC6cfYEyIDHrX7of7Rwjo14AcOeKfk30/edit#gid=0
-https://twitter.com/marcinszelag
-http://exponent.fm
-Harvard Business Review contributor James Allworth (@jamesallworth)
-http://thepitch.fm
-https://twitter.com/joshmuccio
-http://www.thetwentyminutevc.com
-https://twitter.com/HarryStebbings
-http://fullratchet.net
-https://twitter.com/thefullratchet
-http://a16z.com/podcasts
-https://twitter.com/ganeumann
-https://twitter.com/jasonlk
-https://twitter.com/guyhturner
-https://twitter.com/boris_golden
-https://twitter.com/betashop
-https://twitter.com/alex
-https://twitter.com/johnmgannon
-https://twitter.com/ceonyc
-
-https://mattermark.com/venture-capital-dictionary
-
-https://en.wikipedia.org/wiki/Accredited_investor
-https://www.mycapital.com/companies/venturecapitalassociation_national.php
-https://bothsidesofthetable.com/what-is-the-definition-of-a-seed-round-or-an-a-round-2cf20264297c#.ht5hk4jec
-http://nvca.org/research/corporate-venture
-https://www.cbinsights.com/blog/corporate-venture-capital-active-2014
-https://www.willistowerswatson.com/en/insights/2016/02/global-pensions-asset-study-2016
-http://markovprocesses.com/blog/2015/11/mpi-dsa-unlocks-top-endowment-performance-1
-https://www.commonfund.org
-http://www.askivy.net/articles/venture-capital/venture-capital-explained/role-descriptions-in-venture-capital
-http://avc.com/2010/08/what-is-a-venture-partner-and-does-it-matter-to-you
-https://www.youtube.com/watch?v=7w-UWuDi0fY
-http://www.capdyn.com/media/1306/the-private-equity-j-curve_private-equity-mathematics_apr-09.pdf
-http://macabacus.com/venture-capital/returns
-https://en.wikipedia.org/wiki/Distribution_waterfall
-https://www.calpers.ca.gov/docs/board-agendas/201508/invest/item09a-01.pdf
-http://www.duanemorris.com/site/static/private_equity_fund_distribution_waterfalls.pdf
-http://www.valuewalk.com/wp-content/uploads/2015/08/SSRN-id2640498.pdf
-http://avc.com/2011/11/what-exactly-is-a-lead-investor
-https://www.angelcapitalassociation.org/blog/methods-for-valuation-of-seed-stage-startup-companies
-https://www.asme.org/getmedia/86b994d9-2faf-43b5-9b57-4cb6e727a3a2/Due_diligence_checklist.aspx
-http://www.startupcompanylawyer.com/2007/08/04/what-is-full-ratchet-anti-dilution-protection
-http://www.learnvc.com/2008/07/liquidation-preference
-http://startuplawyer.com/seed-rounds/how-convertible-debt-works
-https://www.seedinvest.com/blog/startup-investing/how-convertible-notes-work
-https://techcrunch.com/2012/04/21/convertible-note-seed-financings-econ-101
-http://www.k9ventures.com/blog/2011/03/22/thoughts-on-convertible-notes
-https://equity.gust.com/convertible-notes
-https://www.ycombinator.com/documents
-
-Books
-Venture Deals: Be Smarter than Your Lawyer and Venture Capitalist
-Inside Private Equity: The Professional Investor’s Handbook
-Venture Capital, Private Equity, and the Financing of Entrepreneurship: The Power of Active Investing
-The Business of Venture Capital: Insights from Leading Practitioners on the Art of Raising a Fund, Deal Structuring, Value Creation, and Exit Strategies
-
-https://mattermark.com/how-to-not-die
-
-http://heidiroizen.tumblr.com/post/139377970205/dear-startups-heres-how-to-stay-alive
-
-http://www.wsj.com/articles/andreessen-horowitzs-returns-trail-venture-capital-elite-1472722381
-https://bothsidesofthetable.com/what-to-make-of-andreessen-horowitzs-returns-cfbd562eeab9#.qlgull9yk
-https://medium.com/@adammarx13/responses-to-the-wall-street-journals-andreessen-horowitz-piece-16615e6e1c0c#.16ft9bgpt
-
-http://susandanziger.com/post/136747360647/the-quick-and-dirty-on-launching-a-startup
-http://susandanziger.com/post/141430639837/the-big-secret-to-starting-a-company-hint-its
-
-https://medium.com/greylock-perspectives
-http://www.slideshare.net/greylockpartners
-
-blog.ycombinator.com
-https://old.ycombinator.com
-
-http://homebrewvc.tumblr.com
-
-http://versionone.vc
-http://www.k9ventures.com
-http://www.collaborativefund.com/blog
-http://foundersfund.com
-http://www.switch.vc/big-ideas
-http://indexventures.com
-https://medium.com/@DFJvc
-https://medium.com/lightspeed-venture-partners
--->
-
-<!--
-https://github.com/leonar15/startup-checklist
-https://github.com/jlevy/og-equity-compensation
-https://github.com/holman/extended-exercise-windows
-
-https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md
-https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md
-http://also.roybahat.com/post/91847335194/the-trust-thing
-
-http://quarry.stanford.edu/xapm1111126lse/docs/02_LSE_Cognitive.pdf
-https://medium.com/@roybahat/predicting-who-will-start-a-company-5dab8efc7dd4#.3zrb3esh1
-https://angel.co/max-simkoff/syndicate
-https://angel.co/shruti_gandhi/syndicate
-https://angel.co/pt/syndicate
-http://also.roybahat.com/post/82904179747/why-most-demos-confuse
-http://also.roybahat.com/post/84933343626/picking-your-first-customers-the-gradient-of
-http://also.roybahat.com/post/62158854505/a-dumb-question-to-ask-an-entrepreneur
-http://also.roybahat.com/post/102969262108/boreds
-http://also.roybahat.com/post/119369807637/in-earliest-stage-venture-what-is-a-lead-anyway
-https://www.ycombinator.com/handshake
-https://docs.google.com/document/d/1xykbjs0KnhdA2qYdvY_jm21QJdS35iETouNNe2nARJA/edit
-https://www.highly.co/hl/56e6f2323533356aeb5a0000
-
-http://www.gsbeclub.org/startup-resources
-https://docs.google.com/presentation/d/1JpoceH_UPB2F42C6OEGQjfGSgKS7IBUyK_LAV9ZtJB4/present?slide=id.i0
-http://www.seriesseed.com
-https://www.harrisonmetal.com
-
-https://www.rocketlawyer.com/document/web-hosting-agreement.rl
--->
-
 
 #### VC Theory
 
@@ -9885,6 +9666,52 @@ Lists of VC Firms and Accelerators
 * [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
 * [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
 * [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
+
+<!--
+http://pmarchive.com
+
+https://mattermark.com/want-learn-venture-capital
+https://mattermark.com/venture-capital-dictionary
+https://mattermark.com/about-venture-capital-returns-valuations
+
+http://distributionhacks.com/post-startup-launch-checklist
+ 
+https://quip.com/92k3AGc5cvxp
+https://quip.com/QGdXAEsd04DE
+https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e
+https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc
+https://medium.com/startup-grind/all-the-venture-capital-fundraising-bloggers-you-should-be-following-6ea9817039c4
+https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e#.of31s43z3
+https://quip.com/92k3AGc5cvxp
+https://medium.com/startup-grind/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.4c02lfk8m
+https://medium.com/@sparkszilla/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.uvqdf3im3
+https://medium.com/@sparkszilla/help-build-the-open-guide-to-startup-fundraising-b1c206da808f
+https://medium.com/startup-grind/help-build-the-open-guide-to-startup-fundraising-b1c206da808f
+
+VCs + Angel Investors
+https://docs.google.com/spreadsheets/d/1ENQyDDk418SSMUU_INBCxCOUvrcF7tdkMYxt4kS6cxE/edit#gid=0
+VC Finder (New York only)
+https://docs.google.com/spreadsheets/d/1khvSN2pcnsc7O5dr9mq8TwJv0h_zJJYLzhiZZ_KDmfM/edit#gid=1550181509
+
+Women In Venture (WIV) Universe
+https://docs.google.com/spreadsheets/d/10LkI_0WmVJHBR68F2eah8hqnHIk2x60YCot0K8wOu40/edit#gid=1049644618
+https://medium.com/@sydneythomas/the-list-of-black-women-in-vc-dff25e8d52dc
+
+https://medium.com/@Samirkaji/mapping-out-the-institutional-seed-universe-c88e205bc829
+https://docs.google.com/spreadsheets/d/1AqgWfkkzggBay_U0EvN_nVQyxL8W8khh1WbjnE84KOk/edit#gid=0
+VC funds at / below $200M in size (new funds raised since 2011)
+https://docs.google.com/spreadsheets/d/1ebGZ6-ivf_3woBGC4Kz_3217DhjGsefoRu_5iP3nuFQ/edit#gid=0
+Funding RoundUp - Public
+https://docs.google.com/spreadsheets/d/1kwbnPdEtHdhNjVdNRKWZIZnEAgXhyHZnc462ASUodpc/edit#gid=0
+SAAS company data AJ
+https://docs.google.com/spreadsheets/d/1h4Pfv3NAP2veoRC0DBJNtghMa44Mjb_kM6oHUPzsHEs/edit#gid=0
+Enterprise Startups Funding Database
+https://docs.google.com/spreadsheets/d/1cr4Q6iIq_sw1DccEQywH7axP57KungpjeSRCrk_MY2s/edit#gid=0
+15 Years of Impact VC Fundraises, Investing and Exits
+https://docs.google.com/spreadsheets/d/1buv2c0Q-2A220IBnBeRgYCOF4EiuPofAEhmlLd_36iY/edit#gid=0
+Venture Capitalists (VCs) & Angel Investors in MENA [List]
+http://www.menabytes.com/mena-vcs-angels
+-->
 
 Angel Investors
 * [Jason Calcanis Syndicate](http://www.jasonssyndicate.com), [Jason Calcanis Syndicate AngelList](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
@@ -10105,16 +9932,19 @@ Document Web Services
 New
 https://blog.esharesinc.com/the-eshares-option-value-calculator-2/
 
-
 https://captable.io/company/add
 https://blog.captable.io
 https://captable.io/company/8/scenarios
 https://blog.captable.io/a-four-step-plan-for-setting-up-and-running-your-startups-stock-option-process-82a76709ac27#.a8y66plma
 
+https://blog.esharesinc.com/be-transparent-about-equity/
 https://blog.esharesinc.com/latest
 https://esharesinc.com/investor-services
 https://tour.esharesinc.com/corporations/7/#start_demo
 
+https://medium.com/@henrysward/why-we-dont-negotiate-offers-7f59d99513ee | Why we don’t negotiate offers – Henry Ward – Medium
+
+https://medium.com/@henrysward/pte-vesting-344a787aba9a#.llc08c4gw
 https://medium.com/@henrysward
 https://medium.com/@henrysward/eshares-101-e96d792bdc69#.jcbgc4y8d
 https://medium.com/@henrysward/a-better-offer-letter-4e9bf61a7365#.ntuvuyezc
@@ -10889,6 +10719,16 @@ Models and Theories
 
 <!--
 New
+Donald Rumsfeld
+https://twitter.com/geospacedman/status/891312553204355072
+
+With Steve Jobs and Grace
+http://www.kapor.com/wp-content/uploads/2016/12/Notes-Project.pdf
+https://twitter.com/cdespinosa/status/894101981337329664
+https://en.wikipedia.org/wiki/Martin_Eberhard
+https://www.youtube.com/watch?v=JEpsKnWZrJ8
+Creative Thinking Bell Labs
+http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html
 https://twitter.com/Brand/status/895170049576763392 | Brand on Twitter: "“What we fear doing most is usually what we most need to do.” ~Tim Ferriss"
 https://twitter.com/arampell/status/902954657823076352
 https://twitter.com/naval/status/902795154628665344
@@ -11495,6 +11335,8 @@ Tools
 * [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
 * [Amazon Example Press Release](http://aws.amazon.com/new) 
 * [Sandwich Video](http://sandwichvideo.com)
+
+
 
 #### Growth, Marketing, and Content Resources
 
