@@ -6114,6 +6114,8 @@ Python- Django Carrots (Inspired Django Girls Tutorial)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 Python- Django- Hello Web Books
+* [Hello Web Books GitHub](https://github.com/hellowebbooks)
+* [Hello Web Design GitHub](https://github.com/hellowebapp/hellowebdesign)
 
 Python- Django- Hello Web App
 * [Hello Web App](https://hellowebapp.com) and [Hello Web App GitHub](https://github.com/hellowebapp/hellowebapp)
@@ -6125,9 +6127,6 @@ Python- Django- Hello Web App
 
 <!--
 https://hellowebbooks.com/news/hello-web-app-online-forever
-https://github.com/hellowebbooks
-https://github.com/hellowebapp/hellowebdesign
-
 
 https://hellowebapp.com/news/tutorial-class-based-views
 https://hellowebapp.com/news/tutorial-setting-up-a-contact-form-with-django/
@@ -6217,6 +6216,9 @@ Python- Packages/Libraries
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
 * [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
+
+Python Package Managers
+* []()
 
 <!--
 https://github.com/pypa/python-packaging-user-guide/issues
@@ -6360,6 +6362,8 @@ Database
 * Postgres
 * MySQL/MariaDB
 
+
+
 #### Python and Django Common Deployment Tools
 
 <!--
@@ -6411,6 +6415,10 @@ Python- Django- Static File Serving
 * [Whitenoise](http://whitenoise.evans.io) and [Whitenoise GitHub](https://github.com/evansd/whitenoise)
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
+Python- Django- DJ Static, DJ Database URL
+* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
+* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
 Python- Django- Static Storage
 
 <!--
@@ -6458,35 +6466,6 @@ Waitress (Production-Quality Pure-Python WSGI Server)
 * [Waitress Read the Docs](http://waitress.readthedocs.org/en/latest)  
 * [Waitress GitHub](https://github.com/Pylons/waitress)  
 * [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
-
-
-Python- Django- DJ Static, DJ Database URL
-* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-<!--
-https://github.com/kennethreitz/pip-purge
--->
-
-Python- Django- Records, Requests
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
-
-<!--
-https://github.com/kennethreitz/setup.py
-https://github.com/kennethreitz/setup.py/blob/master/setup.py
-
-https://github.com/direnv
-http://docs.python-requests.org/en/master
-http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
-https://github.com/kennethreitz/python-guide
-https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
-
-Setup.py Kenneth Reitz
-https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
--->
 
 Python- Django and Celery (Asynchronicity) (Also Example code)
 * [Celery](http://www.celeryproject.org)  
@@ -6552,6 +6531,35 @@ Python- Django Extensions
 
 Python- Django- Migrations
 * [South](http://south.aeracode.org) and [South Read the Docs](http://django-south.readthedocs.io)
+
+
+
+<!--
+https://github.com/kennethreitz/pip-purge
+-->
+
+Python- Django- Records, Requests
+* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
+* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
+
+<!--
+https://github.com/kennethreitz/setup.py
+https://github.com/kennethreitz/setup.py/blob/master/setup.py
+
+https://github.com/direnv
+http://docs.python-requests.org/en/master
+http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
+https://github.com/kennethreitz/python-guide
+https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
+
+Setup.py Kenneth Reitz
+https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+-->
+
+
+
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org)  
