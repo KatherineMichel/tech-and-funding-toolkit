@@ -29,10 +29,10 @@ Table of Content
   * [Encoding](#encoding)
   * [Dot Files](#dot-files)
 * [Systems](#systems)
-  * [DevOps](#devops)
-  * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
+  * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Git and Markdown](#git-and-markdown)
+  * [DevOps](#devops)
   * [Collaborative Development](#collaborative-development)
   * [Open Source Documentation](#open-source-documentation)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
@@ -1475,42 +1475,6 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 
 
 
-#### DevOps
-
-DevOps- General
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-
-Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
-* [Trac](http://trac.edgewall.org)  
-* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
-* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
-
-Phabricator
-* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
-
-GitLab (See also Project Management and Docker)
-* [GitLab Docs](http://docs.gitlab.com)
-* [GitLab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
-* [GitLab Installation](https://about.gitlab.com/installation)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-<!--
-GitLab Org
-https://gitlab.com/groups/gitlab-org
-Possible repeat
-https://github.com/gitlabhq/gitlabhq
-
-https://www.atlassian.com/licensing/starter
-https://www.atlassian.com/software/jira
-https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
-https://confluence.atlassian.com/bbkb
-https://confluence.atlassian.com/bitbucket
--->
 
 #### Startup Engineering MOOC
 
@@ -1630,6 +1594,44 @@ https://robots.thoughtbot.com/tags/git
 https://github.com/hypenotic/hypelabs
 -->
 
+
+
+#### DevOps
+
+DevOps- General
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+* [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+
+Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
+* [Trac](http://trac.edgewall.org)  
+* [Trac Database Schema](http://trac.edgewall.org/wiki/TracDev/DatabaseSchema)  
+* [Trac Database API](http://trac.edgewall.org/wiki/TracDev/DatabaseApi)  
+
+Phabricator
+* [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
+
+GitLab (See also Project Management and Docker)
+* [GitLab Docs](http://docs.gitlab.com)
+* [GitLab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+* ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
+* [GitLab Installation](https://about.gitlab.com/installation)
+* [GitLab Features](https://about.gitlab.com/features)
+* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
+
+<!--
+GitLab Org
+https://gitlab.com/groups/gitlab-org
+Possible repeat
+https://github.com/gitlabhq/gitlabhq
+
+https://www.atlassian.com/licensing/starter
+https://www.atlassian.com/software/jira
+https://www.atlassian.com/devops/tools-and-technologies#!test-automation
+
+https://confluence.atlassian.com/bbkb
+https://confluence.atlassian.com/bitbucket
+-->
 
 
 #### Git and Markdown
