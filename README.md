@@ -1619,18 +1619,22 @@ GitLab (See also Project Management and Docker)
 * [GitLab Features](https://about.gitlab.com/features)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
+GitLab Shop
+* [GitLab Shop](https://shop.gitlab.com)
+
 <!--
+https://about.gitlab.com/
+https://about.gitlab.com/comparison/
+https://github.com/gitlabhq/gitlabhq
+https://gitlab.com/ | Projects · Dashboard · GitLab
+https://about.gitlab.com/2017/07/17/redesigning-gitlabs-navigation/ | Redesigning GitLab's navigation | GitLab
+
 GitLab Org
 https://gitlab.com/groups/gitlab-org
-Possible repeat
-https://github.com/gitlabhq/gitlabhq
 
 https://www.atlassian.com/licensing/starter
 https://www.atlassian.com/software/jira
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
-
-https://confluence.atlassian.com/bbkb
-https://confluence.atlassian.com/bitbucket
 -->
 
 
@@ -1878,9 +1882,8 @@ Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
 
-GitHub and GitLab Shops
+GitHub Shop
 * [GitHub Shop](https://github.myshopify.com)
-* [GitLab Shop](https://shop.gitlab.com)
 
 Markdown
 * [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
@@ -1908,22 +1911,11 @@ Atlassian: Bitbucket and SourceTree
 * [Atlassian SourceTree App (GUI)](https://www.sourcetreeapp.com)
     
 <!--
+https://confluence.atlassian.com/bbkb
+https://confluence.atlassian.com/bitbucket
+
 https://bitbucket.org/product/features
 https://www.atlassian.com/licensing/cloud/future-pricing
--->
-
-GitLab (See also Project Management and Docker)
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-* [GitLab Features](https://about.gitlab.com/features)
-* [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
-
-<!--
-https://about.gitlab.com/
-https://about.gitlab.com/comparison/
-https://github.com/gitlabhq/gitlabhq repeat
-https://gitlab.com/ | Projects · Dashboard · GitLab
-https://about.gitlab.com/2017/07/17/redesigning-gitlabs-navigation/ | Redesigning GitLab's navigation | GitLab
 -->
 
 More GitHub Alternatives
@@ -9741,8 +9733,9 @@ https://startupsventurecapital.com/my-vc-code-2-0-a2658d3f2cf7#.on7v1af5h
 
 http://www.thisisgoingtobebig.com/blog/2015/7/30/venture-capital-return-model
 
-http://versionone.vc/marketplace-fundraising/
+http://versionone.vc/marketplace-fundraising
 http://versionone.vc/marketplace-deck
+http://versionone.vc/social-handbook
 -->
 
 Angel Investors
