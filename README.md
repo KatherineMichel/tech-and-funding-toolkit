@@ -5937,7 +5937,7 @@ Python- Django Community
 * [Frank Wiles](http://www.frankwiles.com)
 * [Heather Marie Luna](http://heats.life)
 * [Kenneth Reitz](http://www.kennethreitz.org)
-* [Daniel Greenfeld](http://www.pydanny.com) and [Daniel Greenfeld](https://github.com/pydanny)
+* [Daniel Greenfeld](http://www.pydanny.com), [Daniel Greenfeld](https://github.com/pydanny) and [Daniel Greenfeld Patreon](https://www.patreon.com/danielroygreenfeld)
 * [Jacob Kalplan-Moss](http://jacobian.org)
 * [Jeff Triplett](http://www.jefftriplett.com)
 * [Ola Sendecka](http://blog.sendecka.me)
@@ -9219,6 +9219,7 @@ http://www.slideshare.net/mikemaplesjr
 * [Startup L. Jackson Archive](http://startupljackson.com/archive)  
 * [Steve Blank](http://steveblank.com), [Steve Blank Slides](http://steveblank.com/slides), [Steve Blank Slideshare](http://www.slideshare.net/sblank), and [Steve Blank Wikipedia](http://en.wikipedia.org/wiki/Steve_Blank) 
 * [Stowe Boyd](http://stoweboyd.com)
+* [Dr. Sue Black OBE Twitter](https://twitter.com/Dr_Black)
 * [Susan Danzinger](http://susandanziger.com)
 * [Ted Wang Medium](https://medium.com/@twang)
 * [Tim Ferriss (Four Hour Work Week)](http://fourhourworkweek.com) and [Tim Ferriss (Four Hour Work Week) Podcast](http://fourhourworkweek.com/podcast)
@@ -9656,6 +9657,10 @@ More
 * [Cram Down Wikipedia](https://en.wikipedia.org/wiki/Cram_down)
 * [Hamburger Helper](https://twitter.com/trengriffin/status/660536443308109824)
 
+<!--
+https://en.wikipedia.org/wiki/Side_letter
+-->
+
 #### VC Firms, Accelerators, Resources
 
 :) 
@@ -9722,6 +9727,9 @@ http://www.menabytes.com/mena-vcs-angels
 
 https://twitter.com/semil/status/876702158929903616 | Semil on Twitter: "Request for feedback #1 - Trying to revise & improve my "Pilot's Checklist" for making new seed investments. Critical feedback welcome! https://t.co/8Lvynj2cgM"
 https://twitter.com/semil/status/876703072679936001 | Semil on Twitter: "Request for feedback #2 - Want to start off a new investment w/ "How I Hope To Work W/ You" Onboarding Flow. Critical feedback welcomed! https://t.co/sVYHuZsXaP"
+
+List of VC/Angel Blogs
+https://docs.google.com/spreadsheets/d/1HBeAJAKXGAsQC6cfYEyIDHrX7of7Rwjo14AcOeKfk30/edit#gid=0
 
 https://github.com/leonar15/startup-checklist
 https://github.com/jlevy/og-equity-compensation
@@ -9838,6 +9846,17 @@ VC and Tech Videos and Podcasts
 * [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
 * [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
 * [YCombinator The Macro](https://soundcloud.com/the-macro-y-combinator)
+
+<!--
+Master of scale, Startup School
+https://mastersofscale.com/wp-content/uploads/2017/05/moshandcraftedtranscript.pdf
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1
+https://www.startupschool.org/videos/11
+https://mastersofscale.com/ | Masters of Scale — WaitWhat
+https://www.youtube.com/channel/UCZ7x7yDBbEFCGztD8BYvRhA | Greylock Partners - YouTube
+https://itunes.apple.com/gb/podcast/twenty-minute-vc-venture-capital/id958230465?mt=2
+https://open.spotify.com/show/40RELovLwSVQjp20DplIgV
+-->
 
 VC Firm Apps
 * [First Round Pitch App](http://firstround.com/openapp)
@@ -10173,6 +10192,14 @@ https://www.farnamstreetblog.com/2016/04/munger-operating-system
 Backfire Effect
 https://en.wikipedia.org/wiki/Confirmation_bias
 http://theoatmeal.com/comics/believe
+
+List of biases
+https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.k9l5tcq6n
+http://stocktwits.com/Inst_Insider/message/36332774
+http://www.apsu.edu/sites/apsu.edu/files/counseling/COGNITIVE_0.pdf
+http://mcntyr.com/52-concepts-cognitive-toolkit/
+http://mentalfloss.com/article/68705/20-cognitive-biases-affect-your-decisions
+http://ritholtz.com/2016/09/cognitive-bias-codex/
 -->
 
 #### Chance
@@ -11032,6 +11059,8 @@ The Upside of Stress
 http://online.stanford.edu/course/upside-stress
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
 https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+https://www.coursera.org/learn/psychological-first-aid
 
 Venture Capital, Private Equity, and the Financing of Entrepreneurship
 https://www.amazon.com/Venture-Capital-Private-Financing-Entrepreneurship/dp/0470591439
