@@ -5808,6 +5808,25 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+http://trybootcamp.vitorfs.com/ | Bootcamp
+https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/views.py | bootcamp/views.py at master · vitorfs/bootcamp
+https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html | How to Implement CRUD Using Ajax and Json
+https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html | Class-Based Views vs. Function-Based Views
+
+https://www.djangosites.org/ | Latest Additions :: DjangoSites.org - Powered by Django
+https://jquery.com/ | jQuery
+
+https://media.readthedocs.org/pdf/django/1.11.x/django.pdf | django.pdf
+https://docs.python.org/3/ | 3.6.2 Documentation
+https://www.python.org/doc/ | Our Documentation | Python.org
+
+https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
+
+http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
+http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
+https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
+
+
 https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
 https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa - YouTube
 https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
