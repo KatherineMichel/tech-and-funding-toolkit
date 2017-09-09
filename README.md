@@ -2302,6 +2302,12 @@ https://cloud.google.com/source-repositories/pricing
 
 #### Open Source Documentation
 
+<!--
+https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
+
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+-->
+
 Types of Licenses
 * [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 * [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
@@ -5795,13 +5801,29 @@ https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStartedLinux
 https://github.com/Microsoft/vscode-samples
 https://github.com/aspnetboilerplate/sample-blog-module
 https://github.com/aspnet/Mvc/tree/dev/samples
--->
+--> 
 
 #### Python and Django Toolkit
 
 #### Python General
 
 <!--
+DjangoCon 2015
+https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t
+DjangoCon
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos
+https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T | DjangoCon US 2017 - YouTube
+
+https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
+https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
+
+
+https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
+https://github.com/python/miss-islington/issues
+http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
+https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+
+
 https://automatetheboringstuff.com/chapter0 | Chapter 0 – Introduction | Automate the Boring Stuff with Python
 
 http://channels.readthedocs.io/en/2.0/asgi.html | ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
