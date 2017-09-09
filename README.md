@@ -5767,6 +5767,10 @@ https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using 
 https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
 https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
 https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
+https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.7 documentation
+https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
+https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
@@ -5778,12 +5782,17 @@ https://stackoverflow.blog/2017/09/06/incredible-growth-python/ | The Incredible
 
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 http://whypy3.com/#numeric-literals | Why Python 3?
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
 
 https://lincolnloop.com/blog
 
-
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
+https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
+http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
 
 
 
