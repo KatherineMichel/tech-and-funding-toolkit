@@ -1947,18 +1947,68 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 ## Collaborative Development
 
 <!--
+trunk-based development tagged releases
+difference between github flow and trunk-based
+Consecutive development of consecutive releases
+concurrent development of consecutive releases
+trunk-based development google uber
+enterprise trunk-based development
+economically based decision making
+Just-in-Time manufacturing product management
+just-in-Time manufacturing trunk-based development
+
+https://www.slideshare.net/perforce/trunk-based-development-in-the-enterprise-its-relevance-and-economics | Trunk Based Development in the Enterprise - Its Relevance and Economi…
+https://www.youtube.com/watch?v=o_ps9nUe708 | [MERGE 2014] What Continuous Delivery Means for Version Control - YouTube
+jez merge2014
+
+https://team-coder.com/from-git-flow-to-trunk-based-development/ | From Git Flow to Trunk Based Development
+github flow release from branch
+https://hackernoon.com/a-branching-and-releasing-strategy-that-fits-github-flow-be1b6c48eca2 | A Branching and Releasing Strategy That Fits GitHub Flow
+
+https://twitter.com/williampietri/status/888066780735967232 | William Pietri on Twitter: "Small batches! Not just for bourbon. From https://t.co/D5VTS56qiX https://t.co/oCsxyvCXJS"
+
+https://www.amazon.com/Managing-Design-Factory-Donald-Reinertsen/dp/0684839911 | Managing the Design Factory: Donald G. Reinertsen: 9780684839912: Amazon.com: Books
+https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009/ref=redir_mobile_desktop?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0 | The Principles of Product Development Flow: Second Generation Lean Product Development: Donald G. Reinertsen: 9781935401001: Amazon.com: Books
+http://lpd2.com/wp-content/uploads/2013/06/ReinertsenFLOWChap1.pdf | The Principles of Product Development Flow: Chapter 1
+https://www.slideshare.net/SebastianRadics/the-principles-of-product-development-flow-a-summary | The Principles of product development flow - a summary
+
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+document driven development - Google Search
+
+
 New
 http://endoflineblog.com/gitflow-considered-harmful | GitFlow considered harmful | End of Line Blog
 http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow | OneFlow - a Git branching model and workflow | End of Line Blog
 http://endoflineblog.com/follow-up-to-gitflow-considered-harmful#comment-2959961696 | Follow-up to 'GitFlow considered harmful' | End of Line Blog
 
+https://en.wikipedia.org/wiki/Rational_ClearCase | Rational ClearCase - Wikipedia
+https://subversion.apache.org/ | Apache Subversion
+https://www.perforce.com/ | Connect teams, protect IP, support rapid releases | Perforce
+https://en.wikipedia.org/wiki/StarTeam | StarTeam - Wikipedia
+
 https://trunkbaseddevelopment.com/ | Trunk Based Development
 https://github.com/paul-hammant/tbd | paul-hammant/tbd: Source for TrunkBasedDevelopment.com ☛
 
-https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/ | Microsoft's Trunk-Based Development
+https://trunkbaseddevelopment.com/game-changers/ | Game Changers - Trunk Based Development
+https://trunkbaseddevelopment.com/alternative-branching-models | Alternative branching models - Trunk Based Development
+trunk-based-development-enterprise-its-relevance-economics
+https://trunkbaseddevelopment.com/alternative-branching-models/index.html#legacy-branching-models | Alternative branching models - Trunk Based Development
+
+https://trunkbaseddevelopment.com/game-changers/index.html#google-revealing-their-monorepo-trunk-2016 | Game Changers - Trunk Based Development
+
+https://trunkbaseddevelopment.com/publications/ | Publications - Trunk Based Development
+https://book.trunkbaseddevelopment.com/trunk_based_development_book_printable.pdf | Trunk Based Development
+
 https://paulhammant.com/archive/ | Archive
 https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/ | Microsoft's Trunk-Based Development
 https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development/ | The origins of Trunk-Based Development
+https://paulhammant.com/2015/12/13/trunk-based-development-when-to-branch-for-release/ | Trunk based development: when to branch for release
+
+https://www.quora.com/Which-companies-use-trunk-based-development | (1) Which companies use trunk based development? - Quora
+https://github.com/Microsoft/GVFS | Microsoft/GVFS: Git Virtual File System
+https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system/ | Announcing GVFS (Git Virtual File System) – Microsoft DevOps Blog
+https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/ | The largest Git repo on the planet | Brian Harry's blog
+https://news.ycombinator.com/item?id=13559662 | Announcing GVFS: Git Virtual File System | Hacker News
 
 https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
 https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
@@ -2074,6 +2124,7 @@ http://schacon.github.io/git/user-manual.html | Git User’s Manual (for version
 A curated list of trunk based development resources
 https://github.com/cgbystrom/awesome-trunk-based-dev 
 
+
 Trunk-Based Development economics (Paul Hammant) - YouTube
 https://www.youtube.com/watch?v=meB_SWzZm8M
 https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
@@ -2085,6 +2136,7 @@ https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
 https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
 https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
 https://martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+
 
 https://git-scm.com/docs/ | Git - Reference
 https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows | Git - Branching Workflows
@@ -2187,12 +2239,7 @@ https://datasift.github.io/gitflow
 https://datasift.github.io/gitflow/IntroducingGitFlow.html
 https://datasift.github.io/gitflow/Versioning.html
 
-https://trunkbaseddevelopment.com/game-changers/
-https://trunkbaseddevelopment.com/alternative-branching-models/
-
 https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
-
-http://endoflineblog.com/gitflow-considered-harmful
 
 https://github.com/Originate/git-town
 
@@ -5751,6 +5798,21 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+https://automatetheboringstuff.com/chapter0 | Chapter 0 – Introduction | Automate the Boring Stuff with Python
+
+http://channels.readthedocs.io/en/2.0/asgi.html | ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
+https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
+
+https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
+
+https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
+
+https://github.com/kennethreitz/homebrew-pythons
+http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
+https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
 https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
 https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
 
@@ -5758,8 +5820,8 @@ https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolu
 https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 
 https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
-
 https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
+https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
 
 https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
 https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
@@ -5770,29 +5832,25 @@ https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin sit
 https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.7 documentation
 https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
 https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
-https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
+
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
+
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
+https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
+http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
 
-https://docs.python.org/3/library/asyncio.html
-
-https://stackoverflow.blog/2017/09/06/incredible-growth-python/ | The Incredible Growth of Python - Stack Overflow Blog
-
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
+
 http://whypy3.com/#numeric-literals | Why Python 3?
-https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
 
 https://lincolnloop.com/blog
-
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
-https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
-http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
 
 
 
