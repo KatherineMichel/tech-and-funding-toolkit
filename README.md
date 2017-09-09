@@ -5751,6 +5751,42 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+
+https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
+https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
+
+https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
+
+https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
+
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
+
+https://docs.python.org/3/library/asyncio.html
+
+https://stackoverflow.blog/2017/09/06/incredible-growth-python/ | The Incredible Growth of Python - Stack Overflow Blog
+
+http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
+http://whypy3.com/#numeric-literals | Why Python 3?
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
+
+https://lincolnloop.com/blog
+
+
+
+
+
 New
 https://pythonclock.org Python 2.7 Countdown
 https://mail.python.org/mailman/listinfo/core-workflow 
