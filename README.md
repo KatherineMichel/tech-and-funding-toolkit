@@ -5808,6 +5808,13 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
+https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa - YouTube
+https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
+https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Django by Rich Jones - YouTube
+
 DjangoCon 2015
 https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t
 DjangoCon
