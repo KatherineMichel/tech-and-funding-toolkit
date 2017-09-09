@@ -1947,6 +1947,11 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 ## Collaborative Development
 
 <!--
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://gist.github.com/gersande/8177770 | Blogs I Love
+https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+
+
 trunk-based development tagged releases
 difference between github flow and trunk-based
 Consecutive development of consecutive releases
@@ -1977,10 +1982,6 @@ document driven development - Google Search
 
 
 New
-http://endoflineblog.com/gitflow-considered-harmful | GitFlow considered harmful | End of Line Blog
-http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow | OneFlow - a Git branching model and workflow | End of Line Blog
-http://endoflineblog.com/follow-up-to-gitflow-considered-harmful#comment-2959961696 | Follow-up to 'GitFlow considered harmful' | End of Line Blog
-
 https://en.wikipedia.org/wiki/Rational_ClearCase | Rational ClearCase - Wikipedia
 https://subversion.apache.org/ | Apache Subversion
 https://www.perforce.com/ | Connect teams, protect IP, support rapid releases | Perforce
@@ -2090,6 +2091,12 @@ A Successful Git Branching Model
 * [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
 * [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
 
+<!--
+http://endoflineblog.com/gitflow-considered-harmful | GitFlow considered harmful | End of Line Blog
+http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow | OneFlow - a Git branching model and workflow | End of Line Blog
+http://endoflineblog.com/follow-up-to-gitflow-considered-harmful#comment-2959961696 | Follow-up to 'GitFlow considered harmful' | End of Line Blog
+-->
+
 Atlassian Workflow
 * [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
 
@@ -2114,16 +2121,8 @@ Company or Organization Specific Workflows
 * [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
 
 <!--
-New
-https://puppet.com/resources/whitepaper/state-of-devops-report/thank-you | 2017 State of DevOps Report – Thank you | Puppet
-file:///Users/katherinemichel/Downloads/2017-state-of-devops-report.pdf | 2017-state-of-devops-report.pdf
-https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
-
-http://schacon.github.io/git/user-manual.html | Git User’s Manual (for version 1.5.3 or newer)
-
 A curated list of trunk based development resources
 https://github.com/cgbystrom/awesome-trunk-based-dev 
-
 
 Trunk-Based Development economics (Paul Hammant) - YouTube
 https://www.youtube.com/watch?v=meB_SWzZm8M
@@ -2137,6 +2136,13 @@ https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-f
 https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
 https://martinfowler.com/articles/continuousIntegration.html | Continuous Integration
 
+https://puppet.com/resources/whitepaper/state-of-devops-report/thank-you | 2017 State of DevOps Report – Thank you | Puppet
+file:///Users/katherinemichel/Downloads/2017-state-of-devops-report.pdf | 2017-state-of-devops-report.pdf
+https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
+
+
+
+http://schacon.github.io/git/user-manual.html | Git User’s Manual (for version 1.5.3 or newer)
 
 https://git-scm.com/docs/ | Git - Reference
 https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows | Git - Branching Workflows
@@ -2168,8 +2174,24 @@ https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful/ |
 https://team-coder.com/from-git-flow-to-trunk-based-development/ | From Git Flow to Trunk Based Development
 https://team-coder.com/avoid-merge-conflicts/ | 4 Simple Tricks to Avoid Merge Conflicts
 
+https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
+
+https://datasift.github.io/gitflow
+https://datasift.github.io/gitflow/IntroducingGitFlow.html
+https://datasift.github.io/gitflow/Versioning.html
+
+https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
+
+https://github.com/Originate/git-town
+
+https://gist.github.com/seshness/3943237
+
+https://stackoverflow.com/questions/2428722/git-branch-strategy-for-small-dev-team
+https://stackoverflow.com/questions/42405888/what-is-upstream-first-policy
 
 
+
+https://github.com/wearehive/project-guidelines
 
 https://zachholman.com/talk/git-github-secrets
 https://zachholman.com/talk/more-git-and-github-secrets/
@@ -2177,7 +2199,6 @@ https://zachholman.com/talk/more-git-and-github-secrets/
 https://github.com/git-tips/tips
 
 https://github.com/mdo/config
-https://github.com/wearehive/project-guidelines
 https://github.com/tiimgreen/github-cheat-sheet
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
@@ -2230,23 +2251,6 @@ http://jtleek.com/modules/01_DataScientistToolbox/02_08_basicMarkdown/#1
 http://jtleek.com/modules/01_DataScientistToolbox/02_06_creatingRepos/#10
 
 https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch
-https://www.git-tower.com/learn/git/ebook/en/desktop-gui/advanced-topics/git-flow
-https://www.git-tower.com/learn/git/ebook/en/desktop-gui/branching-merging/branching-workflows
-
-https://confluence.atlassian.com/bitbucket/workflow-for-git-feature-branching-814201830.html
-
-https://datasift.github.io/gitflow
-https://datasift.github.io/gitflow/IntroducingGitFlow.html
-https://datasift.github.io/gitflow/Versioning.html
-
-https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
-
-https://github.com/Originate/git-town
-
-https://gist.github.com/seshness/3943237
-
-https://stackoverflow.com/questions/2428722/git-branch-strategy-for-small-dev-team
-https://stackoverflow.com/questions/42405888/what-is-upstream-first-policy
 -->
 
 Semver (See also: npm packages)
