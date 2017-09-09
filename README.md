@@ -6270,6 +6270,7 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://hellowebbooks.com
 https://hellowebbooks.com/news/hello-web-app-online-forever
 
 https://hellowebapp.com/news/tutorial-class-based-views
@@ -11620,7 +11621,9 @@ https://www.cbp.gov/travel/trusted-traveler-programs/global-entry
 https://www.linkedin.com/directory/people-company-s/ | Browse Members by Name and Company: S a @ Larsen-&-toubro-limited - Số @ Acb-bank | LinkedIn
 https://blog.medium.com/expanding-the-medium-partner-program-3be09dd146e4
 
+http://saythanks.io
 https://happinesspackets.io
+
 https://merch.amazon.com/landing
 https://thehub.amazon.com/ | Welcome
 
@@ -11772,6 +11775,11 @@ Twitter Advanced Search
 Reddit and Quora Advertising
 * [Reddit Advertising](https://www.reddit.com/advertising)
 * [Quora Advertising](https://www.quora.com/business)
+
+<!--
+http://docs.readthedocs.io/en/latest/ethical-advertising.html | Ethical Advertising — Read the Docs 1.0 documentation
+https://codesponsor.io/ | Code Sponsor | We find sponsorship funding for open source
+-->
 
 Alerts
 * [Google Alerts](https://www.google.com/alerts)
