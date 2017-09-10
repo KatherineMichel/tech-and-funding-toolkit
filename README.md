@@ -5808,6 +5808,14 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
+DjangoCon Videos
+https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T
+
+PyCon 2016, 2017 Videos
+https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg
+https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos
+https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw
+
 http://trybootcamp.vitorfs.com/ | Bootcamp
 https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/views.py | bootcamp/views.py at master · vitorfs/bootcamp
 https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html | How to Implement CRUD Using Ajax and Json
