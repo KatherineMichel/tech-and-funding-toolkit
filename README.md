@@ -5805,6 +5805,7 @@ https://github.com/aspnetboilerplate/sample-blog-module
 https://github.com/aspnet/Mvc/tree/dev/samples
 --> 
 
+
 #### Python and Django Toolkit
 
 <!--
@@ -5817,16 +5818,8 @@ https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs 
 
 https://automatetheboringstuff.com/chapter0 | Chapter 0 – Introduction | Automate the Boring Stuff with Python
 
-http://channels.readthedocs.io/en/2.0/asgi.html | ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
-https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
-
 https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
 https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
-
-https://github.com/kennethreitz/homebrew-pythons
-http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
-https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
 
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 
@@ -5983,8 +5976,7 @@ https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible 
 https://www.python.org/doc/ | Our Documentation | Python.org
 https://docs.python.org/3/ | 3.6.2 Documentation
 
-https://www.python.org/doc/versions/
-https://www.python.org/downloads/
+https://www.python.org/doc/versions
 
 https://wiki.python.org/moin/Python2orPython3
 https://www.djangopackages.com/python3/
@@ -6712,6 +6704,11 @@ Python- Django- Records, Requests
 * [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 <!--
+https://github.com/kennethreitz/homebrew-pythons
+http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
+https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
 https://github.com/kennethreitz/setup.py
 https://github.com/kennethreitz/setup.py/blob/master/setup.py
 
@@ -6759,16 +6756,21 @@ https://github.com/encode/apistar
 http://gunicorn.org
 -->
 
+
 Python- Django- Channels
 * [Channels GitHub](https://github.com/django/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+http://channels.readthedocs.io/en/2.0/asgi.html | ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
+https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
+
 https://github.com/jacobian/demo-thing
 https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
 
 https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
 -->
+
 
 Python- Django- Python Social Auth
 * [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
