@@ -66,8 +66,9 @@ Table of Content
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python General](#python-general)
-  * [Python and Django Users, Jobs, News](#python-and-django-users-jobs-news)
+  * [Python- High Level](#python-high-level)
   * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)
+  * [Python- Object Oriented Programming](#python-object-oriented-programming)    
   * [Django General](#django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Support Groups](#python-and-django-support-groups)
@@ -5806,38 +5807,19 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 
 #### Python and Django Toolkit
 
-#### Python General
-
 <!--
-https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html | How to Implement CRUD Using Ajax and Json
-https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html | Class-Based Views vs. Function-Based Views
-
-https://www.python.org/doc/ | Our Documentation | Python.org
-https://docs.python.org/3/ | 3.6.2 Documentation
-
 https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
 http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
 http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
 https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
 
-
-https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
-
-
-https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
-https://github.com/python/miss-islington/issues
-http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-
 
 https://automatetheboringstuff.com/chapter0 | Chapter 0 – Introduction | Automate the Boring Stuff with Python
 
 http://channels.readthedocs.io/en/2.0/asgi.html | ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
 https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
-
-https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
 
 https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
 https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
@@ -5846,39 +5828,6 @@ https://github.com/kennethreitz/homebrew-pythons
 http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
 https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
 https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
-https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
-
-https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
-https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
-
-https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
-https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
-https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
-
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
-https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.7 documentation
-https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
-
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
-
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
-https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
-http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
 
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 
@@ -5918,93 +5867,7 @@ PyCoders Weekly and Python Weekly
 http://pytz.sourceforge.net
 -->
 
-Python (See also Data Science)
-* [Python](http://www.python.org), [Python GitHub](https://github.com/python), and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
-* [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
-* [Python Docs](https://docs.python.org)
-* [Python Standard Library](https://docs.python.org/3.5/library)
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
-* [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
-* [Python Patterns Library](https://github.com/faif/python-patterns)
-
-<!--
-Kenneth Reitz
-https://docs.python.org/3.4/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-
-
-https://www.python.org/doc/versions/
-https://www.python.org/downloads/
-
-https://wiki.python.org/moin/Python2orPython3
-https://www.djangopackages.com/python3/
-www.python.org/download/releases/2.3/mro/
-http://docs.python.org/2/library/pickle.html
-
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/library/pathlib.html
-https://docs.python.org/3/library/stdtypes.html
-
-https://docs.python.org/3/howto/regex.html
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3/glossary.html#glossary
-https://docs.python.org/3.6/library/sys.html
-https://docs.python.org/3/library/logging.config.html
--->
-
-CPython
-* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
-
-Python Authorities
-* [Python Authority Authority GitHub](https://github.com/pyaa)
-* [Python Code Quality Authority GitHub](https://github.com/PyCQA)
-
-Pip
-* [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
-* [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
-* [Pip Installer](http://pip-installer.org)
-* [Pypa Get pip GitHub](https://github.com/pypa/get-pip)
-* [Pypa Warehouse](https://github.com/pypa/warehouse)
-
-<!--
-http://pythonhosted.org
--->
-
-Virtual Environment
-* [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
-* [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
-* [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io) and [Virtualenvwrapper BitBucket](http://www.doughellmann.com/projects/virtualenvwrapper)
-* [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
-
-Pyenv
-* [Pyenv GitHub](https://github.com/yyuu/pyenv)
-* [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
-* [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
-
-<!--
-https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
-https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
--->
-
-#### Python and Django Users, Jobs, News
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-<!--
-https://github.com/pinax/cloudspotting
-
-* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
-* [Pinax GitHub](https://github.com/pinax)
-
-http://eldarion.cloud/ | Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes
-http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site Care and Maintenance from Eldarion
-
-http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
-https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
--->
+#### Python General
 
 Consulting Firms
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
@@ -6014,6 +5877,7 @@ Consulting Firms
 * [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+https://twitter.com/CaktusGroup/following
 https://www.caktusgroup.com/talks/speaker/mark-lavin
 https://www.caktusgroup.com/blog/2016/02/02/writing-unit-tests-django-migrations
 -->
@@ -6074,8 +5938,18 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
+https://github.com/python/miss-islington/issues
+http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
+https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
+
+https://speakerdeck.com/andrewgodwin
+https://github.com/econchick
+https://github.com/lorenanicole
+https://github.com/kennethreitz
 https://www.kennethreitz.org/talks/ | Talks — Kenneth Reitz
 
+https://twitter.com/treyhunner/lists
 http://treyhunner.com/talk-talk/#/
 https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
 -->
@@ -6084,6 +5958,72 @@ Python- Django- News
 * [Django Weblog GitHub](https://www.djangoproject.com/weblog)
 * [Get Topical Django Framework](http://gettopical.com/djangoframework) 
 * [Right Relevant Django Articles](http://www.rightrelevance.com/search/articles?query=django) 
+
+#### Python- High Level
+
+
+
+
+
+
+Python (See also Data Science)
+* [Python](http://www.python.org), [Python GitHub](https://github.com/python), and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
+* [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
+* [Python Docs](https://docs.python.org)
+* [Python Standard Library](https://docs.python.org/3.5/library)
+
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
+* [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
+* [Python Patterns Library](https://github.com/faif/python-patterns)
+
+<!--
+https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
+
+https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
+
+https://www.python.org/doc/ | Our Documentation | Python.org
+https://docs.python.org/3/ | 3.6.2 Documentation
+
+https://www.python.org/doc/versions/
+https://www.python.org/downloads/
+
+https://wiki.python.org/moin/Python2orPython3
+https://www.djangopackages.com/python3/
+-->
+
+CPython
+* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
+
+Python Authorities
+* [Python Authority Authority GitHub](https://github.com/pyaa)
+* [Python Code Quality Authority GitHub](https://github.com/PyCQA)
+
+Pip
+* [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
+* [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
+* [Pip Installer](http://pip-installer.org)
+* [Pypa Get pip GitHub](https://github.com/pypa/get-pip)
+* [Pypa Warehouse](https://github.com/pypa/warehouse)
+
+<!--
+http://pythonhosted.org
+-->
+
+Virtual Environment
+* [Virtualenv](http://virtualenv.org), [Virtualenv GitHub](https://github.com/pypa/virtualenv), and [Virtualenv Read the Docs](https://virtualenv.readthedocs.org/en/latest)
+* [Kenneth Reitz: Python Guide Virtual Environments](http://docs.python-guide.org/en/latest/dev/virtualenvs)
+* [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io) and [Virtualenvwrapper BitBucket](http://www.doughellmann.com/projects/virtualenvwrapper)
+* [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
+
+Pyenv
+* [Pyenv GitHub](https://github.com/yyuu/pyenv)
+* [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
+* [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
+
+<!--
+https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
+https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
+-->
 
 #### Python and Django Playbooks and Styleguides
 
@@ -6155,6 +6095,64 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
 * [Kenneth Reitz: The Hitchhiker’s Guide to Python! Guide Style Guide](http://docs.python-guide.org/en/latest/notes/styleguide)
 
+
+
+#### Python- Object Oriented Programming
+
+<!--
+www.python.org/download/releases/2.3/mro/
+http://docs.python.org/2/library/pickle.html
+
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/library/pathlib.html
+https://docs.python.org/3/library/stdtypes.html
+
+https://docs.python.org/3/howto/regex.html
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/glossary.html#glossary
+https://docs.python.org/3.6/library/sys.html
+https://docs.python.org/3/library/logging.config.html
+
+Kenneth Reitz
+https://docs.python.org/3.4/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+
+https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
+https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
+
+https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
+https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
+https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
+
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
+https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.7 documentation
+https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
+
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
+
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
+https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
+http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
+-->
+
+
 #### Django General
 
 <!--
@@ -6204,6 +6202,24 @@ https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Dja
 #### Python and Django Books and Tutorials
 
 <!--
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+<!--
+https://github.com/pinax/cloudspotting
+
+* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
+* [Pinax GitHub](https://github.com/pinax)
+
+http://eldarion.cloud/ | Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes
+http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site Care and Maintenance from Eldarion
+
+http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
+https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
+-->
+
+
+
 https://www.twoscoopspress.com/pages/current-django-books
 
 https://teamtreehouse.com/tracks/learn-python
@@ -6225,6 +6241,9 @@ Python- Django- Dedicated Websites
 
 <!--
 https://github.com/simpleisbetterthancomplex/simple-academy
+
+https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html | How to Implement CRUD Using Ajax and Json
+https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html | Class-Based Views vs. Function-Based Views
 
 https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
 
