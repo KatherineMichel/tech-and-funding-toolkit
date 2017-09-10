@@ -11425,6 +11425,11 @@ Off the Wall
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) and [Wait But Why Facebook](https://www.facebook.com/waitbutwhy) 
 
+<!--
+Slate Star Codex
+http://slatestarcodex.com
+-->
+
 Eccentric
 * [Brain Pickings](https://www.brainpickings.org)
 * [Freakonomics](http://freakonomics.com)
