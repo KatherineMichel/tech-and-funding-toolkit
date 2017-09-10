@@ -5808,11 +5808,10 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
-http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
-https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
+https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
 
@@ -6100,6 +6099,11 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 #### Python- Object Oriented Programming
 
 <!--
+http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
+http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
+https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
+
+
 www.python.org/download/releases/2.3/mro/
 http://docs.python.org/2/library/pickle.html
 
@@ -6202,10 +6206,6 @@ https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Dja
 #### Python and Django Books and Tutorials
 
 <!--
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-<!--
 https://github.com/pinax/cloudspotting
 
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
@@ -6219,7 +6219,7 @@ https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | Ho
 -->
 
 
-
+<!--
 https://www.twoscoopspress.com/pages/current-django-books
 
 https://teamtreehouse.com/tracks/learn-python
@@ -6494,6 +6494,8 @@ Dedicated Python Hosting
 <!--
 https://github.com/kelproject
 -->
+
+
 
 #### Lincoln Loop Stack
 
