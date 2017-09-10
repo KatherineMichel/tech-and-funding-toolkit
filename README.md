@@ -71,7 +71,8 @@ Table of Content
   * [Django General](#django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Support Groups](#python-and-django-support-groups)
-  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)
+  * [Python and Django Conference Videos and Slides](#python-and-django-conference-videos-and-slides)
+  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)  
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Deployment](#python-and-django-deployment)
@@ -5808,25 +5809,11 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python General
 
 <!--
-DjangoCon Videos
-https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T
-
-PyCon 2016, 2017 Videos
-https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg
-https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos
-https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw
-
-http://trybootcamp.vitorfs.com/ | Bootcamp
-https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/views.py | bootcamp/views.py at master · vitorfs/bootcamp
 https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html | How to Implement CRUD Using Ajax and Json
 https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html | Class-Based Views vs. Function-Based Views
 
-https://www.djangosites.org/ | Latest Additions :: DjangoSites.org - Powered by Django
-https://jquery.com/ | jQuery
-
-https://media.readthedocs.org/pdf/django/1.11.x/django.pdf | django.pdf
-https://docs.python.org/3/ | 3.6.2 Documentation
 https://www.python.org/doc/ | Our Documentation | Python.org
+https://docs.python.org/3/ | 3.6.2 Documentation
 
 https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
@@ -5834,19 +5821,6 @@ http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial
 http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
 https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
 
-
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
-https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa - YouTube
-https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
-https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
-https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Django by Rich Jones - YouTube
-
-DjangoCon 2015
-https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t
-DjangoCon
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos
-https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T | DjangoCon US 2017 - YouTube
 
 https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
@@ -5920,9 +5894,6 @@ https://mail.python.org/mailman/listinfo/core-workflow
 
 http://madewithwagtail.org
 http://python.apichecklist.com
-
-https://github.com/boto/boto
-https://github.com/boto/boto3 -- Python interface to Amazon Web Services
 
 http://www.sphinx-doc.org/en/stable/
 
@@ -6205,6 +6176,30 @@ Python- Django- Resources
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
+
+#### Python and Django Conference Videos and Slides
+
+PyCon
+* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
+* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
+
+DjangoCon
+* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
+* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
+* [Confreaks DjangoCon US 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
+* [Confreaks DjangoCon US 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
+
+Confreaks
+* [Confreaks](https://confreaks.tv)
+* [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
+
+<!--
+https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
+https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
+https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Django by Rich Jones - YouTube
+-->
 
 #### Python and Django Books and Tutorials
 
@@ -7509,8 +7504,6 @@ https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
 https://aws.amazon.com/javascript
 http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/welcome.html
 
-https://aws.amazon.com/premiumsupport/knowledge-center/python-boto3-virtualenv
-
 Marketplace- Application Development
 https://aws.amazon.com/marketplace/b/2649279011?ref_=gtw_navlft_node_2649279011
 https://aws.amazon.com/marketplace/b/2649279011?searchTerms=&category=2649279011&filters=pricing_plan_attributes%2Coperating_system&pricing_plan_attributes=FREE&operating_system=UBUNTU&page=1
@@ -8055,6 +8048,9 @@ Python- Amazon
 * [Deploying a Python Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
 
 <!--
+https://github.com/boto/boto
+https://aws.amazon.com/premiumsupport/knowledge-center/python-boto3-virtualenv
+
 https://pypi.python.org/pypi/django-toolbelt
 https://pypi.python.org/pypi/static3/0.5
 -->
