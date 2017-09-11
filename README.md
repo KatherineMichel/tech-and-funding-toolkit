@@ -1950,6 +1950,118 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 ## Collaborative Development
 
 <!--
+is git flow waterfall
+github silo git flow
+feature flags
+google trunk based development
+how much effort is enough spiral
+git workflows spiral boehm
+git workflows spiral boehm
+cost of change waterfall versus agile (articles, images)
+software cost of change
+software development risk
+software development trade offs
+git rebase uncommit
+merge hell
+diffrerence between github flow and trunk-based development
+feature flags
+extreme programming trunk-based development - Google Search
+improvement kata
+git flow waterfall
+waterfall development
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://paulhammant.com/blog/branch_by_abstraction.html | Introducing Branch By Abstraction
+https://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/ | Google's Scaled Trunk-Based Development
+https://paulhammant.com/2014/01/08/googles-vs-facebooks-trunk-based-development/ | Google's vs Facebook's Trunk-Based Development
+https://paulhammant.com/2013/04/09/scaling-trunk-based-development/ | Scaling Trunk-Based Development
+https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
+https://paulhammant.com/2013/04/05/what-is-trunk-based-development/ | What is Trunk-Based Development?
+https://paulhammant.com/categories.html#Branch_by_Abstraction,_etc | Categories
+
+https://dzone.com/articles/feature-toggles-are-one-worst | Feature Toggles are one of the Worst kinds of Technical Debt - DZone DevOps
+https://abhishek-tiwari.com/decoupling-deployment-and-release-feature-toggles/ | Decoupling Deployment and Release- Feature Toggles
+https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
+http://luci.criosweb.ro/a-real-life-git-workflow-why-git-flow-does-not-work-for-us/ | A real-life git workflow. Why git flow does not work for us – Lucian Sabo
+http://www.elidedbranches.com/2013/02/branching-is-easy-so.html | Elided Branches: Branching Is Easy. So? Git-flow Is Not Agile.
+https://www.reddit.com/r/git/comments/5k9gb9/why_is_git_flow_so_popular/ | Why is Git Flow so popular? : git
+http://scottchacon.com/2011/08/31/github-flow.html | GitHub Flow – Scott Chacon
+
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
+http://blog.launchdarkly.com/feature-branching-using-feature-flags/ | Feature Branching Using Feature Flags
+http://blog.launchdarkly.com/feature-flag-driven-products/ | Feature Flag-Driven Products
+http://blog.launchdarkly.com/tag/multivariate-feature-flags/ | Multivariate Feature Flags | LaunchDarkly Blog
+https://featureflags.io/feature-flag-uses/ | Uses – Feature Flags, Toggles, Controls
+https://featureflags.io/python-feature-flags/ | Python Feature Flags – Feature Flags, Toggles, Controls
+python feature flags
+https://stackoverflow.com/questions/24615921/beginners-guide-to-feature-flags-django | python 2.7 - Beginner's guide to Feature flags - Django - Stack Overflow
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+http://www.informit.com/articles/article.aspx?p=1833567 | Four Principles of Low-Risk Software Releases | Principle 1: Low-Risk Releases Are Incremental | InformIT
+
+https://www.google.com/search?q=cost+of+change+waterfall+versus+agile&oq=cost+of+change+waterfall+versus+agile&aqs=chrome..69i57.4530j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=cost+of+change+waterfall+versus+agile&source=lnms&tbm=isch&sa=X&ved=0ahUKEwizqImriJzWAhWLxVQKHTkDCE4Q_AUICigB&biw=1366&bih=549
+https://www.google.com/search?q=how+much+effort+is+enough+spiral&source=lnms&tbm=isch&sa=X&ved=0ahUKEwib-Oy4h5zWAhVCjFQKHVewCEcQ_AUICigB&biw=1366&bih=592#imgrc=mqxfbcFxndyYbM:
+https://www.google.com/search?q=how+much+effort+is+enough+spiral&source=lnms&tbm=isch&sa=X&ved=0ahUKEwib-Oy4h5zWAhVCjFQKHVewCEcQ_AUICigB&biw=1366&bih=592
+https://www.google.com/search?q=how+much+effort+is+enough+spiral&oq=how+much+effort+is+enough+spiral&aqs=chrome.0.69i59j69i60l3.5114j0j7&sourceid=chrome&ie=UTF-8
+https://www.google.com/search?q=how+much+effort+is+enough+spiral&tbm=isch&imgil=6zeWpEoCBrMwIM%253A%253BDcH2JU-KJm-TAM%253Bhttps%25253A%25252F%25252Fen.wikipedia.org%25252Fwiki%25252FSpiral_model&source=iu&pf=m&fir=6zeWpEoCBrMwIM%253A%252CDcH2JU-KJm-TAM%252C_&usg=__ROzhEPdr39dv5KI6tKFpaptNJBw%3D&biw=1366&bih=592&ved=0ahUKEwiO9-nXhpzWAhULsFQKHfQ8AkcQyjcIOQ&ei=XvC1WY7QEIvg0gL0-Yi4BA#imgrc=6zeWpEoCBrMwIM:
+
+https://dzone.com/articles/real-cost-change-software | The Real Cost of Change in Software Development - DZone Agile
+https://en.wikipedia.org/wiki/Spiral_model | Spiral model - Wikipedia
+how much effort is enough spiral
+https://en.wikipedia.org/wiki/Technical_debt | Technical debt - Wikipedia
+https://books.google.com/books?id=8BGpAwAAQBAJ&pg=PA106&lpg=PA106&dq=how+much+effort+is+enough+spiral&source=bl&ots=T4LM7xKKQV&sig=dLciVzq7fWixHvS5eNIQZztVk68&hl=en&sa=X&ved=0ahUKEwi7yaWVhpzWAhXBx1QKHa71BVkQ6AEIRjAI#v=onepage&q=how%20much%20effort%20is%20enough%20spiral&f=false | The Incremental Commitment Spiral Model: Principles and Practices for ... - Barry Boehm, Jo Ann Lane, Supannika Koolmanojwong, Richard Turner - Google Books
+http://dl.acm.org/citation.cfm?id=45801 | A Spiral Model of Software Development and Enhancement
+https://www.google.com/search?q=barry+boehm&oq=barry+boehm&gs_l=psy-ab.3..0i67k1j0l3.1728.1728.0.1995.1.1.0.0.0.0.126.126.0j1.1.0....0...1.1.64.psy-ab..0.1.126.XszrHDKvxro | barry boehm - Google Search
+https://www.linuxfoundation.org/blog/learn-how-to-contribute-to-the-linux-kernel-take-the-eudyptula-challenge/ | Learn How to Contribute to the Linux Kernel, Take the Eudyptula Challenge - The Linux Foundation
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext | Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
+https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
+https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook | Scaling Mercurial at Facebook | Engineering Blog | Facebook Code
+https://en.wikipedia.org/wiki/Conway's_law | Conway's law - Wikipedia
+http://swreflections.blogspot.com/2013/04/architecture-breaking-bugs-when.html | Building Real Software: Architecture-Breaking Bugs – when a Dreamliner becomes a Nightmare
+http://www.jarrodspillers.com/git/2009/08/19/git-merge-vs-git-rebase-avoiding-rebase-hell.html | git merge vs git rebase: Avoiding Rebase Hell - Jarrod Spillers
+https://www.atlassian.com/blog/archives/trust-merge-branch-simplification-musings | Trust the merge and branch simplification musings - Atlassian Blog
+http://queue.acm.org/detail.cfm?id=1643030 | Merge Early, Merge Often - ACM Queue
+https://stackoverflow.com/questions/16358418/how-to-avoid-merge-commit-hell-on-github-bitbucket | git - How to avoid merge-commit hell on GitHub/BitBucket - Stack Overflow
+https://en.wikipedia.org/wiki/Systems_development_life_cycle | Systems development life cycle - Wikipedia
+https://en.wikipedia.org/wiki/Software_development_process | Software development process - Wikipedia
+https://github.com/cgbystrom/awesome-trunk-based-dev | cgbystrom/awesome-trunk-based-dev: A curated list of trunk based development resources
+https://www.google.com/search?q=barry+boehm+cost+of+change&oq=barry+boehm+cost+of+change&aqs=chrome..69i57j0.245j0j7&sourceid=chrome&ie=UTF-8 | barry boehm cost of change - Google Search
+http://csse.usc.edu/TECHRPTS/2000/usccse2000-529/usccse2000-529.pdf | usccse2000-529.pdf
+https://www.google.com/search?q=software+process+maturity&oq=software+process+maturity&aqs=chrome.0.0l6.9553j0j7&sourceid=chrome&ie=UTF-8 | software process maturity - Google Search
+https://www.google.com/search?q=agility+and+cost+of+change+in+software+engineering&sa=X&ved=0ahUKEwis6-jv2ZvWAhUQ1WMKHZjsCOkQ1QIIiAEoAQ&biw=1366&bih=592 | agility and cost of change in software engineering - Google Search
+https://www.google.com/search?q=agility+and+cost+of+change+in+software+engineering&sa=X&ved=0ahUKEwis6-jv2ZvWAhUQ1WMKHZjsCOkQ1QIIiAEoAQ&biw=1366&bih=592 | agility and cost of change in software engineering - Google Search
+https://www.google.com/search?q=cost+of+software+defects+by+phase&sa=X&ved=0ahUKEwimh8qO25vWAhWIsFQKHaP4DEgQ1QIIaygH&biw=1366&bih=592 | cost of software defects by phase - Google Search
+https://www.google.com/search?source=hp&q=file%3Apdf+Software+Cost+Estimation+with+COCOMO+II+&oq=file%3Apdf+Software+Cost+Estimation+with+COCOMO+II+&gs_l=psy-ab.3...1828.3791.0.3914.12.11.0.0.0.0.137.1005.1j8.9.0....0...1.1.64.psy-ab..3.4.496.0..0j0i131k1.T141NbcSL3M | file:pdf Software Cost Estimation with COCOMO II - Google Search
+http://csse.usc.edu/csse/event/1996/COCOMO/1_Boehm%20-%20Tutorial.pdf | 1_Boehm - Tutorial.pdf
+https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sdlc-phase/ | How Much Do Bugs Cost to Fix During Each Phase of the SDLC? | Synopsys
+https://www.researchgate.net/figure/255965523_fig1_Figure-3-IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects | IBM System Science Institute Relative Cost of Fixing Defects  - Figure 1 of 2
+https://en.wikipedia.org/wiki/Systems_development_life_cycle | Systems development life cycle - Wikipedia
+https://www.reddit.com/r/git/comments/3g2u10/trunk_based_development_vs_featuretopic_branching/ | Trunk Based Development vs Feature/Topic branching. : git
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/ | Scaling Git (and some back story) | Brian Harry's blog
+https://www.quora.com/Which-companies-use-trunk-based-development | (4) Which companies use trunk based development? - Quora
+https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/ | Make Large Scale Changes Incrementally with Branch By Abstraction - Continuous Delivery
+https://www.amazon.com/dp/0321601912?tag=contindelive-20 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
+https://github.com/miguellgt/books/blob/master/agile-software-development/Continuous%20Delivery.pdf | books/Continuous Delivery.pdf at master · miguellgt/books
+file:///Users/katherinemichel/Downloads/Continuous%20Delivery.pdf | 0321670272.pdf
+https://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110 | gitlab - What are the pros and cons of git-flow vs github-flow? - Stack Overflow
+https://dzone.com/articles/origins-trunk-based | The Origins of Trunk Based Development - DZone DevOps
+https://en.wikipedia.org/wiki/Continuous_integration#cite_note-1 | Continuous integration - Wikipedia
+http://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/ | Always Agile Consulting · Organisation Pattern: Trunk Based Development
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+Lean Enterprise
+
+
+
+
+
+
+
 https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
 https://gist.github.com/gersande/8177770 | Blogs I Love
 https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
