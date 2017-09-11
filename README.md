@@ -65,6 +65,7 @@ Table of Content
 * [PHP](#php)
 * [.NET, ASP, Visual Studio, WebMatrix](#net-and-asp-visual-studio-webMatrix)
 * [Python and Django Toolkit](#python-and-django-toolkit)
+  * [Python and Django Foundations](#python-and-django-foundations)
   * [Python General](#python-general)
   * [Python- High Level](#python-high-level)
   * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)
@@ -5854,6 +5855,8 @@ PyCoders Weekly and Python Weekly
 http://pytz.sourceforge.net
 -->
 
+#### Python and Django Foundations
+
 #### Python General
 
 Consulting Firms
@@ -6255,24 +6258,19 @@ Python- Django- Dedicated Websites
 <!--
 https://github.com/simpleisbetterthancomplex/simple-academy
 
-https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html | How to Implement CRUD Using Ajax and Json
-https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html | Class-Based Views vs. Function-Based Views
-
-https://simpleisbetterthancomplex.com/tutorial/2017/08/20/how-to-use-celery-with-django.html
-
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
-http://simpleisbetterthancomplex.com/tutorial/2016/05/11/how-to-setup-ssl-certificate-on-nginx-for-django-application.html
 
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
-
+Class-Based Views vs. Function-Based Views
 https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html
 
 https://simpleisbetterthancomplex.com/tutorial/2017/02/18/how-to-create-user-sign-up-view.html
-
 https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
 https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
 https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
 https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html
+
+https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 -->
 
 Python- Django- Tutorials Lists
@@ -6293,7 +6291,7 @@ Python- Django Carrots (Inspired Django Girls Tutorial)
 * [Django Carrots Tutorial GitHub](https://github.com/ggcarrots/django-carrots)
 
 Python- Django- Hello Web Books
-* [Hello Web Books GitHub](https://github.com/hellowebbooks)
+* [Hello Web Books GitHub](https://hellowebbooks.com) and [Hello Web Books GitHub](https://github.com/hellowebbooks)
 * [Hello Web Design GitHub](https://github.com/hellowebapp/hellowebdesign)
 
 Python- Django- Hello Web App
@@ -6305,7 +6303,6 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
-https://hellowebbooks.com
 https://hellowebbooks.com/news/hello-web-app-online-forever
 
 https://hellowebapp.com/news/tutorial-class-based-views
@@ -6441,18 +6438,15 @@ Python- Django- Packages and Snippets (Unofficial)
 * [Django Packages](https://www.djangopackages.com)
 * [Django Snippets](https://djangosnippets.org) 
 
+
 #### Python and Django Templates and Microframeworks
 
 Python- Microframeworks and Template Engines
 * [Bottle](http://bottlepy.org/docs/dev/index.html)  
 * [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
-* [Flask](http://flask.pocoo.org) and [Flask GitHub](https://github.com/mitsuhiko/flask)  
+* [Flask](http://flask.pocoo.org), [Flask GitHub](https://github.com/mitsuhiko/flask), and [Flask Blueprints](http://flask.pocoo.org/docs/0.12/blueprints)
 * [WebPy GitHub](https://github.com/webpy/webpy)
 * [Tornado](http://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
-
-<!--
-http://flask.pocoo.org/docs/0.12/blueprints
--->
 
 Python- Django- Pinax
 * [Pinax](http://pinaxproject.com) 
