@@ -3875,6 +3875,11 @@ Apple Developer Helpers
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
 
+<!--
+https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
+-->
+
 iTerm2
 * [iTerm2](https://www.iterm2.com)
 * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
@@ -5816,21 +5821,11 @@ https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
 
-https://automatetheboringstuff.com/chapter0 | Chapter 0 – Introduction | Automate the Boring Stuff with Python
-
-https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
-https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
-
-http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
-
-http://whypy3.com/#numeric-literals | Why Python 3?
-
 https://lincolnloop.com/blog
 
 
 
 New
-https://pythonclock.org Python 2.7 Countdown
 https://mail.python.org/mailman/listinfo/core-workflow 
 
 http://madewithwagtail.org
@@ -5963,9 +5958,10 @@ Python (See also Data Science)
 * [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
 * [Python Docs](https://docs.python.org)
 * [Python Standard Library](https://docs.python.org/3.5/library)
+* [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
+
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
-* [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
 <!--
@@ -5974,9 +5970,11 @@ https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
 https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
 
 https://www.python.org/doc/ | Our Documentation | Python.org
-https://docs.python.org/3/ | 3.6.2 Documentation
-
 https://www.python.org/doc/versions
+
+http://whypy3.com/#numeric-literals | Why Python 3?
+https://pythonclock.org Python 2.7 Countdown
+https://docs.python.org/3/ | 3.6.2 Documentation
 
 https://wiki.python.org/moin/Python2orPython3
 https://www.djangopackages.com/python3/
@@ -6088,6 +6086,7 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 
 
+
 #### Python- Object Oriented Programming
 
 <!--
@@ -6171,6 +6170,8 @@ Python- Django- Resources
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
+
+
 #### Python and Django Conference Videos and Slides
 
 PyCon
@@ -6198,6 +6199,8 @@ https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Dja
 #### Python and Django Books and Tutorials
 
 <!--
+https://github.com/kelproject
+
 https://github.com/pinax/cloudspotting
 
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
@@ -6208,6 +6211,24 @@ http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site 
 
 http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
 https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
+
+* [Pinax](http://pinaxproject.com) 
+* [Pinax Slack](http://slack.pinaxproject.com)
+
+https://github.com/pinax/pinax-webanalytics
+https://pinax-blog.readthedocs.io/en/latest/
+http://pinaxproject.com/pinax
+http://pinaxproject.com/pinax/quick_start
+http://pinaxproject.com/pinax/apps_list
+https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
+https://github.com/pinax/pinax-theme-bootstrap
+https://github.com/pinax/django-user-accounts
+https://github.com/pinax/django-forms-bootstrap
+http://django-user-accounts.readthedocs.org/en/latest
+
+http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
+https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 -->
 
 
@@ -6364,6 +6385,7 @@ https://github.com/pydanny/cached-property
 http://www.pydanny.com/cached-property.html
 -->
 
+
 #### Python and Django Packages and Snippets
 
 Python- Packages/Libraries
@@ -6435,25 +6457,6 @@ http://flask.pocoo.org/docs/0.12/blueprints
 Python- Django- Pinax
 * [Pinax](http://pinaxproject.com) 
 
-<!--
-* [Pinax Slack](http://slack.pinaxproject.com)
-
-https://github.com/pinax/pinax-webanalytics
-https://pinax-blog.readthedocs.io/en/latest/
-http://pinaxproject.com/pinax
-http://pinaxproject.com/pinax/quick_start
-http://pinaxproject.com/pinax/apps_list
-https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
-https://github.com/pinax/pinax-theme-bootstrap
-https://github.com/pinax/django-user-accounts
-https://github.com/pinax/django-forms-bootstrap
-http://django-user-accounts.readthedocs.org/en/latest
-
-http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
--->
-
 Python- Django- Cookiecutter (See also Packages)
 * [Django Packages Cookiecutters](https://www.djangopackages.com/grids/g/cookiecutters)
 * [Cookiecutter Django PyPi](https://pypi.python.org/pypi/cookiecutter)
@@ -6479,16 +6482,12 @@ Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 
 Dedicated Python Hosting
 * [Gondor (on Kubernetes)](https://gondor.io)
-* [pykube GitHub](https://github.com/eldarion-gondor/pykube)
+* [pykube GitHub](https://github.com/kelproject/pykube)
 * [Python Anywhere](https://www.pythonanywhere.com) 
 * [Kel](http://www.kelproject.com), [Kel GitHub](https://github.com/kelproject), and [Kel Docs GitHub](https://github.com/kelproject/kel-docs)
 
+
 <!--
-https://github.com/kelproject
--->
-
-
-
 #### Lincoln Loop Stack
 
 High Performance Django Stack
@@ -6522,7 +6521,7 @@ Cache
 Database
 * Postgres
 * MySQL/MariaDB
-
+-->
 
 
 #### Python and Django Common Deployment Tools
@@ -6533,9 +6532,9 @@ https://github.com/ana-balica/classy-django-forms
 Classy Django REST Framework
 https://github.com/vintasoftware/classy-django-rest-framework 
 Django Class-Based-View Inspector -- Classy CBV
-http://ccbv.co.uk
 
 http://cdrf.co
+http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
 
 http://www.fullstackpython.com/deployment.html
 http://masteringdjango.com/testing-in-django
