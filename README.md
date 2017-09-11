@@ -1969,27 +1969,24 @@ extreme programming trunk-based development - Google Search
 improvement kata
 git flow waterfall
 waterfall development
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://paulhammant.com/blog/branch_by_abstraction.html | Introducing Branch By Abstraction
-https://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/ | Google's Scaled Trunk-Based Development
-https://paulhammant.com/2014/01/08/googles-vs-facebooks-trunk-based-development/ | Google's vs Facebook's Trunk-Based Development
-https://paulhammant.com/2013/04/09/scaling-trunk-based-development/ | Scaling Trunk-Based Development
-https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
-https://paulhammant.com/2013/04/05/what-is-trunk-based-development/ | What is Trunk-Based Development?
-https://paulhammant.com/categories.html#Branch_by_Abstraction,_etc | Categories
+trunk-based development tagged releases
+difference between github flow and trunk-based
+Consecutive development of consecutive releases
+concurrent development of consecutive releases
+trunk-based development google uber
+enterprise trunk-based development
+economically based decision making
+Just-in-Time manufacturing product management
+just-in-Time manufacturing trunk-based development
 
 https://dzone.com/articles/feature-toggles-are-one-worst | Feature Toggles are one of the Worst kinds of Technical Debt - DZone DevOps
 https://abhishek-tiwari.com/decoupling-deployment-and-release-feature-toggles/ | Decoupling Deployment and Release- Feature Toggles
 https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/ | Knightmare: A DevOps Cautionary Tale – Doug Seven
 http://luci.criosweb.ro/a-real-life-git-workflow-why-git-flow-does-not-work-for-us/ | A real-life git workflow. Why git flow does not work for us – Lucian Sabo
 http://www.elidedbranches.com/2013/02/branching-is-easy-so.html | Elided Branches: Branching Is Easy. So? Git-flow Is Not Agile.
-https://www.reddit.com/r/git/comments/5k9gb9/why_is_git_flow_so_popular/ | Why is Git Flow so popular? : git
 http://scottchacon.com/2011/08/31/github-flow.html | GitHub Flow – Scott Chacon
 
+Features
 https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 https://github.com/jsocol/django-waffle | jsocol/django-waffle: A feature flipper for Django.
 http://blog.launchdarkly.com/feature-branching-using-feature-flags/ | Feature Branching Using Feature Flags
@@ -2026,7 +2023,7 @@ http://swreflections.blogspot.com/2013/04/architecture-breaking-bugs-when.html |
 http://www.jarrodspillers.com/git/2009/08/19/git-merge-vs-git-rebase-avoiding-rebase-hell.html | git merge vs git rebase: Avoiding Rebase Hell - Jarrod Spillers
 https://www.atlassian.com/blog/archives/trust-merge-branch-simplification-musings | Trust the merge and branch simplification musings - Atlassian Blog
 http://queue.acm.org/detail.cfm?id=1643030 | Merge Early, Merge Often - ACM Queue
-https://stackoverflow.com/questions/16358418/how-to-avoid-merge-commit-hell-on-github-bitbucket | git - How to avoid merge-commit hell on GitHub/BitBucket - Stack Overflow
+
 https://en.wikipedia.org/wiki/Systems_development_life_cycle | Systems development life cycle - Wikipedia
 https://en.wikipedia.org/wiki/Software_development_process | Software development process - Wikipedia
 https://github.com/cgbystrom/awesome-trunk-based-dev | cgbystrom/awesome-trunk-based-dev: A curated list of trunk based development resources
@@ -2041,15 +2038,11 @@ http://csse.usc.edu/csse/event/1996/COCOMO/1_Boehm%20-%20Tutorial.pdf | 1_Boehm 
 https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sdlc-phase/ | How Much Do Bugs Cost to Fix During Each Phase of the SDLC? | Synopsys
 https://www.researchgate.net/figure/255965523_fig1_Figure-3-IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects | IBM System Science Institute Relative Cost of Fixing Defects  - Figure 1 of 2
 https://en.wikipedia.org/wiki/Systems_development_life_cycle | Systems development life cycle - Wikipedia
-https://www.reddit.com/r/git/comments/3g2u10/trunk_based_development_vs_featuretopic_branching/ | Trunk Based Development vs Feature/Topic branching. : git
+
 https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
-https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/ | Scaling Git (and some back story) | Brian Harry's blog
-https://www.quora.com/Which-companies-use-trunk-based-development | (4) Which companies use trunk based development? - Quora
+
 https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/ | Make Large Scale Changes Incrementally with Branch By Abstraction - Continuous Delivery
 https://www.amazon.com/dp/0321601912?tag=contindelive-20 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
-https://github.com/miguellgt/books/blob/master/agile-software-development/Continuous%20Delivery.pdf | books/Continuous Delivery.pdf at master · miguellgt/books
-file:///Users/katherinemichel/Downloads/Continuous%20Delivery.pdf | 0321670272.pdf
-https://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110 | gitlab - What are the pros and cons of git-flow vs github-flow? - Stack Overflow
 https://dzone.com/articles/origins-trunk-based | The Origins of Trunk Based Development - DZone DevOps
 https://en.wikipedia.org/wiki/Continuous_integration#cite_note-1 | Continuous integration - Wikipedia
 http://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/ | Always Agile Consulting · Organisation Pattern: Trunk Based Development
@@ -2066,17 +2059,6 @@ https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I le
 https://gist.github.com/gersande/8177770 | Blogs I Love
 https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
 
-
-trunk-based development tagged releases
-difference between github flow and trunk-based
-Consecutive development of consecutive releases
-concurrent development of consecutive releases
-trunk-based development google uber
-enterprise trunk-based development
-economically based decision making
-Just-in-Time manufacturing product management
-just-in-Time manufacturing trunk-based development
-
 https://www.slideshare.net/perforce/trunk-based-development-in-the-enterprise-its-relevance-and-economics | Trunk Based Development in the Enterprise - Its Relevance and Economi…
 https://www.youtube.com/watch?v=o_ps9nUe708 | [MERGE 2014] What Continuous Delivery Means for Version Control - YouTube
 jez merge2014
@@ -2092,43 +2074,11 @@ https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401
 http://lpd2.com/wp-content/uploads/2013/06/ReinertsenFLOWChap1.pdf | The Principles of Product Development Flow: Chapter 1
 https://www.slideshare.net/SebastianRadics/the-principles-of-product-development-flow-a-summary | The Principles of product development flow - a summary
 
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-document driven development - Google Search
-
-
 New
 https://en.wikipedia.org/wiki/Rational_ClearCase | Rational ClearCase - Wikipedia
 https://subversion.apache.org/ | Apache Subversion
 https://www.perforce.com/ | Connect teams, protect IP, support rapid releases | Perforce
 https://en.wikipedia.org/wiki/StarTeam | StarTeam - Wikipedia
-
-https://trunkbaseddevelopment.com/ | Trunk Based Development
-https://github.com/paul-hammant/tbd | paul-hammant/tbd: Source for TrunkBasedDevelopment.com ☛
-
-https://trunkbaseddevelopment.com/game-changers/ | Game Changers - Trunk Based Development
-https://trunkbaseddevelopment.com/alternative-branching-models | Alternative branching models - Trunk Based Development
-trunk-based-development-enterprise-its-relevance-economics
-https://trunkbaseddevelopment.com/alternative-branching-models/index.html#legacy-branching-models | Alternative branching models - Trunk Based Development
-
-https://trunkbaseddevelopment.com/game-changers/index.html#google-revealing-their-monorepo-trunk-2016 | Game Changers - Trunk Based Development
-
-https://trunkbaseddevelopment.com/publications/ | Publications - Trunk Based Development
-https://book.trunkbaseddevelopment.com/trunk_based_development_book_printable.pdf | Trunk Based Development
-
-https://paulhammant.com/archive/ | Archive
-https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/ | Microsoft's Trunk-Based Development
-https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development/ | The origins of Trunk-Based Development
-https://paulhammant.com/2015/12/13/trunk-based-development-when-to-branch-for-release/ | Trunk based development: when to branch for release
-
-https://www.quora.com/Which-companies-use-trunk-based-development | (1) Which companies use trunk based development? - Quora
-https://github.com/Microsoft/GVFS | Microsoft/GVFS: Git Virtual File System
-https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system/ | Announcing GVFS (Git Virtual File System) – Microsoft DevOps Blog
-https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/ | The largest Git repo on the planet | Brian Harry's blog
-https://news.ycombinator.com/item?id=13559662 | Announcing GVFS: Git Virtual File System | Hacker News
-
-https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
-https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
 
 https://git-scm.com/book/en/v2/Distributed-Git-Maintaining-a-Project | Git - Maintaining a Project
 https://git-scm.com/book/en/v2/Git-Branching-Rebasing | Git - Rebasing
@@ -2144,12 +2094,6 @@ https://www.visualstudio.com/learn/understand-git-history/ | Understand Git hist
 https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
 
 https://about.gitlab.com/2017/08/08/gitlab-issue-bash-september-2017/
-
-
-
-http://schacon.github.io/git/user-manual
-http://schacon.github.io/git/user-manual#setting-up-a-shared-repository
-http://schacon.github.io/git/user-manual.html#examining-remote-branches
 
 https://www.kernel.org/pub/software/scm/git/docs/gitworkflows.html
 
@@ -2167,6 +2111,8 @@ https://git-scm.com/docs/giteveryday
 
 https://about.gitlab.com/eep-demo/
 -->
+
+
 
 Collaborative Development Models
 * [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
@@ -2189,6 +2135,12 @@ Continuousness
 
 Pros and Cons
 * ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
+
+<!--
+https://www.reddit.com/r/git/comments/5k9gb9/why_is_git_flow_so_popular/ | Why is Git Flow so popular? : git
+https://stackoverflow.com/questions/16358418/how-to-avoid-merge-commit-hell-on-github-bitbucket | git - How to avoid merge-commit hell on GitHub/BitBucket - Stack Overflow
+https://www.reddit.com/r/git/comments/3g2u10/trunk_based_development_vs_featuretopic_branching/ | Trunk Based Development vs Feature/Topic branching. : git
+-->
 
 Advice
 * Single version in production simple software - use Github-flow
@@ -2239,25 +2191,71 @@ Company or Organization Specific Workflows
 A curated list of trunk based development resources
 https://github.com/cgbystrom/awesome-trunk-based-dev 
 
+https://trunkbaseddevelopment.com/ | Trunk Based Development
+
+https://trunkbaseddevelopment.com/publications/ | Publications - Trunk Based Development
+https://book.trunkbaseddevelopment.com/trunk_based_development_book_printable.pdf | Trunk Based Development
+
+https://trunkbaseddevelopment.com/alternative-branching-models | Alternative branching models - Trunk Based Development
+trunk-based-development-enterprise-its-relevance-economics
+https://trunkbaseddevelopment.com/alternative-branching-models/index.html#legacy-branching-models | Alternative branching models - Trunk Based Development
+https://trunkbaseddevelopment.com/game-changers/ | Game Changers - Trunk Based Development
+https://trunkbaseddevelopment.com/game-changers/index.html#google-revealing-their-monorepo-trunk-2016 | Game Changers - Trunk Based Development
+
+https://github.com/paul-hammant/tbd | paul-hammant/tbd: Source for TrunkBasedDevelopment.com ☛
+https://paulhammant.com/archive/ | Archive
+https://paulhammant.com/categories
+
 Trunk-Based Development economics (Paul Hammant) - YouTube
 https://www.youtube.com/watch?v=meB_SWzZm8M
 https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
-https://paulhammant.com/2013/04/05/what-is-trunk-based-development/ | What is Trunk-Based Development?
 
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+https://paulhammant.com/2013/04/05/what-is-trunk-based-development/ | What is Trunk-Based Development?
+https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development/ | The origins of Trunk-Based Development
+https://paulhammant.com/2015/12/13/trunk-based-development-when-to-branch-for-release/ | Trunk based development: when to branch for release
+
+https://paulhammant.com/categories.html#Branch_by_Abstraction,_etc | Categories
+https://paulhammant.com/blog/branch_by_abstraction.html | Introducing Branch By Abstraction
+
+https://paulhammant.com/2013/04/09/scaling-trunk-based-development/ | Scaling Trunk-Based Development
+https://paulhammant.com/2014/04/03/microsofts-trunk-based-development/ | Microsoft's Trunk-Based Development
+https://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/ | Google's Scaled Trunk-Based Development
+https://paulhammant.com/2014/01/08/googles-vs-facebooks-trunk-based-development/ | Google's vs Facebook's Trunk-Based Development
+
+https://www.quora.com/Which-companies-use-trunk-based-development | (1) Which companies use trunk based development? - Quora
+
+https://blogs.msdn.microsoft.com/bharry/2017/02/03/scaling-git-and-some-back-story/ | Scaling Git (and some back story) | Brian Harry's blog
+
+https://github.com/Microsoft/GVFS | Microsoft/GVFS: Git Virtual File System
+https://blogs.msdn.microsoft.com/devops/2017/02/03/announcing-gvfs-git-virtual-file-system/ | Announcing GVFS (Git Virtual File System) – Microsoft DevOps Blog
+https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/ | The largest Git repo on the planet | Brian Harry's blog
+https://news.ycombinator.com/item?id=13559662 | Announcing GVFS: Git Virtual File System | Hacker News
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
 https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
 https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+document driven development - Google Search
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+
 
 https://puppet.com/resources/whitepaper/state-of-devops-report/thank-you | 2017 State of DevOps Report – Thank you | Puppet
 file:///Users/katherinemichel/Downloads/2017-state-of-devops-report.pdf | 2017-state-of-devops-report.pdf
 https://puppet.com/resources/whitepaper/2015-state-devops-report | 2015 State of DevOps Report
 
 
+http://schacon.github.io/git/user-manual | Git User’s Manual (for version 1.5.3 or newer)
+http://schacon.github.io/git/user-manual#setting-up-a-shared-repository
+http://schacon.github.io/git/user-manual.html#examining-remote-branches
 
-http://schacon.github.io/git/user-manual.html | Git User’s Manual (for version 1.5.3 or newer)
 
 https://git-scm.com/docs/ | Git - Reference
 https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows | Git - Branching Workflows
