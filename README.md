@@ -2006,7 +2006,6 @@ https://www.google.com/search?q=how+much+effort+is+enough+spiral&tbm=isch&imgil=
 
 http://luci.criosweb.ro/a-real-life-git-workflow-why-git-flow-does-not-work-for-us/ | A real-life git workflow. Why git flow does not work for us – Lucian Sabo
 http://www.elidedbranches.com/2013/02/branching-is-easy-so.html | Elided Branches: Branching Is Easy. So? Git-flow Is Not Agile.
-http://scottchacon.com/2011/08/31/github-flow.html | GitHub Flow – Scott Chacon
 
 https://dzone.com/articles/real-cost-change-software | The Real Cost of Change in Software Development - DZone Agile
 how much effort is enough spiral
@@ -2129,20 +2128,18 @@ Pros and Cons
 * ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
 
 <!--
-https://www.reddit.com/r/git/comments/5k9gb9/why_is_git_flow_so_popular/ | Why is Git Flow so popular? : git
-https://stackoverflow.com/questions/16358418/how-to-avoid-merge-commit-hell-on-github-bitbucket | git - How to avoid merge-commit hell on GitHub/BitBucket - Stack Overflow
-https://www.reddit.com/r/git/comments/3g2u10/trunk_based_development_vs_featuretopic_branching/ | Trunk Based Development vs Feature/Topic branching. : git
--->
-
 Advice
 * Single version in production simple software - use Github-flow
 * Single Version in production but very complex software - use Gitlab-flow
 * Multiple versions in production - use Git-flow
 
-<!--
 General Approaches
 * Mainline Development
 * Trunk-based Development
+
+https://www.reddit.com/r/git/comments/5k9gb9/why_is_git_flow_so_popular/ | Why is Git Flow so popular? : git
+https://stackoverflow.com/questions/16358418/how-to-avoid-merge-commit-hell-on-github-bitbucket | git - How to avoid merge-commit hell on GitHub/BitBucket - Stack Overflow
+https://www.reddit.com/r/git/comments/3g2u10/trunk_based_development_vs_featuretopic_branching/ | Trunk Based Development vs Feature/Topic branching. : git
 -->
 
 A Successful Git Branching Model
@@ -2171,10 +2168,18 @@ GitHub Flow
 * [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
 * [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 
+<!--
+http://scottchacon.com/2011/08/31/github-flow.html | GitHub Flow – Scott Chacon
+-->
+
 GitLab Flow
 * [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
 * [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
 * [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
+
+<!--
+https://docs.gitlab.com/ee/workflow/
+-->
 
 Company or Organization Specific Workflows
 * [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
