@@ -1950,6 +1950,10 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 ## Collaborative Development
 
 <!--
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://gist.github.com/gersande/8177770 | Blogs I Love
+https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+
 is git flow waterfall
 github silo git flow
 feature flags
@@ -1994,61 +1998,38 @@ https://featureflags.io/python-feature-flags/ | Python Feature Flags – Feature
 python feature flags
 https://stackoverflow.com/questions/24615921/beginners-guide-to-feature-flags-django | python 2.7 - Beginner's guide to Feature flags - Django - Stack Overflow
 
-
-http://www.informit.com/articles/article.aspx?p=1833567 | Four Principles of Low-Risk Software Releases | Principle 1: Low-Risk Releases Are Incremental | InformIT
-
 https://www.google.com/search?q=cost+of+change+waterfall+versus+agile&oq=cost+of+change+waterfall+versus+agile&aqs=chrome..69i57.4530j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=cost+of+change+waterfall+versus+agile&source=lnms&tbm=isch&sa=X&ved=0ahUKEwizqImriJzWAhWLxVQKHTkDCE4Q_AUICigB&biw=1366&bih=549
 https://www.google.com/search?q=how+much+effort+is+enough+spiral&source=lnms&tbm=isch&sa=X&ved=0ahUKEwib-Oy4h5zWAhVCjFQKHVewCEcQ_AUICigB&biw=1366&bih=592#imgrc=mqxfbcFxndyYbM:
 https://www.google.com/search?q=how+much+effort+is+enough+spiral&source=lnms&tbm=isch&sa=X&ved=0ahUKEwib-Oy4h5zWAhVCjFQKHVewCEcQ_AUICigB&biw=1366&bih=592
 https://www.google.com/search?q=how+much+effort+is+enough+spiral&oq=how+much+effort+is+enough+spiral&aqs=chrome.0.69i59j69i60l3.5114j0j7&sourceid=chrome&ie=UTF-8
 https://www.google.com/search?q=how+much+effort+is+enough+spiral&tbm=isch&imgil=6zeWpEoCBrMwIM%253A%253BDcH2JU-KJm-TAM%253Bhttps%25253A%25252F%25252Fen.wikipedia.org%25252Fwiki%25252FSpiral_model&source=iu&pf=m&fir=6zeWpEoCBrMwIM%253A%252CDcH2JU-KJm-TAM%252C_&usg=__ROzhEPdr39dv5KI6tKFpaptNJBw%3D&biw=1366&bih=592&ved=0ahUKEwiO9-nXhpzWAhULsFQKHfQ8AkcQyjcIOQ&ei=XvC1WY7QEIvg0gL0-Yi4BA#imgrc=6zeWpEoCBrMwIM:
-
-http://luci.criosweb.ro/a-real-life-git-workflow-why-git-flow-does-not-work-for-us/ | A real-life git workflow. Why git flow does not work for us – Lucian Sabo
-http://www.elidedbranches.com/2013/02/branching-is-easy-so.html | Elided Branches: Branching Is Easy. So? Git-flow Is Not Agile.
-
-https://dzone.com/articles/real-cost-change-software | The Real Cost of Change in Software Development - DZone Agile
-how much effort is enough spiral
-
 https://books.google.com/books?id=8BGpAwAAQBAJ&pg=PA106&lpg=PA106&dq=how+much+effort+is+enough+spiral&source=bl&ots=T4LM7xKKQV&sig=dLciVzq7fWixHvS5eNIQZztVk68&hl=en&sa=X&ved=0ahUKEwi7yaWVhpzWAhXBx1QKHa71BVkQ6AEIRjAI#v=onepage&q=how%20much%20effort%20is%20enough%20spiral&f=false | The Incremental Commitment Spiral Model: Principles and Practices for ... - Barry Boehm, Jo Ann Lane, Supannika Koolmanojwong, Richard Turner - Google Books
-http://dl.acm.org/citation.cfm?id=45801 | A Spiral Model of Software Development and Enhancement
 https://www.google.com/search?q=barry+boehm&oq=barry+boehm&gs_l=psy-ab.3..0i67k1j0l3.1728.1728.0.1995.1.1.0.0.0.0.126.126.0j1.1.0....0...1.1.64.psy-ab..0.1.126.XszrHDKvxro | barry boehm - Google Search
-
-https://en.wikipedia.org/wiki/Conway's_law | Conway's law - Wikipedia
-http://swreflections.blogspot.com/2013/04/architecture-breaking-bugs-when.html | Building Real Software: Architecture-Breaking Bugs – when a Dreamliner becomes a Nightmare
-http://www.jarrodspillers.com/git/2009/08/19/git-merge-vs-git-rebase-avoiding-rebase-hell.html | git merge vs git rebase: Avoiding Rebase Hell - Jarrod Spillers
-https://www.atlassian.com/blog/archives/trust-merge-branch-simplification-musings | Trust the merge and branch simplification musings - Atlassian Blog
-http://queue.acm.org/detail.cfm?id=1643030 | Merge Early, Merge Often - ACM Queue
-
-https://github.com/cgbystrom/awesome-trunk-based-dev | cgbystrom/awesome-trunk-based-dev: A curated list of trunk based development resources
 https://www.google.com/search?q=barry+boehm+cost+of+change&oq=barry+boehm+cost+of+change&aqs=chrome..69i57j0.245j0j7&sourceid=chrome&ie=UTF-8 | barry boehm cost of change - Google Search
-http://csse.usc.edu/TECHRPTS/2000/usccse2000-529/usccse2000-529.pdf | usccse2000-529.pdf
 https://www.google.com/search?q=software+process+maturity&oq=software+process+maturity&aqs=chrome.0.0l6.9553j0j7&sourceid=chrome&ie=UTF-8 | software process maturity - Google Search
-https://www.google.com/search?q=agility+and+cost+of+change+in+software+engineering&sa=X&ved=0ahUKEwis6-jv2ZvWAhUQ1WMKHZjsCOkQ1QIIiAEoAQ&biw=1366&bih=592 | agility and cost of change in software engineering - Google Search
 https://www.google.com/search?q=agility+and+cost+of+change+in+software+engineering&sa=X&ved=0ahUKEwis6-jv2ZvWAhUQ1WMKHZjsCOkQ1QIIiAEoAQ&biw=1366&bih=592 | agility and cost of change in software engineering - Google Search
 https://www.google.com/search?q=cost+of+software+defects+by+phase&sa=X&ved=0ahUKEwimh8qO25vWAhWIsFQKHaP4DEgQ1QIIaygH&biw=1366&bih=592 | cost of software defects by phase - Google Search
 https://www.google.com/search?source=hp&q=file%3Apdf+Software+Cost+Estimation+with+COCOMO+II+&oq=file%3Apdf+Software+Cost+Estimation+with+COCOMO+II+&gs_l=psy-ab.3...1828.3791.0.3914.12.11.0.0.0.0.137.1005.1j8.9.0....0...1.1.64.psy-ab..3.4.496.0..0j0i131k1.T141NbcSL3M | file:pdf Software Cost Estimation with COCOMO II - Google Search
+
+http://luci.criosweb.ro/a-real-life-git-workflow-why-git-flow-does-not-work-for-us/ | A real-life git workflow. Why git flow does not work for us – Lucian Sabo
+http://www.elidedbranches.com/2013/02/branching-is-easy-so.html | Elided Branches: Branching Is Easy. So? Git-flow Is Not Agile.
+https://dzone.com/articles/real-cost-change-software | The Real Cost of Change in Software Development - DZone Agile
+how much effort is enough spiral
+http://dl.acm.org/citation.cfm?id=45801 | A Spiral Model of Software Development and Enhancement
+
+http://www.informit.com/articles/article.aspx?p=1833567 | Four Principles of Low-Risk Software Releases | Principle 1: Low-Risk Releases Are Incremental | InformIT
+http://swreflections.blogspot.com/2013/04/architecture-breaking-bugs-when.html | Building Real Software: Architecture-Breaking Bugs – when a Dreamliner becomes a Nightmare
+http://www.jarrodspillers.com/git/2009/08/19/git-merge-vs-git-rebase-avoiding-rebase-hell.html | git merge vs git rebase: Avoiding Rebase Hell - Jarrod Spillers
+http://queue.acm.org/detail.cfm?id=1643030 | Merge Early, Merge Often - ACM Queue
+http://csse.usc.edu/TECHRPTS/2000/usccse2000-529/usccse2000-529.pdf | usccse2000-529.pdf
 http://csse.usc.edu/csse/event/1996/COCOMO/1_Boehm%20-%20Tutorial.pdf | 1_Boehm - Tutorial.pdf
 https://www.synopsys.com/blogs/software-security/cost-to-fix-bugs-during-each-sdlc-phase/ | How Much Do Bugs Cost to Fix During Each Phase of the SDLC? | Synopsys
 https://www.researchgate.net/figure/255965523_fig1_Figure-3-IBM-System-Science-Institute-Relative-Cost-of-Fixing-Defects | IBM System Science Institute Relative Cost of Fixing Defects  - Figure 1 of 2
-
 https://continuousdelivery.com/2011/05/make-large-scale-changes-incrementally-with-branch-by-abstraction/ | Make Large Scale Changes Incrementally with Branch By Abstraction - Continuous Delivery
-https://www.amazon.com/dp/0321601912?tag=contindelive-20 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
-https://dzone.com/articles/origins-trunk-based | The Origins of Trunk Based Development - DZone DevOps
-
 http://www.alwaysagileconsulting.com/articles/organisation-pattern-trunk-based-development/ | Always Agile Consulting · Organisation Pattern: Trunk Based Development
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-Lean Enterprise
 
-
-
-
-
-
-
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-https://gist.github.com/gersande/8177770 | Blogs I Love
-https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+https://www.atlassian.com/blog/archives/trust-merge-branch-simplification-musings | Trust the merge and branch simplification musings - Atlassian Blog
 
 https://www.slideshare.net/perforce/trunk-based-development-in-the-enterprise-its-relevance-and-economics | Trunk Based Development in the Enterprise - Its Relevance and Economi…
 https://www.youtube.com/watch?v=o_ps9nUe708 | [MERGE 2014] What Continuous Delivery Means for Version Control - YouTube
@@ -2058,8 +2039,11 @@ https://team-coder.com/from-git-flow-to-trunk-based-development/ | From Git Flow
 github flow release from branch
 https://hackernoon.com/a-branching-and-releasing-strategy-that-fits-github-flow-be1b6c48eca2 | A Branching and Releasing Strategy That Fits GitHub Flow
 
-https://twitter.com/williampietri/status/888066780735967232 | William Pietri on Twitter: "Small batches! Not just for bourbon. From https://t.co/D5VTS56qiX https://t.co/oCsxyvCXJS"
 
+https://www.amazon.com/dp/0321601912?tag=contindelive-20 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+Lean Enterprise
+https://twitter.com/williampietri/status/888066780735967232 | William Pietri on Twitter: "Small batches! Not just for bourbon. From https://t.co/D5VTS56qiX https://t.co/oCsxyvCXJS"
 https://www.amazon.com/Managing-Design-Factory-Donald-Reinertsen/dp/0684839911 | Managing the Design Factory: Donald G. Reinertsen: 9780684839912: Amazon.com: Books
 https://www.amazon.com/Principles-Product-Development-Flow-Generation/dp/1935401009/ref=redir_mobile_desktop?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0 | The Principles of Product Development Flow: Second Generation Lean Product Development: Donald G. Reinertsen: 9781935401001: Amazon.com: Books
 http://lpd2.com/wp-content/uploads/2013/06/ReinertsenFLOWChap1.pdf | The Principles of Product Development Flow: Chapter 1
@@ -2192,6 +2176,7 @@ https://en.wikipedia.org/wiki/Spiral_model | Spiral model - Wikipedia
 https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
 https://en.wikipedia.org/wiki/Continuous_integration#cite_note-1 | Continuous integration - Wikipedia
 https://en.wikipedia.org/wiki/Technical_debt | Technical debt - Wikipedia
+https://en.wikipedia.org/wiki/Conway's_law | Conway's law - Wikipedia
 
 A curated list of trunk based development resources
 https://github.com/cgbystrom/awesome-trunk-based-dev 
@@ -2216,6 +2201,7 @@ https://www.youtube.com/watch?v=meB_SWzZm8M
 https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
 
 https://paulhammant.com/2013/04/05/what-is-trunk-based-development/ | What is Trunk-Based Development?
+https://dzone.com/articles/origins-trunk-based | The Origins of Trunk Based Development - DZone DevOps
 https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development/ | The origins of Trunk-Based Development
 https://paulhammant.com/2015/12/13/trunk-based-development-when-to-branch-for-release/ | Trunk based development: when to branch for release
 
