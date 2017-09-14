@@ -1951,6 +1951,14 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 
 <!--
 New
+https://www.atlassian.com/devops | What is DevOps? | Atlassian
+
+https://www.techdirt.com/articles/20120409/03412518422/why-netflix-never-implemented-algorithm-that-won-netflix-1-million-challenge.shtml | Why Netflix Never Implemented The Algorithm That Won The Netflix $1 Million Challenge | Techdirt
+
+GitHub search- trunk based development
+https://www.google.com/search?q=github+trunk+based+development&oq=github+trunk+based+development&aqs=chrome..69i57j69i60j69i64.4635j0j7&sourceid=chrome&ie=UTF-8 | github trunk based development - Google Search
+
+
 https://www.slideshare.net/perforce/trunk-based-development-in-the-enterprise-its-relevance-and-economics | Trunk Based Development in the Enterprise - Its Relevance and Economi…
 
 https://seesparkbox.com/foundry/atomic_commits_with_git | Atomic Commits with Git | Sparkbox | Web Design and Development
@@ -1976,6 +1984,30 @@ https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I le
 https://gist.github.com/gersande/8177770 | Blogs I Love
 https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
 
+barry boehm cost of change
+continuous integration saves money
+CI assists with issue discovery. Measure the amount of time currently that it takes to discover broken builds or major bugs in the code. Multiply that by the cost to the company for each developer using that code during that time frame. Multiply that by the number of times breakages occur during the year.
+cost of a broken build software
+changelog
+trunk based development
+trunk based development economics
+mercurial git
+flowtype
+code freeze
+merge hell
+branch by abstraction
+monorepo
+feature toggles and flags
+facebook trunk based development
+patches or merging git
+gerrit branching workflows
+git feedback
+upstream first
+git team workflow
+stack overflow best git workflow
+staging quality assurance
+uber trunk based dev
+trunk development and tdd
 trunk-based development atomic
 atomic commit
 git transaction-based model
@@ -5963,6 +5995,35 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 2
+https://en.wikipedia.org/wiki/Use_case_diagram | Use case diagram - Wikipedia
+http://staruml.io/ | StarUML
+https://www.draw.io/ | draw.io
+https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+
+https://github.com/Mariatta/python_versions_and_distros
+https://github.com/Mariatta/cloner
+https://github.com/python/miss-islington/blob/master/backport/__main__.py | miss-islington/__main__.py at master · python/miss-islington
+
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+https://github.com/kennethreitz/pipenv/blob/78febc911af3f704fabacc4612877f009ae51eda/pipenv/cli.py | pipenv/cli.py at 78febc911af3f704fabacc4612877f009ae51eda · kennethreitz/pipenv
+http://docs.pipenv.org/en/latest/ | Pipenv: Sacred Marriage of Pipfile, Pip, & Virtualenv — pipenv 6.2.0 documentation
+https://github.com/kennethreitz/pipenv | kennethreitz/pipenv: Sacred Marriage of Pipfile, Pip, & Virtualenv.
+https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
+https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
+
+https://pythondotorg.readthedocs.io/ | Welcome to Python.org Website’s documentation! — Python.org Website 1.0 documentation
+https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
+https://bugs.python.org/ | List of issues - Python tracker
+https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transactions | Django documentation | Django
+
+django fixtures - Google Search
+wsgi - Google Search
+
+
+
+
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
