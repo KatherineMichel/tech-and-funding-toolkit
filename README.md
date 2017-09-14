@@ -1950,10 +1950,39 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 ## Collaborative Development
 
 <!--
+New
+https://www.slideshare.net/perforce/trunk-based-development-in-the-enterprise-its-relevance-and-economics | Trunk Based Development in the Enterprise - Its Relevance and Economi…
+
+https://seesparkbox.com/foundry/atomic_commits_with_git | Atomic Commits with Git | Sparkbox | Web Design and Development
+
+https://www.forrester.com/report/TBD/-/E-RES106521 | More Engineering, Less Dogma: The Path Toward Continuous Delivery Of Business Value
+
+https://legacy.devopsdays.org/blog/wp-content/uploads/2010/11/jez-humble-continuous_delivery_devopsdays_2010.pdf | jez-humble-continuous_delivery_devopsdays_2010.pdf
+http://images.itrevolution.com/documents/DevOps_Handbook_Intro_Part1_Part2.pdf | DevOps_Handbook_Intro_Part1_Part2.pdf
+http://flowcon.org/dl/flowcon-sanfran-2013/slides/AdrianCockcroft_VelocityAndVolumeorSpeedWins.pdf | AdrianCockcroft_VelocityAndVolumeorSpeedWins.pdf
+
+https://github.com/miguellgt/books | miguellgt/books: Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, REST, TDD, BDD, and Startups.
+
+https://gist.github.com/jbenet/ee6c9ac48068889b0912 | a simple git branching model
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+https://en.wikipedia.org/wiki/Integration_testing | Integration testing - Wikipedia
+
+
+
+
+
+
 https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
 https://gist.github.com/gersande/8177770 | Blogs I Love
 https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
 
+trunk-based development atomic
+atomic commit
+git transaction-based model
+continuous delivery jez
+test pyramid
+commit graph
+cicd pipeline
 is git flow waterfall
 github silo git flow
 feature flags
@@ -2040,6 +2069,7 @@ github flow release from branch
 https://hackernoon.com/a-branching-and-releasing-strategy-that-fits-github-flow-be1b6c48eca2 | A Branching and Releasing Strategy That Fits GitHub Flow
 
 
+https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
 https://www.amazon.com/dp/0321601912?tag=contindelive-20 | Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation (Addison-Wesley Signature Series (Fowler)): Jez Humble, David Farley: 9780321601919: Amazon.com: Books
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 Lean Enterprise
@@ -2177,6 +2207,9 @@ https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipe
 https://en.wikipedia.org/wiki/Continuous_integration#cite_note-1 | Continuous integration - Wikipedia
 https://en.wikipedia.org/wiki/Technical_debt | Technical debt - Wikipedia
 https://en.wikipedia.org/wiki/Conway's_law | Conway's law - Wikipedia
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://continuousdelivery.com/ | What is Continuous Delivery? - Continuous Delivery
 
 A curated list of trunk based development resources
 https://github.com/cgbystrom/awesome-trunk-based-dev 
@@ -2196,6 +2229,8 @@ https://github.com/paul-hammant/tbd | paul-hammant/tbd: Source for TrunkBasedDev
 https://paulhammant.com/archive/ | Archive
 https://paulhammant.com/categories
 
+https://devops.paulhammant.com/trunk-correlated-practices-chart/ | Trunk Correlated Practices Chart | Paul Hammant's DevOps
+
 Trunk-Based Development economics (Paul Hammant) - YouTube
 https://www.youtube.com/watch?v=meB_SWzZm8M
 https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
@@ -2204,6 +2239,7 @@ https://paulhammant.com/2013/04/05/what-is-trunk-based-development/ | What is Tr
 https://dzone.com/articles/origins-trunk-based | The Origins of Trunk Based Development - DZone DevOps
 https://paulhammant.com/2015/04/23/the-origins-of-trunk-based-development/ | The origins of Trunk-Based Development
 https://paulhammant.com/2015/12/13/trunk-based-development-when-to-branch-for-release/ | Trunk based development: when to branch for release
+https://paulhammant.com/2014/08/12/trunk-supporting-practices/ | Trunk supporting practices
 
 https://paulhammant.com/categories.html#Branch_by_Abstraction,_etc | Categories
 https://paulhammant.com/blog/branch_by_abstraction.html | Introducing Branch By Abstraction
@@ -2214,6 +2250,8 @@ https://paulhammant.com/2013/05/06/googles-scaled-trunk-based-development/ | Goo
 https://paulhammant.com/2014/01/08/googles-vs-facebooks-trunk-based-development/ | Google's vs Facebook's Trunk-Based Development
 
 https://www.quora.com/Which-companies-use-trunk-based-development | (1) Which companies use trunk based development? - Quora
+
+https://www.perforce.com/pdf/successful-continuous-delivery.pdf | Continuous Delivery: Five Habits of Highly Successful Practitioners
 
 https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext | Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
 
@@ -2228,6 +2266,8 @@ https://code.facebook.com/posts/218678814984400/scaling-mercurial-at-facebook | 
 
 https://www.linuxfoundation.org/blog/learn-how-to-contribute-to-the-linux-kernel-take-the-eudyptula-challenge/ | Learn How to Contribute to the Linux Kernel, Take the Eudyptula Challenge - The Linux Foundation
 https://github.com/torvalds/linux | torvalds/linux: Linux kernel source tree
+
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
 
 https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
 https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
