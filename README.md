@@ -5473,25 +5473,12 @@ https://www.draw.io/ | draw.io
 https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
-https://github.com/Mariatta/python_versions_and_distros
-https://github.com/Mariatta/cloner
-https://github.com/python/miss-islington/blob/master/backport/__main__.py | miss-islington/__main__.py at master · python/miss-islington
-
 https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-https://github.com/kennethreitz/pipenv/blob/78febc911af3f704fabacc4612877f009ae51eda/pipenv/cli.py | pipenv/cli.py at 78febc911af3f704fabacc4612877f009ae51eda · kennethreitz/pipenv
-http://docs.pipenv.org/en/latest/ | Pipenv: Sacred Marriage of Pipfile, Pip, & Virtualenv — pipenv 6.2.0 documentation
-https://github.com/kennethreitz/pipenv | kennethreitz/pipenv: Sacred Marriage of Pipfile, Pip, & Virtualenv.
-https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
-https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
 
-https://pythondotorg.readthedocs.io/ | Welcome to Python.org Website’s documentation! — Python.org Website 1.0 documentation
-https://www.python.org/dev/buildbot/ | Python Buildbot | Python.org
-https://bugs.python.org/ | List of issues - Python tracker
 https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transactions | Django documentation | Django
 
-django fixtures - Google Search
-wsgi - Google Search
-
+django fixtures
+wsgi
 
 
 
@@ -6086,6 +6073,8 @@ https://packaging.python.org/new-tutorials/installing-and-using-packages
 http://docs.pipenv.org/en/latest
 https://github.com/kennethreitz/env
 https://github.com/kennethreitz/pipenv
+https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
+https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
 
 Python Package Managers
 https://github.com/sdispater/poet
