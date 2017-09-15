@@ -1953,6 +1953,10 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 #### Open Source Documentation
 
 <!--
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://gist.github.com/gersande/8177770 | Blogs I Love
+https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+
 https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
 
 https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
