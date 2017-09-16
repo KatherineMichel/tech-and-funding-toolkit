@@ -33,7 +33,9 @@ Table of Content
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Git and Markdown](#git-and-markdown)
   * [DevOps](#devops)
+<!--
   * [Collaborative Development](#collaborative-development)
+-->
   * [Open Source Documentation](#open-source-documentation)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
@@ -251,6 +253,17 @@ Book Lists
 -->
 
 #### Programming Learning Tools
+
+<!--
+New
+https://www.pluralsight.com/guides
+https://www.pluralsight.com/resource-center/guides/classroom_vs_online
+https://www.pluralsight.com/blog/career/tech-in-2025
+Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
+
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
+https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
+-->
 
 What is Code?
 * [Paul Ford: What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
@@ -2071,6 +2084,9 @@ GitHub Open Source Survey
 
 <!--
 https://opensourcefriday.com
+
+https://opensource.googleblog.com/2017/09/making-google-developers-documentation.html | Making the Google Developers Documentation Style Guide Public | Google Open Source Blog
+https://developers.googleblog.com/2017/03/a-new-home-for-google-open-source.html
 
 https://opensource.google.com
 https://opensource.google.com/projects/explore/featured
@@ -5466,6 +5482,13 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://www.sqlalchemy.org/
+https://github.com/mitsuhiko/flask-sqlalchemy
+
+http://www.nbu.gov.sk/skcsirt-sa-20170909-pypi/ | skcsirt-sa-20170909-pypi | NBU
+
+https://developers.google.com/edu/python/set-up
+
 https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
 http://distrowatch.com/table.php?distribution=mint
 https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
@@ -5606,6 +5629,9 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+Corryn
+http://travelswithmaps.blogspot.com/
+
 https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
 https://github.com/python/miss-islington/issues
 http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
@@ -5881,7 +5907,7 @@ https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Dja
 
 <!--
 https://github.com/kelproject
-
+https://github.com/EldarionCloud | Eldarion Cloud
 https://github.com/pinax/cloudspotting
 
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
@@ -8063,8 +8089,9 @@ Terraform
 * [Terraform](https://www.terraform.io)
 
 <!--
+http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
+http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
 https://github.com/cyberomin/terraform/tree/master/part-ii
-http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html
 
 https://heap.engineering/terraform-gotchas
 -->
@@ -8135,7 +8162,13 @@ Kubernetes
 * [Kel](http://www.kelproject.com)
 
 <!--
-* [Kubernetes Cheat Sheet](http://k8s.info/cs.html)
+https://github.com/revsys/jslog4kube
+https://github.com/kubernetes/minikube
+https://github.com/kubernetes/kops
+https://github.com/kubernetes/helm
+
+https://heptio.com/ | Heptio | Unleash the Power of Kubernetes
+https://github.com/heptio/aws-quickstart | heptio/aws-quickstart: AWS Kubernetes cluster via CloudFormation and kubeadm
         
 https://github.com/GoogleCloudPlatform/kubernetes-workshops
 
@@ -8144,7 +8177,6 @@ http://kubernetes.io/docs/getting-started-guides/aws
 http://kubernetes.io/docs/hellonode
 https://github.com/kubernetes-incubator/cri-o
 
-https://github.com/Langhalsdino/Kubernetes-GPU-Guide
 https://github.com/kelseyhightower/kubernetes-the-hard-way
 http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
 https://deis.com/blog/2016/kubernetes-illustrated-guide/
