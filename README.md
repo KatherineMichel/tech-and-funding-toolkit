@@ -5614,14 +5614,6 @@ Python- Django Community
 Corryn
 http://travelswithmaps.blogspot.com/
 
-https://github.com/python/miss-islington | python/miss-islington: 🐍🍒⛏🤖 - A bot for backporting CPython pull requests
-https://github.com/python/miss-islington/issues
-http://pmbaumgartner.github.io/slack-commands-with-python-and-flask.html | Creating Slack Slash Commands with Python and Flask: Part 1 - Blog
-https://developer.github.com/v3/ | GitHub API v3 | GitHub Developer Guide
-
-https://docs.google.com/spreadsheets/d/1JSX8fBmPb84emTmV0Kmyf0_r6R0kZM0h9Wdm91tn7Kg/edit#gid=0
-http://distrowatch.com/table.php?distribution=mint
-https://www.reddit.com/r/Python/comments/41kn28/looking_for_a_table_of_python_versions_shipped_by/
 
 https://speakerdeck.com/andrewgodwin
 https://github.com/econchick
@@ -5894,22 +5886,6 @@ https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Dja
 
 
 <!--
-https://en.wikipedia.org/wiki/Class_diagram
-https://en.wikipedia.org/wiki/Use_case_diagram | Use case diagram - Wikipedia
-http://staruml.io/ | StarUML
-https://www.draw.io/ | draw.io
-https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
-
-https://github.com/sibtc | Simple is Better Than Complex
-https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
-
-https://disqus.com/home/explore/?email_verified=1 | Disqus
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
-https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 2
-
-https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/models.py | bootcamp/models.py at master · vitorfs/bootcamp
-
 https://pinax.slack.com/messages/C04R5AQU6/ | general | Pinax Project Slack
 https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
 http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
@@ -5966,11 +5942,27 @@ https://github.com/coodict/python3-in-one-pic
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
 
-Python- Django- Dedicated Websites
-* [GoDjango](https://godjango.com)
+Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
 
 <!--
+https://en.wikipedia.org/wiki/Class_diagram
+https://en.wikipedia.org/wiki/Use_case_diagram | Use case diagram - Wikipedia
+http://staruml.io/ | StarUML
+https://www.draw.io/ | draw.io
+https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
+
+https://github.com/sibtc | Simple is Better Than Complex
+https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
+
+https://disqus.com/home/explore/?email_verified=1 | Disqus
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
+https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 2
+
+https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/models.py | bootcamp/models.py at master · vitorfs/bootcamp
+
+
 https://github.com/simpleisbetterthancomplex/simple-academy
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
@@ -5987,6 +5979,9 @@ https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html
 https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html
 https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 -->
+
+Python- Django- Dedicated Websites
+* [GoDjango](https://godjango.com)
 
 Python- Django- Tutorials Lists
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
