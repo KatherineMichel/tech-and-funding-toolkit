@@ -1673,9 +1673,24 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 <!--
 https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
 
+http://www.camilletalk.com/ | Camille Fournier
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+
+GitHub- Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending](https://github.com/josephyzhou/github-trending)
+* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
 https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
 
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+
+
 
 https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 
@@ -1871,6 +1886,7 @@ https://github.com/updates
 https://github.com/marketplace
 https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
 
+
 GitHub Standards
 https://standards.github.io
 
@@ -1885,7 +1901,6 @@ https://help.github.com/enterprise
 https://github.com/business/customers
 
 https://github.com/github-tools
-https://github.com/showcases/projects-with-great-wikis
 
 https://pages.github.com
 -->
@@ -1900,15 +1915,6 @@ Hub
 <!--
 Hubot adapters
 -->
-
-GitHub- Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending](https://github.com/josephyzhou/github-trending)
-* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
 
 Markdown
 * [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
