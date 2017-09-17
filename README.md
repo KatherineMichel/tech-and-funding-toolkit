@@ -196,7 +196,7 @@ Courses (See also MOOCs)
 * ["How many people have finished the FreeCodeCamp curriculum so far?"](https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far)
 * [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Codecademy](http://www.codecademy.com) 
+* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
@@ -273,10 +273,55 @@ http://www.appinventor.org
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
-Programming Books
+#### Programming Documentation and Standards
+
+Programming Books- General
+* [IT eBooks](http://it-ebooks.info)
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
 * [Humble Bundle](https://www.humblebundle.com)
 * [DevFreeBooks](https://github.com/devfreebooks/devfreebooks.github.io)
+
+Documentation- General
+* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
+* [Safari Books](https://www.safaribooksonline.com)
+* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+
+<!--
+https://www.packtpub.com/account/my-ebooks
+-->
+
+Stack Overflow
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+
+IBM Documentation
+* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
+* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
+
+Standards
+* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
+* [W3C Standards Table of Contents](https://www.w3.org/standards)
+* [W3C Developer Tools](http://w3c.github.io/developers/tools)
+* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
+
+Better Reference than W3C
+* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
+
+Mozilla and Documentation
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Free Software Foundation
+* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
+
+GNU Software and Manuals
+* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
+* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
+* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
+
+KDE (See also KHTML)
+* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
+* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
 <!--
 Left off here
@@ -284,11 +329,8 @@ Left off here
 
 
 
-<!--
-https://www.producthunt.com/posts/codecademy-pro-2
-http://ready.codecademy.com/
-https://www.codecademy.com/learn/beta
--->
+Mozilla- General
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
 
 Design and Dev Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
@@ -308,65 +350,9 @@ https://css-tricks.com
 https://alistapart.com
 https://www.sitepoint.com
 https://csswizardry.com
+
+https://www.techopedia.com
 -->
-
-
-
-
-
-#### Programming Documentation and Standards
-
-Documentation- General
-* [IT eBooks](http://it-ebooks.info)
-* [IBM Knowledge Center](http://www-01.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
-<!--
-https://www.packtpub.com/account/my-ebooks
--->
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Documentation- Mozilla
-* [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
-
-Free Software Foundation
-* [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-GNU Software and Manuals
-* [GNU](https://www.gnu.org), [GNU Project Wikipedia](https://en.wikipedia.org/wiki/GNU_Project), and [GNU Software](http://www.gnu.org/software)  
-* [GNU Software Manual](http://www.gnu.org/manual/manual.html) 
-* [List of GNU Packages Wikipedia](https://en.wikipedia.org/wiki/List_of_GNU_packages)
-
-KDE (See also KHTML)
-* [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
-* [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
-
-
-
-
-
-<!--
-New
-https://github.com/mdn/learning-area
-https://www.ibm.com/developerworks/learn
--->
-
-Mozilla- General
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-
 
 
 
@@ -374,6 +360,9 @@ Mozilla- General
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+
+
+
 
 Individual Engineering Blogs
 * [Buffer Engineering](https://overflow.bufferapp.com)
