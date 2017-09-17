@@ -220,6 +220,12 @@ W3Schools
 * [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
 * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
 
+Stack Overflow
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+
 Math and General Knowledge
 * [Project Euler](http://www.projecteuler.net)  
 * [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
@@ -313,9 +319,6 @@ Documentation- General
 https://www.packtpub.com/account/my-ebooks
 -->
 
-Stack Overflow
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-
 IBM Documentation
 * [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
 * [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
@@ -359,6 +362,19 @@ Developer Surveys
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
+<!--
+https://stackoverflow.blog/2017/08/22/world-mobile-development/#.WZxnRkDJWb4.twitter | Where in the World is Mobile Development? - Stack Overflow Blog
+https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/ | A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog
+
+https://stackoverflow.com/company/salary/skills/product-designer?e=1&l=1
+https://www.stackoverflowbusiness.com/talent/resources/recruiting-developers-in-2017
+
+http://sogrady-media.redmonk.com/sogrady/files/2017/06/lang.rank_.617.wm_.png
+
+https://www.subtraction.com/2016/06/27/the-2016-subtraction-com-design-tools-survey
+http://tools.subtraction.com/
+-->
+
 Company Design Blogs
 * [Airbnb Samara](http://samara.airbnb.com)
 * [Medium Design](https://medium.com/designing-medium)  
@@ -372,34 +388,39 @@ Company Design Systems
 HubSpot
 * [HubSpot GitHub](https://github.com/HubSpot)
 
+PHP Styleguides
+* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
+* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
+* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
+* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
+* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
+* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
+
+<!--
+PSR-0: Autoloader Standard
+PSR-1: Basic Coding Standard
+PSR-2: Coding Style Guide
+PSR-3: Logger Interface
+-->
+
+Ruby Styleguide
+* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
+* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
+* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
+
+Objective C Styleguide
+* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
+* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
+
+Swift Styleguide
+* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
 <!--
 Left off here
 -->
 
 
 
-
-
-
-
-<!--
-https://stackoverflow.blog
-https://stackoverflow.com/insights
-http://stackoverflow.com/research
-
-https://stackoverflow.blog/2017/08/22/world-mobile-development/#.WZxnRkDJWb4.twitter | Where in the World is Mobile Development? - Stack Overflow Blog
-https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/ | A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog
-https://stackoverflow.blog/2017/05/09/introducing-stack-overflow-trends
-https://insights.stackoverflow.com/trends
-
-https://stackoverflow.com/company/salary/skills/product-designer?e=1&l=1
-https://www.stackoverflowbusiness.com/talent/resources/recruiting-developers-in-2017
-
-http://sogrady-media.redmonk.com/sogrady/files/2017/06/lang.rank_.617.wm_.png
-
-https://www.subtraction.com/2016/06/27/the-2016-subtraction-com-design-tools-survey
-http://tools.subtraction.com/
--->
 
 
 
@@ -463,32 +484,6 @@ Styleguides- Various
 * [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
 * [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
 
-PHP Styleguides
-* [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
-* [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
-* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
-* [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
-* [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
-* [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
-
-<!--
-PSR-0: Autoloader Standard
-PSR-1: Basic Coding Standard
-PSR-2: Coding Style Guide
-PSR-3: Logger Interface
--->
-
-Ruby Styleguide
-* [GitHub Ruby Styleguide](https://github.com/styleguide/ruby) 
-* [Airbnb Ruby Styleguide](http://airbnb.io/projects/ruby) and [Airbnb Ruby Styleguide GitHub](https://github.com/airbnb/ruby)
-* [Bozhidar Batsov Ruby Styleguide GitHub](https://github.com/bbatsov/ruby-style-guide)
-
-Objective C Styleguide
-* [GitHub Objective C Style Guide](https://github.com/github/objective-c-style-guide)
-* [New York Times Objective C Style Guide GitHub](https://github.com/NYTimes/objective-c-style-guide)
-
-Swift Styleguide
-* [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
 
 
@@ -875,6 +870,8 @@ http://docs.openstack.org/developer/nova
 https://wiki.openstack.org/wiki/Horizon
 http://docs.openstack.org/developer/horizon
 -->
+
+
 
 #### Command Line and Shell
 
