@@ -6046,6 +6046,8 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+https://www.reddit.com/r/design_critiques/comments/6x9teg/cover_for_a_selfpublished_beginner_design_book/ | Cover for a self-published beginner design book : design_critiques
+
 https://hellowebbooks.com/news/hello-web-app-online-forever
 
 https://hellowebapp.com/news/tutorial-class-based-views
@@ -7116,7 +7118,7 @@ AWS- Lambda
     
 https://github.com/awslabs/chalice
 https://github.com/apex/apex
-https://github.com/apex/up
+https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
 http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
 http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
 https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
@@ -7130,6 +7132,7 @@ https://github.com/serverless/site
 https://serverlesscode.com/post/zappa-wsgi-for-python/
 https://serverless.com/framework/docs/providers/aws/guide/credentials/
 https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
 
 https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
 https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
@@ -11385,6 +11388,20 @@ Digital Stats
 #### Popular Tools
 
 <!--
+
+http://lite.cnn.io/ | CNN - Breaking News, Latest News and Videos
+http://www.cnn.com/interactive/storm-tracker/ | CNN storm tracker - CNN.com
+https://www.southwest.com/flight/select-flight.html | Southwest Airlines - Select Flight(s)
+https://www.gov.uk/foreign-travel-advice/usa | USA travel advice - GOV.UK
+
+http://www.unixstickers.com/ | Stickers, T-shirts, Mugs on UNIX & Programming | unixstickers
+https://www.blog.google/topics/travel/new-ways-make-trip-planning-easier-and-cheaper/ | New ways to make trip planning easier and cheaper
+https://productforums.google.com/forum/#!msg/docs/iD5fRYPQYJU/bl8FGBwc0mQJ
+https://medium.com/@ev/unfortunately-its-impossible-to-predict-what-any-author-or-story-will-make-if-anything-1bff18af2cb2 | Unfortunately, it’s impossible to predict what any author or story will make (if anything).
+Redfin
+https://nomadlist.com/about | Nomad List — About
+https://www.linkedin.com/directory | LinkedIn
+
 Dongle
 https://en.wikipedia.org/wiki/Thunderbolt_(interface) | Thunderbolt (interface) - Wikipedia
 https://www.amazon.com/AmazonBasics-Mini-DisplayPort-Thunderbolt-Adapter/dp/B00NH13K8S/ | Amazon.com: AmazonBasics Mini DisplayPort (Thunderbolt) to HDMI Adapter: Computers & Accessories
