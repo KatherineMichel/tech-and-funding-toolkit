@@ -94,7 +94,6 @@ Table of Content
   * [Python and Django CMS](#python-and-django-cms)
   * [Python and Django Geo](#python-and-django-geo)
   * [Python and Django Unique](#python-and-django-unique)
-* [Web Host Newsletters](#web-host-newsletters)
 * [Events](#events)
 * [Dashboards](#dashboards)
 * [Domains, DNS, SSL](#domains-dns-ssl)
@@ -724,11 +723,6 @@ HTTP
 
 
 <!--
-New
-Write Great Code: Volume I: Understanding the Machine
-https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-
 https://en.wikipedia.org/wiki/Natural_user_interface
 https://en.wikipedia.org/wiki/Graphical_user_interface
 
@@ -742,7 +736,10 @@ https://en.wikipedia.org/wiki/Alan_Turing
 https://en.wikipedia.org/wiki/Alonzo_Church
 https://en.wikipedia.org/wiki/Claude_Shannon
 
+Write Great Code: Volume I: Understanding the Machine
+https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 https://en.wikibooks.org/wiki/A-level_Computing/AQA/Computer_Components,_The_Stored_Program_Concept_and_the_Internet/Machine_Level_Architecture/Machine_code_and_processor_instruction_set
+
 https://en.wikipedia.org/wiki/Binary_code
 https://en.wikipedia.org/wiki/Most_significant_bit
 https://en.wikipedia.org/wiki/Machine_code
@@ -773,30 +770,20 @@ https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Latency_(engineering)
 https://en.wikipedia.org/wiki/Branch_misprediction
 https://en.wikipedia.org/wiki/CPU_cache
+
+https://en.wikipedia.org/wiki/MAC_address
+https://en.wikipedia.org/wiki/UUID
+https://en.wikipedia.org/wiki/Codec
+https://en.wikipedia.org/wiki/Parsing
+https://en.wikipedia.org/wiki/HTTP_cookie
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+https://en.wikipedia.org/wiki/MIME
 -->
 
-<!--
-OS X Yosemite: Use Dvorak keyboard layouts
-https://support.apple.com/kb/PH18382?locale=en_US
-OS X Yosemite: Use the Keyboard Viewer
-https://support.apple.com/kb/PH18449?locale=en_US
-
-https://ma.tt/2003/08/on-the-dvorak-keyboard-layout
-https://github.com/kentonv/dvorak-qwerty
-https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
-https://sourceforge.net/projects/dvorakqwerty
-
-http://thewirecutter.com/reviews/comfortable-ergo-keyboard
-https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/ref=sr_1_6?ie=UTF8&qid=1489440374&sr=8-6&keywords=microsoft+ergonomic
-
-Mechanical keyboard
-Vertical mouse
--->
 
 <!--
 https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
 
-http://www.catb.org/~esr/faqs/hacker-howto.html
 -->
 
 <!--
@@ -823,14 +810,6 @@ Least Connections
 <!--
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-https://en.wikipedia.org/wiki/MAC_address
-https://en.wikipedia.org/wiki/UUID
-https://en.wikipedia.org/wiki/Codec
-https://en.wikipedia.org/wiki/Parsing
-https://en.wikipedia.org/wiki/HTTP_cookie
-https://en.wikipedia.org/wiki/File_Transfer_Protocol
-https://en.wikipedia.org/wiki/MIME
 
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
@@ -6514,11 +6493,6 @@ https://github.com/docopt/docopt
 http://www.djangopony.com/
 -->
 
-#### Web Host Newsletters
-
-* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
-* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
-* [Heroku Newsletter](https://www.heroku.com/newsletter)
 
 
 #### Events
@@ -6540,6 +6514,7 @@ Designer/Developer Conferences
 AWS- Events
 * [AWS Live Events](https://live.awsevents.com)
 * [AWS Global Summits](https://aws.amazon.com/summits)
+
 
 #### Dashboards
 
@@ -6657,175 +6632,13 @@ https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
 https://www.godaddy.com/help/what-is-a-subdomain-296
 -->
 
+
 #### Security
-
-<!--
-https://www.yubico.com/products/yubikey-hardware/
-
-https://code.google.com/p/browsersec/wiki/Main
-
-https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
-
-http://en.wikipedia.org/wiki/Two_factor_authentication
-https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard
--->
 
 Malware and Encryption
 * [hackerone](https://hackerone.com)
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
-
-<!--
-https://letsencrypt.org/2017/07/06/wildcard-certificates-coming-jan-2018.html
-
-https://github.com/Hack-with-Github/Awesome-Hacking
-https://github.com/carpedm20/awesome-hacking
-https://github.com/onlurking/awesome-infosec
-https://github.com/rshipp/awesome-malware-analysis
-https://github.com/infoslack/awesome-web-hacking
-https://github.com/paragonie/awesome-appsec
-https://github.com/PaulSec/awesome-sec-talks
-https://github.com/sbilly/awesome-security
-https://github.com/meirwah/awesome-incident-response
-https://github.com/atinfo/awesome-test-automation
-https://github.com/hslatman/awesome-threat-intelligence
-https://github.com/jivoi/awesome-ml-for-cybersecurity
-https://github.com/zbetcheckin/Security_list
-https://github.com/joe-shenouda/awesome-cyber-skills
-https://github.com/apsdehal/awesome-ctf
-https://github.com/nixawk/pentest-wiki
-https://github.com/jekil/awesome-hacking
-https://github.com/Hack-with-Github/Free-Security-eBooks
-https://github.com/enaqx/awesome-pentest
-https://github.com/mostafahussein/awesome-security-checklist
-https://github.com/ashishb/osx-and-ios-security-awesome
-https://github.com/coreb1t/awesome-pentest-cheat-sheets
-https://github.com/hslatman/awesome-industrial-control-system-security
-https://github.com/rmusser01/Infosec_Reference
-
-https://github.com/awslabs/aws-security-benchmark
-https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
-https://github.com/awslabs/aws-security-automation
-https://github.com/WordPress/Security-White-Paper
-
-https://github.com/openstack/security-doc
-https://github.com/openstack/syntribos
-
-CIS Apple Security Guidelines
-https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
-https://benchmarks.cisecurity.org/
-
-https://www.cisecurity.org/training/resources/
-https://www.cisecurity.org/training/publications/
-
-https://github.com/w3c/webappsec
-
-https://github.com/usnistgov/applesec
-https://github.com/usnistgov
-
-https://github.com/OWASP
-https://www.owasp.org/index.php/Top_10_2013-Top_10
-
-
-
-https://www.us-cert.gov
-https://www.digicert.com
-http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
-
-https://www.owasp.org/index.php/Main_Page
-
-https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md
-https://github.com/FallibleInc/security-guide-for-developers
-
-https://en.wikipedia.org/wiki/Security_hacker
-https://en.wikipedia.org/wiki/Black_hat
-https://en.wikipedia.org/wiki/White_hat_(computer_security)
-
-https://practicalmalwareanalysis.com/fakenet/
-https://www.vmware.com/support/ws55/doc/ws_net_configurations_hostonly.html
-https://www.virtualbox.org/manual/ch06.html
-http://kb.parallels.com/en/4948
-
-http://exeinfo.atwebpages.com
-http://gnuwin32.sourceforge.net/packages/file.htm
-https://www.virustotal.com
-http://mark0.net/soft-trid-e.html
-https://upx.github.io
-https://en.wikipedia.org/wiki/UPX
-https://github.com/upx/upx
-https://gcc.gnu.org
-http://www.subisoft.net/computehash.aspx
-https://blog.didierstevens.com/programs/xorsearch
-https://www.mcafee.com/hk/downloads/free-tools/bintext.aspx
-https://www.winitor.com/
-http://www.ntcore.com/exsuite.php
-https://sourceforge.net/projects/yodap/files/Yoda%20Crypter/1.3
-https://en.wikipedia.org/wiki/Wireshark
-https://www.wireshark.org
-http://openmalware.org
-https://virusshare.com
-http://www.procdot.com/
-http://www.graphviz.org/
-https://technet.microsoft.com/en-us/sysinternals/processmonitor.aspx
-https://sourceforge.net/projects/regshot/
-https://technet.microsoft.com/en-us/sysinternals/bb963902.aspx
-https://cert.at/downloads/software/procdot_en.html
-
-https://en.wikipedia.org/wiki/Cryptographic_hash_function
-https://simple.wikipedia.org/wiki/Cryptographic_hash_function
-https://en.wikipedia.org/wiki/SHA-1
-https://en.wikipedia.org/wiki/MD5
-SHA-256
-https://en.wikipedia.org/wiki/SHA-2
-
-https://en.wikipedia.org/wiki/Collision_attack
-https://en.wikipedia.org/wiki/Collision_(computer_science)
-
-https://www.isaca.org/pages/default.aspx
-https://en.wikipedia.org/wiki/ISACA
-
-http://www.forensicswiki.org/wiki/Memory_analysis
-http://forensicswiki.org/wiki/Main_Page
-
-https://en.wikipedia.org/wiki/Zero-day_(computing)
-https://en.wikipedia.org/wiki/Portable_Executable
-https://en.wikipedia.org/wiki/Reverse_engineering
-https://msdn.microsoft.com/en-us/library/windows/desktop/ms682589(v=vs.85).aspx
-https://support.microsoft.com/en-us/help/815065/what-is-a-dll
-https://en.wikipedia.org/wiki/Dynamic-link_library
-https://en.wikipedia.org/wiki/DOS_MZ_executable
-https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files
-https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Portable_Executable_32_bit_Structure_in_SVG_fixed.svg/500px-Portable_Executable_32_bit_Structure_in_SVG_fixed.svg.png
-https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Portable_Executable_32_bit_Structure.png/661px-Portable_Executable_32_bit_Structure.png
-https://en.wikipedia.org/wiki/Slowloris_(computer_security)
-https://en.wikipedia.org/wiki/Hacking_tool
-https://en.wikipedia.org/wiki/Windows_Registry
-https://en.wikipedia.org/wiki/Denial-of-service_attack
-Packed and obfuscated malware 
-DOS Header, DOS stub
-OS X Malware
-https://en.wikipedia.org/wiki/Base64
-https://msdn.microsoft.com/en-us/library/ms809762.aspx
-https://en.wikipedia.org/wiki/Rootkit
-https://msdn.microsoft.com/en-us/library/windows/desktop/ms724946(v=vs.85).aspx
-https://www.ibm.com/support/knowledgecenter/en/SS5FJA_2.2.2/com.ibm.host.doc/concepts/sim_system_integrity_monitoring.htm
-https://en.wikipedia.org/wiki/File_integrity_monitoring
-https://www.reddit.com/r/Malware/
-https://en.wikipedia.org/wiki/DLL_injection
-http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
-Malware behavioral monitoring
-http://www.dummies.com/computers/operating-systems/windows-7/how-to-run-a-program-with-elevated-permissions/
-https://en.wikipedia.org/wiki/Exclusive_or
-https://en.wikipedia.org/wiki/XOR_gate
-https://en.wikipedia.org/wiki/XOR_cipher
-http://mathworld.wolfram.com/XOR.html
-https://www.khanacademy.org/computing/computer-science/cryptography/ciphers/a/xor-bitwise-operation
-https://en.wikipedia.org/wiki/Memory_forensics
-Memory Analysis
-https://technet.microsoft.com/en-us/library/cc709691(v=ws.10).aspx
-https://en.wikipedia.org/wiki/User_Account_Control
-https://msdn.microsoft.com/en-us/library/windows/desktop/dn742497(v=vs.85).aspx
--->
 
 #### Deployment and Cloud
 
@@ -6966,244 +6779,12 @@ Azure Functions
     * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
 -->
 
+
+
 #### AWS
-
-<!--
-https://www.createspace.com
-https://www.amazon.com/hz/wishlist/inf-interest?ref=producthunt
-https://aws.amazon.com/connect/
-
-
-New
-https://cloud.google.com/docs/compare/aws/
-http://cloudacademy.com/blog/aws-vs-microsoft-azure-google-cloud/
-https://blog.cloudability.com/aws-data-transfer-costs-what-they-are-and-how-to-minimize-them
-
-Config
-http://docs.aws.amazon.com/general/latest/gr/rande.html
-http://docs.aws.amazon.com/cli/latest/reference/configure/
-http://docs.aws.amazon.com/cli/latest/userguide/installing.html
-http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
-http://docs.aws.amazon.com/cli/latest/userguide/tutorial-ec2-ubuntu.html
-https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
-https://aws.amazon.com/about-aws/whats-new/2016/12/aws-config-now-enables-you-to-create-50-or-more-config-rules-in-your-aws-account
-
-http://docs.aws.amazon.com/cli/latest/userguide/installing.html#install-with-pip
-
-https://aws.amazon.com/blogs/security/announcing-aws-organizations-centrally-manage-multiple-aws-accounts
-
-https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
-https://github.com/overview/overview-server/wiki/Creating-staging-instances-on-Amazon
-
-https://aws.amazon.com/rds/aurora
-
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/virtualization_types.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
-
-https://aws.amazon.com/blogs/security/how-to-assign-permissions-using-new-aws-managed-policies-for-job-functions/
-
-https://aws.amazon.com/blogs/aws/well-architected-working-backward-to-play-it-forward/
-
-https://aws.amazon.com/about-aws/whats-new/2016/10/bitbucket-data-center-and-jira-software-data-center-on-the-aws-cloud-quick-start-reference-deployments
-https://aws.amazon.com/about-aws/whats-new/2016/01/aws-elastic-beanstalk-adds-support-for-t2-nano-instances-and-amazon-ec2-container-registry/
-https://medium.com/aws-enterprise-collection/a-process-for-mass-migrations-to-the-cloud-ee7ff5d7b3d1#.xuvj6p31i
-https://aws.amazon.com/blogs/aws/cloudwatch-update-jump-from-metrics-to-associated-logs
-https://news.ycombinator.com/item?id=10741575
-https://github.com/eawsy/aws-lambda-go
-http://coenraets.org/blog/2012/01/setting-up-wordpress-on-amazon-ec2-in-5-minutes/
-
-https://aws.amazon.com/blogs/apn/how-to-best-architect-your-aws-marketplace-saas-subscription-across-multiple-aws-accounts/
-
-Marketplace
-https://www.youtube.com/watch?v=SUnjmoc7h70
-
-.NET
-https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/
-https://forums.aws.amazon.com/ann.jspa?annID=3994
--->
-
-<!--
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/TroubleshootingInstancesConnecting.html#TroubleshootingInstancesConnectingMindTerm
-
-http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Introduction.html
-
-https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
-
-http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-database.html
--->
-
-<!--
-From other list
-
-* [AWS Set Up EC2/CLI/Linux](http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-linux.html) 
-* [AWS EC2 Getting Started](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html) 
-
-
-
-No longer exists
-http://media.amazonwebservices.com/AWS_Web_Hosting_Best_Practices.pdf
-
-* [Amazon Profiles](http://www.amazon.com/gp/profile)
-
-https://aws.amazon.com/business-builder/?nc1=f_dr
-
-https://developer.amazon.com/public/apis
-
-http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
-
-https://www.amazon.com/gp/drive/landing/everything
-https://www.amazon.com/clouddrive/pricing?ref_=cd_home_navpricing
-
-https://aws.amazon.com/javascript
-http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/welcome.html
-
-Marketplace- Application Development
-https://aws.amazon.com/marketplace/b/2649279011?ref_=gtw_navlft_node_2649279011
-https://aws.amazon.com/marketplace/b/2649279011?searchTerms=&category=2649279011&filters=pricing_plan_attributes%2Coperating_system&pricing_plan_attributes=FREE&operating_system=UBUNTU&page=1
-https://aws.amazon.com/marketplace/pp/B00NNZTDNO?qid=1478409629815&sr=0-39&ref_=brs_res_product_title
-
-https://aws.amazon.com/architecture
-http://aws.amazon.com/security
-
-https://github.com/integrations/aws-codedeploy
-
-https://aws.amazon.com/codepipeline/
-https://aws.amazon.com/codedeploy/product-integrations/github
-https://aws.amazon.com/blogs/devops/automatically-deploy-from-github-using-aws-codedeploy
-https://github.com/aws/aws-codedeploy-agent
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ.html
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
-http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-push-repo.html
-
-http://docs.aws.amazon.com/codecommit/latest/userguide/setting-up.html
-
-AWS General Reference
-http://docs.aws.amazon.com/general/latest/gr/Welcome.html
-
-Getting Started with AWS
-http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html
-
-Working with the AWS Management Console
-http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
-
-Understanding and Getting Your Security Credentials
-http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
-
-Web Application Hosting Infographic
-http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
-
-Setting Up to Host a Web App on AWS
-http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
-
-Hosting a Static Website on Amazon Web Services
-http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
-
-Step 3: Deploy Your Website
-http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
-
-Hosting a Static Website on Amazon S3
-http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
-
-Getting Started with Linux Web Applications in the AWS Cloud
-http://aws.amazon.com/web-applications/gsg-webapps-linux
-
-Amazon EC2 API Reference
-http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
-
-EC2
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
-
-http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2
-https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
-
-S3
-http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
-https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
-http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
-http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
-http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
-
-Elastic Beanstalk
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.ec2.html
-
-Deploying a Web App Using Elastic Beanstalk
-Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
-http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html
-http://docs.aws.amazon.com/gettingstarted/latest/deploy/deploying-with-elastic-beanstalk.html
-
-WordPress
-http://d0.awsstatic.com/whitepapers/wordpress-best-practices-on-aws.pdf
-http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html
-https://aws.amazon.com/getting-started/tutorials/launch-a-wordpress-website
-
-CloudFormation
-https://aws.amazon.com/cloudformation/aws-cloudformation-templates
-http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
-
-Getting Started with Windows Web Applications in the AWS Cloud
-http://aws.amazon.com/web-applications/gsg-webapps-windows
-
-Getting Started with AWS Hosting a .NET Web App
-http://docs.aws.amazon.com/gettingstarted/latest/wah/awsgsg-wah.pdf
-
-Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
-http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html
-
-Build a Drupal Website on Amazon Web Services
-http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html
-http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/getting-started-create-as.html
-
-http://docs.aws.amazon.com/ElasticMapReduce/latest/DeveloperGuide/emr-plan-region.html
-http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html
-
-http://aws.amazon.com/documentation/sdk-for-ios/
-
-http://docs.aws.amazon.com/Route53/latest/DeveloperGuide/white-label-name-servers.html
-https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
-
-https://aws.amazon.com/quicksight
-https://aws.amazon.com/vmware
-
-https://www.promptcloud.com/pricing
--->
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
-* [AWS New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [AWS Forum](https://forums.aws.amazon.com)
-* [AWS Articles](https://aws.amazon.com/articles)
-* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
-
-AWS- Developer and Documentation
-* [AWS Products](http://aws.amazon.com/products)
-* [AWS Documentation](http://aws.amazon.com/documentation)
-* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
-* [AWS Developer Tools](https://aws.amazon.com/developertools)  
-* [AWS Tools](http://aws.amazon.com/tools)  
-* [AWS Code](https://aws.amazon.com/code)
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS Marketplace](https://aws.amazon.com/marketplace)  
-
-AWS- GitHub and Livecoding
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
-
-* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
 
 <!--
 
@@ -7347,85 +6928,18 @@ https://devcenter.heroku.com/changelog-items/653
 -->
 
 
-
-
-
 #### Digital Ocean
-
-<!--
-https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
-https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-using-multisite
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel
-
-https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-wordpress
-https://www.digitalocean.com/community/questions/error-establishing-a-database-connection-on-a-new-wordpress-site
-
-https://www.digitalocean.com/community/questions/how-to-change-a-droplet-name-and-all-associated-configurations
-
-https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-12-04
-https://www.digitalocean.com/company/blog/block-storage-more-space-to-scale/
--->
 
 Digital Ocean (VPS)
 * [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
 * [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
 * [Digital Ocean Pricing](https://www.digitalocean.com/pricing)  
-* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
 * [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)  
-* [Digital Ocean Community](https://www.digitalocean.com/community)  
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
-<!--
-https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=digital%20ocean%20sub%20domains
-
-https://www.digitalocean.com/help/getting-started
-https://www.digitalocean.com/community/tutorials/how-to-point-to-digitalocean-nameservers-from-common-domain-registrars
-https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-14-04
-https://www.digitalocean.com/community/tutorials/how-to-connect-to-your-droplet-with-ssh
-https://www.digitalocean.com/community/tutorials/how-to-set-up-vsftpd-on-ubuntu-12-04
-https://www.digitalocean.com/community/tutorials/how-to-create-your-first-digitalocean-droplet-virtual-server
-https://www.digitalocean.com/community/tutorials/how-to-set-up-automatic-deployment-with-git-with-a-vps
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys--2
-
-https://www.digitalocean.com/community/tutorials/how-to-log-into-your-droplet-with-putty-for-windows-users
-https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean
-https://www.digitalocean.com/community/questions/host-multiple-websites-in-one-droplet
-https://www.digitalocean.com/community/questions/how-can-i-host-multiple-domains-in-one-droplet
-https://www.digitalocean.com/community/questions/setting-up-multiple-domains-and-subdomains-on-one-droplet
-https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
-https://www.digitalocean.com/community/tutorials/how-to-set-up-and-test-dns-subdomains-with-digitalocean-s-dns-panel *******
-
-https://www.digitalocean.com/community/tutorials/how-to-create-vanity-or-branded-nameservers-with-digitalocean-cloud-servers
-https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
-
-https://www.digitalocean.com/community/tutorials/why-you-may-not-want-to-run-your-own-mail-server
-
-https://www.digitalocean.com/community/tutorials/how-to-create-ansible-playbooks-to-automate-system-configuration-on-ubuntu
-
-https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image
-https://www.digitalocean.com/community/tutorials/how-to-use-the-magento-one-click-install-image
-
-Let's Encrypt
-https://www.digitalocean.com/community/tutorials/how-to-secure-apache-with-let-s-encrypt-on-ubuntu-16-04
--->
-
-<!--
-Digital Ocean WordPress and ServerPilot
-https://www.digitalocean.com/community/tutorials
-https://www.digitalocean.com/community/questions
-
-https://www.digitalocean.com/community/tutorials/how-to-set-up-multiple-wordpress-sites-on-a-single-ubuntu-vps
-
-https://manage.serverpilot.io
-https://serverpilot.io/community
-
-https://pilot.co/blog/hosting-multiple-heroku-apps-on-a-single-domain
--->
+* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)  
+* [Digital Ocean Community](https://www.digitalocean.com/community)  
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
