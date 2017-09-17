@@ -178,6 +178,33 @@ Programming Groups
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 
+Wikipedia Portals
+* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
+* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
+* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
+
+History of Technology and Computer Science
+* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
+* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+<!--
+http://www.computerhistory.org
+https://twitter.com/ComputerHistory
+-->
+
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
+
 MOOCs
 * [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
@@ -287,7 +314,7 @@ Design and Dev Publications
 * [Tympanus](http://tympanus.net)
 * [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
 * [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
- 
+
 https://webdesign.tutsplus.com
 https://code.tutsplus.com
 
@@ -544,174 +571,16 @@ Keyboard Layout
 * [Colemak Website](https://colemak.com)
 * [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
 
-<!--
-OS X Yosemite: Use Dvorak keyboard layouts
-https://support.apple.com/kb/PH18382?locale=en_US
-OS X Yosemite: Use the Keyboard Viewer
-https://support.apple.com/kb/PH18449?locale=en_US
-
-https://ma.tt/2003/08/on-the-dvorak-keyboard-layout
-https://github.com/kentonv/dvorak-qwerty
-https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
-https://sourceforge.net/projects/dvorakqwerty
-
-http://thewirecutter.com/reviews/comfortable-ergo-keyboard
-https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/ref=sr_1_6?ie=UTF8&qid=1489440374&sr=8-6&keywords=microsoft+ergonomic
-
-Mechanical keyboard
-Vertical mouse
--->
-
-<!--
-Left off here
--->
-
-
-
-
-<!--
-New
-https://en.wikipedia.org/wiki/Natural_user_interface
-https://en.wikipedia.org/wiki/Graphical_user_interface
-
-https://en.wikipedia.org/wiki/Display_resolution
-https://en.wikipedia.org/wiki/Graphics_display_resolution
-
-https://en.wikipedia.org/wiki/Computer_architecture
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/John_von_Neumann
-https://en.wikipedia.org/wiki/Alan_Turing
-https://en.wikipedia.org/wiki/Alonzo_Church
-https://en.wikipedia.org/wiki/Claude_Shannon
-
-New
-Write Great Code: Volume I: Understanding the Machine
-https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://en.wikibooks.org/wiki/A-level_Computing/AQA/Computer_Components,_The_Stored_Program_Concept_and_the_Internet/Machine_Level_Architecture/Machine_code_and_processor_instruction_set
-https://en.wikipedia.org/wiki/Binary_code
-https://en.wikipedia.org/wiki/Most_significant_bit
-https://en.wikipedia.org/wiki/Machine_code
-https://en.wikipedia.org/wiki/Opcode
-https://en.wikipedia.org/wiki/Assembly_language
-https://en.wikipedia.org/wiki/Assembly_language#Assembler
-https://en.wikipedia.org/wiki/Processor_register
-https://en.wikipedia.org/wiki/Bus_(computing)
-https://en.wikipedia.org/wiki/Control_bus
-https://en.wikipedia.org/wiki/Address_bus
-https://en.wikipedia.org/wiki/Memory_address
-https://en.wikipedia.org/wiki/Random-access_memory
-https://en.wikipedia.org/wiki/Input/output
-https://en.wikipedia.org/wiki/Hexadecimal
-https://en.wikipedia.org/wiki/Octal
-https://en.wikipedia.org/wiki/Floating-point_arithmetic
-https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
-https://en.wikipedia.org/wiki/Instruction_cycle
-https://en.wikipedia.org/wiki/Cache_(computing)
-https://en.wikipedia.org/wiki/Microprocessor
-https://en.wikipedia.org/wiki/Program_counter
-https://en.wikipedia.org/wiki/Instruction_register
-
-https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-https://en.wikipedia.org/wiki/User_Datagram_Protocol
-https://en.wikipedia.org/wiki/Transport_Layer_Security
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Latency_(engineering)
-https://en.wikipedia.org/wiki/Branch_misprediction
-https://en.wikipedia.org/wiki/CPU_cache
--->
-
-Wikipedia Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
-
-History of Technology and Computer Science
-* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
-* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
-
-<!--
-http://www.computerhistory.org
-https://twitter.com/ComputerHistory
-
-https://en.wikibooks.org/wiki/Open_Metadata_Handbook
--->
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
 Famous Literature
 * [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
 
-<!--
-https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
-
-http://www.catb.org/~esr/faqs/hacker-howto.html
--->
-
 Great Unsolved Problems in Computer Science
 * [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
-Microprocessor, CPU and Instruction Set
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Internet Service Provider
-* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
-
-Port and Host
-* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
-* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
-* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
 IP
 * [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
 * [IP Address Versions Wikipedia](http://en.wikipedia.org/wiki/IP_address#IP_versions) 
 * [Virtual IP Address Wikipedia](https://en.wikipedia.org/wiki/Virtual_IP_address)
-
-<!--
-http://whatismyipaddress.com
-http://whatismyipaddress.com/ip-basics
-http://tcpipguide.com/free/index.htm
-
-    * [How DNS works](https://howdns.works)
--->
 
 Domain Name
 * [Domain Name Wikipedia](https://en.wikipedia.org/wiki/Domain_name)
@@ -721,31 +590,10 @@ Domain Name
 * [CNAME Record Wikipedia](https://en.wikipedia.org/wiki/CNAME_record)
 * [Root Name Server Wikipedia](https://en.wikipedia.org/wiki/Root_name_server)
 
-<!--
-http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
-http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
-http://en.wikipedia.org/wiki/Domain_registration#History
-
-https://en.wikipedia.org/wiki/Round-robin_DNS
-Least Connections
--->
-
 URL and IRI
 * [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 * [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
 * [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
 
 More
 * [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
@@ -795,9 +643,6 @@ Line Endings
 * [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
 
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
 Singly Linked Linear Lists vs. Other Lists
 * [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
@@ -819,6 +664,166 @@ Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
 <!--
+Left off here
+-->
+
+
+
+
+
+
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+Computer Classes and Sizes
+* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
+
+Smartphones (See also Mobile)
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+
+Microprocessor, CPU and Instruction Set
+* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
+* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
+* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
+* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
+* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
+
+Binary
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
+* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
+* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
+* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
+
+Internet Service Provider
+* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
+
+Port and Host
+* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+
+TCP-IP and OSI Protocols
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+
+HTTP
+* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+
+<!--
+New
+Write Great Code: Volume I: Understanding the Machine
+https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+
+
+https://en.wikipedia.org/wiki/Natural_user_interface
+https://en.wikipedia.org/wiki/Graphical_user_interface
+
+https://en.wikipedia.org/wiki/Display_resolution
+https://en.wikipedia.org/wiki/Graphics_display_resolution
+
+https://en.wikipedia.org/wiki/Computer_architecture
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/John_von_Neumann
+https://en.wikipedia.org/wiki/Alan_Turing
+https://en.wikipedia.org/wiki/Alonzo_Church
+https://en.wikipedia.org/wiki/Claude_Shannon
+
+https://en.wikibooks.org/wiki/A-level_Computing/AQA/Computer_Components,_The_Stored_Program_Concept_and_the_Internet/Machine_Level_Architecture/Machine_code_and_processor_instruction_set
+https://en.wikipedia.org/wiki/Binary_code
+https://en.wikipedia.org/wiki/Most_significant_bit
+https://en.wikipedia.org/wiki/Machine_code
+https://en.wikipedia.org/wiki/Opcode
+https://en.wikipedia.org/wiki/Assembly_language
+https://en.wikipedia.org/wiki/Assembly_language#Assembler
+https://en.wikipedia.org/wiki/Processor_register
+https://en.wikipedia.org/wiki/Bus_(computing)
+https://en.wikipedia.org/wiki/Control_bus
+https://en.wikipedia.org/wiki/Address_bus
+https://en.wikipedia.org/wiki/Memory_address
+https://en.wikipedia.org/wiki/Random-access_memory
+https://en.wikipedia.org/wiki/Input/output
+https://en.wikipedia.org/wiki/Hexadecimal
+https://en.wikipedia.org/wiki/Octal
+https://en.wikipedia.org/wiki/Floating-point_arithmetic
+https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
+https://en.wikipedia.org/wiki/Instruction_cycle
+https://en.wikipedia.org/wiki/Cache_(computing)
+https://en.wikipedia.org/wiki/Microprocessor
+https://en.wikipedia.org/wiki/Program_counter
+https://en.wikipedia.org/wiki/Instruction_register
+
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/User_Datagram_Protocol
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Latency_(engineering)
+https://en.wikipedia.org/wiki/Branch_misprediction
+https://en.wikipedia.org/wiki/CPU_cache
+-->
+
+<!--
+OS X Yosemite: Use Dvorak keyboard layouts
+https://support.apple.com/kb/PH18382?locale=en_US
+OS X Yosemite: Use the Keyboard Viewer
+https://support.apple.com/kb/PH18449?locale=en_US
+
+https://ma.tt/2003/08/on-the-dvorak-keyboard-layout
+https://github.com/kentonv/dvorak-qwerty
+https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
+https://sourceforge.net/projects/dvorakqwerty
+
+http://thewirecutter.com/reviews/comfortable-ergo-keyboard
+https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/ref=sr_1_6?ie=UTF8&qid=1489440374&sr=8-6&keywords=microsoft+ergonomic
+
+Mechanical keyboard
+Vertical mouse
+-->
+
+<!--
+https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+
+http://www.catb.org/~esr/faqs/hacker-howto.html
+-->
+
+<!--
+https://en.wikibooks.org/wiki/Open_Metadata_Handbook
+-->
+
+<!--
+http://whatismyipaddress.com
+http://whatismyipaddress.com/ip-basics
+http://tcpipguide.com/free/index.htm
+
+    * [How DNS works](https://howdns.works)
+-->
+
+<!--
+http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
+http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
+http://en.wikipedia.org/wiki/Domain_registration#History
+
+https://en.wikipedia.org/wiki/Round-robin_DNS
+Least Connections
+-->
+
+<!--
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+
 https://en.wikipedia.org/wiki/MAC_address
 https://en.wikipedia.org/wiki/UUID
 https://en.wikipedia.org/wiki/Codec
@@ -1143,6 +1148,8 @@ https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-ent
 
 http://www.unix.com/man-page/posix/1posix/eval
 -->
+
+
 
 #### Keyboard Shortcuts
 
