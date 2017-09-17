@@ -1579,6 +1579,7 @@ https://github.com/ascott1/ethical-web-dev
 https://ethicalweb.org/
 -->
 
+
 #### Digital Agencies and Code Philosophies
 
 Digital Agency Playbook, Blog, Styleguide, Templates
@@ -1626,23 +1627,36 @@ Trac Project Management and DB (Used with www.djangoproject.com), Phabricator
 Phabricator
 * [Phabricator](https://www.phacility.com), [Phabricator Docs](https://secure.phabricator.com), [Phabricator Wikipedia](https://en.wikipedia.org/wiki/Phabricator)
 
+GitLab (See also Project Management, Continuous Integration, Docker)
+* [GitLab](https://gitlab.com)
+
+GitLab Shop
+* [GitLab Shop](https://shop.gitlab.com)
+
+
+
+
 GitLab (See also Project Management and Docker)
 * [GitLab Docs](http://docs.gitlab.com)
 * [GitLab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
 * ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
 * ["Migrating projects to a GitLab instance"](http://docs.gitlab.com/ce/workflow/importing/README.html)
 * [GitLab Installation](https://about.gitlab.com/installation)
+
 * [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Comparison](https://about.gitlab.com/comparison)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
-GitLab Shop
-* [GitLab Shop](https://shop.gitlab.com)
-
 <!--
-https://about.gitlab.com/
-https://about.gitlab.com/comparison/
-https://github.com/gitlabhq/gitlabhq
 https://gitlab.com/ | Projects · Dashboard · GitLab
+https://about.gitlab.com/
+https://github.com/gitlabhq/gitlabhq
+
+https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/
+https://gitlabfan.com
+https://about.gitlab.com/eep-demo/
+https://about.gitlab.com/researchpanel/ | Join GitLab's Research Panel | GitLab
+https://about.gitlab.com/2017/08/08/gitlab-issue-bash-september-2017/
 https://about.gitlab.com/2017/07/17/redesigning-gitlabs-navigation/ | Redesigning GitLab's navigation | GitLab
 
 GitLab Org
@@ -1657,12 +1671,21 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 #### Git and Markdown
 
 <!--
-https://githubengineering.com/dns-infrastructure-at-github/
+https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
 
-    * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)
-    * Chrome Extensions
-      * [OctoLinker](https://octolinker.github.io/), [Octotree](https://github.com/buunguyen/octotree), [Code Climate](https://codeclimate.com/browser-extension/)
-      * [Awesome browser extensions for GitHub](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+https://rawgit.com
+
+https://github.com/github/site-policy
+
+https://github.com/blog/2401-the-github-diversity-report
+
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo; | remote repo :: Git Cheatsheet
 -->
 
 <!--
@@ -1687,6 +1710,7 @@ https://gist.github.com/adamjohnson/5682757
 
 http://githubuniverse.com/watch
 https://github.com/universe-2016
+https://githubuniverse.com/2016/program/sessions/
 
 https://git-for-windows.github.io
 -->
@@ -1812,13 +1836,6 @@ Git Ignore and Licenses
 https://github.com/joeblau/gitignore.io
 -->
 
-Ribbons, Buttons, Octicons, Shields
-* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
-* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
-* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
-* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
-* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
-
 GitHub Services Integration
 * [Service Hooks GitHub](https://github.com/github/github-services)  
 * [GitHub Integrations](https://github.com/integrations)  
@@ -1884,11 +1901,6 @@ Hub
 Hubot adapters
 -->
 
-GitHub- More
-* [GitHub DCMA](https://github.com/github/dmca)
-* [Octokit](https://github.com/octokit) 
-* [Education Pack](https://education.github.com/pack)
-
 GitHub- Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
@@ -1897,9 +1909,6 @@ GitHub- Trending
 Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-GitHub Shop
-* [GitHub Shop](https://github.myshopify.com)
 
 Markdown
 * [Markdown Wikipedia](https://en.wikipedia.org/wiki/Markdown)
@@ -1918,6 +1927,7 @@ YAML
 http://www.yaml.org/refcard.html
 http://yaml.org/spec/1.2/spec.html
 -->
+
 
 Atlassian: Bitbucket and SourceTree
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
@@ -1938,6 +1948,21 @@ More GitHub Alternatives
 * [Google Code](https://code.google.com)  
 * [Sourceforge](http://sourceforge.net)  
 * [Codebase](https://www.codebasehq.com)  
+
+GitHub Ribbons, Buttons, Octicons, Shields
+* [GitHub Ribbons Blog Post (2008)](https://github.com/blog/273-github-ribbons)
+* [GitHub Corners GitHub (Holman)](https://github.com/tholman/github-corners)
+* [GitHub Buttons](https://ghbtns.com) and [GitHub Buttons GitHub](https://github.com/mdo/github-buttons)
+* [Octicons](https://octicons.github.com), [Octicons GitHub](https://github.com/github/octicons), and [Octicons Blog Post](https://github.com/blog/2112-delivering-octicons-with-svg)
+* [Shields](http://shields.io) and [Shields GitHub](https://github.com/badges/shields)
+
+GitHub- More
+* [GitHub DCMA](https://github.com/github/dmca)
+* [Octokit](https://github.com/octokit) 
+* [Education Pack](https://education.github.com/pack)
+
+GitHub Shop
+* [GitHub Shop](https://github.myshopify.com)
 
 <!--
 http://getgitorious.com
