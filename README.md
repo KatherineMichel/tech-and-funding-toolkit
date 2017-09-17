@@ -349,6 +349,10 @@ KDE (See also KHTML)
 
 #### Engineering Blogs, Design Systems, Style Guides
 
+<!--
+http://webbyawards.com
+-->
+
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
@@ -495,6 +499,13 @@ Built With (Exluding Django; See also Squarespace)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 * [Built with Shopify](http://www.builtwithshopify.com)
 
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
+
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
 * [Nerdy Data](http://nerdydata.com)  
@@ -511,24 +522,6 @@ Archive Team
 
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-<!--
-Left off here
--->
-
-
-
-<!--
-http://webbyawards.com
--->
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
-
 
 #### Basics
 
@@ -569,6 +562,9 @@ Mechanical keyboard
 Vertical mouse
 -->
 
+<!--
+Left off here
+-->
 
 
 
