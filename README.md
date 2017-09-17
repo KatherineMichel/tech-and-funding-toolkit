@@ -6684,18 +6684,6 @@ Ubuntu (Debian) Deployment
 
 #### Deployment and Cloud by Language
 
-<!--
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
--->
-
-JavaScript- Amazon
-* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript), [AWS SDK for JavaScript](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide), and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
-
-<!--
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
-http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
--->
-
 Node.js- Heroku
 * [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
 * [Heroku App.json GitHub](https://github.com/heroku/app.json)  
@@ -6705,22 +6693,9 @@ Node.js- Heroku
 * [Heroku Node.js Client GitHub](https://github.com/heroku/node-heroku-client)
 * [Node Angular Heroku To Do Demo GitHub](https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo)
 
-<!--
-* [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
--->
-
 Node.js- Heroku and Docker
 * [Heroku Node.js Docker GitHub](https://github.com/heroku/docker-nodejs)
 * [Heroku Node.js Docker Hello World GitHub](https://github.com/heroku/docker-nodejs-hello-world)
-
-
-
-Node.js- Google Cloud
-* [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
-
-Node.js- Amazon
-* [AWS Node.js](https://aws.amazon.com/sdk-for-node-js)
-* [Deploying a Node.js Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html)
 
 Python- Heroku
 * [Heroku Python Homepage](https://www.heroku.com/python) 
@@ -6739,6 +6714,63 @@ https://devcenter.heroku.com/articles/django-app-configuration
 https://devcenter.heroku.com/articles/django-assets
 -->
 
+Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
+* [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template) 
+* [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
+* [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
+* [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
+
+PHP- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
+* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
+* [Heroku PHP Getting Started](https://devcenter.heroku.com/articles/getting-started-with-php) and [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
+* [Heroku Deploying PHP](https://devcenter.heroku.com/articles/deploying-php) 
+* [Heroku PHP Support](https://devcenter.heroku.com/articles/php-support) 
+
+<!--
+https://devcenter.heroku.com/categories/php
+-->
+
+PHP- Heroku and Docker
+* [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
+
+Ruby- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
+* [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
+
+Ruby- Heroku and Docker
+* [Heroku Ruby Docker GitHub](https://github.com/heroku/docker-ruby)
+
+Go- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
+* [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
+
+
+
+
+
+
+<!--
+* [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
+
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+-->
+
+JavaScript- Amazon
+* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript), [AWS SDK for JavaScript](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide), and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
+
+<!--
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
+-->
+
+Node.js- Google Cloud
+* [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
+
+Node.js- Amazon
+* [AWS Node.js](https://aws.amazon.com/sdk-for-node-js)
+* [Deploying a Node.js Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html)
+
 Python- Amazon
 * [AWS Python](https://aws.amazon.com/python)
 * [AWS Python SDK (Boto) PyPi](https://pypi.python.org/pypi/boto)
@@ -6754,12 +6786,6 @@ https://pypi.python.org/pypi/django-toolbelt
 https://pypi.python.org/pypi/static3/0.5
 -->
 
-Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
-* [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template) 
-* [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
-* [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
-* [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
-
 Python- Django- AWS Elastic Beanstalk Deployment
 * [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html)  
 
@@ -6769,20 +6795,6 @@ Python- Django- Digital Ocean Deployment (See also Docker)
 
 Python- Django- OpenShift Deployment
 * [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
-
-PHP- Heroku Buildpacks and Getting Started
-* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
-* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
-* [Heroku PHP Getting Started](https://devcenter.heroku.com/articles/getting-started-with-php) and [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
-* [Heroku Deploying PHP](https://devcenter.heroku.com/articles/deploying-php) 
-* [Heroku PHP Support](https://devcenter.heroku.com/articles/php-support) 
-
-<!--
-https://devcenter.heroku.com/categories/php
--->
-
-PHP- Heroku and Docker
-* [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
 
 PHP- Amazon
 * [AWS PHP](https://aws.amazon.com/php)
@@ -6818,14 +6830,6 @@ http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
 https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
 -->
 
-Ruby- Heroku Buildpacks and Getting Started
-* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
-* [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
-
-Ruby- Heroku and Docker
-* [Heroku Ruby Docker GitHub](https://github.com/heroku/docker-ruby)
-
-
 Ruby- Amazon
 * [AWS Ruby](https://aws.amazon.com/ruby)
 * [AWS Ruby SDK](https://aws.amazon.com/sdk-for-ruby) and [AWS Ruby SDK GitHub](https://github.com/aws/aws-sdk-ruby)
@@ -6834,10 +6838,7 @@ Ruby- Amazon
 Ruby on Rails- Amazon
 * [Deploying a Rails Application to Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html)
 
-
-Go- Heroku Buildpacks and Getting Started
-* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
-* [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
+Go- Amazon
 * [Deploying Go Applications to Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_go.html)
 
 .NET and ASP.Net- Heroku
@@ -6969,19 +6970,14 @@ PaaS- General and Alternatives to Heroku (including Google App Engine)
 SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
-Text Editor and Code Demonstration
+Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Fiddle](https://fiddles.io)
 * [JSFiddle](http://jsfiddle.net)
 * [JS Bin](https://jsbin.com)
 * [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
 * [Codepen](http://codepen.io)
-
-
-
-Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Cloud9](https://c9.io)
-* [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
-* [Nitrous.IO GitHub](https://github.com/nitrous-io)
+* [Nitrous.IO GitHub (Nitrous Went Away)](https://github.com/nitrous-io)
 
 Makers
 * [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
@@ -6990,10 +6986,10 @@ Makers
 * [IFTTT Maker](https://platform.ifttt.com/maker)
 * [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
 
+
+
 Bots
 * [Microsoft Bot Framework](https://dev.botframework.com)
-
-
 
 <!--
 https://glitch.com/art
