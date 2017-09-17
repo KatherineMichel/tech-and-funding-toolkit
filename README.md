@@ -94,22 +94,21 @@ Table of Content
   * [Python and Django CMS](#python-and-django-cms)
   * [Python and Django Geo](#python-and-django-geo)
   * [Python and Django Unique](#python-and-django-unique)
-* [Events](#events)
 * [Dashboards](#dashboards)
-* [Domains, DNS, SSL](#domains-dns-ssl)
-* [Security](#security)
-* [Deployment and Cloud](#deployment-and-cloud)
-* [Functions](#functions)
 * [AWS](#aws)
 * [Heroku](#heroku)
 * [Digital Ocean](#digital-ocean)
 * [Google Cloud](#google-cloud)
 * [Deployment and Git Integration](#deployment-and-git-integration)
 * [Deployment and Cloud by Language](#deployment-and-cloud-by-language)
-* [Servers, Databases, Architectures](#servers-databases-architectures)
-* [Servers and Databases](#servers-and-databases)
-* [Apache, SQL, Nginx](#apach-sql-nginx) 
+* [Domains, DNS, SSL](#domains-dns-ssl)
+* [Security](#security)
+* [Deployment, Cloud, and Playgrounds](#deployment-cloud-and-playgrounds)
 * [Dev Ops Tools](#dev-ops-tools)
+* [Functions](#functions)
+* [Servers, Databases, Architectures](#servers-databases-architectures)
+* [Apache, SQL, Nginx](#apach-sql-nginx) 
+* [Servers and Databases](#servers-and-databases)
 * [More Back-End](#more-back-end)
 * [Common MEAN Back-end Tools](#common-mean-back-end-tools)
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
@@ -1506,7 +1505,6 @@ https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-clo
 https://developer.atlassian.com/blog/2015/10/cool-features-git-2.x/
 
 GitHub Docs
-https://www.digitalocean.com/community/tutorials
 https://www.digitalocean.com/community/tutorials?q=git
 
 https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
@@ -6495,45 +6493,8 @@ http://www.djangopony.com/
 
 
 
-#### Events
-
-Experts
-* [Google Developer Experts](https://developers.google.com/experts)
-* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
-
-Designer/Developer Conferences
-* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
-* [F8 Facebook Developer Conference](https://www.fbf8.com) 
-* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
-* [Google Design Form](http://www.google.com/design/form) 
-* [Google IO](https://www.google.com/events/io)  
-* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
-* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
-* [Twitter Flock](http://flock.fabric.io) 
-
-AWS- Events
-* [AWS Live Events](https://live.awsevents.com)
-* [AWS Global Summits](https://aws.amazon.com/summits)
-
 
 #### Dashboards
-
-<!--
-Browser Statistics
-
-https://www.slideshare.net/login?from_source=%2Finsight%3Futm_source%3Danalytics_launch%26utm_medium%3Demail%26utm_campaign%3DMarketing
-
-https://play.google.com/apps/publish
-
-https://www.linkedin.com/help/linkedin?lang=en
-
-Google Webmaster Tools Verification
-https://www.google.com/webmasters/verification/verification
-https://www.digitalocean.com/community/questions/how-to-verify-google-webmaster-tools
-
-GitBook Dashboard
-https://help.gitbook.com/github/how-can-i-export-to-repo.html
--->
 
 Status
 * [Amazon Status](http://status.aws.amazon.com)
@@ -6555,254 +6516,10 @@ Consoles: Webmaster and Analytics
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
-<!--
-New
-https://github.com/github/octodns
-
-New
-https://developers.google.com/google-apps/calendar/
-https://console.developers.google.com/apis
-
-chrome://apps
-
-http://127.0.0.1:4000/admin/pages
-
-https://console.cloud.google.com/code/tools
-https://cloud.google.com/source-repositories
-https://console.cloud.google.com/code/develop/repo
-https://console.cloud.google.com/code/develop/browse
-
-https://cloud.google.com/source-repositories/docs/connecting-hosted-repositories
-
-Digital Ocean
-http://ipaddress/info.php
-https://dcc.godaddy.com/manage/domainname/dns
-
-https://dashboard.heroku.com/apps
-
-http://localhost:8888/wordpress/wp-admin/admin.php?page=wc-status
--->
-
-#### Domains, DNS, SSL
-
-Authorities
-* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
-* [Internet Assigned Numbers Authority](http://www.iana.org)
-
-<!--
-* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
--->
-
-Domain Names
-* [Google Domains](https://domains.google.com)
-* [Namecheap](https://www.namecheap.com)
-* [iwantmyname](https://iwantmyname.com)
-
-Domize, DNSimple, Heroku
-* [Domize](http://domize.com)  
-* [DNSimple](https://dnsimple.com)  
-* [DNSimple Support](http://support.dnsimple.com)
-* [DNSimple New Domain](https://dnsimple.com/domains/new)   
-* [DNSimple Heroku](https://dnsimple.com/services-heroku)  
-* [Heroku SSL Certificate DNSimple](https://devcenter.heroku.com/articles/ssl-certificate-dnsimple)  
-* [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)   
-* [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
-
-Heroku SSL Endpoint, SSL Self Certification, Custom Domains
-* [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
-* [Heroku SSL Self Certification](https://devcenter.heroku.com/articles/ssl-certificate-self)  
-* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
-
-Namecheap
-* [Namecheap SSL Certificate Wildcard](https://www.namecheap.com/security/ssl-certificates/comodo/positivessl-wildcard.aspx)  
-
-DNS
-* [Amazon Route 53](http://aws.amazon.com/route53)  
-* [Google Public DNS](https://developers.google.com/speed/public-dns)
-
-Internet Performance Management
-* [Dyn](http://dyn.com)
-* [OpenDNS](https://www.opendns.com)
-
-<!--
-DNSimple SSL Certificate Hostname
-
-https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
-https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
-https://www.godaddy.com/help/what-is-a-subdomain-296
--->
-
-
-#### Security
-
-Malware and Encryption
-* [hackerone](https://hackerone.com)
-* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
-* [Malware Museum](https://archive.org/details/malwaremuseum)
-
-#### Deployment and Cloud
-
-Cloud Computing- General
-* [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
-
-Private Cloud/Virtual Private Server
-* [Convox](http://convox.com)
-* [Librato](https://www.librato.com/heroku)
-* [Linode (Used by Levels/Nomad List)](https://www.linode.com)
-
-IaaS- General and Alternatives to AWS
-* [IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29)  
-* [IaaS Service Models](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Service_models)  
-* [Joyent](http://www.joyent.com)  
-* [Rackspace Cloud](http://www.rackspace.com)  
-
-PaaS- General and Alternatives to Heroku (including Google App Engine)
-* [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service)  
-* [DotCloud](https://www.dotcloud.com)  
-* [OpenShift Pricing](https://www.openshift.com/products/pricing)
-
-SaaS- General and Alternatives to GoogleApps
-* [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
-
-
-<!--
-New
-https://www.mongodb.com/cloud/stitch
-https://www.digitalocean.com/products/storage/object-storage
-https://www.openshift.io/
-https://devcenter.heroku.com/articles/heroku-ci
-
-https://github.com/zeit/pkg
-https://zeit.co
-https://zeit.co/blog/github
-* [now](https://zeit.co/now)
-
-      * [Next.js](https://github.com/zeit/next.js)
--->
-
-#### Functions
-
-AWS- Lambda
-* [AWS Lambda](http://aws.amazon.com/lambda)  
-* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
-* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
-* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
-
-<!--
-* Microservices
-  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
-    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
-    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
-    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
-    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
-    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
-    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
-  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
-  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
-  * API Gateway
-    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
-    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
-    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
-    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
-  * Serverless
-    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
-    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
-    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
-    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
-      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
-    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
-      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
-      
-* [IronFunctions](https://github.com/iron-io/functions)
-    
-https://github.com/awslabs/chalice
-https://github.com/apex/apex
-https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
-http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
-http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
-https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
-https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
-https://github.com/awslabs/lambda-refarch-webapp
-https://github.com/awslabs/serverless-application-model
-https://github.com/awslabs/aws-serverless-express
-https://github.com/awslabs/serverless-photo-recognition
-
-https://github.com/serverless/site
-https://serverlesscode.com/post/zappa-wsgi-for-python/
-https://serverless.com/framework/docs/providers/aws/guide/credentials/
-https://serverlesscode.com/post/rich-jones-interview-django-zappa/
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
-
-https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
-https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
-https://pypi.python.org/pypi/django-zappa
-https://github.com/ryansb/django-zappa-example
-
-http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
-https://github.com/MitocGroup/deep-microservices-todomvc
--->
-
-Google Cloud Functions (See also Amazon Web Services- Lambda)
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
-
-Firebase Functions
-* [Firebase Functions](https://firebase.google.com/features/functions)
-
-Azure Functions
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
-* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
-
-<!--
-    * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
-  * Static
-    * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)    
-  * Queue / Jobs
-    * [Queue-Based Load Leveling](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling), [Competing Consumers](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers), [Priority Queue](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
-    * [Background jobs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
-  * Decompose
-    * [Federated Identity](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)
-    * [Pipes and Filters](https://docs.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters)
-    * [Compute Resource Consolidation](https://docs.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation)
-  * Configuration
-    * [External Configuration Store](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store), [Runtime Reconfiguration](https://docs.microsoft.com/en-us/azure/architecture/patterns/runtime-reconfiguration)
-  * Storage / Querying
-    * [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside), [Caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
-    * [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs), [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
-    * [Index Table](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-table), [Materialized View](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
-    * [Data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning), [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
-  * [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) / [Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
-    * [Retry](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry), [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
-    * [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
-    * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
--->
-
-
-
 #### AWS
 
 Amazon Web Services
 * [Amazon Web Services](http://aws.amazon.com)  
-
-<!--
-
-https://aws.amazon.com/console
-https://aws.amazon.com/certification
-
-https://enterprise.github.com/aws
-
-https://medium.com/aws-enterprise-collection
-
-https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2016
-
-https://aws.amazon.com/devops/what-is-devops
-http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
-
-https://aws.amazon.com/marketplace/b/4988013011/ref=gtw_navlft_node_4988013011
-https://aws.amazon.com/marketplace/pp/B00JV9JBDS
--->
 
 AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
@@ -6825,60 +6542,15 @@ AWS- Elastic Beanstalk and S3
 * [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
 * [AWS S3](http://aws.amazon.com/documentation/s3)
 
-<!--
-https://aws.amazon.com/free
-https://aws.amazon.com/pricing/services
-
-http://aws.amazon.com/pricing
-
-https://aws.amazon.com/simpledb/pricing
-https://aws.amazon.com/ebs/pricing
-
-https://aws.amazon.com/ec2/instance-types
-https://aws.amazon.com/ec2/purchasing-options
-https://aws.amazon.com/ec2/pricing
-https://aws.amazon.com/ec2/spot/pricing
-https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
-https://aws.amazon.com/s3/pricing
-http://aws.amazon.com/pricing/rds
-https://aws.amazon.com/codedeploy/pricing
-https://aws.amazon.com/elasticache/pricing
-
-https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
-
-https://aws.amazon.com/premiumsupport/developer-support
--->
-
 AWS- SES and SNS (Including Worldwide SMS)
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
 
 #### Heroku
 
-<!--
-* [Heroku Examples](https://github.com/heroku-examples)
-
-heroku ps:scale web=1
-Heroku SSL
-
-https://blog.heroku.com/deploying-react-with-zero-configuration
-
-https://devcenter.heroku.com/articles/dropbox-sync
-
-https://devcenter.heroku.com/articles/custom-php-settings
--->
-
 Heroku- General
 * [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 * [Getting Started on Heroku](https://devcenter.heroku.com/start)
-
-<!--
-https://devcenter.heroku.com/articles/how-heroku-works
-https://devcenter.heroku.com/articles/error-codes
--->
 
 Heroku- Pricing and App Limits
 * [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
@@ -6892,16 +6564,7 @@ Heroku- Dynos
 * [Heroku Dyno Size](https://devcenter.heroku.com/articles/dyno-size)
 * [Heroku Scaling](https://devcenter.heroku.com/articles/scaling)
 
-<!--
-All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
-
-https://www.google.com/search?client=safari&rls=en&q=heroku+ps:scale+web=1&ie=UTF-8&oe=UTF-8
-
-https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
--->
-
 Heroku- Deployment
-<!--* [Heroku Toolbelt](https://toolbelt.heroku.com) and [Heroku Toolbelt GitHub](https://github.com/heroku/toolbelt)-->  
 * [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
 * [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
 * [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
@@ -6921,12 +6584,9 @@ Heroku- App Architecture
 * [Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
 
 <!--
+* [Heroku Examples](https://github.com/heroku-examples)
 https://github.com/heroku/heroku-apps
-
-Heroku’s support for running multiple buildpacks against a single application now has first-class support in the Heroku Toolbelt.
-https://devcenter.heroku.com/changelog-items/653
 -->
-
 
 #### Digital Ocean
 
@@ -6937,10 +6597,6 @@ Digital Ocean (VPS)
 * [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
 * [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
-* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials)  
-* [Digital Ocean Community](https://www.digitalocean.com/community)  
-
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
 * [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
@@ -6950,29 +6606,6 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Deis GitHub](https://github.com/deis/deis)  
 
 #### Google Cloud
-
-<!--
-New
-https://cloud.google.com/free/
-https://cloud.google.com/apis/design/
-https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
-
-https://developers.google.com/optimization
-https://developers.google.com/training/web
-https://developer.chrome.com/extensions/getstarted
-
-https://github.com/google/nomulus
-https://www.registry.google
-
-https://code.google.com/archive
-
-Google App Engine Docs
-https://cloud.google.com/appengine/docs
-
-https://cloud.google.com/source-repositories/docs/
-
-https://cloud.google.com/products
--->
 
 Google Cloud, App Engine
 * [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
@@ -6985,10 +6618,7 @@ Google Cloud, App Engine
 * [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
 
-<!--
-* [Google App Engine Code](http://code.google.com/p/googleappengine)  
-* [Google Apps for Work](https://www.google.com/a/signup)  
--->
+
 
 #### Deployment and Git Integration
 
@@ -7082,6 +6712,8 @@ Node.js- Heroku
 Node.js- Heroku and Docker
 * [Heroku Node.js Docker GitHub](https://github.com/heroku/docker-nodejs)
 * [Heroku Node.js Docker Hello World GitHub](https://github.com/heroku/docker-nodejs-hello-world)
+
+
 
 Node.js- Google Cloud
 * [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
@@ -7193,6 +6825,7 @@ Ruby- Heroku Buildpacks and Getting Started
 Ruby- Heroku and Docker
 * [Heroku Ruby Docker GitHub](https://github.com/heroku/docker-ruby)
 
+
 Ruby- Amazon
 * [AWS Ruby](https://aws.amazon.com/ruby)
 * [AWS Ruby SDK](https://aws.amazon.com/sdk-for-ruby) and [AWS Ruby SDK GitHub](https://github.com/aws/aws-sdk-ruby)
@@ -7200,6 +6833,7 @@ Ruby- Amazon
 
 Ruby on Rails- Amazon
 * [Deploying a Rails Application to Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Ruby_rails.html)
+
 
 Go- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
@@ -7249,182 +6883,163 @@ https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-te
 http://postgis.refractions.net
 -->
 
-#### Servers, Databases, Architectures
 
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
 
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
 
-Databases
-* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
-* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
-* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-* [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
 
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
-Types of Databases
-* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
-* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-* [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
-* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
-* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
-* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+#### Domains, DNS, SSL
+
+Authorities
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
+* [Internet Assigned Numbers Authority](http://www.iana.org)
 
 <!--
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
-
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
-
-http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
-http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
-http://en.wikipedia.org/wiki/SQL#Queries
+* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
 -->
 
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+Domain Names
+* [Google Domains](https://domains.google.com)
+* [Namecheap](https://www.namecheap.com)
+* [iwantmyname](https://iwantmyname.com)
 
-Architectures
-* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+Domize, DNSimple, Heroku
+* [Domize](http://domize.com)  
+* [DNSimple](https://dnsimple.com)  
+* [DNSimple Support](http://support.dnsimple.com)
+* [DNSimple New Domain](https://dnsimple.com/domains/new)   
+* [DNSimple Heroku](https://dnsimple.com/services-heroku)  
+* [Heroku SSL Certificate DNSimple](https://devcenter.heroku.com/articles/ssl-certificate-dnsimple)  
+* [DNSimple SSL Certificate](https://dnsimple.com/ssl-certificate)   
+* [DNSimple GoogleApps](https://dnsimple.com/services-google-apps)  
+
+Heroku SSL Endpoint, SSL Self Certification, Custom Domains
+* [Heroku SSL Endpoint](https://devcenter.heroku.com/articles/ssl-endpoint)  
+* [Heroku SSL Self Certification](https://devcenter.heroku.com/articles/ssl-certificate-self)  
+* [Heroku Custom Domain](https://devcenter.heroku.com/articles/custom-domains) 
+
+Namecheap
+* [Namecheap SSL Certificate Wildcard](https://www.namecheap.com/security/ssl-certificates/comodo/positivessl-wildcard.aspx)  
+
+DNS
+* [Amazon Route 53](http://aws.amazon.com/route53)  
+* [Google Public DNS](https://developers.google.com/speed/public-dns)
+
+Internet Performance Management
+* [Dyn](http://dyn.com)
+* [OpenDNS](https://www.opendns.com)
 
 <!--
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
-http://en.wikipedia.org/wiki/REST
-https://en.wikipedia.org/wiki/Representational_state_transfer
+DNSimple SSL Certificate Hostname
+
+https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
+https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
+https://www.godaddy.com/help/what-is-a-subdomain-296
 -->
 
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+#### Security
 
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+Malware and Encryption
+* [hackerone](https://hackerone.com)
+* [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
+* [Malware Museum](https://archive.org/details/malwaremuseum)
 
-#### Apache, SQL, Nginx
 
-See also Azure
+#### Deployment, Cloud, and Playgrounds
+
+Cloud Computing- General
+* [Cloud Computing Wikipedia](http://en.wikipedia.org/wiki/Cloud_computing)  
+
+Private Cloud/Virtual Private Server
+* [Convox](http://convox.com)
+* [Librato](https://www.librato.com/heroku)
+* [Linode (Used by Levels/Nomad List)](https://www.linode.com)
+
+IaaS- General and Alternatives to AWS
+* [IaaS](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Infrastructure_as_a_service_.28IaaS.29)  
+* [IaaS Service Models](http://en.wikipedia.org/wiki/Infrastructure_as_a_service#Service_models)  
+* [Joyent](http://www.joyent.com)  
+* [Rackspace Cloud](http://www.rackspace.com)  
+
+PaaS- General and Alternatives to Heroku (including Google App Engine)
+* [PaaS](http://en.wikipedia.org/wiki/Platform_as_a_service)  
+* [DotCloud](https://www.dotcloud.com)  
+* [OpenShift Pricing](https://www.openshift.com/products/pricing)
+
+SaaS- General and Alternatives to GoogleApps
+* [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
+
+Text Editor and Code Demonstration
+* [Fiddle](https://fiddles.io)
+* [JSFiddle](http://jsfiddle.net)
+* [JS Bin](https://jsbin.com)
+* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
+* [Codepen](http://codepen.io)
+
+
+
+Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
+* [Cloud9](https://c9.io)
+* [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
+* [Nitrous.IO GitHub](https://github.com/nitrous-io)
+
+Makers
+* [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
+* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
+* [Glitch Websites](https://glitch.com/websites)
+* [IFTTT Maker](https://platform.ifttt.com/maker)
+* [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
+
+Bots
+* [Microsoft Bot Framework](https://dev.botframework.com)
+
+
 
 <!--
-https://httpd.apache.org/docs/current/vhosts/name-based.html
-https://httpd.apache.org/docs/2.4
-https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-use-modules-in-the-apache-web-server
-http://askubuntu.com/questions/500933/listing-files-in-apache-server
+https://glitch.com/art
 
-http://tldp.org/LDP/abs/html/aliases.html
-http://tldp.org/LDP/abs/html/sample-bashrc.html
-https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions
-https://www.digitalocean.com/community/tags/linux-basics?type=tutorials
+https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
+https://chatbotsmagazine.com
+
+New (See also reporobot and githubteacher)
+https://github.com/guardian/facebook-news-bot
+https://www.messenger.com/t/theguardian/
+
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+https://github.com/jw84/messenger-bot-tutorial
+https://github.com/WhiteHouse/fb_messenger_bot
+
+https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
+https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
+
+https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
 -->
-
-Apache (See also mod_wsgi)
-* [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
-* [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
-* [Apache HTTP Server Project](http://httpd.apache.org) and [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
-* [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
-* [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
-* [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
-
-Virtual Hosting, VHosts, Apache
-* [Virtual Hosting Wikipedia](https://en.wikipedia.org/wiki/Virtual_hosting)
-* [Apache Virtual Host Documentation](https://httpd.apache.org/docs/current/vhosts)
-* [Apache VirtualHost Examples](https://httpd.apache.org/docs/current/vhosts/examples.html)
 
 <!--
-Apache Configs
-* [.htaccess Wikipedia](http://en.wikipedia.org/wiki/.htaccess)
-* [httpd.conf Wikipedia](https://en.wikipedia.org/wiki/Httpd.conf)
-* [Apache Configuration Files](http://httpd.apache.org/docs/current/configuring.html)
+New
+https://www.mongodb.com/cloud/stitch
+https://www.digitalocean.com/products/storage/object-storage
+https://www.openshift.io/
+https://devcenter.heroku.com/articles/heroku-ci
 
-http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
+https://github.com/zeit/pkg
+https://zeit.co
+https://zeit.co/blog/github
+* [now](https://zeit.co/now)
+
+      * [Next.js](https://github.com/zeit/next.js)
 -->
-
-SSL
-* [SSL Test](https://www.ssllabs.com/ssltest)
-* [Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator)
-
-SQL
-* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
-* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
-
-SQLite
-* [SQLite](http://sqlite.org)  
-* [SQLite Documentation](http://www.sqlite.org/docs.html)  
-* [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
-
-PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-* [PostgreSQL](http://www.postgresql.org)  
-* [PostgreSQL Documentation](http://www.postgresql.org/docs)  
-* [PostgreSQL GitHub](https://github.com/postgres/postgres)  
-* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
-* [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
-* [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
-
-Postgrest (PostgreSQL API)
-* [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
-
-PostgreSQL
-* [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
-
-MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
-* [MySQL](http://www.mysql.com)  
-* [MySQL Documentation](http://dev.mysql.com/doc)  
-* [MySQL Downloads (DMG)](http://dev.mysql.com/downloads/mysql) 
-* [MySQL GitHub](https://github.com/twitter/mysql)  
-* [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
 
 <!--
-http://www.mysql.com/products/workbench/
+* [Cloud9](https://c9.io/katherinemichel)
 -->
 
-Sequel Pro (Recommended and MAMP bundled)
-* [Sequel Pro](http://www.sequelpro.com)
- 
-MySQL, PHP, and WordPress Admin
-* [Adminer](https://www.adminer.org)
-* [phpMyAdmin](https://www.phpmyadmin.net)
-* [cPanel](http://cpanel.com)
-* [ServerPilot](https://serverpilot.io)
 
-MAMP and WampServer (See also PHP)
-* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
-* [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
-* [MAMP Pro](https://www.mamp.info/en/mamp-pro)
-* [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
-* [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
 
-Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
-* [Nginx](http://nginx.com/products)  
-* [Nginx GitHub](https://github.com/nginx/nginx)  
-* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
-* [Nginx Wiki](http://wiki.nginx.org)
 
 #### Dev Ops Tools
 
@@ -7587,79 +7202,12 @@ Salt (Automation and Configuration Management)
 Python- Django- Salt
 * [Salt Django Formula GitHub](https://github.com/saltstack-formulas/django-formula)  
 
-Chef
-* [Chef GitHub](https://github.com/chef/chef)  
-* [BBC News Chef Cookbooks GitHub](https://github.com/BBC-News/chef-cookbooks)  
-
-Puppet Labs
-* [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
-* [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
-* [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
-
-<!--
-http://www.oracle.com/us/products/applications/jd-edwards-enterpriseone/overview/index.html
-https://en.wikipedia.org/wiki/JD_Edwards
--->
-
-
-
-#### More Back-end
-
 <!--
 Dependency management
 https://gemnasium.com
 -->
 
 
-Text Editor and Code Demonstration
-* [Fiddle](https://fiddles.io)
-* [JSFiddle](http://jsfiddle.net)
-* [JS Bin](https://jsbin.com)
-* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
-* [Codepen](http://codepen.io)
-
-<!--
-* [Cloud9](https://c9.io/katherinemichel)
--->
-
-Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
-* [Cloud9](https://c9.io)
-* [Nitrous (Going Away)](https://pro.nitrous.io), [Nitrous Dos](https://community.nitrous.io/docs), [Nitrous Stacks](https://pro.nitrous.io/stacks), and [Nitrous Postgress](https://community.nitrous.io/docs/postgres)
-* [Nitrous.IO GitHub](https://github.com/nitrous-io)
-
-Makers
-* [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
-* [Glitch (formerly Gomix, formerly HyperDev)](https://glitch.com)
-* [Glitch Websites](https://glitch.com/websites)
-* [IFTTT Maker](https://platform.ifttt.com/maker)
-* [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
-
-Bots
-* [Microsoft Bot Framework](https://dev.botframework.com)
-
-<!--
-https://glitch.com/art
-
-https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
-https://chatbotsmagazine.com
-
-New (See also reporobot and githubteacher)
-https://github.com/guardian/facebook-news-bot
-https://www.messenger.com/t/theguardian/
-
-https://messengerplatform.fb.com/
-https://developers.facebook.com/docs/messenger-platform
-https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
-https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
-
-https://github.com/jw84/messenger-bot-tutorial
-https://github.com/WhiteHouse/fb_messenger_bot
-
-https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
-https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
-
-https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
--->
 
 Cross Platform Dev Environment
 * [Bowery](http://bowery.io)  
@@ -7753,6 +7301,303 @@ Web Cache, Web Accelerator, Proxy Server, Reverse Proxy
 * [Web Cache Wikipedia](http://en.wikipedia.org/wiki/Web_cache)  
 * [Squid Cache](http://www.squid-cache.org)  
 * [Squid Wikipedia](http://en.wikipedia.org/wiki/Squid_(software))  
+
+<!--
+http://www.oracle.com/us/products/applications/jd-edwards-enterpriseone/overview/index.html
+https://en.wikipedia.org/wiki/JD_Edwards
+-->
+
+
+
+
+
+
+#### Functions
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda)  
+* [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
+* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+<!--
+* Microservices
+  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
+    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
+    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
+    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
+    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
+    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
+  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
+  * [Microservices Resource Guide](https://martinfowler.com/microservices/)
+  * API Gateway
+    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
+    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
+    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
+    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
+  * Serverless
+    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
+    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
+    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
+      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
+    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
+      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
+      
+* [IronFunctions](https://github.com/iron-io/functions)
+    
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
+http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
+http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
+https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
+https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
+https://github.com/awslabs/lambda-refarch-webapp
+https://github.com/awslabs/serverless-application-model
+https://github.com/awslabs/aws-serverless-express
+https://github.com/awslabs/serverless-photo-recognition
+
+https://github.com/serverless/site
+https://serverlesscode.com/post/zappa-wsgi-for-python/
+https://serverless.com/framework/docs/providers/aws/guide/credentials/
+https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
+https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
+https://pypi.python.org/pypi/django-zappa
+https://github.com/ryansb/django-zappa-example
+
+http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
+https://github.com/MitocGroup/deep-microservices-todomvc
+-->
+
+Google Cloud Functions (See also Amazon Web Services- Lambda)
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+
+Firebase Functions
+* [Firebase Functions](https://firebase.google.com/features/functions)
+
+Azure Functions
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
+
+<!--
+    * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
+  * Static
+    * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)    
+  * Queue / Jobs
+    * [Queue-Based Load Leveling](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling), [Competing Consumers](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers), [Priority Queue](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
+    * [Background jobs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
+  * Decompose
+    * [Federated Identity](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)
+    * [Pipes and Filters](https://docs.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters)
+    * [Compute Resource Consolidation](https://docs.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation)
+  * Configuration
+    * [External Configuration Store](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store), [Runtime Reconfiguration](https://docs.microsoft.com/en-us/azure/architecture/patterns/runtime-reconfiguration)
+  * Storage / Querying
+    * [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside), [Caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
+    * [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs), [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+    * [Index Table](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-table), [Materialized View](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
+    * [Data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning), [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
+  * [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) / [Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
+    * [Retry](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry), [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
+    * [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
+    * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
+-->
+
+#### Apache, SQL, Nginx
+
+See also Azure
+
+<!--
+https://httpd.apache.org/docs/current/vhosts/name-based.html
+https://httpd.apache.org/docs/2.4
+https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-use-modules-in-the-apache-web-server
+http://askubuntu.com/questions/500933/listing-files-in-apache-server
+
+http://tldp.org/LDP/abs/html/aliases.html
+http://tldp.org/LDP/abs/html/sample-bashrc.html
+https://www.digitalocean.com/community/tutorials/an-introduction-to-useful-bash-aliases-and-functions
+https://www.digitalocean.com/community/tags/linux-basics?type=tutorials
+-->
+
+Apache (See also mod_wsgi)
+* [List of Apache Modules Wikipedia](https://en.wikipedia.org/wiki/List_of_Apache_modules)
+* [List of Apache Software Projects](http://www.apache.org/foundation/marks/list) and [List of Apache Software Projects Wikipedia](http://en.wikipedia.org/wiki/List_of_Apache_Software_Foundation_projects) 
+* [Apache HTTP Server Project](http://httpd.apache.org) and [Apache HTTP Server Wikipedia](https://en.wikipedia.org/wiki/Apache_HTTP_Server)
+* [mod_python Wikipedia](https://en.wikipedia.org/wiki/Mod_python)
+* [mod_ruby Wikipedia](https://en.wikipedia.org/wiki/Mod_ruby)
+* [mod_rewrite](http://httpd.apache.org/docs/current/mod/mod_rewrite.html)
+
+Virtual Hosting, VHosts, Apache
+* [Virtual Hosting Wikipedia](https://en.wikipedia.org/wiki/Virtual_hosting)
+* [Apache Virtual Host Documentation](https://httpd.apache.org/docs/current/vhosts)
+* [Apache VirtualHost Examples](https://httpd.apache.org/docs/current/vhosts/examples.html)
+
+<!--
+Apache Configs
+* [.htaccess Wikipedia](http://en.wikipedia.org/wiki/.htaccess)
+* [httpd.conf Wikipedia](https://en.wikipedia.org/wiki/Httpd.conf)
+* [Apache Configuration Files](http://httpd.apache.org/docs/current/configuring.html)
+
+http://wiki.apache.org/httpd/UnderstandingMultiUseSSLCertificates
+-->
+
+SSL
+* [SSL Test](https://www.ssllabs.com/ssltest)
+* [Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator)
+
+SQL
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
+
+SQLite
+* [SQLite](http://sqlite.org)  
+* [SQLite Documentation](http://www.sqlite.org/docs.html)  
+* [SQLite Wikipedia](http://en.wikipedia.org/wiki/SQLite)  
+
+PostgreSQL (ORDBMS, written in C, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+* [PostgreSQL](http://www.postgresql.org)  
+* [PostgreSQL Documentation](http://www.postgresql.org/docs)  
+* [PostgreSQL GitHub](https://github.com/postgres/postgres)  
+* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
+* [PostgreSQL Heroku](https://postgres.heroku.com/databases)  
+* [Heroku PostgreSQL](https://devcenter.heroku.com/articles/heroku-postgresql)  
+
+Postgrest (PostgreSQL API)
+* [Postgrest API GitHub](https://github.com/begriffs/postgrest)  
+
+PostgreSQL
+* [Postgresapp.com](http://postgresapp.com) and [Postgresapp.com Troubleshooting](http://postgresapp.com/documentation/troubleshooting.html)
+
+MySQL (RDBMS, written in C and C++, OS- Windows, Linux, Solaris, OS X, FreeBSD)
+* [MySQL](http://www.mysql.com)  
+* [MySQL Documentation](http://dev.mysql.com/doc)  
+* [MySQL Downloads (DMG)](http://dev.mysql.com/downloads/mysql) 
+* [MySQL GitHub](https://github.com/twitter/mysql)  
+* [MySQL Wikipedia](http://en.wikipedia.org/wiki/MySQL) 
+
+<!--
+http://www.mysql.com/products/workbench/
+-->
+
+Sequel Pro (Recommended and MAMP bundled)
+* [Sequel Pro](http://www.sequelpro.com)
+ 
+MySQL, PHP, and WordPress Admin
+* [Adminer](https://www.adminer.org)
+* [phpMyAdmin](https://www.phpmyadmin.net)
+* [cPanel](http://cpanel.com)
+* [ServerPilot](https://serverpilot.io)
+
+MAMP and WampServer (See also PHP)
+* [Installing WordPress Locally on Your Mac With MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+* [MAMP (Mac, Apache, MySQL, PHP)](https://www.mamp.info)
+* [MAMP Pro](https://www.mamp.info/en/mamp-pro)
+* [MAMP Documentation](https://www.mamp.info/en/documentation) and [MAMP Documentation](https://documentation.mamp.info/en/documentation/mamp)
+* [WampServer (Windows, Apache, MySQL, PHP)](http://www.wampserver.com/en) 
+
+Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versus Unix Socket)
+* [Nginx](http://nginx.com/products)  
+* [Nginx GitHub](https://github.com/nginx/nginx)  
+* [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
+* [Nginx Wiki](http://wiki.nginx.org)
+
+#### Servers, Databases, Architectures
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Databases
+* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+* [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+Types of Databases
+* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
+* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+<!--
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
+
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
+http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
+http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+Architectures
+* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+
+<!--
+https://en.wikipedia.org/wiki/Remote_Procedure_Call
+http://en.wikipedia.org/wiki/REST
+https://en.wikipedia.org/wiki/Representational_state_transfer
+-->
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+#### More Back-end
+
+Chef
+* [Chef GitHub](https://github.com/chef/chef)  
+* [BBC News Chef Cookbooks GitHub](https://github.com/BBC-News/chef-cookbooks)  
+
+Puppet Labs
+* [Puppet Labs GitHub](https://github.com/puppetlabs/puppet)  
+* [Puppet Labs ElasticSearch GitHub](https://github.com/elasticsearch/puppet-elasticsearch)  
+* [Puppet Labs RabbitMQ GitHub](https://github.com/puppetlabs/puppetlabs-rabbitmq)  
 
 Erlang
 * [Erlang](http://www.erlang.org/)  
