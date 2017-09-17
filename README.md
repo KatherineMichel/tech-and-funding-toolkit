@@ -178,6 +178,7 @@ Courses (See also MOOCs)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
 * [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
+* ["How many people have finished the FreeCodeCamp curriculum so far?"](https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far)
 * [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
 * [Learn to Code the Hard Way](http://learncodethehardway.org)  
 * [Codecademy](http://www.codecademy.com) 
@@ -255,6 +256,11 @@ https://github.com/FreeCodeCamp/hour-of-code
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
+Programming Books
+* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
+* [Humble Bundle](https://www.humblebundle.com)
+* [DevFreeBooks](https://github.com/devfreebooks/devfreebooks.github.io)
+
 <!--
 Left off here
 -->
@@ -271,6 +277,9 @@ Design and Dev Publications
 * [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
  
 <!--
+https://webdesign.tutsplus.com
+https://code.tutsplus.com
+
 [HTML5Rocks](https://www.html5rocks.com/)
 
 http://html5doctor.com
@@ -278,27 +287,12 @@ https://css-tricks.com
 https://alistapart.com
 https://www.sitepoint.com
 https://csswizardry.com
-https://webdesign.tutsplus.com
-https://code.tutsplus.com
 -->
-
-Programming Language Leveling Up and Comparisons
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org)
 
 
 
 Competitions
 * [Code Jam](https://code.google.com/codejam)
-
-Programming Books
-* [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
-* [Humble Bundle](https://www.humblebundle.com)
-* [DevFreeBooks](https://github.com/devfreebooks/devfreebooks.github.io)
-
 
 Text Editor and Code Demonstration
 * [Fiddle](https://fiddles.io)
@@ -309,66 +303,23 @@ Text Editor and Code Demonstration
 * [Codepen](http://codepen.io)
 
 <!--
-http://jvns.ca
-https://twitter.com/b0rk
-
+https://egghead.io/
+https://medium.com/udacity
 https://github.com/pluralsight-projects
 https://www.codeschool.com/projects
 https://www.producthunt.com/posts/codecademy-pro-2
 http://ready.codecademy.com/
 https://www.codecademy.com/learn/beta
 
-
-
-
-
-
-
 https://medium.freecodecamp.org/tagged/events
 https://github.com/freeCodeCamp/contribute
 
-https://egghead.io/
 https://egghead.io/tags/free
 
 https://github.com/bradfrost
-
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-https://www.codecademy.com/learn/python
-https://www.codecademy.com/learn/learn-sass
-http://ready.codecademy.com/build-websites-from-scratch/
-http://ready.codecademy.com/programs/coding-for-business-analysts/
-
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/computing/computer-programming/sql
-https://www.khanacademy.org/computing/computer-programming
-https://www.khanacademy.org/computing/computer-science
-
-https://medium.com/udacity
-https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
-
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
-https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
-
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
-
-http://treehouse.github.io/installation-guides
-http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
-http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
 -->
 
 <!--
-https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
-
-Software Design Patterns
-Coding Conventions
-Object Oriented Programming
-Programming language comparisons
-Programming style
-
 https://github.com/pluralsight-projects/HelloPluralsightProject
 
 http://www.gnu.org/doc/other-free-books.html
@@ -384,6 +335,7 @@ http://codekata.com
 
 https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.rrixtpvsc
 -->
+
 
 
 #### Programming Documentation and Standards
