@@ -174,9 +174,24 @@ Programming Groups
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
 
+Wikipedia
+* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
+
+MOOCs
+* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
+* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), and [Udacity Medium](https://medium.com/udacity)
+* [Udemy](https://www.udemy.com)
+* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
+
 Courses (See also MOOCs)
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
-* [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
+* [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
 * [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
 * ["How many people have finished the FreeCodeCamp curriculum so far?"](https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far)
 * [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
@@ -185,6 +200,7 @@ Courses (See also MOOCs)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Treehouse](https://teamtreehouse.com)
+* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
@@ -230,6 +246,9 @@ Live Coding
 * [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
 * [YouTube](https://www.youtube.com)
 
+Coding Competitions
+* [Code Jam](https://code.google.com/codejam)
+
 Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
 * [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
@@ -249,8 +268,6 @@ Robotics and/or Geared toward Kids
 
 <!--
 http://www.appinventor.org
-http://ladieslearningcode.com/girlscodeday/2017/
-https://github.com/FreeCodeCamp/hour-of-code
 -->
 
 Mobile
@@ -267,7 +284,11 @@ Left off here
 
 
 
-
+<!--
+https://www.producthunt.com/posts/codecademy-pro-2
+http://ready.codecademy.com/
+https://www.codecademy.com/learn/beta
+-->
 
 Design and Dev Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
@@ -290,51 +311,6 @@ https://csswizardry.com
 -->
 
 
-
-Competitions
-* [Code Jam](https://code.google.com/codejam)
-
-Text Editor and Code Demonstration
-* [Fiddle](https://fiddles.io)
-* [JSFiddle](http://jsfiddle.net)
-* [JS Bin](https://jsbin.com)
-* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
-* [Cloud9](https://c9.io/katherinemichel)
-* [Codepen](http://codepen.io)
-
-<!--
-https://egghead.io/
-https://medium.com/udacity
-https://github.com/pluralsight-projects
-https://www.codeschool.com/projects
-https://www.producthunt.com/posts/codecademy-pro-2
-http://ready.codecademy.com/
-https://www.codecademy.com/learn/beta
-
-https://medium.freecodecamp.org/tagged/events
-https://github.com/freeCodeCamp/contribute
-
-https://egghead.io/tags/free
-
-https://github.com/bradfrost
--->
-
-<!--
-https://github.com/pluralsight-projects/HelloPluralsightProject
-
-http://www.gnu.org/doc/other-free-books.html
-
-https://github.com/MakeSchool
-http://www.theodinproject.com
-
-42 – Être admissible
-http://www.42.fr/etre-admissible
-
-https://www.codewars.com
-http://codekata.com
-
-https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.rrixtpvsc
--->
 
 
 
@@ -364,16 +340,6 @@ Better Reference than W3C
 Documentation- Mozilla
 * [Mozilla Developer](https://developer.mozilla.org/en-US), and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web) 
 
-<!--
-New
-https://github.com/mdn/learning-area
-https://www.ibm.com/developerworks/learn
--->
-
-Mozilla- General
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
 Free Software Foundation
 * [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
@@ -385,6 +351,24 @@ GNU Software and Manuals
 KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
+
+
+
+
+
+<!--
+New
+https://github.com/mdn/learning-area
+https://www.ibm.com/developerworks/learn
+-->
+
+Mozilla- General
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
+
+
+
 
 #### Engineering Blogs and Designer, Developer Conferences, Design Systems
 
@@ -464,6 +448,16 @@ http://www.builtwithshopify.com
 http://webbyawards.com
 -->
 
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
+
+
+
+
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
 * [Nerdy Data](http://nerdydata.com)  
@@ -478,16 +472,11 @@ http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
 Archive Team
 * [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
 
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
+
+
 
 
 
@@ -579,6 +568,9 @@ Objective C Styleguide
 
 Swift Styleguide
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
+
+
 
 #### Basics
 
@@ -8124,11 +8116,25 @@ http://www.oracle.com/us/products/applications/jd-edwards-enterpriseone/overview
 https://en.wikipedia.org/wiki/JD_Edwards
 -->
 
+
+
 #### More Back-end
 
 <!--
 Dependency management
 https://gemnasium.com
+-->
+
+
+Text Editor and Code Demonstration
+* [Fiddle](https://fiddles.io)
+* [JSFiddle](http://jsfiddle.net)
+* [JS Bin](https://jsbin.com)
+* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
+* [Codepen](http://codepen.io)
+
+<!--
+* [Cloud9](https://c9.io/katherinemichel)
 -->
 
 Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
@@ -11878,21 +11884,7 @@ https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
 
 #### Learning Resources
 
-Wikipedia
-* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
-
-MOOCs
-* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
-* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com) and [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus)
-* [Udemy](https://www.udemy.com)
-* [NovoEd (Social Entrepreneurship)](https://novoed.com)  
-
+ 
 Flash Cards
 * [Anki](https://apps.ankiweb.net)
 
