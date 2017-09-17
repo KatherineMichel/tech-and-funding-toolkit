@@ -6853,40 +6853,6 @@ Go- Amazon
 * [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
 * [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
-<!--
-http://www.docker.com/aws
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/docker-singlecontainer-deploy.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html
-http://docs.aws.amazon.com/AmazonECS/latest/developerguide/docker-basics.html
-
-https://cloud.google.com/dotnet/getting-started/hello-world
-https://github.com/GoogleCloudPlatform/getting-started-dotnet
-
-Tutorial: How to Deploy a .NET Sample Application Using AWS Elastic Beanstalk
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_NET.quickstart.html
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html#concepts.platforms.net
-http://docs.aws.amazon.com/AWSSdkDocsNET/latest/V3/DeveloperGuide/aws-sdk-net-dg.pdf
-
-http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-create-as.html
-http://docs.aws.amazon.com/codedeploy/latest/userguide/github-integ-tutorial.html
-
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.container.html
-https://zapier.com/zapbook/amazon-s3/visual-studio-online
-
-http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv-deployment.html
-
-http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.deployment.source.html
-
-https://devcenter.heroku.com/articles/deploying-gradle-apps-on-heroku
-https://devcenter.heroku.com/articles/deploying-java-applications-to-heroku-from-eclipse-or-intellij-idea
-
-https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
-http://postgis.refractions.net
--->
-
-
-
-
 
 
 #### Domains, DNS, SSL
