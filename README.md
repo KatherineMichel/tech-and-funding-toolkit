@@ -12,6 +12,15 @@ Update: This list has become larger than ever intended and is nearing a point of
 * [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
 * [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
 * [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
+
+https://github.com/KatherineMichel/favorite-learning-resources
+https://github.com/KatherineMichel/analysis-and-pitching
+https://github.com/KatherineMichel/project-and-product-management
+https://github.com/KatherineMichel/front-end-development-process
+https://github.com/KatherineMichel/javascript-stack
+https://github.com/KatherineMichel/advanced-workflows
+https://github.com/KatherineMichel/data-science
+https://github.com/KatherineMichel/organizations-on-github
 -->
 
 Table of Content
@@ -33,9 +42,6 @@ Table of Content
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Git and Markdown](#git-and-markdown)
   * [DevOps](#devops)
-<!--
-  * [Collaborative Development](#collaborative-development)
--->
   * [Open Source Documentation](#open-source-documentation)
   * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
@@ -220,9 +226,7 @@ Naughty Strings and Words
 * [List of Dirty, Naughty, Obscene, and Otherwise Bad Words GitHub](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
 
 Awesome Git
-* [Git Tips GitHub](https://github.com/git-tips/tips)
 * [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
-* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
 * [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
 * [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
 
@@ -1689,6 +1693,9 @@ https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Eng
 
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/showcases/projects-with-great-wikis
+
+* [Git Tips GitHub](https://github.com/git-tips/tips)
+* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
 
 
 
