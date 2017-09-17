@@ -298,8 +298,6 @@ https://css-tricks.com
 https://alistapart.com
 https://www.sitepoint.com
 https://csswizardry.com
-
-https://www.techopedia.com
 -->
 
 #### Programming Documentation and Standards
@@ -384,11 +382,24 @@ Company Design Blogs
 * [Uber Design](https://www.uber.com/design) 
 
 <!--
+* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 * [Style Guide Driven Development / Living Style Guides](http://styleguides.io)
 
 https://github.com/bradfrost/style-guide-guide
 https://github.com/alexpate/awesome-design-systems
 https://github.com/kciter/awesome-style-guide
+
+* Apple's [Human Interface Guidelines](https://developer.apple.com/design/)
+https://developer.apple.com/design/awards/
+
+https://github.com/buzzfeed/design
+
+https://console.ng.bluemix.net
+
+* Google's [Material Design](https://material.io)
+
+HubSpot
+* [HubSpot GitHub](https://github.com/HubSpot)
 -->
 
 Company Design Systems
@@ -401,9 +412,9 @@ Company Design Systems
 * [Yelp Styleguide](https://www.yelp.com/styleguide)
 
 <!--
-* BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines)
-* <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov)
-* MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide)
+* [BBC GEL Guidelines](http://www.bbc.co.uk/gel/guidelines)
+* [U.S. Government Web Design Standards](https://standards.usa.gov)
+* [MailChimp Email Design Guide](https://mailchimp.com/email-design-guide)
 -->
 
 GitHub Design and Code StyleGuides
@@ -415,6 +426,23 @@ Google Style Guides
 
 Mozilla Coding Style Guide
 * [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
+
+More Styleguide Examples
+* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
+* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
+* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
+* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
+* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
+* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
+* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
+* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
+* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
+* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
+* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
+* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
+* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
+* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
+* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
 
 PHP Styleguides
 * [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
@@ -443,52 +471,6 @@ Objective C Styleguide
 Swift Styleguide
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
 
-<!--
-Left off here
--->
-
-
-
-
-
-
-<!--
-A List Apart
-
-HubSpot
-* [HubSpot GitHub](https://github.com/HubSpot)
-
-* Apple's [Human Interface Guidelines](https://developer.apple.com/design/)
-https://developer.apple.com/design/awards/
-
-https://github.com/buzzfeed/design
-
-https://console.ng.bluemix.net
-
-* Google's [Material Design](https://material.io)
--->
-
-Styleguides- Various
-* [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
-* [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
-* [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
-* [Clef Frontend Styleguide GitHub](https://github.com/clef/frontend-styleguide)
-* [EdX UX Pattern Library GitHub](https://github.com/edx/ux-pattern-library)
-* [GitbookIO Styleguide GitHub](https://github.com/GitbookIO/styleguide)
-* [Gov.UK Styleguides GitHub](https://github.com/alphagov/styleguides)
-* [Healthcare.gov Styleguide GitHub](https://github.com/CMSgov/HealthCare.gov-Styleguide)
-* [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
-* [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
-* [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
-* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
-* [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
-* [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
-* [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
-* [Udacity Frontend Nanodegree Styleguide GitHub](https://github.com/udacity/frontend-nanodegree-styleguide)
-
-
-
-
 #### Built With and Search
 
 Stack
@@ -509,28 +491,9 @@ Built With (Exluding Django; See also Squarespace)
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
 * [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [Made with React](http://madewithreact.com)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-
-
-
-
-<!--
-http://madewithreact.com
-
-http://www.builtwithshopify.com
-http://webbyawards.com
--->
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
-
-
-
+* [Built with Shopify](http://www.builtwithshopify.com)
 
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
@@ -549,12 +512,66 @@ Archive Team
 Whois Wikipedia
 * [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
+<!--
+Left off here
+-->
 
+
+
+<!--
+http://webbyawards.com
+-->
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
 
 
 #### Basics
 
 #### Computer Basics
+
+Ergonomics 
+* [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
+* [f.lux](https://justgetflux.com)
+* [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
+* [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
+* [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
+
+Keyboard Layout
+* [Ergonomic Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard)
+* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
+* [Dvorak Simplified Keyboard Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
+* [The Dvorak Zine](http://www.dvzine.org)
+* [Matt Mullenweg on Dvorak](https://ma.tt/2003/08/on-the-dvorak-keyboard-layout)
+* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
+* [Colemak Website](https://colemak.com)
+* [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
+
+<!--
+OS X Yosemite: Use Dvorak keyboard layouts
+https://support.apple.com/kb/PH18382?locale=en_US
+OS X Yosemite: Use the Keyboard Viewer
+https://support.apple.com/kb/PH18449?locale=en_US
+
+https://ma.tt/2003/08/on-the-dvorak-keyboard-layout
+https://github.com/kentonv/dvorak-qwerty
+https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
+https://sourceforge.net/projects/dvorakqwerty
+
+http://thewirecutter.com/reviews/comfortable-ergo-keyboard
+https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/ref=sr_1_6?ie=UTF8&qid=1489440374&sr=8-6&keywords=microsoft+ergonomic
+
+Mechanical keyboard
+Vertical mouse
+-->
+
+
+
+
 
 <!--
 New
@@ -607,43 +624,6 @@ https://en.wikipedia.org/wiki/Latency_(engineering)
 https://en.wikipedia.org/wiki/Branch_misprediction
 https://en.wikipedia.org/wiki/CPU_cache
 -->
-
-Ergonomics 
-* [Gunnars (glasses: *solarized dark*)](http://www.gunnars.com)
-* [f.lux](https://justgetflux.com)
-* [IKEA Swivel Chair](http://www.ikea.com/us/en/catalog/products/S89006683)
-* [Logitech Wireless Trackball](http://www.logitech.com/en-us/product/wireless-trackball-m570)
-* [Futuro Night Wrist Sleep Support](https://www.amazon.com/gp/product/B0057D86QA)
-
-Keyboard Layout
-* [Ergonomic Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard)
-* [Keyboard Layout Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout)
-* [Dvorak Simplified Keyboard Wikipedia](https://en.wikipedia.org/wiki/Dvorak_Simplified_Keyboard)
-* [The Dvorak Zine](http://www.dvzine.org)
-* [Matt Mullenweg on Dvorak](https://ma.tt/2003/08/on-the-dvorak-keyboard-layout)
-* [Colemak Keyboard Wikipedia](https://en.wikipedia.org/wiki/Keyboard_layout#Colemak)
-* [Colemak Website](https://colemak.com)
-* [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
-
-<!--
-OS X Yosemite: Use Dvorak keyboard layouts
-https://support.apple.com/kb/PH18382?locale=en_US
-OS X Yosemite: Use the Keyboard Viewer
-https://support.apple.com/kb/PH18449?locale=en_US
-
-https://ma.tt/2003/08/on-the-dvorak-keyboard-layout
-https://github.com/kentonv/dvorak-qwerty
-https://msdn.microsoft.com/en-us/globalization/keyboardlayouts
-https://sourceforge.net/projects/dvorakqwerty
-
-http://thewirecutter.com/reviews/comfortable-ergo-keyboard
-https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/ref=sr_1_6?ie=UTF8&qid=1489440374&sr=8-6&keywords=microsoft+ergonomic
-
-Mechanical keyboard
-Vertical mouse
--->
-
-
 
 Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
