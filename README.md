@@ -155,119 +155,7 @@ Table of Content
 * [Journalism Handbooks and Grammatical Style Guides](#journalism-handbooks-and-grammatical-style-guides)
 * [Vocabulary](#vocabulary)
 
-<!--
-#### Other Enormous Tool Lists
-
-https://www.producthunt.com/tech/freelancer-stack
-https://www.hellobonsai.com/best-freelance-tools
-https://www.producthunt.com/tech/makerbook-2
-
-* [Steve Blank: Tools and Blogs for Entrepreneurs](http://steveblank.com/tools-and-blogs-for-entrepreneurs) 
-
-* [Chris Barber: Tools of the Trade GitHub](https://github.com/cjbarber/ToolsOfTheTrade)
-* [Content Marketing Stack](http://www.contentmarketingstack.co)
-* [Growth Tools](http://growthtools.io)
-* [growth.supply](http://growth.supply/free)
-* [Makerbook](http://makerbook.net)
-* [Marketing Stack](http://marketingstack.io)
-* [SalesList](https://saleslist.co)
-* [Stacklist](http://stacklist.com)
-* [Startup Resources](http://startupresources.io)
-* [Startup Stash](http://startupstash.com)
-
-https://productmap.co
-http://www.communitybuildingguide.com
-https://startuplaunchlist.com
-https://entrepreneur-tools.zeef.com/keyhanimo
-https://balapastudio.co/frontendlist
-http://designforstartup.net
-
-Dev-Ops Wiki and Free for Dev
-* [Dev-Ops Wiki GitHub](https://github.com/Leo-G/DevopsWiki)
-* [R.I. Pienaar: Free for Dev GitHub](https://github.com/ripienaar/free-for-dev)
-* [Awesome DevEnv GitHub](https://github.com/jondot/awesome-devenv)
-* [Awesome Shell GitHub](https://github.com/alebcay/awesome-shell)
-* [Awesome Dotfiles GitHub](https://github.com/webpro/awesome-dotfiles)
-* [Awesome Emacs GitHub](https://github.com/emacs-tw/awesome-emacs)
-* [Awesome Vim](http://vimawesome.com)
-
-Awesome Non-Code
-* [Awesome Styleguides GitHub](https://github.com/RichardLitt/awesome-styleguides)
-* [Guides GitHub](https://github.com/NARKOZ/guides)
-* [Awesome OpenSource Documents GitHub](https://github.com/nacyot/awesome-opensource-documents)
-* [Awesome Places To Post Your Startup GitHub](https://github.com/mmccaff/PlacesToPostYourStartup)
-* [Awesome Remote Job GitHub](https://github.com/lukasz-madon/awesome-remote-job)
-
-https://github.com/AntBranch/awesome-github
-https://github.com/noffle/art-of-readme
-
-https://github.com/gztchan/awesome-design
-https://github.com/zazaalaza/awesome-ideation-tools
-
-https://github.com/jonathandion/awesome-emails
-https://github.com/Jolg42/awesome-typography
-https://github.com/neutraltone/awesome-stock-resources
-
-https://github.com/donnemartin/awesome-aws#python-sdk
-
-https://branch.io/resources/app-launch-checklist/#
-https://github.com/Hack-with-Github/Awesome-Hacking
-https://github.com/kdeldycke/awesome-falsehood
-https://github.com/KishanBagaria/awesome-standards
-https://github.com/detailyang/awesome-cheatsheet
-https://github.com/Kickball/awesome-selfhosted
-
-README and Head
-* [Awesome README GitHub](https://github.com/matiassingers/awesome-readme)
-* [HEAD GitHub](https://github.com/joshbuchea/HEAD)
-
-Naughty Strings and Words
-* [Big List of Naughty Strings GitHub](https://github.com/minimaxir/big-list-of-naughty-strings)
-* [List of Dirty, Naughty, Obscene, and Otherwise Bad Words GitHub](https://github.com/shutterstock/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words)
-
-Awesome Git
-* [Git Cheat Sheet GitHub](https://github.com/arslanbilal/git-cheat-sheet)
-* [Awesome GitHub GitHub](https://github.com/phillipadsmith/awesome-github)
-* [Awesome Git Addons GitHub](https://github.com/stevemao/awesome-git-addons)
-
-Awesome Apple
-* [Awesome OSX GitHub](https://github.com/iCHAIT/awesome-osx)
-* [Awesome OSX Command Line GitHub](https://github.com/herrbischoff/awesome-osx-command-line)
-
-Awesome Python and Django
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-* [Awesome Python Algorithms GitHub](https://github.com/laurentluce/python-algorithms)  
-* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-
-* [Awesome AWS GitHub](https://github.com/donnemartin/awesome-aws)
-* [Awesome .NET GitHub](https://github.com/quozd/awesome-dotnet)
-* [Awesome React GitHub](https://github.com/enaqx/awesome-react)
-* [Awesome Redux GitHub](https://github.com/xgrommx/awesome-redux)
-  
-Awesome- More
-* [Awesome PHP GitHub](https://github.com/ziadoz/awesome-php)  
-* [Awesome Share GitHub](https://github.com/vinkla/awesome-share)
-* [Awesome Projects Boilerplates GitHub](https://github.com/melvin0008/awesome-projects-boilerplates)
-
-Book Lists
-* [Bookicious](http://www.bookicious.com/collections)
-* [Bookstck](http://bookstck.tumblr.com)
--->
-
 #### Programming Learning Tools
-
-<!--
-New
-https://www.pluralsight.com/guides
-https://www.pluralsight.com/resource-center/guides/classroom_vs_online
-https://www.pluralsight.com/blog/career/tech-in-2025
-Technology in 2025: Prepare your workforce for the fourth industrial revolution | Pluralsight
-
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
-https://github.com/freeCodeCamp/support | freeCodeCamp/support: The technical support FAQ for freeCodeCam
--->
 
 What is Code?
 * [Paul Ford: What is Code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code)
@@ -286,32 +174,6 @@ Programming Groups
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
 
-<!--
-Joni Trythall
-http://elaconf.com
-https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
-http://ela.community
-https://twitter.com/JoniTrythall
-
-http://www.toptentypography.tips
-https://speakerdeck.com/jonibologna/just-enough-typography
-https://confreaks.tv/videos/djangoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
-https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
-
-limedaring
-https://speakerdeck.com/limedaring/pyladies-remote
-https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
-https://hellowebapp.com/tutorial/intro/
-https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
-https://speakerdeck.com/limedaring/pycaribbean-1
--->
-
-Guides for Development
-* [Google Guide for Technical Development](https://techdevguide.withgoogle.com)
-* [Google Interview University GitHub](https://github.com/jwasham/google-interview-university)
-
 Courses (See also MOOCs)
 * [Pluralsight](https://www.pluralsight.com), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
 * [Code School](https://www.codeschool.com) and [Code School GitHub](https://github.com/codeschool)
@@ -324,64 +186,20 @@ Courses (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
-<!--
-https://egghead.io/
-https://egghead.io/tags/free
-
-https://www.producthunt.com/posts/codecademy-pro-2
-http://ready.codecademy.com/
-https://www.codecademy.com/learn/beta
--->
-
 W3Schools
 * [W3Schools Web Development Tutorials](http://www.w3schools.com)
 * [W3Fools](http://www.w3fools.com/)
 * [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
 * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
 
+
 <!--
-New
-https://medium.freecodecamp.org/tagged/events
-https://github.com/freeCodeCamp/contribute
-
-
-
-http://jvns.ca
-https://twitter.com/b0rk
-
-https://github.com/bradfrost
-
-https://github.com/pluralsight-projects
-
-https://www.codecademy.com/courses/learn-the-command-line
-https://www.codecademy.com/tracks/web
-https://www.codecademy.com/learn/python
-https://www.codecademy.com/learn/learn-sass
-http://ready.codecademy.com/build-websites-from-scratch/
-http://ready.codecademy.com/programs/coding-for-business-analysts/
-
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/computing/computer-programming/sql
-https://www.khanacademy.org/computing/computer-programming
-https://www.khanacademy.org/computing/computer-science
-
-https://medium.com/udacity
-https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
-
-https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
-https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
-https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
-
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
-https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
-
-http://treehouse.github.io/installation-guides
-http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
-http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
-
-https://www.codeschool.com/projects
+Left off here
 -->
+
+
+
+
 
 Design and Dev Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
@@ -402,11 +220,6 @@ https://csswizardry.com
 https://webdesign.tutsplus.com
 https://code.tutsplus.com
 -->
-
-Forums
-* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
-* [Free Code Camp Forum](http://forum.freecodecamp.com)
-* [Treehouse Community](https://teamtreehouse.com/community)
 
 Programming Language Leveling Up and Comparisons
 * [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
@@ -514,6 +327,59 @@ Text Editor and Code Demonstration
 
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
+
+<!--
+https://egghead.io/
+https://egghead.io/tags/free
+
+https://www.producthunt.com/posts/codecademy-pro-2
+http://ready.codecademy.com/
+https://www.codecademy.com/learn/beta
+-->
+
+<!--
+New
+https://medium.freecodecamp.org/tagged/events
+https://github.com/freeCodeCamp/contribute
+
+
+
+http://jvns.ca
+https://twitter.com/b0rk
+
+https://github.com/bradfrost
+
+https://github.com/pluralsight-projects
+
+https://www.codecademy.com/courses/learn-the-command-line
+https://www.codecademy.com/tracks/web
+https://www.codecademy.com/learn/python
+https://www.codecademy.com/learn/learn-sass
+http://ready.codecademy.com/build-websites-from-scratch/
+http://ready.codecademy.com/programs/coding-for-business-analysts/
+
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/computing/computer-programming/sql
+https://www.khanacademy.org/computing/computer-programming
+https://www.khanacademy.org/computing/computer-science
+
+https://medium.com/udacity
+https://medium.com/udacity/how-i-learned-to-code-in-my-30s-61ad21180208
+
+https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869
+https://medium.freecodecamp.com/welcome-to-the-software-interview-ee673bc5ef6
+https://medium.freecodecamp.org/we-analyzed-thousands-of-coding-interviews-heres-what-we-learned-99384b1fda50
+
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+https://github.com/FreeCodeCamp/design-style-guide
+https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
+
+http://treehouse.github.io/installation-guides
+http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
+http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
+
+https://www.codeschool.com/projects
+-->
 
 <!--
 Software Design Patterns
@@ -5912,6 +5778,19 @@ Confreaks
 * [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
 
 <!--
+Joni Trythall
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+http://ela.community
+https://twitter.com/JoniTrythall
+
+http://www.toptentypography.tips
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+
 http://blog.djangogirls.org/post/124569551358/your-django-story-meet-ana-balica | Django Girls Blog — Your Django Story: Meet Ana Balica
 https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
 
@@ -6059,6 +5938,14 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+limedaring
+https://speakerdeck.com/limedaring
+https://speakerdeck.com/limedaring/pyladies-remote
+https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
+https://hellowebapp.com/tutorial/intro/
+https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
+https://speakerdeck.com/limedaring/pycaribbean-1
+
 https://www.reddit.com/r/design_critiques/comments/6x9teg/cover_for_a_selfpublished_beginner_design_book/ | Cover for a self-published beginner design book : design_critiques
 
 https://hellowebbooks.com/news/hello-web-app-online-forever
