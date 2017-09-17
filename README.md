@@ -383,10 +383,38 @@ Company Design Blogs
 * [Twitter Design](https://twitter.com/design)  
 * [Uber Design](https://www.uber.com/design) 
 
-Company Design Systems
+<!--
+* [Style Guide Driven Development / Living Style Guides](http://styleguides.io)
 
-HubSpot
-* [HubSpot GitHub](https://github.com/HubSpot)
+https://github.com/bradfrost/style-guide-guide
+https://github.com/alexpate/awesome-design-systems
+https://github.com/kciter/awesome-style-guide
+-->
+
+Company Design Systems
+* [A List Apart's Pattern Library](http://patterns.alistapart.com)
+* [Airbnb New Design System](https://airbnb.design/building-a-visual-language)
+* [Atlassian Design Guidelines](https://atlassian.design/guidelines/product/overview)
+* [IBM Living Language](https://www.ibm.com/design/language)
+* [Microsoft Fluent Design System](http://fluent.microsoft.com)
+* [Salesforce Lightning Design System](https://www.lightningdesignsystem.com)
+* [Yelp Styleguide](https://www.yelp.com/styleguide)
+
+<!--
+* BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines)
+* <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov)
+* MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide)
+-->
+
+GitHub Design and Code StyleGuides
+* [Github Primer](http://primercss.io)
+* [GitHub StyleGuides](https://github.com/styleguide) 
+
+Google Style Guides
+* [Google Style Guides](https://google.github.io/styleguide) and [Google Style Guides GitHub](https://github.com/google/styleguide)
+
+Mozilla Coding Style Guide
+* [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 
 PHP Styleguides
 * [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
@@ -425,46 +453,20 @@ Left off here
 
 
 <!--
-New
-* [Style Guide Driven Development / Living Style Guides](http://styleguides.io/)
+A List Apart
 
-https://github.com/bradfrost/style-guide-guide
-https://github.com/alexpate/awesome-design-systems
-https://github.com/kciter/awesome-style-guide
+HubSpot
+* [HubSpot GitHub](https://github.com/HubSpot)
 
 * Apple's [Human Interface Guidelines](https://developer.apple.com/design/)
 https://developer.apple.com/design/awards/
 
-* Microsoft's [Fluent Design System](http://fluent.microsoft.com/)
-* Airbnb's [new design system](https://airbnb.design/building-a-visual-language/)
-* Atlassian's [Design Guidelines](https://atlassian.design/guidelines/product/overview)
-* Salesforce's [Lightning Design System](https://www.lightningdesignsystem.com/)
-* Yelp's [Styleguide](https://www.yelp.com/styleguide)
-* IBM's [Living Language](https://www.ibm.com/design/language/)
-* A List Apart's [pattern library](http://patterns.alistapart.com/)
-
-* BBC's [GEL Guidelines](http://www.bbc.co.uk/gel/guidelines/)
-* <span>USA</span>.gov's [Web Design Standards](https://standards.usa.gov/)
-* MailChimp's [Email Design Guide](https://mailchimp.com/email-design-guide/)
-
 https://github.com/buzzfeed/design
 
 https://console.ng.bluemix.net
+
+* Google's [Material Design](https://material.io)
 -->
-
-GitHub StyleGuides
-* [GitHub StyleGuides](https://github.com/styleguide) 
-
-<!--
-* Google's [Material Design](https://material.io/)
-* Github's [Primer](http://primercss.io/)
--->
-
-Google Style Guides
-* [Google Style Guides](https://google.github.io/styleguide) and [Google Style Guides GitHub](https://github.com/google/styleguide)
-
-Mozilla Coding Style Guide
-* [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
 
 Styleguides- Various
 * [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
@@ -490,11 +492,12 @@ Styleguides- Various
 #### Built With and Search
 
 Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), and [StackShare News](https://stackshare.io/news) 
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news) 
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
 <!--
+https://stackshare.io/posts/top-developer-tools-2016
 http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
 http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
 -->
@@ -507,6 +510,10 @@ Built With (Exluding Django; See also Squarespace)
 * [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+
+
+
 
 <!--
 http://madewithreact.com
