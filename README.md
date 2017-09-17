@@ -28,9 +28,10 @@ Table of Content
 
 * [Programming Learning Tools](#programming-learning-tools) 
 * [Programming Documentation and Standards](#programming-documentation-and-standards) 
-* [Engineering Blogs and Designer, Developer Conferences, Design Systems](#engineering-blogs-and-designer-developer-conferences-design-systems)
+* [Engineering Blogs, Design Systems, Style Guides](#engineering-blogs-design-systems-style-guides)
+
+
 * [Built With and Search](#built-with-and-search)
-* [Programming Language Style Guides](#programming-language-style-guides) 
 * [Basics](#basics)
   * [Computer Basics](#computer-basics)
   * [Command Line and Shell](#command-line-and-shell)
@@ -273,6 +274,28 @@ http://www.appinventor.org
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
+<!--
+Design and Dev Publications
+* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+* [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
+* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+ 
+https://webdesign.tutsplus.com
+https://code.tutsplus.com
+
+[HTML5Rocks](https://www.html5rocks.com/)
+
+http://html5doctor.com
+https://css-tricks.com
+https://alistapart.com
+https://www.sitepoint.com
+https://csswizardry.com
+
+https://www.techopedia.com
+-->
+
 #### Programming Documentation and Standards
 
 Programming Books- General
@@ -323,54 +346,11 @@ KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
-<!--
-Left off here
--->
-
-
-
-Mozilla- General
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-Design and Dev Publications
-* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-* [Smashing Magazine](http://www.smashingmagazine.com) 
-* [Tympanus](http://tympanus.net)
-* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
- 
-<!--
-https://webdesign.tutsplus.com
-https://code.tutsplus.com
-
-[HTML5Rocks](https://www.html5rocks.com/)
-
-http://html5doctor.com
-https://css-tricks.com
-https://alistapart.com
-https://www.sitepoint.com
-https://csswizardry.com
-
-https://www.techopedia.com
--->
-
-
-
-#### Engineering Blogs and Designer, Developer Conferences, Design Systems
+#### Engineering Blogs, Design Systems, Style Guides
 
 List of Engineering Blogs
 * [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
-
-
-
-Individual Engineering Blogs
-* [Buffer Engineering](https://overflow.bufferapp.com)
-* [Facebook Engineering](https://www.facebook.com/notes/facebook-engineering)  
-* [Instagram Engineering](http://instagram-engineering.tumblr.com)  
-* [Wealthfront Engineering](https://www.wealthfront.com/engineering)  
-* [Uber Developers](https://medium.com/uber-developers)  
- 
 Developer Surveys
 * [Stack Overflow Survey: What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends)
 * [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
@@ -379,8 +359,33 @@ Developer Surveys
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
+Company Design Blogs
+* [Airbnb Samara](http://samara.airbnb.com)
+* [Medium Design](https://medium.com/designing-medium)  
+* [IBM Design](https://www.ibm.com/design) 
+* [eBay/PayPal](http://ebay.com/design)  
+* [Twitter Design](https://twitter.com/design)  
+* [Uber Design](https://www.uber.com/design) 
+
+Company Design Systems
+
+HubSpot
+* [HubSpot GitHub](https://github.com/HubSpot)
+
+<!--
+Left off here
+-->
+
+
+
+
+
+
+
 <!--
 https://stackoverflow.blog
+https://stackoverflow.com/insights
+http://stackoverflow.com/research
 
 https://stackoverflow.blog/2017/08/22/world-mobile-development/#.WZxnRkDJWb4.twitter | Where in the World is Mobile Development? - Stack Overflow Blog
 https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/ | A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog
@@ -396,80 +401,7 @@ https://www.subtraction.com/2016/06/27/the-2016-subtraction-com-design-tools-sur
 http://tools.subtraction.com/
 -->
 
-Company Design
-* [Airbnb Samara](http://samara.airbnb.com)
-* [Medium Design](https://medium.com/designing-medium)  
-* [IBM Design](https://www.ibm.com/design) 
-* [eBay/PayPal](http://ebay.com/design)  
-* [Twitter Design](https://twitter.com/design)  
-* [Uber Design](https://www.uber.com/design) 
 
-Corporate Design Systems
-
-HubSpot
-* [HubSpot GitHub](https://github.com/HubSpot)
-
-#### Built With and Search
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), and [StackShare News](https://stackshare.io/news) 
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-<!--
-http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
-http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
--->
-
-Built With (Exluding Django; See also Squarespace)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)  
-* [Made with Angular](https://www.madewithangular.com)  
-* [Built with Bootstrap](http://expo.getbootstrap.com)  
-* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-
-<!--
-http://madewithreact.com
-
-http://www.builtwithshopify.com
-http://webbyawards.com
--->
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
-
-
-
-
-Code Search
-* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
-* [Nerdy Data](http://nerdydata.com)  
-
-Wayback Machine
-* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
-
-<!--
-http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
--->
-
-Archive Team
-* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
-
-Whois Wikipedia
-* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
-
-
-
-
-
-
-#### Programming Language Style Guides
 
 <!--
 New
@@ -557,6 +489,63 @@ Objective C Styleguide
 
 Swift Styleguide
 * [Swift Styleguide GitHub](https://github.com/github/swift-style-guide)
+
+
+
+#### Built With and Search
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), and [StackShare News](https://stackshare.io/news) 
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+<!--
+http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
+http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
+-->
+
+Built With (Exluding Django; See also Squarespace)
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)  
+* [Made with Angular](https://www.madewithangular.com)  
+* [Built with Bootstrap](http://expo.getbootstrap.com)  
+* [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
+
+<!--
+http://madewithreact.com
+
+http://www.builtwithshopify.com
+http://webbyawards.com
+-->
+
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me) 
+
+
+
+
+Code Search
+* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
+* [Nerdy Data](http://nerdydata.com)  
+
+Wayback Machine
+* [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
+
+<!--
+http://blog.archive.org/2016/10/24/beta-wayback-machine-now-with-site-search
+-->
+
+Archive Team
+* [Archive Team](http://www.archiveteam.org) and [Archive Team Twitter](https://twitter.com/archiveteam)
+
+Whois Wikipedia
+* [Whois Wikipedia](http://en.wikipedia.org/wiki/Whois)
 
 
 
@@ -651,6 +640,8 @@ https://www.amazon.com/Microsoft-Natural-Ergonomic-Keyboard-4000/dp/B000A6PPOK/r
 Mechanical keyboard
 Vertical mouse
 -->
+
+
 
 Wikipedia Portals
 * [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
@@ -1777,6 +1768,10 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 #### Open Source Documentation
 
 <!--
+Lemonade Stand
+Mozilla- General
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
 https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
 https://gist.github.com/gersande/8177770 | Blogs I Love
 https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
