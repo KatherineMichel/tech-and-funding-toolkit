@@ -186,12 +186,74 @@ Courses (See also MOOCs)
 * [Treehouse](https://teamtreehouse.com)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
+<!--
+* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
+
+https://www.pluralsight.com/teach
+https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
+https://www.pluralsight.com/blog/news/authoring-for-pluralsight
+
+http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
+-->
+
 W3Schools
 * [W3Schools Web Development Tutorials](http://www.w3schools.com)
 * [W3Fools](http://www.w3fools.com/)
 * [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
 * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
 
+Math and General Knowledge
+* [Project Euler](http://www.projecteuler.net)  
+* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
+* [Project Euler Problems](http://projecteuler.net/problems)  
+* [Khan Academy](https://www.khanacademy.org)
+* [Math Overflow](http://mathoverflow.net)
+* [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
+* [Math is Fun](http://www.mathsisfun.com)
+
+JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
+* [JavaScript Scene](https://medium.com/javascript-scene)
+* [Eric Elliot GitHub](https://github.com/ericelliott)
+* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
+
+Addy Osmani
+* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
+
+Kyle Simpson
+* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
+* [YouTube](https://www.youtube.com)
+
+Twitch Creative- Accounts
+* [Twilio Twitch](http://www.twitch.tv/team/twilio)
+* [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
+* [Levelsio Twitch](http://www.twitch.tv/levelsio)
+* [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
+
+Robotics and/or Geared toward Kids
+* [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
+* [Arduino](https://www.arduino.cc)
+* [Code.org](https://code.org)
+* [Jam](https://jam.com)
+* [Raspberry PI](http://www.raspberrypi.org)
+* [Kano Playground](http://art.kano.me/playground)
+* [Minecraft](https://minecraft.net)
+* [Scratch (MIT)](https://scratch.mit.edu)
+* [Hour of Code](https://hourofcode.com)
+
+<!--
+http://www.appinventor.org
+http://ladieslearningcode.com/girlscodeday/2017/
+https://github.com/FreeCodeCamp/hour-of-code
+-->
+
+Mobile
+* [CodePath GitHub](https://github.com/codepath)
 
 <!--
 Left off here
@@ -213,7 +275,6 @@ Design and Dev Publications
 
 http://html5doctor.com
 https://css-tricks.com
-https://www.smashingmagazine.com
 https://alistapart.com
 https://www.sitepoint.com
 https://csswizardry.com
@@ -228,59 +289,7 @@ Programming Language Leveling Up and Comparisons
 * [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
 * [Rosetta Code](http://rosettacode.org)
 
-Math and General Knowledge
-* [Project Euler](http://www.projecteuler.net)  
-* [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
-* [Project Euler Problems](http://projecteuler.net/problems)  
-* [Khan Academy](https://www.khanacademy.org)
-* [Math Overflow](http://mathoverflow.net)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
-* [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
-* [Math is Fun](http://www.mathsisfun.com)
 
-Fave Pluralsight Authors
-* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
-* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
-* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
-* [Cory House](https://app.pluralsight.com/profile/author/cory-house) and [Cory House GitHub](https://github.com/coryhouse)
-
-<!--
-https://twitter.com/housecor/status/858870694326800385
-
-* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
-
-https://www.pluralsight.com/teach
-https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
-https://www.pluralsight.com/blog/news/authoring-for-pluralsight
-
-http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
--->
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-
-Addy Osmani
-* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-
-Kyle Simpson
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
-
-<!--
-https://medium.com/javascript-scene/elements-of-javascript-style-caa8821cb99f
-
-https://medium.com/end-homelessness/fighting-poverty-with-code-d1ed3ebd982d
-
-https://medium.com/@preethikasireddy
-Preethi Kasireddy: How The Web Works
-https://medium.freecodecamp.com/what-are-the-most-challenging-parts-of-your-coding-journey-fbd7d3a7600f
--->
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
 
 Competitions
 * [Code Jam](https://code.google.com/codejam)
@@ -290,32 +299,6 @@ Programming Books
 * [Humble Bundle](https://www.humblebundle.com)
 * [DevFreeBooks](https://github.com/devfreebooks/devfreebooks.github.io)
 
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
-
-Twitch Creative- Accounts
-* [Twilio Twitch](http://www.twitch.tv/team/twilio)
-* [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
-* [Levelsio Twitch](http://www.twitch.tv/levelsio)
-* [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
-
-<!--
-https://www.reddit.com/r/Twitch/comments/4eyva6/a_guide_to_streaming_and_finding_success_on_twitch
-https://medium.com/@suzhinton/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1
--->
-
-Robotics and/or Geared toward Kids
-* [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
-* [Arduino](https://www.arduino.cc)
-* [Code.org](https://code.org)
-* [Jam](https://jam.com)
-* [Raspberry PI](http://www.raspberrypi.org)
-* [Kano Playground](http://art.kano.me/playground)
-* [Minecraft](https://minecraft.net)
-* [Scratch (MIT)](https://scratch.mit.edu)
-* [Hour of Code](https://hourofcode.com)
 
 Text Editor and Code Demonstration
 * [Fiddle](https://fiddles.io)
@@ -325,31 +308,29 @@ Text Editor and Code Demonstration
 * [Cloud9](https://c9.io/katherinemichel)
 * [Codepen](http://codepen.io)
 
-Mobile
-* [CodePath GitHub](https://github.com/codepath)
-
 <!--
-https://egghead.io/
-https://egghead.io/tags/free
-
-https://www.producthunt.com/posts/codecademy-pro-2
-http://ready.codecademy.com/
-https://www.codecademy.com/learn/beta
--->
-
-<!--
-New
-https://medium.freecodecamp.org/tagged/events
-https://github.com/freeCodeCamp/contribute
-
-
-
 http://jvns.ca
 https://twitter.com/b0rk
 
-https://github.com/bradfrost
-
 https://github.com/pluralsight-projects
+https://www.codeschool.com/projects
+https://www.producthunt.com/posts/codecademy-pro-2
+http://ready.codecademy.com/
+https://www.codecademy.com/learn/beta
+
+
+
+
+
+
+
+https://medium.freecodecamp.org/tagged/events
+https://github.com/freeCodeCamp/contribute
+
+https://egghead.io/
+https://egghead.io/tags/free
+
+https://github.com/bradfrost
 
 https://www.codecademy.com/courses/learn-the-command-line
 https://www.codecademy.com/tracks/web
@@ -377,24 +358,16 @@ https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Wiki-Central
 http://treehouse.github.io/installation-guides
 http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design
 http://blog.teamtreehouse.com/responsive-wordpress-bootstrap-theme-tutorial
-
-https://www.codeschool.com/projects
 -->
 
 <!--
+https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
+
 Software Design Patterns
 Coding Conventions
 Object Oriented Programming
 Programming language comparisons
 Programming style
-
-http://www.appinventor.org
-
-http://ladieslearningcode.com/girlscodeday/2017/
-
-https://github.com/FreeCodeCamp/hour-of-code
-
-https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far
 
 https://github.com/pluralsight-projects/HelloPluralsightProject
 
@@ -411,6 +384,7 @@ http://codekata.com
 
 https://medium.com/@mscccc/jr-developers-0-hello-world-dd1d4a2a098c#.rrixtpvsc
 -->
+
 
 #### Programming Documentation and Standards
 
