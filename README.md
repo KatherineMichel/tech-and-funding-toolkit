@@ -6516,6 +6516,12 @@ Consoles: Webmaster and Analytics
 * [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
 * [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
+#### Alibaba Cloud
+
+<!--
+https://www.alibabacloud.com
+-->
+
 #### AWS
 
 Amazon Web Services
@@ -6943,6 +6949,7 @@ Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
 * [Codepen](http://codepen.io)
 * [Cloud9](https://c9.io)
+* [Runkit](https://runkit.com)
 * [Nitrous.IO GitHub (Nitrous Went Away)](https://github.com/nitrous-io)
 
 Makers
@@ -7812,6 +7819,9 @@ Miscellaneous
 * [QR Code Wikipedia](http://en.wikipedia.org/wiki/QR_code)
 
 <!--
+https://github.com/LaunchKit/LaunchKit
+https://github.com/fastlane/fastlane
+
 https://en.wikipedia.org/wiki/Computer-aided_design
 
 iPhone app development
@@ -10512,34 +10522,22 @@ Digital Stats
 #### Popular Tools
 
 <!--
-
-http://lite.cnn.io/ | CNN - Breaking News, Latest News and Videos
-http://www.cnn.com/interactive/storm-tracker/ | CNN storm tracker - CNN.com
-https://www.southwest.com/flight/select-flight.html | Southwest Airlines - Select Flight(s)
-https://www.gov.uk/foreign-travel-advice/usa | USA travel advice - GOV.UK
-
-http://www.unixstickers.com/ | Stickers, T-shirts, Mugs on UNIX & Programming | unixstickers
-https://www.blog.google/topics/travel/new-ways-make-trip-planning-easier-and-cheaper/ | New ways to make trip planning easier and cheaper
-https://productforums.google.com/forum/#!msg/docs/iD5fRYPQYJU/bl8FGBwc0mQJ
-https://medium.com/@ev/unfortunately-its-impossible-to-predict-what-any-author-or-story-will-make-if-anything-1bff18af2cb2 | Unfortunately, it’s impossible to predict what any author or story will make (if anything).
-Redfin
-https://nomadlist.com/about | Nomad List — About
-https://www.linkedin.com/directory | LinkedIn
-
 Dongle
 https://en.wikipedia.org/wiki/Thunderbolt_(interface) | Thunderbolt (interface) - Wikipedia
 https://www.amazon.com/AmazonBasics-Mini-DisplayPort-Thunderbolt-Adapter/dp/B00NH13K8S/ | Amazon.com: AmazonBasics Mini DisplayPort (Thunderbolt) to HDMI Adapter: Computers & Accessories
 
+Travel
+http://lite.cnn.io/ | CNN - Breaking News, Latest News and Videos
+http://www.cnn.com/interactive/storm-tracker/ | CNN storm tracker - CNN.com
+https://www.southwest.com/flight/select-flight.html | Southwest Airlines - Select Flight(s)
+https://www.gov.uk/foreign-travel-advice/usa | USA travel advice - GOV.UK
+https://www.blog.google/topics/travel/new-ways-make-trip-planning-easier-and-cheaper/ | New ways to make trip planning easier and cheaper
 https://www.dhs.gov/real-id-public-faqs
 https://www.tsa.gov/
 https://www.cbp.gov/travel/trusted-traveler-programs/global-entry
 
-
+https://www.linkedin.com/directory | LinkedIn
 https://www.linkedin.com/directory/people-company-s/ | Browse Members by Name and Company: S a @ Larsen-&-toubro-limited - Số @ Acb-bank | LinkedIn
-https://blog.medium.com/expanding-the-medium-partner-program-3be09dd146e4
-
-http://saythanks.io
-https://happinesspackets.io
 
 https://merch.amazon.com/landing
 https://thehub.amazon.com/ | Welcome
@@ -10547,6 +10545,14 @@ https://thehub.amazon.com/ | Welcome
 https://www.amazon.com/ap/signin
 https://www.audible.com/whatis
 https://www.amazon.com/kindle-dbs/thankYouPage
+
+
+http://www.unixstickers.com/ | Stickers, T-shirts, Mugs on UNIX & Programming | unixstickers
+
+https://productforums.google.com/forum/#!msg/docs/iD5fRYPQYJU/bl8FGBwc0mQJ
+
+http://saythanks.io
+https://happinesspackets.io
 
 https://www.diffchecker.com/diff
 http://markup.su/highlighter
@@ -10563,6 +10569,8 @@ https://atap.google.com/soli
 https://fi.google.com/about
 https://support.google.com/fi/answer/6201840
 
+https://medium.com/@ev/unfortunately-its-impossible-to-predict-what-any-author-or-story-will-make-if-anything-1bff18af2cb2 | Unfortunately, it’s impossible to predict what any author or story will make (if anything).
+https://blog.medium.com/expanding-the-medium-partner-program-3be09dd146e4
 https://medium.com/topic/audio
 https://blog.medium.com/press-play-now-you-can-add-videos-to-your-series-on-medium-303f1becef88
 https://productupdates.quora.com/Video-on-Quora
@@ -11110,6 +11118,11 @@ Logistics
 * [Teleport](http://teleport.org)
 * [Trulia](https://www.trulia.com)
 * [Zillow](http://www.zillow.com)
+
+<!--
+Redfin
+https://nomadlist.com/about | Nomad List — About
+-->
 
 Remote
 * [remoteok](https://remoteok.io)
