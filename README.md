@@ -250,6 +250,10 @@ Stack Overflow
 * [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
 * [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
 * [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
+
+Stack Exchange
+* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
 
 Math and General Knowledge
 * [Project Euler](http://www.projecteuler.net)  
@@ -1732,6 +1736,8 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 #### Open Source Documentation
 
 <!--
+https://opensource.org/ | News | Open Source Initiative
+
 Lemonade Stand
 Mozilla- General
 * [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
@@ -5677,6 +5683,8 @@ https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe716
 
 
 <!--
+https://twitter.com/gregnewman?lang=en | Greg Newman (@gregnewman) | Twitter
+
 https://pinax.slack.com/messages/C04R5AQU6/ | general | Pinax Project Slack
 https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
 http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
@@ -10235,6 +10243,10 @@ Ivy League Business and Tech
 * [Stanford News](http://news.stanford.edu) and [Stanford Graduate School of Business Insights](http://www.gsb.stanford.edu/insights)
 * [Wharton Knowledge](http://knowledge.wharton.upenn.edu)
 
+<!--
+http://insight.jbs.cam.ac.uk
+-->
+
 STEM Journals 
 * [ACM Publications](https://www.acm.org/publications), [ACM Digital Library](http://dl.acm.org), [Journal of the ACM](http://jacm.acm.org), and [ACM Queue](http://queue.acm.org)
 * [Computing Research Repository](http://arxiv.org/corr/home)
@@ -10303,6 +10315,10 @@ Question and Answer Forums
 * [Stack Exchange](http://stackexchange.com)
 * [Stack Exchange Sites](http://stackexchange.com/sites) 
 * [Yahoo Answers](https://answers.yahoo.com)
+
+<!--
+Stack Overflow
+-->
 
 Aggregated News Sources
 * [Feedly](http://feedly.com)  
