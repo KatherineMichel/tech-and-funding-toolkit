@@ -5758,6 +5758,8 @@ https://disqus.com/home/explore/?email_verified=1 | Disqus
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
 https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 2
+https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 3
+
 
 https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/models.py | bootcamp/models.py at master · vitorfs/bootcamp
 
@@ -6042,8 +6044,8 @@ Database
 #### Python and Django Common Deployment Tools
 
 <!--
-Documentation tool for inspecting Django forms, form fields and form widgets.
-https://github.com/ana-balica/classy-django-forms 
+http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
+https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
 Classy Django REST Framework
 https://github.com/vintasoftware/classy-django-rest-framework 
 Django Class-Based-View Inspector -- Classy CBV
