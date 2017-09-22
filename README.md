@@ -791,10 +791,6 @@ https://en.wikipedia.org/wiki/MIME
 -->
 
 <!--
-https://en.wikibooks.org/wiki/Open_Metadata_Handbook
--->
-
-<!--
 http://whatismyipaddress.com
 http://whatismyipaddress.com/ip-basics
 http://tcpipguide.com/free/index.htm
@@ -803,18 +799,10 @@ http://tcpipguide.com/free/index.htm
 -->
 
 <!--
-http://en.wikipedia.org/wiki/Domain_Name_System#Client_lookup
-http://en.wikipedia.org/wiki/Domain_Name_System#Address_resolution_mechanism
-http://en.wikipedia.org/wiki/Domain_registration#History
-
-https://en.wikipedia.org/wiki/Round-robin_DNS
-Least Connections
--->
-
-<!--
 Method Resolution Order
 * [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
 
+Status Code Definitions
 https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
 HTTP protocol defaults to port 80 and HTTPS defaults to port 443
