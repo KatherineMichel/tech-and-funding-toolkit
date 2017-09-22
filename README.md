@@ -173,6 +173,11 @@ Programming Groups
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
 
+<!--
+https://github.com/systers/portal | systers/portal: Systers Portal for communities
+https://anitaborg.org/systers/ | Systers - Anita Borg Institute
+-->
+
 Wikipedia
 * [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
 
@@ -6562,6 +6567,176 @@ AWS- SES and SNS (Including Worldwide SMS)
 * [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
 
+<!--
+https://aws.amazon.com/business-builder/?nc1=f_dr
+https://www.createspace.com
+https://affiliate-program.amazon.com/influencers
+https://aws.amazon.com/connect/
+http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
+https://aws.amazon.com/premiumsupport/developer-support
+https://aws.amazon.com/blogs/aws/empowerment-engagement-and-education-for-women-in-tech
+
+* [Amazon Profiles](http://www.amazon.com/gp/profile)
+
+https://aws.amazon.com/console
+https://aws.amazon.com/certification
+
+https://aws.amazon.com/partners/
+https://tickets.amazon.co.uk/prime-live-events
+https://aws.amazon.com/releasenotes/
+https://aws.amazon.com/blogs/aws/aws-online-tech-talks-july-2017/
+https://aws.amazon.com/about-aws/events/monthlywebinarseries
+Week in Review
+https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2016
+https://aws.amazon.com/blogs/apn/announcing-the-aws-storage-competency-for-consulting-partners
+
+Repeat?
+https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc
+
+DevOps
+https://aws.amazon.com/devops/what-is-devops
+http://docs.aws.amazon.com/devops/latest/gsg/welcome.html
+
+https://aws.amazon.com/architecture
+
+https://github.com/awslabs/aws-security-benchmark
+https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
+https://github.com/awslabs/aws-security-automation
+http://aws.amazon.com/security
+
+https://enterprise.github.com/aws
+https://medium.com/aws-enterprise-collection
+
+https://aws.amazon.com/free
+https://aws.amazon.com/pricing/services
+
+http://aws.amazon.com/pricing
+
+https://aws.amazon.com/simpledb/pricing
+https://aws.amazon.com/ebs/pricing
+
+https://aws.amazon.com/ec2/instance-types
+https://aws.amazon.com/ec2/purchasing-options
+https://aws.amazon.com/ec2/pricing
+https://aws.amazon.com/ec2/spot/pricing
+https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
+https://aws.amazon.com/s3/pricing
+http://aws.amazon.com/pricing/rds
+https://aws.amazon.com/codedeploy/pricing
+https://aws.amazon.com/elasticache/pricing
+
+Ubuntu Server
+https://aws.amazon.com/marketplace/pp/B00JV9JBDS
+
+Marketplace
+https://www.youtube.com/watch?v=SUnjmoc7h70
+
+http://www.docker.com/aws
+
+Config
+http://docs.aws.amazon.com/general/latest/gr/rande.html
+http://docs.aws.amazon.com/cli/latest/reference/configure/
+http://docs.aws.amazon.com/cli/latest/userguide/installing.html
+http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+http://docs.aws.amazon.com/cli/latest/userguide/tutorial-ec2-ubuntu.html
+https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
+https://aws.amazon.com/about-aws/whats-new/2016/12/aws-config-now-enables-you-to-create-50-or-more-config-rules-in-your-aws-account
+
+https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
+
+https://aws.amazon.com/javascript
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.container.html
+http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/welcome.html
+https://aws.amazon.com/blogs/developer/react-native-support-in-the-aws-sdk-for-javascript/
+
+https://aws.amazon.com/serverless/build-a-web-app/
+https://aws.amazon.com/blogs/aws/build-your-first-serverless-application/
+http://docs.aws.amazon.com/lambda/latest/dg/getting-started.html
+http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/lambda-examples.html
+https://aws.amazon.com/about-aws/whats-new/2017/05/aws-x-ray-makes-aws-lambda-request-tracing-generally-available
+https://aws.amazon.com/blogs/developer/aws-toolkit-for-eclipse-improved-support-for-serverless-applications-part-3-3/
+https://aws.amazon.com/blogs/developer/chalice-1-0-0-ga-release/
+
+https://aws.amazon.com/blogs/aws/new-next-generation-gpu-powered-ec2-instances-g3/
+cpu memory
+aws t2 machine learning
+aws t2 gpu
+how to use nvidia with mac
+https://news.ycombinator.com/item?id=10741575
+https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
+https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
+
+https://aws.amazon.com/blogs/ai/exploiting-the-unique-features-of-the-apache-mxnet-deep-learning-framework-with-a-cheat-sheet
+https://aws.amazon.com/blogs/ai/apache-mxnet-release-candidate-now-supports-apple-core-ml-and-keras-v1-2
+
+AWS General Reference
+http://docs.aws.amazon.com/general/latest/gr/Welcome.html
+
+Getting Started with AWS
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html
+
+Working with the AWS Management Console
+http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
+
+Understanding and Getting Your Security Credentials
+http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
+
+Web Application Hosting Infographic
+http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
+
+Setting Up to Host a Web App on AWS
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
+
+Hosting a Static Website on Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+
+Step 3: Deploy Your Website
+http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
+
+Hosting a Static Website on Amazon S3
+http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+
+Getting Started with Linux Web Applications in the AWS Cloud
+http://aws.amazon.com/web-applications/gsg-webapps-linux
+
+Amazon EC2 API Reference
+http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
+
+EC2
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
+
+http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2
+https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
+
+S3
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
+
+Elastic Beanstalk
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.ec2.html
+
+Deploying a Web App Using Elastic Beanstalk
+Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
+http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html
+http://docs.aws.amazon.com/gettingstarted/latest/deploy/deploying-with-elastic-beanstalk.html
+-->
+
 #### Heroku
 
 Heroku- General
@@ -6602,6 +6777,19 @@ Heroku- App Architecture
 <!--
 * [Heroku Examples](https://github.com/heroku-examples)
 https://github.com/heroku/heroku-apps
+
+All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
+https://www.google.com/search?client=safari&rls=en&q=heroku+ps:scale+web=1&ie=UTF-8&oe=UTF-8
+heroku ps:scale web=1
+Heroku SSL
+
+https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
+
+https://devcenter.heroku.com/articles/how-heroku-works
+
+https://blog.heroku.com/deploying-react-with-zero-configuration
+
+https://devcenter.heroku.com/articles/heroku-postgres-extensions-postgis-full-text-search#postgis
 -->
 
 #### Digital Ocean
@@ -6621,6 +6809,12 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Deis](http://deis.io)  
 * [Deis GitHub](https://github.com/deis/deis)  
 
+<!--
+https://www.digitalocean.com/help/getting-started
+https://manage.serverpilot.io
+https://serverpilot.io/community
+-->
+
 #### Google Cloud
 
 Google Cloud, App Engine
@@ -6633,6 +6827,32 @@ Google Cloud, App Engine
 * [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
 * [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
 * [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
+
+<!--
+https://cloud.google.com/apis/design/
+https://cloudplatform.googleblog.com/2016/08/why-Google-Cloud-Platform-is-ready-for-your-enterprise-database-workloads.html
+
+https://cloud.google.com/free/
+https://developers.google.com/optimization
+https://developers.google.com/training/web
+
+https://www.registry.google
+https://github.com/google/nomulus
+
+https://code.google.com/archive
+
+Google App Engine Docs
+https://cloud.google.com/appengine/docs
+
+https://cloud.google.com/container-engine
+
+https://cloud.google.com/source-repositories/docs
+
+https://cloud.google.com/products
+
+* [Google App Engine Code](http://code.google.com/p/googleappengine)  
+* [Google Apps for Work](https://www.google.com/a/signup)  
+-->
 
 
 
@@ -6913,6 +7133,8 @@ Internet Performance Management
 * [OpenDNS](https://www.opendns.com)
 
 <!--
+https://github.com/github/octodns
+
 DNSimple SSL Certificate Hostname
 
 https://www.godaddy.com/help/add-a-subdomain-that-points-to-an-ip-address-4080
@@ -6927,6 +7149,38 @@ Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
+<!--
+Repeat?
+https://www.amazon.com/Yubico/pages/10358012011 | Amazon.com: Yubico
+https://www.yubico.com/products/yubikey-hardware/
+
+https://letsencrypt.org/2017/07/06/wildcard-certificates-coming-jan-2018.html
+
+https://code.google.com/p/browsersec/wiki/Main
+
+https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines
+
+CIS Apple Security Guidelines
+https://benchmarks.cisecurity.org/tools2/osx/CIS_Apple_OSX_10.11_Benchmark_v1.0.0.pdf
+https://benchmarks.cisecurity.org/
+
+https://www.cisecurity.org/training/resources/
+https://www.cisecurity.org/training/publications/
+
+https://github.com/usnistgov/applesec
+https://github.com/usnistgov
+
+https://github.com/OWASP
+https://www.owasp.org/index.php/Top_10_2013-Top_10
+
+https://aws.amazon.com/blogs/aws/prepare-for-the-owasp-top-10-web-application-vulnerabilities-using-aws-waf-and-our-new-white-paper/
+
+https://www.us-cert.gov
+https://www.digicert.com
+http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
+
+https://www.owasp.org/index.php/Main_Page
+-->
 
 #### Deployment, Cloud, and Playgrounds
 
