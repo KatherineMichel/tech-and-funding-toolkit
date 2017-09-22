@@ -735,23 +735,24 @@ HTTP
 
 
 <!--
-https://en.wikipedia.org/wiki/Natural_user_interface
-https://en.wikipedia.org/wiki/Graphical_user_interface
-
-https://en.wikipedia.org/wiki/Display_resolution
-https://en.wikipedia.org/wiki/Graphics_display_resolution
-
 https://en.wikipedia.org/wiki/Computer_architecture
 https://en.wikipedia.org/wiki/Von_Neumann_architecture
 https://en.wikipedia.org/wiki/John_von_Neumann
+
+https://en.wikipedia.org/wiki/Bandwidth_(computing)
+https://en.wikipedia.org/wiki/Latency_(engineering)
+
+
 
 https://en.wikipedia.org/wiki/Alan_Turing
 https://en.wikipedia.org/wiki/Alonzo_Church
 https://en.wikipedia.org/wiki/Claude_Shannon
 
-Write Great Code: Volume I: Understanding the Machine
-https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-https://en.wikibooks.org/wiki/A-level_Computing/AQA/Computer_Components,_The_Stored_Program_Concept_and_the_Internet/Machine_Level_Architecture/Machine_code_and_processor_instruction_set
+https://en.wikipedia.org/wiki/Natural_user_interface
+https://en.wikipedia.org/wiki/Graphical_user_interface
+
+https://en.wikipedia.org/wiki/Display_resolution
+https://en.wikipedia.org/wiki/Graphics_display_resolution
 
 https://en.wikipedia.org/wiki/Most_significant_bit
 https://en.wikipedia.org/wiki/Machine_code
@@ -777,8 +778,6 @@ https://en.wikipedia.org/wiki/Instruction_register
 
 https://en.wikipedia.org/wiki/User_Datagram_Protocol
 https://en.wikipedia.org/wiki/Transport_Layer_Security
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Latency_(engineering)
 https://en.wikipedia.org/wiki/Branch_misprediction
 https://en.wikipedia.org/wiki/CPU_cache
 
