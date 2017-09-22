@@ -579,10 +579,20 @@ Keyboard Layout
 * [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
 
 Famous Literature
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar)
+* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) and [The Cathedral and the Bazaar Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
 
 Great Unsolved Problems in Computer Science
 * [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
+
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know
+-->
+
+Internet Service Provider
+* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
 
 IP
 * [IP Address Wikipedia](https://en.wikipedia.org/wiki/IP_address)
@@ -670,6 +680,7 @@ Chomsky Hierarchy and Automata
 Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
+
 <!--
 Left off here
 -->
@@ -677,10 +688,6 @@ Left off here
 
 
 
-
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
 
 Computer Classes and Sizes
 * [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
@@ -704,9 +711,6 @@ Binary
 * [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
 * [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
 * [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Internet Service Provider
-* [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
 
 Port and Host
 * [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
@@ -740,6 +744,7 @@ https://en.wikipedia.org/wiki/Graphics_display_resolution
 https://en.wikipedia.org/wiki/Computer_architecture
 https://en.wikipedia.org/wiki/Von_Neumann_architecture
 https://en.wikipedia.org/wiki/John_von_Neumann
+
 https://en.wikipedia.org/wiki/Alan_Turing
 https://en.wikipedia.org/wiki/Alonzo_Church
 https://en.wikipedia.org/wiki/Claude_Shannon
@@ -748,7 +753,6 @@ Write Great Code: Volume I: Understanding the Machine
 https://www.amazon.com/dp/B0096FEJGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 https://en.wikibooks.org/wiki/A-level_Computing/AQA/Computer_Components,_The_Stored_Program_Concept_and_the_Internet/Machine_Level_Architecture/Machine_code_and_processor_instruction_set
 
-https://en.wikipedia.org/wiki/Binary_code
 https://en.wikipedia.org/wiki/Most_significant_bit
 https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Opcode
@@ -771,7 +775,6 @@ https://en.wikipedia.org/wiki/Microprocessor
 https://en.wikipedia.org/wiki/Program_counter
 https://en.wikipedia.org/wiki/Instruction_register
 
-https://en.wikipedia.org/wiki/Transmission_Control_Protocol
 https://en.wikipedia.org/wiki/User_Datagram_Protocol
 https://en.wikipedia.org/wiki/Transport_Layer_Security
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
@@ -786,12 +789,6 @@ https://en.wikipedia.org/wiki/Parsing
 https://en.wikipedia.org/wiki/HTTP_cookie
 https://en.wikipedia.org/wiki/File_Transfer_Protocol
 https://en.wikipedia.org/wiki/MIME
--->
-
-
-<!--
-https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
-
 -->
 
 <!--
@@ -823,19 +820,6 @@ https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
 HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
--->
-
-<!--
-http://time.is/compare/000_19_Apr_2016_in_Anywhere_on_Earth
-
-What are the Numbers that Every Computer Engineer Should Know
-http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
 -->
 
 <!--
