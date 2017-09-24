@@ -1927,6 +1927,13 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
+http://pinaxproject.com/pinax/how_to_contribute
+https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
+http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
+http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
+https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
+https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
+
 https://github.com/search?utf8=%E2%9C%93&q=help+wanted
 https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
@@ -1965,13 +1972,6 @@ http://blog.djangogirls.org/post/137825610883/about-your-django-story
 https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 
 https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
-
-http://pinaxproject.com/pinax/how_to_contribute
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
-https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
 
 https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
 https://github.com/pybee/pybee.github.io
@@ -5739,6 +5739,7 @@ https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples 
 https://disqus.com/home/explore/?email_verified=1 | Disqus
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
+https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html | A Complete Beginner's Guide to Django - Part 1
 https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 2
 https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 3
 
@@ -9585,6 +9586,10 @@ Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 * [Cultivating Your Judgment Skills](https://doc.research-and-analytics.csfb.com/docView?language=ENG&format=PDF&source_id=em&document_id=1016115501&serialid=IAEovMnPXpxTqmiJYL7eC0lN%2f09UfCYylbeIz16yxZk%3d)
 * [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
 
+<!--
+http://valuewalkposts.tumblr.com/post/135380637670/michael-mauboussin-research-papers-full | ValueWalk — Michael Mauboussin Research Papers - Full...
+-->
+
 * [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
 
 Nassim Nicholas Taleb: Antifragile and The Black Swan
@@ -11148,7 +11153,9 @@ Group Communication/Chat
 * [Zoom](https://zoom.us)
   
 <!--
-https://hangouts.google.com
+https://hangouts.google.com/ | Google Hangouts
+https://support.google.com/hangouts/answer/3110347?co=GENIE.Platform%3DDesktop&hl=en | Start a video call - Computer - Hangouts Help
+https://support.google.com/youtube/answer/7083786?hl=en | Hangouts On Air with YouTube Live - YouTube Help
 
 Anchor - Radio, reinvented
 https://anchor.fm
