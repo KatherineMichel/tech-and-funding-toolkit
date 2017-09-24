@@ -1554,6 +1554,7 @@ GitHub- Main
 * [GitHub Features (Code Review, ect.)](https://github.com/features)
 * [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git) 
 * [GitHub Blog](https://github.com/blog)  
+* [GitHub Engineering](https://githubengineering.com)  
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
@@ -6539,6 +6540,8 @@ AWS- SES and SNS (Including Worldwide SMS)
 * [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
 
 <!--
+https://aws.amazon.com/about-aws/ | About AWS
+
 https://aws.amazon.com/business-builder/?nc1=f_dr
 https://www.createspace.com
 https://affiliate-program.amazon.com/influencers
@@ -7253,6 +7256,8 @@ Terraform
 * [Terraform](https://www.terraform.io)
 
 <!--
+https://registry.terraform.io/ | Terraform Module Registry
+
 http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
 http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
 https://github.com/cyberomin/terraform/tree/master/part-ii
