@@ -5660,6 +5660,11 @@ https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe716
 
 
 <!--
+Django, Kubernetes, React
+
+https://kubernetes.io/ | Kubernetes - Production-Grade Container Orchestration
+
+Other members?
 https://twitter.com/gregnewman?lang=en | Greg Newman (@gregnewman) | Twitter
 
 https://pinax.slack.com/messages/C04R5AQU6/ | general | Pinax Project Slack
