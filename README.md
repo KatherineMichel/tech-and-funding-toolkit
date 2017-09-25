@@ -1927,13 +1927,6 @@ Example First-Timers Info
 * [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
 
 <!--
-http://pinaxproject.com/pinax/how_to_contribute
-https://docs.google.com/document/d/1f9hPTw3nelWy7nxaDawWP7EUl4QyeGeC4BNYeb4iWhU/edit
-http://blog.pinaxproject.com/2016/04/25/pinax-developer-profiles-shosh-seiden/
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation/
-https://www.youtube.com/channel/UCAPpNG85GLzUBwzYCjd4raQ
-https://plus.google.com/events/ca9n7iklbra4i67te8uh55468n0
-
 https://github.com/search?utf8=%E2%9C%93&q=help+wanted
 https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
@@ -5657,55 +5650,11 @@ https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe716
 
 #### Python and Django Books and Tutorials
 
-
-
-<!--
-Django, Kubernetes, React
-
-https://kubernetes.io/ | Kubernetes - Production-Grade Container Orchestration
-
-Other members?
-https://twitter.com/gregnewman?lang=en | Greg Newman (@gregnewman) | Twitter
-
-https://pinax.slack.com/messages/C04R5AQU6/ | general | Pinax Project Slack
-https://github.com/pinax/pinax-theme-bootstrap/pull/133/ | WIP: Convert to Semantic Markup by paltman · Pull Request #133 · pinax/pinax-theme-bootstrap
-http://blog.pinaxproject.com/2017/09/08/simplifying-static-build-process-django-projects/ | Simplifying the Static Build Process in Django Starter Projects | The Pinax Project Blog
-https://pinax.slack.com/messages/C04R5AQU6/ | general | Pinax Project Slack
-https://github.com/pinax/blog.pinaxproject.com | pinax/blog.pinaxproject.com
-https://github.com/eldarion | Eldarion, Inc.
-
-https://github.com/kelproject
-https://github.com/EldarionCloud | Eldarion Cloud
-https://github.com/pinax/cloudspotting
-
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
-* [Pinax GitHub](https://github.com/pinax)
-
-http://eldarion.cloud/ | Eldarion Cloud: A New DevOps PaaS Powered by Kubernetes
-http://eldarion.com/consulting/django-site-care/#django-site-care | Django Site Care and Maintenance from Eldarion
-
-http://eldarion.com/blog/2017/07/13/5-reasons-you-should-care-about-code-coverage/ | 5 Reasons You Should Care about Code Coverage — Eldarion Blog
-https://thenewstack.io/gondor-delivers-better-system-monitoring-kubernetes/ | How Eldarion Helped Bring Scalable Python, Django to Gondor - The New Stack
 
 * [Pinax](http://pinaxproject.com) 
+* [Pinax GitHub](https://github.com/pinax)
 * [Pinax Slack](http://slack.pinaxproject.com)
-
-https://github.com/pinax/pinax-webanalytics
-https://pinax-blog.readthedocs.io/en/latest/
-http://pinaxproject.com/pinax
-http://pinaxproject.com/pinax/quick_start
-http://pinaxproject.com/pinax/apps_list
-https://github.com/pinax/pinax/blob/a4e257280ae9c99857806438f147caad3329b9eb/distributions.json
-https://github.com/pinax/pinax-theme-bootstrap
-https://github.com/pinax/django-user-accounts
-https://github.com/pinax/django-forms-bootstrap
-http://django-user-accounts.readthedocs.org/en/latest
-
-http://blog.pinaxproject.com/2016/03/10/update-pinax-1604
-http://blog.pinaxproject.com/2016/03/15/writing-better-documentation-and-why-documentation
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
--->
-
 
 <!--
 https://www.twoscoopspress.com/pages/current-django-books
