@@ -5856,6 +5856,8 @@ https://github.com/pypa/python-packaging-user-guide/issues
 https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
 https://packaging.python.org/new-tutorials/installing-and-using-packages
 
+http://docs.pipenv.org/en/latest/advanced.html | Advanced Usage of Pipenv — pipenv 7.6.2 documentation
+https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.1.4 documentation
 http://docs.pipenv.org/en/latest
 https://github.com/kennethreitz/env
 https://github.com/kennethreitz/pipenv
@@ -8408,7 +8410,7 @@ http://www.slideshare.net/mikemaplesjr
 * [Ben Thompson](http://stratechery.com)  
 * [Benedict Evans](http://ben-evans.com) and [Benedict Evans Slideshare](http://www.slideshare.net/bge20)
 * [Beth Kanter Slideshare](http://www.slideshare.net/kanter)
-* [Bill and Melinda Gates](http://www.thegatesnotes.com) 
+* [Bill and Melinda Gates](http://www.gatesnotes.com) 
 * [Bob Lefsetz](http://lefsetz.com)
 * [Brian Solis](http://www.briansolis.com) and [Brian Solis Slideshare](http://www.slideshare.net/briansolis)
 * [C. Todd Lombardo Speaker Deck](https://speakerdeck.com/iamctodd)
