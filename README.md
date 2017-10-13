@@ -10215,6 +10215,14 @@ Unboxing
 #### Books and Courses
 
 <!--
+New
+https://www.amazon.com/Pushback-Smart-Women-Ask_and-Up_for/dp/1501264311
+
+Back Pain Mind-Body Connection
+http://www.correctus.se/dokument/DrSarno-en.pdf | DrSarno-en.pdf
+https://www.amazon.com/gp/product/B01M5FH9PM/?th=1
+
+
 IT and Ethics
 https://plato.stanford.edu/entries/it-moral-values/
 https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
@@ -11455,6 +11463,8 @@ Foreign Language- Spanish
 * [Iberian Romance Languages Wikipedia](https://en.wikipedia.org/wiki/Iberian_Romance_languages)
 
 <!--
+https://en.wikipedia.org/wiki/Pelvic_floor
+
 https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=spanish%20keyboard
 -->
 
