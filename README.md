@@ -5228,12 +5228,14 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-https://www.sqlalchemy.org/
-https://github.com/mitsuhiko/flask-sqlalchemy
-
-http://www.nbu.gov.sk/skcsirt-sa-20170909-pypi/ | skcsirt-sa-20170909-pypi | NBU
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
 
 https://developers.google.com/edu/python/set-up
+
+https://conda.io/docs/user-guide/tasks/manage-environments.html | Managing environments — Conda documentation
+
+https://www.sqlalchemy.org/
+https://github.com/mitsuhiko/flask-sqlalchemy
 
 https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
 
@@ -5857,10 +5859,10 @@ https://packaging.python.org/ | Python Packaging User Guide — Python Packaging
 https://packaging.python.org/new-tutorials/installing-and-using-packages
 
 http://docs.pipenv.org/en/latest/advanced.html | Advanced Usage of Pipenv — pipenv 7.6.2 documentation
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.1.4 documentation
+https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.2.6 documentation
 http://docs.pipenv.org/en/latest
 https://github.com/kennethreitz/env
-https://github.com/kennethreitz/pipenv
+https://github.com/kennethreitz/pipenv/blob/master/Dockerfile | pipenv/Dockerfile at master · kennethreitz/pipenv
 https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
 https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
 
