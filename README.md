@@ -5228,8 +5228,8 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-http://www.dabeaz.com/ | David Beazley
-https://twitter.com/dabeaz | David Beazley (@dabeaz) | Twitter
+http://www.juiceanalytics.com/ | Juice Analytics
+http://www.juiceanalytics.com/juicebox-home/
 
 http://www.dabeaz.com/per.html | Python Essential Reference, 4th Ed.
 https://www.youtube.com/watch?v=lyDLAutA88s | David Beazley | Keynote: Built in Super Heroes - YouTube
@@ -5314,6 +5314,7 @@ http://pytz.sourceforge.net
 #### Python General
 
 Consulting Firms
+* [Changeset Consulting](https://changeset.nyc)
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
 * [Lincoln Loop](http://lincolnloop.com)
@@ -5382,6 +5383,12 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+Sumana 
+https://www.linkedin.com/in/adriennefriend/ | Adrienne Lowe | LinkedIn
+
+http://www.dabeaz.com/ | David Beazley
+https://twitter.com/dabeaz | David Beazley (@dabeaz) | Twitter
+
 Anna
 Corryn
 http://travelswithmaps.blogspot.com/
@@ -5630,33 +5637,57 @@ Python- Django- Resources
 
 #### Python and Django Conference Videos and Slides
 
-PyCon
-* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg)
-* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw)
-
-DjangoCon
-* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
-* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
-* [Confreaks DjangoCon US 2015](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
-* [Confreaks DjangoCon US 2014](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
-
 Confreaks
 * [Confreaks](https://confreaks.tv)
 * [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
 
-<!--
-Joni Trythall
-http://elaconf.com
-https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
-http://ela.community
-https://twitter.com/JoniTrythall
+PyVideo
+* [PyVideo Events](http://pyvideo.org/events.html)
 
-http://www.toptentypography.tips
-https://speakerdeck.com/jonibologna/just-enough-typography
-https://confreaks.tv/videos/djangoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
-https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+PyCon
+* [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
+* [PyCon 2016](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/videos)
+* [PyCon 2015](https://www.youtube.com/channel/UCgxzjK6GuOHVKR_08TT4hJQ/videos)
+* [PyCon 2014](https://www.youtube.com/user/PyCon2014/videos)
+
+PyCon Canada
+* [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
+
+<!--
+PyData  1 
+https://www.youtube.com/user/PyDataTV/playlists
+EuroPython
+https://www.youtube.com/user/PythonItalia/playlists
+EuroPython Conference  1
+
+https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
+https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
+https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
+https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
+http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
+-->
+
+DjangoCon US
+* [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
+* [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
+* [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
+* [Confreaks DjangoCon US 2014 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcybbNiuhLcc3h6WzmZGVBMr3)
+
+DjangoCon Europe
+* [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
+
+<!--
+https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
+https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
+
+Limedaring 
+
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
+
+https://www.google.com/search?q=next+level+testing+pycon+2017&oq=next+level+testing+pycon+2017&aqs=chrome..69i57.4364j0j7&sourceid=chrome&ie=UTF-8 | next level testing pycon 2017 - Google Search
 
 http://blog.djangogirls.org/post/124569551358/your-django-story-meet-ana-balica | Django Girls Blog — Your Django Story: Meet Ana Balica
 https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
@@ -5671,6 +5702,20 @@ https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Dja
 https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac | DjangoCon US 2016 - YouTube
 https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=50 | DjangoCon US 2016 - Under the Hood of Modern CSS Frameworks by Michael Trythall - YouTube
 https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
+
+
+Joni Trythall
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+http://ela.community
+https://twitter.com/JoniTrythall
+
+http://www.toptentypography.tips
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 -->
 
 #### Python and Django Books and Tutorials
@@ -5682,6 +5727,8 @@ https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe716
 * [Pinax Slack](http://slack.pinaxproject.com)
 
 <!--
+Pinax Hangouts YouTube
+
 https://www.twoscoopspress.com/pages/current-django-books
 
 https://teamtreehouse.com/tracks/learn-python
@@ -5771,13 +5818,15 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
-limedaring
+https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
 https://speakerdeck.com/limedaring
 https://speakerdeck.com/limedaring/pyladies-remote
+https://speakerdeck.com/limedaring/pycaribbean | On Writing Friendly and Welcoming Documentation / PyCaribbean // Speaker Deck
+https://speakerdeck.com/limedaring/pycaribbean-1
+https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7 | Five tips for improving your technical writing and documentation.
 https://medium.com/@limedaring/design-for-non-designers-part-1-6559ed93ff91#.qeyc3qotr
 https://hellowebapp.com/tutorial/intro/
 https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
-https://speakerdeck.com/limedaring/pycaribbean-1
 
 https://www.reddit.com/r/design_critiques/comments/6x9teg/cover_for_a_selfpublished_beginner_design_book/ | Cover for a self-published beginner design book : design_critiques
 
