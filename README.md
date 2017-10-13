@@ -5231,6 +5231,26 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 http://www.dabeaz.com/ | David Beazley
 https://twitter.com/dabeaz | David Beazley (@dabeaz) | Twitter
 
+http://www.dabeaz.com/per.html | Python Essential Reference, 4th Ed.
+https://www.youtube.com/watch?v=lyDLAutA88s | David Beazley | Keynote: Built in Super Heroes - YouTube
+https://www.youtube.com/watch?time_continue=11&v=x1ndXuw7S0s | The Other Async (Threads + Async = ❤️) - YouTube
+
+https://twitter.com/dabeaz/status/916752663580172288 | David Beazley on Twitter: "@lazlofruvous The #PyGotham talk was a custom Python program (talk.py) written on top of the termios stdlib. Not emacs (emacs key bindings though ;-)."
+
+https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
+
+http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html | PyVideo.org · PyDX 2015: Tutorial — Teach a New Object Old Tricks
+https://github.com/kennethlove/pydx_conf/blob/master/talk.md | pydx_conf/talk.md at master · kennethlove/pydx_conf
+
+http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf | Python Crash Course.pdf
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
+
+https://automatetheboringstuff.com/chapter0/ | Chapter 0 – Introduction | Automate the Boring Stuff with Python
+
+https://pyweek.org/ | PyWeek - Python Game Programming Challenge
+https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
+
 https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
 
 https://developers.google.com/edu/python/set-up
