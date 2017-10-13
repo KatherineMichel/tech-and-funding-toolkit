@@ -5635,6 +5635,7 @@ Python- Django- Resources
 
 
 
+
 #### Python and Django Conference Videos and Slides
 
 Confreaks
@@ -5653,13 +5654,13 @@ PyCon
 PyCon Canada
 * [PyCon Canada Playlists](https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/playlists)
 
-<!--
-PyData  1 
-https://www.youtube.com/user/PyDataTV/playlists
-EuroPython
-https://www.youtube.com/user/PythonItalia/playlists
-EuroPython Conference  1
+PyData
+* [PyData Playlists](https://www.youtube.com/user/PyDataTV/playlists)
 
+EuroPython
+* [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
+
+<!--
 https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
 https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
 https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
@@ -5689,17 +5690,14 @@ https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
 
 https://www.google.com/search?q=next+level+testing+pycon+2017&oq=next+level+testing+pycon+2017&aqs=chrome..69i57.4364j0j7&sourceid=chrome&ie=UTF-8 | next level testing pycon 2017 - Google Search
 
+https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
+
 http://blog.djangogirls.org/post/124569551358/your-django-story-meet-ana-balica | Django Girls Blog — Your Django Story: Meet Ana Balica
 https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
-
+https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
 https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
-
-https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
-https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
 https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Django by Rich Jones - YouTube
-
-https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac | DjangoCon US 2016 - YouTube
 https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=50 | DjangoCon US 2016 - Under the Hood of Modern CSS Frameworks by Michael Trythall - YouTube
 https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
 
