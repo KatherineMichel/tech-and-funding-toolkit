@@ -5228,6 +5228,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+http://www.dabeaz.com/ | David Beazley
+https://twitter.com/dabeaz | David Beazley (@dabeaz) | Twitter
+
 https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
 
 https://developers.google.com/edu/python/set-up
