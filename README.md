@@ -5231,30 +5231,6 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 http://www.juiceanalytics.com/ | Juice Analytics
 http://www.juiceanalytics.com/juicebox-home/
 
-http://www.dabeaz.com/per.html | Python Essential Reference, 4th Ed.
-https://www.youtube.com/watch?v=lyDLAutA88s | David Beazley | Keynote: Built in Super Heroes - YouTube
-https://www.youtube.com/watch?time_continue=11&v=x1ndXuw7S0s | The Other Async (Threads + Async = ❤️) - YouTube
-
-https://twitter.com/dabeaz/status/916752663580172288 | David Beazley on Twitter: "@lazlofruvous The #PyGotham talk was a custom Python program (talk.py) written on top of the termios stdlib. Not emacs (emacs key bindings though ;-)."
-
-https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
-https://www.youtube.com/watch?v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
-
-http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html | PyVideo.org · PyDX 2015: Tutorial — Teach a New Object Old Tricks
-https://github.com/kennethlove/pydx_conf/blob/master/talk.md | pydx_conf/talk.md at master · kennethlove/pydx_conf
-
-http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf | Python Crash Course.pdf
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-
-https://automatetheboringstuff.com/chapter0/ | Chapter 0 – Introduction | Automate the Boring Stuff with Python
-
-https://pyweek.org/ | PyWeek - Python Game Programming Challenge
-https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
-
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-
-https://developers.google.com/edu/python/set-up
-
 https://conda.io/docs/user-guide/tasks/manage-environments.html | Managing environments — Conda documentation
 
 https://www.sqlalchemy.org/
@@ -5275,9 +5251,6 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
-
-https://lincolnloop.com/blog
-
 
 
 New
@@ -5360,15 +5333,19 @@ http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspap
 
 Python- Python and Django People and Jobs
 * [Python Official Jobs Board](https://www.python.org/jobs)
-* [Django People](https://people.djangoproject.com)
 * [Django Official Jobs Board](https://code.djangoproject.com/wiki/DjangoJobs) 
 * [Django Jobs](https://www.djangojobs.net) 
 * [The Django Jobs Board](http://djangojobsboard.com) 
+
+<!--
+* [Django People](https://people.djangoproject.com)
+-->
 
 Python- Django Community
 * [Adrienne Friend](https://codingwithknives.com)
 * [Ana Balica GitHub](https://github.com/ana-balica)
 * [Audrey Roy Greenfield](https://www.audreyr.com) and [Audrey Roy Greenfield GitHub](https://github.com/audreyr)
+* [David Beazley](http://www.dabeaz.com) and [David Beazley Twitter](https://twitter.com/dabeaz)
 * [Frank Wiles](http://www.frankwiles.com)
 * [Heather Marie Luna](http://heats.life)
 * [Kenneth Reitz](http://www.kennethreitz.org)
@@ -5385,9 +5362,6 @@ Python- Django Community
 <!--
 Sumana 
 https://www.linkedin.com/in/adriennefriend/ | Adrienne Lowe | LinkedIn
-
-http://www.dabeaz.com/ | David Beazley
-https://twitter.com/dabeaz | David Beazley (@dabeaz) | Twitter
 
 Anna
 Corryn
@@ -5411,11 +5385,6 @@ Python- Django- News
 
 #### Python- High Level
 
-
-
-
-
-
 Python (See also Data Science)
 * [Python](http://www.python.org), [Python GitHub](https://github.com/python), and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 * [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
@@ -5424,12 +5393,11 @@ Python (See also Data Science)
 * [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
 
 
+
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
 <!--
-https://twitter.com/ThePSF | Python Software (@ThePSF) | Twitter
-
 https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
 
 https://www.python.org/doc/ | Our Documentation | Python.org
@@ -5476,6 +5444,8 @@ Pyenv
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 -->
+
+
 
 #### Python and Django Playbooks and Styleguides
 
@@ -5583,19 +5553,6 @@ https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-rel
 https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
 https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 
-https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
-https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
-https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
-
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
-https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.7 documentation
-https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
-
 https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
 https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
 
@@ -5608,7 +5565,48 @@ http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
+
+https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
+https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
+https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
+
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
+https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.7 documentation
+https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
 -->
+
+
+
+<!--
+Recommended Python Tutorials and Resources
+http://www.dabeaz.com/per.html | Python Essential Reference, 4th Ed.
+
+https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
+https://www.youtube.com/watch?v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
+
+http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html | PyVideo.org · PyDX 2015: Tutorial — Teach a New Object Old Tricks
+https://github.com/kennethlove/pydx_conf/blob/master/talk.md | pydx_conf/talk.md at master · kennethlove/pydx_conf
+
+http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf | Python Crash Course.pdf
+https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
+
+https://automatetheboringstuff.com/chapter0/ | Chapter 0 – Introduction | Automate the Boring Stuff with Python
+
+https://pyweek.org/ | PyWeek - Python Game Programming Challenge
+https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
+
+
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
+
+https://developers.google.com/edu/python/set-up
+-->
+
+
 
 
 #### Django General
@@ -5638,12 +5636,18 @@ Python- Django- Resources
 
 #### Python and Django Conference Videos and Slides
 
+<!--
+https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
+https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
+-->
+
 Confreaks
-* [Confreaks](https://confreaks.tv)
-* [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
+* [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
 
 PyVideo
-* [PyVideo Events](http://pyvideo.org/events.html)
+* [PyVideo Events](http://pyvideo.org/events.html) and [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
 
 PyCon
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/videos)
@@ -5661,12 +5665,34 @@ EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
 
 <!--
+* [PSF Python Events](https://www.python.org/events)
+
+* [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
+
 https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
 https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
 https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
 https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
 https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
 http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
+
+https://us.pycon.org/2017/keynote-speakers
+https://us.pycon.org/2017/schedule/talks/list
+https://us.pycon.org/2017/schedule/talks
+https://us.pycon.org/2017/schedule/tutorials
+https://us.pycon.org/2016/events/keynotes
+https://us.pycon.org/2016/schedule/talks
+https://us.pycon.org/2016/schedule/tutorials
+https://us.pycon.org/2015/schedule/talks/list
+https://us.pycon.org/2015/schedule/talks
+https://us.pycon.org/2015/schedule/tutorials/list
+
+https://us.pycon.org/2014/schedule/talks
+https://us.pycon.org/2013/schedule/talks
+https://us.pycon.org/2012/schedule
+https://us.pycon.org/2011/schedule
+
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
 -->
 
 DjangoCon US
@@ -5678,15 +5704,13 @@ DjangoCon US
 DjangoCon Europe
 * [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
 
+
+
+
 <!--
-https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
-https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
-
-Limedaring 
-
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
+https://www.youtube.com/watch?v=lyDLAutA88s | David Beazley | Keynote: Built in Super Heroes - YouTube
+https://www.youtube.com/watch?time_continue=11&v=x1ndXuw7S0s | The Other Async (Threads + Async = ❤️) - YouTube
+https://twitter.com/dabeaz/status/916752663580172288 | David Beazley on Twitter: "@lazlofruvous The #PyGotham talk was a custom Python program (talk.py) written on top of the termios stdlib. Not emacs (emacs key bindings though ;-)."
 
 https://www.google.com/search?q=next+level+testing+pycon+2017&oq=next+level+testing+pycon+2017&aqs=chrome..69i57.4364j0j7&sourceid=chrome&ie=UTF-8 | next level testing pycon 2017 - Google Search
 
@@ -5701,6 +5725,7 @@ https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Dja
 https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=50 | DjangoCon US 2016 - Under the Hood of Modern CSS Frameworks by Michael Trythall - YouTube
 https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
 
+Limedaring 
 
 Joni Trythall
 http://elaconf.com
@@ -5716,7 +5741,13 @@ https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 -->
 
+
 #### Python and Django Books and Tutorials
+
+<!--
+https://lincolnloop.com/blog
+http://www.revsys.com/blog
+-->
 
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 
