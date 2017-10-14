@@ -65,13 +65,8 @@ U.K. Gov.
 ## Jekyll (Ruby)
 
 <!--
-https://github.com/pyconca/websites-archive | pyconca/websites-archive: An Git archive of the old PyConCA websites.
-
 https://github.com/djangocon/2018.djangocon.us | djangocon/2018.djangocon.us: The DjangoCon US 2018 conference website
 https://github.com/djangocon/2017.djangocon.us/ | djangocon/2017.djangocon.us: The DjangoCon US 2017 conference website
-
-https://github.com/djangocon/2016.djangocon.us-archived
-
 
 https://github.com/simplworld/simpl.world.website
 https://simpl.world
@@ -159,6 +154,14 @@ PyCon, DjangoCon, and PyData
 * [DjangoCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
 * [PyData 2015 GitHub](https://github.com/pydata/conf_site)
 * [DjangoCon Website Archive GitHub](https://github.com/djangocon/djangocon-backups)
+
+<!--
+PyCon Archive
+
+https://github.com/pyconca/2017-web
+https://github.com/pyconca/websites-archive | pyconca/websites-archive: An Git archive of the old PyConCA websites.
+https://github.com/djangocon/2016.djangocon.us-archived
+-->
 
 Django Under the Hood
 * [Django Under the Hood GitHub](https://github.com/djangounderthehood/duh-web)
