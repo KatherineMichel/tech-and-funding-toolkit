@@ -7562,6 +7562,11 @@ AWS- Lambda
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
+https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
+http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
+https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
+
+
 * Microservices
   * [A pattern language for microservices](http://microservices.io/patterns/index.html)
     * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
@@ -10288,6 +10293,10 @@ Unboxing
 
 <!--
 New
+https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
+https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
+https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
+
 https://www.amazon.com/Pushback-Smart-Women-Ask_and-Up_for/dp/1501264311
 
 Back Pain Mind-Body Connection
