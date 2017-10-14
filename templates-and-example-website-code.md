@@ -65,6 +65,9 @@ U.K. Gov.
 ## Jekyll (Ruby)
 
 <!--
+https://github.com/djangocon/2018.djangocon.us | djangocon/2018.djangocon.us: The DjangoCon US 2018 conference website
+https://github.com/djangocon/2017.djangocon.us/ | djangocon/2017.djangocon.us: The DjangoCon US 2017 conference website
+
 https://github.com/simplworld/simpl.world.website
 https://simpl.world
 
