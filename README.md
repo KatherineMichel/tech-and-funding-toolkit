@@ -5228,6 +5228,15 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+https://pyweek.org/ | PyWeek - Python Game Programming Challenge
+
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
+
+https://developers.google.com/edu/python/set-up
+
 http://www.juiceanalytics.com/ | Juice Analytics
 http://www.juiceanalytics.com/juicebox-home/
 
@@ -5242,11 +5251,6 @@ https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transa
 
 django fixtures
 wsgi
-
-
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
@@ -5344,6 +5348,7 @@ Python- Python and Django People and Jobs
 Python- Django Community
 * [Adrienne Friend](https://codingwithknives.com)
 * [Ana Balica GitHub](https://github.com/ana-balica)
+* [Anna Corryn](http://travelswithmaps.blogspot.com)
 * [Audrey Roy Greenfield](https://www.audreyr.com) and [Audrey Roy Greenfield GitHub](https://github.com/audreyr)
 * [David Beazley](http://www.dabeaz.com) and [David Beazley Twitter](https://twitter.com/dabeaz)
 * [Frank Wiles](http://www.frankwiles.com)
@@ -5362,10 +5367,6 @@ Python- Django Community
 <!--
 Sumana 
 https://www.linkedin.com/in/adriennefriend/ | Adrienne Lowe | LinkedIn
-
-Anna
-Corryn
-http://travelswithmaps.blogspot.com/
 
 https://speakerdeck.com/andrewgodwin
 https://github.com/econchick
@@ -5582,33 +5583,6 @@ https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/
 
 
 
-<!--
-Recommended Python Tutorials and Resources
-http://www.dabeaz.com/per.html | Python Essential Reference, 4th Ed.
-
-https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ | Bob Martin SOLID Principles of Object Oriented and Agile Design - YouTube
-https://www.youtube.com/watch?v=ZDa-Z5JzLYM | Python OOP Tutorial 1: Classes and Instances - YouTube
-
-http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html | PyVideo.org · PyDX 2015: Tutorial — Teach a New Object Old Tricks
-https://github.com/kennethlove/pydx_conf/blob/master/talk.md | pydx_conf/talk.md at master · kennethlove/pydx_conf
-
-http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf | Python Crash Course.pdf
-https://ehmatthes.github.io/pcc/ | Python Crash Course by ehmatthes
-
-https://automatetheboringstuff.com/chapter0/ | Chapter 0 – Introduction | Automate the Boring Stuff with Python
-
-https://pyweek.org/ | PyWeek - Python Game Programming Challenge
-https://www.pythonweekly.com/ | Python Weekly: A Free, Weekly Python E-mail Newsletter
-
-
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-
-https://developers.google.com/edu/python/set-up
--->
-
-
-
-
 #### Django General
 
 <!--
@@ -5636,15 +5610,11 @@ Python- Django- Resources
 
 #### Python and Django Conference Videos and Slides
 
-<!--
-https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
-https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
--->
-
 Confreaks
 * [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
+
+Python Events
+* [PSF Python Events](https://www.python.org/events)
 
 PyVideo
 * [PyVideo Events](http://pyvideo.org/events.html) and [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
@@ -5665,8 +5635,6 @@ EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
 
 <!--
-* [PSF Python Events](https://www.python.org/events)
-
 * [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
 
 https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
@@ -5696,6 +5664,7 @@ https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
 -->
 
 DjangoCon US
+* [DjangoCon US 2017 Schedule](https://2017.djangocon.us/schedule)
 * [DjangoCon US 2017 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgXmA215-fo02djziShwLa6T)
 * [DjangoCon US 2016 Playlist](https://www.youtube.com/playlist?list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac)
 * [Confreaks DjangoCon US 2015 Playlist](https://www.youtube.com/playlist?list=PLE7tQUdRKcyaRCK5zIQFW-5XcPZOE-y9t)
@@ -5706,8 +5675,16 @@ DjangoCon Europe
 
 
 
+<!--
+https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
+
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
+https://www.djangounderthehood.com/schedule/ | Django: Under the Hood
+-->
 
 <!--
+Talks 
+
 https://www.youtube.com/watch?v=lyDLAutA88s | David Beazley | Keynote: Built in Super Heroes - YouTube
 https://www.youtube.com/watch?time_continue=11&v=x1ndXuw7S0s | The Other Async (Threads + Async = ❤️) - YouTube
 https://twitter.com/dabeaz/status/916752663580172288 | David Beazley on Twitter: "@lazlofruvous The #PyGotham talk was a custom Python program (talk.py) written on top of the termios stdlib. Not emacs (emacs key bindings though ;-)."
@@ -5724,25 +5701,22 @@ https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon US
 https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Django by Rich Jones - YouTube
 https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=50 | DjangoCon US 2016 - Under the Hood of Modern CSS Frameworks by Michael Trythall - YouTube
 https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
-
-Limedaring 
-
-Joni Trythall
-http://elaconf.com
-https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
-http://ela.community
-https://twitter.com/JoniTrythall
-
-http://www.toptentypography.tips
-https://speakerdeck.com/jonibologna/just-enough-typography
-https://confreaks.tv/videos/djangoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
-https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 -->
 
 
 #### Python and Django Books and Tutorials
+
+Python Tutorials and Resources Recommended To Me
+* [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
+* [Python OOP Tutorial 1: Classes and Instances YouTube](https://www.youtube.com/watch?v=ZDa-Z5JzLYM)
+* [David Beazley: Python Essential Reference, 4th Ed.](http://www.dabeaz.com/per.html)
+* [David Beazley: Python Cookbook](http://www.dabeaz.com/cookbook.html)
+* [Kenneth Love: Teach a New Object Old Tricks Video](http://pyvideo.org/pydx-2015/pydx-2015-tutorial-teach-a-new-object-old-tricks.html) and [Kenneth Love: Teach a New Object Old Tricks Transcript](https://github.com/kennethlove/pydx_conf/blob/master/talk.md)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/chapter0)
+* [Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
+* [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
+
+
 
 <!--
 https://lincolnloop.com/blog
@@ -5847,6 +5821,19 @@ Python- Django- Hello Web App
 * [Hello Web Books Twitter](https://twitter.com/hellowebbooks) and [Hello Web App Twitter](http://twitter.com/hellowebapp)
 
 <!--
+Joni Trythall
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+http://ela.community
+https://twitter.com/JoniTrythall
+
+http://www.toptentypography.tips
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+
 https://twitter.com/limedaring | Tracy Osborn (@limedaring) | Twitter
 https://speakerdeck.com/limedaring
 https://speakerdeck.com/limedaring/pyladies-remote
