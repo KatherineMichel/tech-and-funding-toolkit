@@ -5228,6 +5228,10 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
+
 https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
 
 https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
@@ -5369,6 +5373,13 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+https://late.am/
+https://github.com/joshsimmons | joshsimmons (Josh Simmons) · GitHub
+
+https://twitter.com/freakboy
+https://gitlab.com/jeff.triplett
+https://dbader.org
+
 https://www.instagram.com/ossanna16/following/
 https://speakerdeck.com/ossanna16
 http://ericholscher.com/blog
@@ -5643,6 +5654,10 @@ EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
 
 <!--
+PyCon Code
+https://github.com/kennethlove/pycon2017
+https://github.com/jacobian/pycon2017
+
 * [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
 
 https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
@@ -11476,12 +11491,15 @@ New
 http://cyberomin.github.io/work/2017/05/30/remote-work.html
 http://blog.screenhero.com/post/110852538851/already-a-screenhero-user-heres-how-to-invite
 
-
-http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
+https://boards.greenhouse.io
+https://jobs.lever.co
+https://www.glassdoor.com
 
 https://hire.google.com
 https://hire.withgoogle.com/sign-in
 https://blog.google/products/search/connecting-more-americans-jobs
+
+http://stackoverflow.blog/2017/01/Developers-without-Borders-The-Global-Stack-Overflow-Network
 
 Filters
 https://angel.co/jobs
