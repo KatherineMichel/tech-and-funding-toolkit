@@ -5716,36 +5716,76 @@ Python Tutorials and Resources Recommended To Me
 * [Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
+<!--
+https://www.obeythetestinggoat.com/ | Obey the Testing Goat!
+-->
 
+Python- Condensed Learning Resources
+* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
+
+<!--
+https://github.com/twoscoops/two-scoops-of-django-1.11
+
+https://learnpythonthehardway.org/book/ex1.html
+https://learnpythonthehardway.org/book/appendixa.html
+
+https://learnpythonthehardway.org/python3
+https://learnpythonthehardway.org/book/nopython3.html
+
+https://github.com/zedshaw/lpthw-study-projects
+https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
+-->
+
+Python- Books and Tutorials
+* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+* [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
+* [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
+* [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
+* [O'Reilly High Performance Python](http://it-ebooks.info/book/3816)
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
+* [Python Tutorial](https://docs.python.org/2/tutorial)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
+* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
+* [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
+* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
+
+Python- O'Reilly Test-Driven Development with Python and Selenium
+ * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+
+<!--
+http://www.revsys.com/tidbits/extend-django-templates-smartly
+
+Pythonista
+https://github.com/jacobian-archive
+
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
+
+pydanny’s blog
+http://pydanny.com/tag/django.html
+http://www.pydanny.com/python-decorator-cheatsheet.html
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
+
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
+-->
+
+
+
+
+Python- Django- Official Tutorial
+* [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
+
+Django Blogs
 
 <!--
 https://lincolnloop.com/blog
 http://www.revsys.com/blog
 -->
-
-* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
-
-* [Pinax](http://pinaxproject.com) 
-* [Pinax GitHub](https://github.com/pinax)
-* [Pinax Slack](http://slack.pinaxproject.com)
-
-<!--
-Pinax Hangouts YouTube
-
-https://www.twoscoopspress.com/pages/current-django-books
-
-https://teamtreehouse.com/tracks/learn-python
-https://www.coursera.org/courses?query=python
-http://campus.codeschool.com/courses/try-django/contents
-
-https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
-
-https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
-https://github.com/coodict/python3-in-one-pic
--->
-
-Python- Django- Official Tutorial
-* [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
 
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
@@ -5787,6 +5827,33 @@ https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html
 https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html
 https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 -->
+
+
+
+
+
+* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
+
+* [Pinax](http://pinaxproject.com) 
+* [Pinax GitHub](https://github.com/pinax)
+* [Pinax Slack](http://slack.pinaxproject.com)
+
+<!--
+Pinax Hangouts YouTube
+
+https://www.twoscoopspress.com/pages/current-django-books
+
+https://teamtreehouse.com/tracks/learn-python
+https://www.coursera.org/courses?query=python
+http://campus.codeschool.com/courses/try-django/contents
+
+https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
+
+https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
+https://github.com/coodict/python3-in-one-pic
+-->
+
+
 
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
@@ -5869,62 +5936,6 @@ Python- Django- Books and Tutorials (excluding Django Girls and Hello Web App)
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
-
-Python- Condensed Learning Resources
-* [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-* [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
-
-<!--
-https://github.com/twoscoops/two-scoops-of-django-1.11
-
-https://learnpythonthehardway.org/book/ex1.html
-https://learnpythonthehardway.org/book/appendixa.html
-
-https://learnpythonthehardway.org/python3
-https://learnpythonthehardway.org/book/nopython3.html
-
-https://github.com/zedshaw/lpthw-study-projects
-https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
--->
-
-Python- Books and Tutorials
-* [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-* [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
-* [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
-* [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
-* [O'Reilly High Performance Python](http://it-ebooks.info/book/3816)
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
-* [Python Tutorial](https://docs.python.org/2/tutorial)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
-* [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
-* [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
-* [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
-
-Python- O'Reilly Test-Driven Development with Python and Selenium
-* [Test-Driven Development with Python](http://it-ebooks.info/book/3526)  
-* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
-
-<!--
-http://www.revsys.com/tidbits/extend-django-templates-smartly
-
-Pythonista
-https://github.com/jacobian-archive
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
-
-pydanny’s blog
-http://pydanny.com/tag/django.html
-http://www.pydanny.com/python-decorator-cheatsheet.html
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
-
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
--->
-
 
 #### Python and Django Packages and Snippets
 
