@@ -5228,6 +5228,10 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
+
+https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
+
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
@@ -5821,6 +5825,9 @@ http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-project
 
 Class-Based Views vs. Function-Based Views
 https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html
+
+https://simpleisbetterthancomplex.com/series/2017/09/25/a-complete-beginners-guide-to-django-part-4.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 4
+https://simpleisbetterthancomplex.com/tutorial/2016/10/14/how-to-deploy-to-digital-ocean.html | How to Deploy a Django Application to Digital Ocean
 
 https://simpleisbetterthancomplex.com/tutorial/2017/02/18/how-to-create-user-sign-up-view.html
 https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
