@@ -5365,6 +5365,10 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+https://www.instagram.com/ossanna16/following/
+https://speakerdeck.com/ossanna16
+http://ericholscher.com/blog
+
 Sumana 
 https://www.linkedin.com/in/adriennefriend/ | Adrienne Lowe | LinkedIn
 
@@ -10322,6 +10326,9 @@ Unboxing
 
 <!--
 New
+https://www.principles.com/ | Principles by Ray Dalio
+https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=offsitoftimfe-20&linkId=98dba62b6694664a8e708b67b5b03486&utm_content=buffere470d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
+
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
 https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
@@ -11174,7 +11181,7 @@ https://support.google.com/youtube/answer/2524549
 
 https://www.youtube.com/my_live_events
 https://support.google.com/youtube/answer/2853700
-https://support.google.com/youtube/answer/7083786?hl=en
+https://support.google.com/youtube/answer/7083786?hl=en | Hangouts On Air with YouTube Live - YouTube Help
 
 New
 https://www.youtube.com/live_dashboard_splash
