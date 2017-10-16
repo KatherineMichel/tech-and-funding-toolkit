@@ -9698,6 +9698,9 @@ Nassim Nicholas Taleb's Teachings
 * [On Things that Do Not Average or the Mean Field Problem ](https://dl.dropboxusercontent.com/u/50282823/average.pdf)
 
 <!--
+https://medium.com/incerto | INCERTO – Medium
+https://medium.com/incerto/the-most-intolerant-wins-the-dictatorship-of-the-small-minority-3f1f83ce4e15#.8tkcvkoom | The Most Intolerant Wins: The Dictatorship of the Small Minority – INCERTO – Medium
+
 https://arxiv.org/abs/1609.02369
 -->
 
