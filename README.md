@@ -399,6 +399,9 @@ Developer Surveys
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 <!--
+https://github.com/showcases/programming-languages | Programming languages
+https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/ | What programming languages are used late at night? - Stack Overflow Blog
+
 https://stackoverflow.blog/2017/08/22/world-mobile-development/#.WZxnRkDJWb4.twitter | Where in the World is Mobile Development? - Stack Overflow Blog
 https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/ | A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog
 
