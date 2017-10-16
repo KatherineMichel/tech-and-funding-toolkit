@@ -10450,7 +10450,16 @@ https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 
 Angela Duckworth Grit
+https://www.udemy.com/acumen-presents-angela-duckworth-on-building-grit | Acumen Presents: Angela Duckworth on Building Grit | Udemy
+
+http://www.thinkwrongbook.com/
+
+Marty Cagan Inspired
+
+Carol Dweck
 https://en.wikipedia.org/wiki/Carol_Dweck#.22Mindset.22
+http://sites.uci.edu/chem51a/files/2014/09/Mindset.pdf
+https://twitter.com/hadleywickham/status/909777011484196864
 
 Liminal Thinking
 http://liminalthinking.com
