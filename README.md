@@ -7562,7 +7562,8 @@ Continuous Integration, Jenkins CI, Travis CI, and Other Tools
 <!--
 https://www.jetbrains.com/teamcity
 
-#### New
+Org and Com
+https://docs.travis-ci.com/user/coveralls/ | Coveralls - Travis CI
 https://docs.travis-ci.com
 
 https://jekyllrb.com/docs/continuous-integration
