@@ -5743,20 +5743,9 @@ https://medium.com/the-renaissance-developer/python-101-object-oriented-programm
 https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
 -->
 
+
+
 #### Python and Django Books and Tutorials
-
-<!--
-https://www.obeythetestinggoat.com/pages/book.html#toc
-
-http://inventwithpython.com/chapters
-https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
-
-http://www.diveintopython.net/native_data_types/joining_lists.html
-
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-
-https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
--->
 
 Python Tutorials and Resources Recommended To Me
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
@@ -5768,17 +5757,12 @@ Python Tutorials and Resources Recommended To Me
 * [Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
-<!--
-https://www.obeythetestinggoat.com/ | Obey the Testing Goat!
--->
-
 Python- Condensed Learning Resources
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
-https://github.com/twoscoops/two-scoops-of-django-1.11
-
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex1.html
 https://learnpythonthehardway.org/book/appendixa.html
 
@@ -5805,9 +5789,34 @@ Python- Books and Tutorials
 
 Python- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+ * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
 
 <!--
-http://www.revsys.com/tidbits/extend-django-templates-smartly
+https://teamtreehouse.com/tracks/learn-python
+https://www.coursera.org/courses?query=python
+
+http://inventwithpython.com/chapters
+https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
+
+http://www.diveintopython.net/native_data_types/joining_lists.html
+
+https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
+
+http://www.pydanny.com/python-decorator-cheatsheet.html
+
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
+
+https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
+https://github.com/coodict/python3-in-one-pic
+
+https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
+-->
+
+
+
+<!--
+http://campus.codeschool.com/courses/try-django/contents
 
 Pythonista
 https://github.com/jacobian-archive
@@ -5818,16 +5827,9 @@ https://github.com/jacobian/django-dotenv
 
 pydanny’s blog
 http://pydanny.com/tag/django.html
-http://www.pydanny.com/python-decorator-cheatsheet.html
 http://pydanny.com/tag/class-based-views.html
 http://www.pydanny.com/tag/forms.html
-
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
 -->
-
-
-
 
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
@@ -5837,6 +5839,11 @@ Django Blogs
 <!--
 https://lincolnloop.com/blog
 http://www.revsys.com/blog
+http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/
+http://www.revsys.com/tidbits/extend-django-templates-smartly
+
+https://github.com/twoscoops/two-scoops-of-django-1.11
+https://www.twoscoopspress.com/pages/current-django-books
 -->
 
 Simple is Better than Complex
@@ -5895,17 +5902,6 @@ https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-
 
 <!--
 Pinax Hangouts YouTube
-
-https://www.twoscoopspress.com/pages/current-django-books
-
-https://teamtreehouse.com/tracks/learn-python
-https://www.coursera.org/courses?query=python
-http://campus.codeschool.com/courses/try-django/contents
-
-https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
-
-https://fossbytes.com/learn-it-faster-the-entire-python-language-in-a-single-image/
-https://github.com/coodict/python3-in-one-pic
 -->
 
 
@@ -5991,6 +5987,8 @@ Python- Django- Books and Tutorials (excluding Django Girls and Hello Web App)
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
+
+
 
 #### Python and Django Packages and Snippets
 
