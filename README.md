@@ -77,13 +77,13 @@ Table of Content
   * [Python and Django Foundations](#python-and-django-foundations)
   * [Python General](#python-general)
   * [Python- High Level](#python-high-level)
-  * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)
-  * [Python- Object Oriented Programming](#python-object-oriented-programming)    
+  * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)   
   * [Django General](#django-general)
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Support Groups](#python-and-django-support-groups)
   * [Python and Django Conference Videos and Slides](#python-and-django-conference-videos-and-slides)
-  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)  
+  * [Python- Object Oriented Programming](#python-object-oriented-programming) 
+  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)       
   * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Deployment](#python-and-django-deployment)
@@ -5234,13 +5234,14 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+http://docs.python-requests.org/en/master/
+http://www.sphinx-doc.org/en/stable/
+
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
 https://github.com/graphql-python | GraphQL Python
 
 https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
-
-https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
@@ -5545,69 +5546,6 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 
 
-
-#### Python- Object Oriented Programming
-
-<!--
-http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
-http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
-https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
-
-
-www.python.org/download/releases/2.3/mro/
-http://docs.python.org/2/library/pickle.html
-
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/library/pathlib.html
-https://docs.python.org/3/library/stdtypes.html
-
-https://docs.python.org/3/howto/regex.html
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3/glossary.html#glossary
-https://docs.python.org/3.6/library/sys.html
-https://docs.python.org/3/library/logging.config.html
-
-Kenneth Reitz
-https://docs.python.org/3.4/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
-https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
-https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
-
-https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
-https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
-
-https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
-https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
-
-https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
-https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
-
-https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
-https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
-https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
-https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
-http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
-
-https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
-
-https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
-
-https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
-https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
-https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
-
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
-https://docs.python.org/3.4/library/string.html | 6.1. string — Common string operations — Python 3.4.7 documentation
-https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
--->
-
-
-
 #### Django General
 
 <!--
@@ -5630,6 +5568,23 @@ Python- Django- Resources
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
+<!--
+https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
+
+https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
+
+https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
+https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
+https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
+
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
+-->
 
 
 
@@ -5733,7 +5688,75 @@ https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe716
 -->
 
 
+#### Python- Object Oriented Programming
+
+<!--
+https://docs.python.org/3/glossary.html#glossary
+
+Kenneth Reitz
+https://docs.python.org/3.6/howto/index.html | Python HOWTOs — Python 3.4.7rc1 documentation
+https://docs.python.org/3/reference/datamodel.html | 3. Data model — Python 3.6.2 documentation
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
+https://en.wikibooks.org/wiki/Python_Programming | Python Programming - Wikibooks, open books for an open world
+
+https://docs.python.org/3.6/library/
+https://docs.python.org/3/library/functions.html
+https://docs.python.org/3.6/library/stdtypes.html
+https://docs.python.org/3/library/stdtypes.html
+https://docs.python.org/3.6/tutorial/datastructures.html
+https://docs.python.org/3.6/library/string.html
+
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3.6/library/sys.html
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/howto/argparse.html
+
+https://docs.python.org/3/library/logging.config.html
+
+https://www.digitalocean.com/community/tutorials/how-to-construct-classes-and-define-objects-in-python-3 | Object-Oriented Programming: Classes and Objects in Python | DigitalOcean
+
+http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 5.3. Defining Classes
+
+https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
+
+
+
+
+http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
+http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
+
+https://docs.python.org/3/library/pathlib.html
+http://docs.python.org/2/library/pickle.html
+https://docs.python.org/3/howto/regex.html
+
+https://www.fullstackpython.com/django-orm.html | Django ORM - Full Stack Python
+https://www.fullstackpython.com/object-relational-mappers-orms.html | Object-relational Mappers (ORMs) - Full Stack Python
+
+https://www.python.org/download/releases/2.3/mro/ | The Python 2.3 Method Resolution Order | Python.org
+https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
+
+https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
+
+
+https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
+https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
+https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
+-->
+
 #### Python and Django Books and Tutorials
+
+<!--
+https://www.obeythetestinggoat.com/pages/book.html#toc
+
+http://inventwithpython.com/chapters
+https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
+
+http://www.diveintopython.net/native_data_types/joining_lists.html
+
+https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
+
+https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
+-->
 
 Python Tutorials and Resources Recommended To Me
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
