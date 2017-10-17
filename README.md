@@ -5720,11 +5720,6 @@ http://www.diveintopython.net/object_oriented_framework/defining_classes.html | 
 https://www.codecademy.com/en/forum_questions/5170307264a7402d9a0012f5 | I don't understand Dot Notation | Codecademy
 
 
-
-
-http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
-http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
-
 https://docs.python.org/3/library/pathlib.html
 http://docs.python.org/2/library/pickle.html
 https://docs.python.org/3/howto/regex.html
@@ -5738,6 +5733,8 @@ https://en.wikipedia.org/wiki/C3_linearization | C3 linearization - Wikipedia
 https://cloud.google.com/appengine/docs/standard/python/datastore/datamodeling | Data Modeling in Python  |  App Engine standard environment for Python  |  Google Cloud Platform
 
 
+http://www.bogotobogo.com/python/python_functions_built_in.php | Python Tutorial: Built-in Functions - 2017
+http://reeborg.ca/docs/oop_py_en/oop.html | 1. The dot notation — Object-Oriented Programming in Python
 https://www.tutorialspoint.com/python/python_classes_objects.htm | Python Object Oriented
 https://medium.com/the-renaissance-developer/python-101-object-oriented-programming-part-1-7d5d06833f26 | Python 101: Object Oriented Programming part 1 – The Renaissance Developer – Medium
 https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2bd30 | Python 101: Data Structures – The Renaissance Developer – Medium
@@ -5746,6 +5743,52 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 
 
 #### Python and Django Books and Tutorials
+
+<!--
+* [Codecademy Learn Python](https://www.codecademy.com/learn/python)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python)
+
+MOOCs
+* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
+* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
+* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
+* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
+* [EdX](https://www.edx.org)  
+
+Courses
+* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
+
+https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python
+
+Forums
+* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
+* [Free Code Camp Forum](http://forum.freecodecamp.com)
+* [Treehouse Community](https://teamtreehouse.com/community)
+
+More forums or GitHub?
+
+https://www.pluralsight.com/guides
+https://www.pluralsight.com/resource-center/guides/classroom_vs_online
+
+https://www.khanacademy.org/computing/computer-science
+
+http://blog.teamtreehouse.com
+https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
+http://treehouse.github.io/installation-guides
+
+Math and General Knowledge  
+* [Project Euler Problems](http://projecteuler.net/problems) 
+* [Khan Academy](https://www.khanacademy.org)
+* [Math Overflow](http://mathoverflow.net)
+* [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Math is Fun](http://www.mathsisfun.com)
+
+http://functions.wolfram.com
+http://www.wolfram.com/resources
+https://www.wolframalpha.com/examples/ComputationalScience.html
+-->
 
 Python Tutorials and Resources Recommended To Me
 * [Bob Martin SOLID Principles of Object Oriented and Agile Design YouTube](https://www.youtube.com/watch?v=TMuno5RZNeE&list=LLbmH8teyGRhkcXIZNQO2ihQ)
@@ -5792,9 +5835,6 @@ Python- O'Reilly Test-Driven Development with Python and Selenium
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
 
 <!--
-https://teamtreehouse.com/tracks/learn-python
-https://www.coursera.org/courses?query=python
-
 http://inventwithpython.com/chapters
 https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 
