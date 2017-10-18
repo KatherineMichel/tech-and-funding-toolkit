@@ -5548,12 +5548,6 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 #### Django General
 
-<!--
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
--->
-
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Documentation](https://docs.djangoproject.com)  
@@ -5567,25 +5561,6 @@ Python- Django- Resources
 * [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
 * [Django Developers Slack](https://django-developers.herokuapp.com)
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
-
-<!--
-https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
-
-https://github.com/sibtc/django-beginners-guide/tree/v0.1-lw | sibtc/django-beginners-guide at v0.1-lw
-
-https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
-https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
-https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
-
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
-https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
--->
-
 
 
 #### Python and Django Conference Videos and Slides
@@ -5875,6 +5850,10 @@ Django Blogs
 * [Lincoln Loop Blog](https://lincolnloop.com/blog)
 * [RevSys Blog](http://www.revsys.com/blog)
 
+<!--
+https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
+-->
+
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
 
@@ -5996,6 +5975,20 @@ Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and 
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
+
+<!--
+https://djangobook.com/request-response-objects/ | Request and Response Objects - Python Django Tutorials
+https://djangobook.com/tutorials/python-django-programmers-part-2/ | Python For Django Programmers - Part 2 - The Django Book
+https://djangobook.com/advanced-templates/ | Advanced Templates - Python Django Tutorials
+
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/ | Class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/request-response/ | Request and response objects | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/mixins/ | Using mixins with class-based views | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/models/instances/ | Model instance reference | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/contrib/admin/ | The Django admin site | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/ref/templates/api/#module-django.template | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/1.11/topics/class-based-views/generic-display/ | Built-in class-based generic views | Django documentation | Django
+-->
 
 
 #### Python and Django Packages and Snippets
@@ -6148,6 +6141,12 @@ Database
 
 
 #### Python and Django Common Deployment Tools
+
+<!--
+https://github.com/django/django-localflavor
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
 
 <!--
 http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
