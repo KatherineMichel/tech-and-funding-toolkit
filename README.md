@@ -5744,10 +5744,22 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 
 #### Python and Django Books and Tutorials
 
-<!--
-* [Codecademy Learn Python](https://www.codecademy.com/learn/python)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python)
+MOOCs
+* [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
+* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/) 
 
+Coding Challenge
+* [Codecademy Learn Python](https://www.codecademy.com/learn/python) and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+
+Learning Platforms
+* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python) and [Treehouse Community Python](https://teamtreehouse.com/community/topic:python)
+* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
+* [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
+
+<!--
 MOOCs
 * [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
 * [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
@@ -5755,34 +5767,21 @@ MOOCs
 * [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 * [EdX](https://www.edx.org)  
 
-Courses
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan) 
-
-https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python
-
-Forums
-* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
-* [Free Code Camp Forum](http://forum.freecodecamp.com)
-* [Treehouse Community](https://teamtreehouse.com/community)
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
 
 More forums or GitHub?
 
 https://www.pluralsight.com/guides
-https://www.pluralsight.com/resource-center/guides/classroom_vs_online
-
-https://www.khanacademy.org/computing/computer-science
 
 http://blog.teamtreehouse.com
 https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
-http://treehouse.github.io/installation-guides
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
-* [Khan Academy](https://www.khanacademy.org)
 * [Math Overflow](http://mathoverflow.net)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
+* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 * [Math is Fun](http://www.mathsisfun.com)
 
 http://functions.wolfram.com
@@ -5816,21 +5815,22 @@ https://github.com/zedshaw/lpthw-study-projects
 https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 -->
 
-Python- Books and Tutorials
+* [Python Tutorial](https://docs.python.org/2/tutorial) 
 * [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-* [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+
+Python- Books
 * [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
 * [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
 * [O'Reilly High Performance Python](http://it-ebooks.info/book/3816)
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming)  
-* [Python Tutorial](https://docs.python.org/2/tutorial)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
-* [Mechanical MIT Open Courseware: A Gentle Intro to Python Assignment Sequence](http://mechanicalmooc.wordpress.com/sequence/)  
+
+Python- Tutorials
+* [Dive into Python (Deprecated)](http://www.diveintopython.net) and [Dive into Python 3](http://www.diveintopython3.net)
 * [Python One Day of IDLE Toying](https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/index.html)  
 * [Python IDLE Advanced](http://docs.python.org/2/library/idle.html)  
 * [Python IDLE Wikipedia](http://en.wikipedia.org/wiki/IDLE_(Python))  
 
-Python- O'Reilly Test-Driven Development with Python and Selenium
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
  * [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
  * [Obey the Testing Goat!](https://www.obeythetestinggoat.com)
 
@@ -5871,20 +5871,16 @@ http://pydanny.com/tag/class-based-views.html
 http://www.pydanny.com/tag/forms.html
 -->
 
+
+
 Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
 
 Django Blogs
-
-<!--
-https://lincolnloop.com/blog
-http://www.revsys.com/blog
-http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout/
-http://www.revsys.com/tidbits/extend-django-templates-smartly
-
-https://github.com/twoscoops/two-scoops-of-django-1.11
-https://www.twoscoopspress.com/pages/current-django-books
--->
+* [Eldarion Blog](http://eldarion.com/blog)
+* [Pinax Blog](http://blog.pinaxproject.com)
+* [Lincoln Loop Blog](https://lincolnloop.com/blog)
+* [RevSys Blog](http://www.revsys.com/blog)
 
 Simple is Better than Complex
 * [Simple is Better than Complex](https://simpleisbetterthancomplex.com)
@@ -5900,25 +5896,15 @@ https://github.com/sibtc | Simple is Better Than Complex
 https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
 
 https://disqus.com/home/explore/?email_verified=1 | Disqus
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://simpleisbetterthancomplex.com/series/beginners-guide | A Complete Beginner's Guide to Django
 https://github.com/sibtc/django-beginners-guide | sibtc/django-beginners-guide: A Complete Beginner's Guide to Django - Code Samples
-https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html | A Complete Beginner's Guide to Django - Part 1
-https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 2
-https://simpleisbetterthancomplex.com/series/2017/09/18/a-complete-beginners-guide-to-django-part-3.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 3
-
 
 https://github.com/vitorfs/bootcamp/blob/master/bootcamp/questions/models.py | bootcamp/models.py at master · vitorfs/bootcamp
-
-
-https://github.com/simpleisbetterthancomplex/simple-academy
 
 http://simpleisbetterthancomplex.com/2015/11/23/small-open-source-django-projects-to-get-started.html
 
 Class-Based Views vs. Function-Based Views
 https://simpleisbetterthancomplex.com/article/2017/03/21/class-based-views-vs-function-based-views.html
-
-https://simpleisbetterthancomplex.com/series/2017/09/25/a-complete-beginners-guide-to-django-part-4.html?utm_source=twitter&utm_medium=sharer | A Complete Beginner's Guide to Django - Part 4
-https://simpleisbetterthancomplex.com/tutorial/2016/10/14/how-to-deploy-to-digital-ocean.html | How to Deploy a Django Application to Digital Ocean
 
 https://simpleisbetterthancomplex.com/tutorial/2017/02/18/how-to-create-user-sign-up-view.html
 https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-built-in-login-system.html
@@ -5933,25 +5919,13 @@ https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-
 
 
 
-
-* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
-
-* [Pinax](http://pinaxproject.com) 
-* [Pinax GitHub](https://github.com/pinax)
-* [Pinax Slack](http://slack.pinaxproject.com)
-
-<!--
-Pinax Hangouts YouTube
--->
-
-
-
 Python- Django- Dedicated Websites
 * [GoDjango](https://godjango.com)
 
-Python- Django- Tutorials Lists
+Python- Django- Tutorial and Book Lists
 * [Django Tutorials List](https://code.djangoproject.com/wiki/Tutorials) 
 * [Two Scoops Django Tutorials List](http://twoscoopspress.com/pages/django-tutorials) 
+* [Two Scoops Django Books List](https://www.twoscoopspress.com/pages/current-django-books) 
 
 Python- Django- Django Girls (Python- Django)
 * [Django Girls GitHub](https://github.com/DjangoGirls) 
@@ -6017,8 +5991,10 @@ https://github.com/hellowebapp/hellowebapp/tree/master/irc-tips
 https://github.com/hellowebapp/hellowebapp/tree/master/additional-resources
 -->
 
-Python- Django- Books and Tutorials (excluding Django Girls and Hello Web App)
-* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8) and [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.8)
+Two Scoops Books
+* [Two Scoops of Django: Best Practices for Django 1.8](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8) and [Two Scoops of Django: Best Practices for Django 1.8 GitHub](https://github.com/twoscoops/two-scoops-of-django-1.11)
+
+Python- Django- Books and Tutorials (excluding Django Girls, Hello Web App, and Two Scoops)
 * [High Performance Django](https://highperformancedjango.com)
 * [Mastering Django (Django Book repurposed)](http://masteringdjango.com), [Mastering Django PDF](https://leanpub.com/masteringdjangocore), and [Mastering Django GitHub](https://github.com/big-nige/djangobook-Updated-to-1.8)
 * [Getting Started with Django](http://gettingstartedwithdjango.com)
@@ -6027,7 +6003,6 @@ Python- Django- Books and Tutorials (excluding Django Girls and Hello Web App)
 * [Light Weight Django](http://www.amazon.com/Lightweight-Django-Julia-Elman/dp/149194594X?tag=mlinar-20) and [Light Weight Django GitHub](https://github.com/lightweightdjango)  
 * [Tango with Django Tutorial](http://www.tangowithdjango.com) 
 * [Ultimate Django](https://ultimatedjango.com)
-
 
 
 #### Python and Django Packages and Snippets
@@ -6091,6 +6066,16 @@ Python- Django- Packages and Snippets (Unofficial)
 
 
 #### Python and Django Templates and Microframeworks
+
+<!--
+Eldarion and Pinax
+* [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
+* [Pinax](http://pinaxproject.com) 
+* [Pinax GitHub](https://github.com/pinax)
+* [Pinax Slack](http://slack.pinaxproject.com)
+
+Pinax Hangouts YouTube
+-->
 
 Python- Microframeworks and Template Engines
 * [Bottle](http://bottlepy.org/docs/dev/index.html)  
