@@ -5753,9 +5753,14 @@ Coding Challenge
 * [Codecademy Learn Python](https://www.codecademy.com/learn/python) and [Codecademy Discuss Python](https://discuss.codecademy.com/c/python)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 
+<!--
+https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
+https://github.com/freeCodeCamp/python-coding-challenges
+-->
+
 Learning Platforms
-* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python)
-* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python) and [Treehouse Community Python](https://teamtreehouse.com/community/topic:python)
+* [Pluralsight Python](https://www.pluralsight.com/browse/software-development/python) and [Pluralsight Guides](https://www.pluralsight.com/guides)
+* [Treehouse Learn Python](https://teamtreehouse.com/tracks/learn-python), [Treehouse Community Python](https://teamtreehouse.com/community/topic:python), and [Treehouse Blog](http://blog.teamtreehouse.com)
 * [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy Computer Science](https://www.khanacademy.org/computing/computer-science)
 * [Khan Academy YouTube Python](https://www.youtube.com/user/khanacademy/search?query=python)
 
@@ -5766,16 +5771,6 @@ MOOCs
 * [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
 * [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
 * [EdX](https://www.edx.org)  
-
-https://medium.freecodecamp.org/hello-world-the-pythonic-way-ea006c56038c
-https://github.com/freeCodeCamp/python-coding-challenges
-
-More forums or GitHub?
-
-https://www.pluralsight.com/guides
-
-http://blog.teamtreehouse.com
-https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehouse-show
 
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
