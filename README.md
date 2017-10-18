@@ -5787,6 +5787,14 @@ https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 * [Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
+<!--
+* [Python Patterns Library](https://github.com/faif/python-patterns)
+
+https://en.wikibooks.org/wiki/Python_Programming/Functions
+
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+-->
+
 Python- Books
 * [O'Reilly Python in a Nutshell](http://it-ebooks.info/book/1278)  
 * [O'Reilly Think Python](http://www.greenteapress.com/thinkpython) and [O'Reilly Think Python GitHub](https://github.com/AllenDowney/ThinkPython)  
