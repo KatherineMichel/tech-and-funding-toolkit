@@ -5780,13 +5780,11 @@ https://teamtreehouse.com/library/we-want-to-share-your-projects-on-the-treehous
 Math and General Knowledge  
 * [Project Euler Problems](http://projecteuler.net/problems) 
 * [Math Overflow](http://mathoverflow.net)
+* [Wolfram Resources](http://www.wolfram.com/resources)
 * [Wolfram MathWorld](http://mathworld.wolfram.com)
+* [Wolfram Functions](http://functions.wolfram.com)
 * [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com)
 * [Math is Fun](http://www.mathsisfun.com)
-
-http://functions.wolfram.com
-http://www.wolfram.com/resources
-https://www.wolframalpha.com/examples/ComputationalScience.html
 -->
 
 Python Tutorials and Resources Recommended To Me
