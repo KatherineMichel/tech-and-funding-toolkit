@@ -5423,9 +5423,6 @@ Python (See also Data Science)
 
 
 
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
-* [Python Patterns Library](https://github.com/faif/python-patterns)
-
 <!--
 https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
 
@@ -5566,6 +5563,17 @@ Python- Django- Resources
 
 
 #### Python and Django Conference Videos and Slides
+
+<!--
+https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
+http://pyvideo.org/pages/thank-you-contributors.html | PyVideo.org · Thank You
+https://www.pycascades.com/news/13-pycascades-2018-speaker-lineup/ | PyCascades 2018 Speaker Lineup - PyCascades
+https://2017.northbaypython.org/schedule/general-sessions/list/ | North Bay Python | Presentation Listing
+https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
+
+http://slides.com/lmdragun | Presentations by Lindsey Dragun
+https://twitter.com/lmdragun/status/910560483299782665 | Lindsey 🐉 | 🏳️‍🌈 on Twitter: "Starting my new job as a tech evangelist in NYC on Sept 25! If you're in town, hit me up!"
+-->
 
 Confreaks
 * [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
@@ -5853,12 +5861,11 @@ https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 * [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
 
 <!--
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics)  
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
 https://en.wikibooks.org/wiki/Python_Programming/Functions
 https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
-
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 -->
 
 Python- Books
@@ -11309,6 +11316,7 @@ Screencasting
 * [Camtasia Studio Wikipedia](https://en.wikipedia.org/wiki/Camtasia_Studio)
 
 <!--
+https://bluejeans.com
 https://support.bluejeans.com/knowledge/chrome-microphone-bug-no-audio
 
 https://www.nvidia.com/en-us/geforce/geforce-experience
