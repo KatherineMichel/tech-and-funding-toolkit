@@ -1387,9 +1387,22 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 -->
 
 
+
 #### Git and Markdown
 
 <!--
+https://en.wikipedia.org/wiki/Roadmap | Roadmap - Wikipedia
+https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+https://github.com/explore | Explore
+https://github.com/dashboard/discover | Discover Repositories
+https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
+https://gist.github.com/ | Create a new Gist
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
+
+
+
 https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
 
 http://www.camilletalk.com/ | Camille Fournier
@@ -5730,6 +5743,11 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 #### Python and Django Books and Tutorials
 
 <!--
+https://www.reddit.com/r/learnprogramming/ | learn programming
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+https://github.com/kennethlove/pydx_conf/blob/master/talk.md | pydx_conf/talk.md at master · kennethlove/pydx_conf
+
 https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
 https://docs.djangoproject.com/en/1.11/topics/cache/ | Django’s cache framework | Django documentation | Django
 
