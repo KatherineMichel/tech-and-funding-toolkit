@@ -5383,6 +5383,8 @@ Python- Django Community
 https://late.am/
 https://github.com/joshsimmons | joshsimmons (Josh Simmons) · GitHub
 
+https://simonwillison.net
+
 https://twitter.com/freakboy
 https://gitlab.com/jeff.triplett
 https://dbader.org
@@ -5719,6 +5721,64 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 
 #### Python and Django Books and Tutorials
 
+<!--
+https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
+https://docs.djangoproject.com/en/1.11/topics/cache/ | Django’s cache framework | Django documentation | Django
+
+http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
+
+http://greenteapress.com/thinkpython/html/index.html | Think Python
+https://github.com/fluentpython | Fluent Python
+https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
+https://github.com/johnmyleswhite/ML_for_Hackers | johnmyleswhite/ML_for_Hackers: Code accompanying the book "Machine Learning for Hackers"
+https://github.com/amueller/introduction_to_ml_with_python | amueller/introduction_to_ml_with_python: Notebooks and code for the book "Introduction to Machine Learning with Python"
+https://github.com/AllenDowney/ThinkPython | AllenDowney/ThinkPython: Code examples and exercise solutions from Think Python by Allen Downey, published by O'Reilly Media.
+https://github.com/AllenDowney/ThinkPython2 | AllenDowney/ThinkPython2: LaTeX source and supporting code for Think Python, 2nd edition, by Allen Downey.
+https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
+
+http://inventwithpython.com/
+http://inventwithpython.com/hacking/
+
+https://www.datacamp.com/ | Learn R, Python & Data Science Online | DataCamp
+https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=116411-750171 | Learn Python for Data Science - Online Course
+https://www.datacamp.com/courses/supervised-learning-with-scikit-learn?tap_a=5644-dce66f&tap_s=116411-750171 | Supervised Learning with scikit-learn
+https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=116411-750171 | Learn R, Python & Data Science Online | DataCamp
+https://www.datacamp.com/?tap_a=5644-dce66f&tap_s=116411-750171 | Learn R, Python & Data Science Online | DataCamp
+
+https://developers.google.com/edu/python/?csw=1 | Google's Python Class  |  Python Education  |  Google Developers
+
+https://python.swaroopch.com/ | Introduction · A Byte of Python
+http://www.ibiblio.org/swaroopch/byteofpython/read/ | A Byte of Python
+
+https://bitbucket.org/gregmalcolm/python_koans | gregmalcolm / python_koans — Bitbucket
+http://www.diveintopython3.net/ | Dive Into Python 3
+https://stephensugden.com/crash_into_python/ | Crash into Python
+http://pythontutor.com/ | Python Tutor - Visualize Python, Java, JavaScript, TypeScript, Ruby, C, and C++ code execution
+https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
+http://thepythonguru.com/ | Learn Python | Python tutorials for beginners | The Python Guru
+http://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | Amazon.com: python: Books
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+https://www.fullstackpython.com/ | Full Stack Python
+http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
+https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, Idiomatic Python - YouTube
+http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
+https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
+
+https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
+https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
+https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
+http://treyhunner.com/ | Trey Hunner
+
+https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
+
+http://www.weeklypython.chat/ | Weekly Python Chat
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+https://teamtreehouse.com/tracks/learn-python | Treehouse | Tracks
+https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
+http://inventwithpython.com/blog/ | The Invent with Python Blog -
+-->
+
 MOOCs
 * [Coursera Python](https://www.coursera.org/courses?_facet_changed_=true&languages=en&primaryLanguages=en&query=python)
 * [Mechanical MIT Open Courseware: A Gentle Intro to Python](http://mechanicalmooc.org/)  
@@ -5853,10 +5913,12 @@ Python- Django- Official Tutorial
 * [Django Official Tutorial](https://docs.djangoproject.com/en/1.9/intro/tutorial01)
 
 Django Blogs
+* [Caktus Blog](https://www.caktusgroup.com/blog/)
 * [Eldarion Blog](http://eldarion.com/blog)
 * [Pinax Blog](http://blog.pinaxproject.com)
 * [Lincoln Loop Blog](https://lincolnloop.com/blog)
 * [RevSys Blog](http://www.revsys.com/blog)
+* [Vinta Blog](https://www.vinta.com.br/blog)
 
 <!--
 https://lincolnloop.com/blog/2008/may/10/getting-requestcontext-your-templates/ | Getting RequestContext in Your Templates | Lincoln Loop
