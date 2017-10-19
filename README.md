@@ -5727,6 +5727,7 @@ https://docs.djangoproject.com/en/1.11/topics/cache/ | Django’s cache framewor
 
 http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
 
+https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | Amazon.com: python: Books
 http://greenteapress.com/thinkpython/html/index.html | Think Python
 https://github.com/fluentpython | Fluent Python
 https://github.com/ageron/handson-ml | ageron/handson-ml: A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
@@ -5738,6 +5739,7 @@ https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: 
 
 http://inventwithpython.com/
 http://inventwithpython.com/hacking/
+http://inventwithpython.com/blog/ | The Invent with Python Blog -
 
 https://www.datacamp.com/ | Learn R, Python & Data Science Online | DataCamp
 https://www.datacamp.com/courses/intro-to-python-for-data-science?tap_a=5644-dce66f&tap_s=116411-750171 | Learn Python for Data Science - Online Course
@@ -5757,7 +5759,6 @@ http://pythontutor.com/ | Python Tutor - Visualize Python, Java, JavaScript, Typ
 https://pymbook.readthedocs.io/en/latest/ | Welcome to Python for you and me — Python for you and me 0.3.alpha1 documentation
 http://thepythonguru.com/ | Learn Python | Python tutorials for beginners | The Python Guru
 http://www.learnpython.org/ | Learn Python - Free Interactive Python Tutorial
-https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | Amazon.com: python: Books
 https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
 https://www.fullstackpython.com/ | Full Stack Python
 http://www.interactivepython.org/courselib/static/pythonds/index.html | Problem Solving with Algorithms and Data Structures using Python — Problem Solving with Algorithms and Data Structures
@@ -5765,18 +5766,15 @@ https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, 
 http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
 https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
 
-https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
-https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
-https://twitter.com/treyhunner/lists/pygotham-2017/members | List members
-http://treyhunner.com/ | Trey Hunner
+
+
+
+https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
+https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
+http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
+
 
 https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
-
-http://www.weeklypython.chat/ | Weekly Python Chat
-https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
-https://teamtreehouse.com/tracks/learn-python | Treehouse | Tracks
-https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
-http://inventwithpython.com/blog/ | The Invent with Python Blog -
 -->
 
 MOOCs
@@ -5827,11 +5825,18 @@ Python Tutorials and Resources Recommended To Me
 * [Python Crash Course by ehmatthes](https://ehmatthes.github.io/pcc) and [Python Crash Course PDF](http://ap-n.us/books/Programming/Python%20Crash%20Course.pdf)
 * [Python Weekly: A Free, Weekly Python E-mail Newsletter](https://www.pythonweekly.com)
 
+<!--
+https://automatetheboringstuff.com/appendixb/ | Automate the Boring Stuff with Python
+
+http://www.weeklypython.chat/ | Weekly Python Chat
+-->
+
 Python- Condensed Learning Resources
 * [Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
 * [Learn Python the Hard Way](http://learnpythonthehardway.org/book) 
 
 <!--
+https://learnpythonthehardway.org/python3/ex0.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex40.html | Learn Python the Hard Way
 https://learnpythonthehardway.org/book/ex1.html
 https://learnpythonthehardway.org/book/appendixa.html
@@ -5851,6 +5856,7 @@ https://github.com/zedshaw/learn-more-python-the-hard-way-solutions
 * [Python Patterns Library](https://github.com/faif/python-patterns)
 
 https://en.wikibooks.org/wiki/Python_Programming/Functions
+https://en.wikibooks.org/wiki/Python_Programming/Data_Types | Python Programming/Data Types - Wikibooks, open books for an open world
 
 * [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
 -->
@@ -5876,6 +5882,9 @@ https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 
 http://www.diveintopython.net/native_data_types/joining_lists.html
 
+http://treyhunner.com/ | Trey Hunner
+https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
+https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
 https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
 
 http://www.pydanny.com/python-decorator-cheatsheet.html
