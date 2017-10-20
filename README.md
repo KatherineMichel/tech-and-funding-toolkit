@@ -5562,7 +5562,7 @@ Python- Kenneth Reitz Contributor's Guide and Style Guides
 
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
-* [Django Documentation](https://docs.djangoproject.com)  
+* [Django Docs](https://docs.djangoproject.com)  
 
 Python- Django DEPS
 * [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
@@ -10500,6 +10500,8 @@ Unboxing
 
 <!--
 New
+https://www.amazon.com/gp/product/1501180738 | Amazon.com: The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance (9781501180736): Tom Brady: Books
+
 https://www.principles.com/ | Principles by Ray Dalio
 https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=offsitoftimfe-20&linkId=98dba62b6694664a8e708b67b5b03486&utm_content=buffere470d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
 
@@ -10840,7 +10842,6 @@ http://nuzzel.com/newswire
 
 https://www.ribbonfarm.com/page/3/?s=roundup
 
-https://www.farnamstreetblog.com/best-articles/
 https://www.farnamstreetblog.com/newsletter
 https://www.farnamstreetblog.com/membership
 -->
