@@ -5332,6 +5332,18 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+https://docs.pytest.org/en/latest/example/
+
+
+https://github.com/revsys/django-test-plus
+http://django-test-plus.readthedocs.io/en/latest/
+
 http://docs.python-requests.org/en/master/
 http://www.sphinx-doc.org/en/stable/
 
@@ -8888,6 +8900,11 @@ https://plus.google.com/collection/gbVpb
 * [Zed Shaw GitHub](https://github.com/zedshaw)
 
 <!--
+https://www.amazon.com/Camille-Fournier/e/B06XFMDTBZ
+https://twitter.com/skamille
+https://johnpapa.net/ | John Papa: John Papa
+https://twitter.com/housecor | Cory House  (@housecor) | Twitter
+
 http://vinay.howtolivewiki.com
 
 https://hanselminutes.com/archives
@@ -11126,6 +11143,8 @@ Digital Stats
 #### Popular Tools
 
 <!--
+https://hola.org/ | Hola - Free VPN, Secure Browsing, Unrestricted Access
+
 Dongle
 https://en.wikipedia.org/wiki/Thunderbolt_(interface) | Thunderbolt (interface) - Wikipedia
 https://www.amazon.com/AmazonBasics-Mini-DisplayPort-Thunderbolt-Adapter/dp/B00NH13K8S/ | Amazon.com: AmazonBasics Mini DisplayPort (Thunderbolt) to HDMI Adapter: Computers & Accessories
@@ -11156,6 +11175,7 @@ http://www.unixstickers.com/ | Stickers, T-shirts, Mugs on UNIX & Programming | 
 https://productforums.google.com/forum/#!msg/docs/iD5fRYPQYJU/bl8FGBwc0mQJ
 
 http://saythanks.io
+https://github.com/kennethreitz/saythanks.io | kennethreitz/saythanks.io: Spreading Thankfulness in Open Source.
 https://happinesspackets.io
 
 https://www.diffchecker.com/diff
@@ -11793,6 +11813,7 @@ Salary/Compensation, Labor Information, Economic Graph
 <!--
 https://www.linkedin.com/jobs/blog/linkedin-workforce-report-june-2017-seattle-wa
 
+http://www.geekwire.com/2017/top-25-highest-paying-u-s-workplaces-according-glassdoor/ | Here are the top 25 highest-paying U.S. workplaces, according to Glassdoor - GeekWire
 https://www.glassdoor.com/Best-Jobs-in-America-LST_KQ0,20.htm
 https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
 -->
