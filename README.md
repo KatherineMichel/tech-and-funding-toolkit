@@ -1391,15 +1391,100 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 #### Git and Markdown
 
 <!--
+
+Lean Software Development Book
+https://en.wikipedia.org/wiki/Lean_software_development | Lean software development - Wikipedia
+https://en.wikipedia.org/wiki/Systems_theory | Systems theory - Wikipedia
+https://en.wikipedia.org/wiki/Spiral_model
+https://en.wikipedia.org/wiki/Opportunity_cost | Opportunity cost - Wikipedia
+https://en.wikipedia.org/wiki/Software_development
+https://en.wikipedia.org/wiki/IEEE_12207
+https://en.wikipedia.org/wiki/ISO/IEC_12207
+http://standards.ieee.org/findstds/standard/12207-2008.html
+https://en.wikipedia.org/wiki/Software_release_life_cycle
+https://en.wikipedia.org/wiki/Software_deployment
+https://en.wikipedia.org/wiki/Software_versioning
+https://en.wikipedia.org/wiki/Rolling_release
+https://en.wikipedia.org/wiki/Release_management
+https://en.wikipedia.org/wiki/Application_release_automation
+
+Python
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
+https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
+https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
+http://pdf.th7.cn/down/files/1508/Beginning%20Programming%20with%20Python%20For%20Dummies.pdf | Beginning Programming with Python For Dummies.pdf
+
+
+
+http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
+http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf | Git for Teams
+
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+https://about.gitlab.com/eep-demo/ | GitLab Enterprise Edition Demo | GitLab
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+
 https://en.wikipedia.org/wiki/Roadmap | Roadmap - Wikipedia
 https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-https://github.com/explore | Explore
-https://github.com/dashboard/discover | Discover Repositories
+
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
+
+https://githubuniverse.com/ | Home | GitHub Universe
 https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
 https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
+
+https://github.com/explore | Explore
+https://github.com/dashboard/discover | Discover Repositories
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
+
+https://www.atlassian.com/software/jira | Jira | Issue & Project Tracking Software | Atlassian
+https://www.atlassian.com/licensing/stride | Stride Licensing | Atlassian
+
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/researchpanel/ | Join GitLab's Research Panel | GitLab
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/ | The 11 Rules of GitLab Flow | GitLab
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing | Merging vs. Rebasing | Atlassian Git Tutorial
+
+https://get.gitlab.com/forrester-wave-ci/ | https://get.gitlab.com/forrester-wave-ci/
+
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+https://github.com/blog/2443-project-note-summary-cards-bring-more-context-into-your-boards | Project note summary cards bring more context into your boards
+
+https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
+https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
+
+https://gitlab.platzi.com/ | GitLab Live Show
+https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+
+https://githubengineering.com/github-debug/ | GitHub Debug | GitHub Engineering
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+http://blog.endpoint.com/2014/05/git-workflows-that-work.html | Git Workflows That Work | End Point Blog
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext#F1 | Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
+https://nanoc.ws/doc/deploying/#with-ci-pipeline-tools | Nanoc » Deploying Nanoc sites
+
+https://trunkbaseddevelopment.com/continuous-integration/ | Continuous Integration (CI) - Trunk Based Development
+
+https://www.visualstudio.com/learn/understand-git-history/ | Understand Git history | Learn Git
+https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
+
+
+
+
+
+
+
 
 
 
