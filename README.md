@@ -5716,12 +5716,23 @@ https://github.com/jacobian/pycon2017
 
 * [PyVideo Events GitHub](https://github.com/pyvideo/pyvideo.github.io)
 
+http://pyvideo.org/pygotham-2017
+http://pyvideo.org/events/pygotham-2017.html | PyVideo.org · PyGotham 2017
+https://www.youtube.com/channel/UCKWYZNMRBRuecwgZMLy-8gw/featured?disable_polymer=1 | PyGotham 2017 - YouTube
+
 https://2017.pygotham.org/2017/10/06/started/ | PyGotham 2017 has started!! - PyGotham 2017
 https://2017.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2017
 https://2016.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2016
 https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
 https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
 http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
+
+https://2017.pygotham.org/talks/natural-language-processing-from-scratch/ | Natural Language Processing from Scratch - PyGotham 2017
+https://www.youtube.com/watch?v=lNPXlqtJwcQ&feature=youtu.be | Natural Language Processing from Scratch - YouTube
+http://pyvideo.org/pygotham-2017/functions-within-functions-an-intro-to-decorators-and-closures.html | PyVideo.org · Functions Within Functions: An Intro to Decorators and Closures
+https://www.youtube.com/watch?v=rz9q57-y9kw&feature=youtu.be | Valuing Job Offers - Finance 101 with Python - YouTube
+https://www.youtube.com/watch?v=iaV5EiBkv7Q&feature=youtu.be | Algorithmic fairness and algorithmic discrimination - YouTube
+https://www.youtube.com/watch?v=98S5fQ9SFa4 | High Performance Microservices - YouTube
 
 https://us.pycon.org/2017/keynote-speakers
 https://us.pycon.org/2017/schedule/talks/list
@@ -5740,6 +5751,8 @@ https://us.pycon.org/2012/schedule
 https://us.pycon.org/2011/schedule
 
 https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/playlists
+
+https://2017.northbaypython.org/schedule/presentation/14/ | North Bay Python | Presentation: 5 Leadership Skills Every Engineer Needs
 -->
 
 DjangoCon US
@@ -6008,6 +6021,9 @@ http://treyhunner.com/ | Trey Hunner
 https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
 https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
 https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
+https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
+https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
+https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
 
 http://www.pydanny.com/python-decorator-cheatsheet.html
 
