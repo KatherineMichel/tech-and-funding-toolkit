@@ -5853,6 +5853,11 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 #### Python and Django Books and Tutorials
 
 <!--
+https://www.python.org/about/apps/ | Applications for Python | Python.org
+http://docs.python-guide.org/en/latest/intro/learning/ | Learning Python — The Hitchhiker's Guide to Python
+
+
+
 https://www.reddit.com/r/learnprogramming/ | learn programming
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
@@ -6081,6 +6086,7 @@ http://staruml.io/ | StarUML
 https://www.draw.io/ | draw.io
 https://en.wikipedia.org/wiki/Unified_Modeling_Language | Unified Modeling Language - Wikipedia
 
+
 https://github.com/sibtc | Simple is Better Than Complex
 https://github.com/sibtc/simple-s3-setup | sibtc/simple-s3-setup: Code examples used in the post "How to Setup Amazon S3 in a Django Project"
 
@@ -6100,6 +6106,8 @@ https://simpleisbetterthancomplex.com/tutorial/2016/06/27/how-to-use-djangos-bui
 https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html
 https://simpleisbetterthancomplex.com/tutorial/2016/10/24/how-to-add-social-login-to-django.html
 https://simpleisbetterthancomplex.com/tutorial/2016/06/13/how-to-send-email.html
+
+https://simpleisbetterthancomplex.com/tutorial/2016/07/28/how-to-create-django-signals.html | How to Create Django Signals
 
 https://simpleisbetterthancomplex.com/tutorial/2016/11/15/how-to-implement-a-crud-using-ajax-and-json.html
 https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
@@ -6169,8 +6177,10 @@ https://www.reddit.com/r/design_critiques/comments/6x9teg/cover_for_a_selfpublis
 
 https://hellowebbooks.com/news/hello-web-app-online-forever
 
+https://hellowebbooks.com/news/introduction-to-class-based-views/ | Introduction to Class-Based Views - Hello Web Books
 https://hellowebapp.com/news/tutorial-class-based-views
 https://hellowebapp.com/news/tutorial-setting-up-a-contact-form-with-django/
+https://hellowebbooks.com/news/tutorial-password-change-views/ | Tutorial: Setting Up the Password Change Functionality - Hello Web Books
 
 https://github.com/hellowebapp/hellowebapp/tree/master/python-tips
 https://github.com/hellowebapp/hellowebapp/tree/master/git-tips
