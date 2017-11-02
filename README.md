@@ -5332,6 +5332,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://stackoverflow.com/users/541136/aaron-hall | User Aaron Hall - Stack Overflow
+
+
 https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
 https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
 
@@ -11169,6 +11172,10 @@ Digital Stats
 #### Popular Tools
 
 <!--
+https://www.producthunt.com/posts/airtable-universe | Airtable Universe - Product Hunt
+https://airtable.com/ | Airtable
+https://github.com/zapier | Zapier
+
 https://hola.org/ | Hola - Free VPN, Secure Browsing, Unrestricted Access
 
 Dongle
