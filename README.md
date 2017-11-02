@@ -5802,12 +5802,22 @@ https://www.google.com/search?q=next+level+testing+pycon+2017&oq=next+level+test
 
 https://www.youtube.com/watch?v=lx5WQjXLlq8 | Carl Meyer about Django @ Instagram at Django: Under The Hood 2016 - YouTube
 
+Slide decks
+https://speakerdeck.com/jakevdp/pythons-visualization-landscape-pycon-2017
+https://speakerdeck.com/williln/djangocon-us-2017-closing-remarks | DjangoCon US 2017 Closing Remarks // Speaker Deck
+
 http://blog.djangogirls.org/post/124569551358/your-django-story-meet-ana-balica | Django Girls Blog — Your Django Story: Meet Ana Balica
 https://www.youtube.com/watch?v=Zo5q48BG8A4&t=1s | DjangoCon US 2017 - Keynote - Testing in Django by Ana Balica - YouTube
 https://speakerdeck.com/anabalica/djangocon-us-testing-in-django | [DjangoCon US] Testing in Django // Speaker Deck
+
 https://www.youtube.com/watch?v=zaT7DRsB9Cw | DjangoCon US 2017 - Using Django, Docker, and Scikit... by Lorena Mesa
 https://github.com/lorenanicole/djangocon | lorenanicole/djangocon: DjangoCon USA 2017 talk
+https://github.com/lorenanicole/djangocon/blob/master/model/views.py
+
 https://www.youtube.com/watch?v=ixRZfVBn_A8 | DjangoCon US 2017 - Serverless Django by Rich Jones - YouTube
+https://github.com/Miserlou/Talks/blob/master/zappa-djangocon-2017/djangocon.html
+https://cdn.rawgit.com/Miserlou/Talks/8f7cd4b7/zappa-djangocon-2017/djangocon.html#0 | Hello!
+
 https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=50 | DjangoCon US 2016 - Under the Hood of Modern CSS Frameworks by Michael Trythall - YouTube
 https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
 -->
