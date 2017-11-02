@@ -1892,6 +1892,43 @@ https://twitter.com/housecor/status/883304305117323264
 #### Open Source Management and Programming Tiers
 
 <!--
+https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
+
+https://www.youtube.com/watch?v=nc0hPGerSd4 | GitLab Live Stream - YouTube
+
+https://github.com/LappleApple
+
+https://opensource.apple.com/ | Open Source - Releases
+
+https://opensource.org/ | News | Open Source Initiative
+https://opensource.org/history
+https://opensource.com/ | Homepage | Opensource.com
+
+https://www.youtube.com/watch?v=VS6IpvTWwkQ&feature=youtu.be | "Rebuilding the Cathedral" by Nadia Eghbal - YouTube
+
+https://github.com/LappleApple | LappleApple (Lauri Apple)
+https://github.com/LappleApple/feedmereadmes | LappleApple/feedmereadmes: Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md | feedmereadmes/README-maturity-model.md at master · LappleApple/feedmereadmes
+
+https://www.youtube.com/watch?v=q3ie1duhpCg | Have It Your Way: Maximizing Drive-Thru Contributions - YouTube
+https://archive.org/details/pconau2016-drivethru | Internet Archive: Error
+
+http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
+https://twitter.com/LauritaApplez/status/922811612041568256 | Lauri Apple 🍎🖥🇪🇺 on Twitter: "Casual or "episodic" contributors are valuable as core contributors--catching Ann Barcomb's talk at #OSSummit https://t.co/klGAlJcHwQ"
+https://opensource.com/open-organization/resources/open-org-maturity-model | The Open Organization Maturity Model | Opensource.com
+
+https://opensource.com/users/lapple | Lauri Apple | Opensource.com
+https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+
+https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
+
+
+
 https://twitter.com/sehurlburt/status/882421726562234369
 https://twitter.com/sehurlburt/status/885604819632705536
 
@@ -5332,6 +5369,18 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
+
+https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
+
+https://en.wikipedia.org/wiki/Benevolent_dictator_for_life | Benevolent dictator for life - Wikipedia
+
+https://docs.python.org/3/ | 3.6.2 Documentation
+https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
+django parallel tests
+https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
+Django Sites
+
 https://www.pygame.org/news | https://www.pygame.org/news
 
 https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
@@ -5820,6 +5869,8 @@ https://cdn.rawgit.com/Miserlou/Talks/8f7cd4b7/zappa-djangocon-2017/djangocon.ht
 
 https://www.youtube.com/watch?v=l3h7xLRkP6Q&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=50 | DjangoCon US 2016 - Under the Hood of Modern CSS Frameworks by Michael Trythall - YouTube
 https://www.youtube.com/watch?v=aXFFHKkQcQg&list=PL2NFhrDSOxgX-A4qpaf3rRaEnEe7166Ac&index=3 | DjangoCon US 2016 - How we Used NLP and Django to Build a... by Vince Salvino - YouTube
+
+https://www.youtube.com/watch?v=hmd_1pVYdyU | DjangoCon 2014- Patterns for Extensibility - YouTube
 -->
 
 
@@ -5880,6 +5931,11 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 #### Python and Django Books and Tutorials
 
 <!--
+https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036 | Python Crash Course: A Hands-On, Project-Based Introduction to Programming: Eric Matthes: 9781593276034: Amazon.com: Books
+mark pilgrim dive into python 3 pdf
+
+
+https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 
 https://stackoverflow.com/users/541136/aaron-hall | User Aaron Hall - Stack Overflow
@@ -5938,13 +5994,9 @@ https://www.youtube.com/watch?v=OSGv2VnC0go | Transforming Code into Beautiful, 
 http://oez.es/Expert%20Python%20Programming.pdf | Expert Python Programming.pdf
 https://github.com/bslatkin/effectivepython | bslatkin/effectivepython: Effective Python: Source Code and Errata for the Book
 
-
-
-
 https://www.digitalocean.com/community/tutorials/understanding-data-types-in-python-3 | Understanding Data Types in Python 3 | DigitalOcean
 https://devcenter.heroku.com/articles/deploying-python | Deploying Python and Django Apps on Heroku | Heroku Dev Center
 http://www.pythonforbeginners.com/lists/strings-strip-lstrip-and-rstrip | Strip Characters in Python
-
 
 https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
 -->
@@ -6060,6 +6112,7 @@ https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
 https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
 https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
 https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
+http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
 
 http://www.pydanny.com/python-decorator-cheatsheet.html
 
