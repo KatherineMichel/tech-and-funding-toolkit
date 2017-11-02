@@ -5369,6 +5369,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+
 http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
 
 https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
@@ -5934,8 +5937,8 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036 | Python Crash Course: A Hands-On, Project-Based Introduction to Programming: Eric Matthes: 9781593276034: Amazon.com: Books
 mark pilgrim dive into python 3 pdf
 
-
 https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 
 https://stackoverflow.com/users/541136/aaron-hall | User Aaron Hall - Stack Overflow
