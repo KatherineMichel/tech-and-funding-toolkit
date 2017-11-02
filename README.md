@@ -5506,6 +5506,9 @@ Python- Django Community
 https://late.am/
 https://github.com/joshsimmons | joshsimmons (Josh Simmons) · GitHub
 
+https://medium.com/@dirn | Andy Dirnberger – Medium
+
+https://twitter.com/simonw | Simon Willison (@simonw) | Twitter
 https://simonwillison.net
 
 https://twitter.com/freakboy
@@ -5740,6 +5743,9 @@ https://2015.pygotham.org/talks/schedule/ | Talk Schedule - PyGotham 2015
 https://2014.pygotham.org/talks/schedule.html | Talk Schedule - PyGotham 2014
 http://pyvideo.org/events/pygotham-2015.html | PyVideo.org · PyGotham 2015
 
+https://github.com/M0nica/PyGotham-2017-Talks | M0nica/PyGotham-2017-Talks: Collection of slides and code from PyGotham 2017 Speakers
+
+https://www.youtube.com/watch?v=SppL54fVNe0&feature=youtu.be | Psychology of Estimation - Faster is not always better - YouTube
 https://2017.pygotham.org/talks/natural-language-processing-from-scratch/ | Natural Language Processing from Scratch - PyGotham 2017
 https://www.youtube.com/watch?v=lNPXlqtJwcQ&feature=youtu.be | Natural Language Processing from Scratch - YouTube
 http://pyvideo.org/pygotham-2017/functions-within-functions-an-intro-to-decorators-and-closures.html | PyVideo.org · Functions Within Functions: An Intro to Decorators and Closures
@@ -5777,8 +5783,6 @@ DjangoCon US
 
 DjangoCon Europe
 * [DjangoCon Europe Videos](https://www.youtube.com/user/djangoconeurope/videos)
-
-
 
 <!--
 https://gist.github.com/jefftriplett/cdda63bf42c592b1a6c8 | DjangoCon Talks Ideas
