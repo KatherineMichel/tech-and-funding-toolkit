@@ -5369,16 +5369,18 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-http://www.pythonmagazine.com
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
 
-http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
-
-https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
-
-https://en.wikipedia.org/wiki/Benevolent_dictator_for_life | Benevolent dictator for life - Wikipedia
+Testing
+https://docs.pytest.org/en/latest/example/
+https://github.com/revsys/django-test-plus
+http://django-test-plus.readthedocs.io/en/latest/
 
 https://docs.python.org/3/ | 3.6.2 Documentation
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
@@ -5386,25 +5388,26 @@ django parallel tests
 https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
 Django Sites
 
+https://www.python.org/about/apps/ | Applications for Python | Python.org
+
+https://en.wikipedia.org/wiki/Benevolent_dictator_for_life | Benevolent dictator for life - Wikipedia
+
+http://www.pythonmagazine.com
+
 https://www.pygame.org/news | https://www.pygame.org/news
 
 https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
 
-https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
-https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
 
-https://www.python.org/about/apps/ | Applications for Python | Python.org
+https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
+https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
 
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 
-
-https://docs.pytest.org/en/latest/example/
-https://github.com/revsys/django-test-plus
-http://django-test-plus.readthedocs.io/en/latest/
-
-http://docs.python-requests.org/en/master/
-http://www.sphinx-doc.org/en/stable/
+http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
 
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
@@ -5413,12 +5416,13 @@ https://github.com/graphql-python | GraphQL Python
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
-https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
 
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+
+
+http://docs.python-requests.org/en/master/
+
+http://www.sphinx-doc.org/en/stable/
 
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
 
@@ -5447,8 +5451,6 @@ New
 https://mail.python.org/mailman/listinfo/core-workflow 
 
 http://python.apichecklist.com
-
-http://www.sphinx-doc.org/en/stable/
 
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
 
@@ -5533,38 +5535,36 @@ Python- Python and Django People and Jobs
 Python- Django Community
 * [Adrienne Friend](https://codingwithknives.com)
 * [Ana Balica GitHub](https://github.com/ana-balica)
+* [Andy Dirnberger Medium](https://medium.com/@dirn)
 * [Anna Corryn](http://travelswithmaps.blogspot.com)
 * [Audrey Roy Greenfield](https://www.audreyr.com) and [Audrey Roy Greenfield GitHub](https://github.com/audreyr)
+* [Dan Bader](https://dbader.org)
 * [David Beazley](http://www.dabeaz.com) and [David Beazley Twitter](https://twitter.com/dabeaz)
+* [Eric Holscher Blog](http://ericholscher.com/blog)
 * [Frank Wiles](http://www.frankwiles.com)
 * [Heather Marie Luna](http://heats.life)
-* [Kenneth Reitz](http://www.kennethreitz.org)
+* [Kenneth Reitz](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz)
 * [Daniel Greenfeld](http://www.pydanny.com), [Daniel Greenfeld](https://github.com/pydanny) and [Daniel Greenfeld Patreon](https://www.patreon.com/danielroygreenfeld)
 * [Jacob Kalplan-Moss](http://jacobian.org)
 * [Jeff Triplett](http://www.jefftriplett.com)
 * [Ola Sendecka](http://blog.sendecka.me)
 * [Ola Sitarska](http://ola.sitarska.com)
+* [Simon Willison](https://simonwillison.net) and [Simon Willison Twitter](https://twitter.com/simonw )
 * [Timothy Allen](http://www.peregrinesalon.com) and [Timothy Allen GitHub](https://github.com/FlipperPA)
 * [Tom Christie](https://github.com/tomchristie)
 * [Tracy Osborn Twitter](http://twitter.com/limedaring)
+* [Trey Hunner](http://treyhunner.com)
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
 https://late.am/
 https://github.com/joshsimmons | joshsimmons (Josh Simmons) · GitHub
 
-https://medium.com/@dirn | Andy Dirnberger – Medium
-
-https://twitter.com/simonw | Simon Willison (@simonw) | Twitter
-https://simonwillison.net
-
 https://twitter.com/freakboy
 https://gitlab.com/jeff.triplett
-https://dbader.org
 
 https://www.instagram.com/ossanna16/following/
 https://speakerdeck.com/ossanna16
-http://ericholscher.com/blog
 
 Sumana 
 https://www.linkedin.com/in/adriennefriend/ | Adrienne Lowe | LinkedIn
@@ -5572,12 +5572,9 @@ https://www.linkedin.com/in/adriennefriend/ | Adrienne Lowe | LinkedIn
 https://speakerdeck.com/andrewgodwin
 https://github.com/econchick
 https://github.com/lorenanicole
-https://github.com/kennethreitz
 https://www.kennethreitz.org/talks/ | Talks — Kenneth Reitz
 
 https://twitter.com/treyhunner/lists
-http://treyhunner.com/talk-talk/#/
-https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
 -->
 
 Python- Django- News
@@ -5972,11 +5969,13 @@ https://www.youtube.com/channel/UCRjTEkDLPREZNlREZMlotMQ
 http://www.diveintopython.net/native_data_types/joining_lists.html
 
 http://treyhunner.com/ | Trey Hunner
+http://treyhunner.com/talk-talk/#/
 https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
 https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
 https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
 https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
 https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
+https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
 https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
 http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
 
