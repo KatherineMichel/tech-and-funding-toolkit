@@ -5332,11 +5332,21 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-https://stackoverflow.com/users/541136/aaron-hall | User Aaron Hall - Stack Overflow
+https://www.pygame.org/news | https://www.pygame.org/news
+
+https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
+
+https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
+https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
+https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+
+https://www.python.org/about/apps/ | Applications for Python | Python.org
+
+
 
 
 https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
 
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
@@ -5856,20 +5866,24 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 #### Python and Django Books and Tutorials
 
 <!--
-https://www.python.org/about/apps/ | Applications for Python | Python.org
-http://docs.python-guide.org/en/latest/intro/learning/ | Learning Python — The Hitchhiker's Guide to Python
+https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
 
+https://stackoverflow.com/users/541136/aaron-hall | User Aaron Hall - Stack Overflow
 
-
+https://www.reddit.com/r/Python/ | Python
 https://www.reddit.com/r/learnprogramming/ | learn programming
 https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
 https://github.com/kennethlove/pydx_conf/blob/master/talk.md | pydx_conf/talk.md at master · kennethlove/pydx_conf
 
+https://github.com/kennethreitz/python-guide | kennethreitz/python-guide: Python best practices guidebook, written for Humans.
+
+http://docs.python-guide.org/en/latest/intro/learning/ | Learning Python — The Hitchhiker's Guide to Python
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
+http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
+
 https://docs.python.org/3/tutorial/classes.html | 9. Classes — Python 3.6.3 documentation
 https://docs.djangoproject.com/en/1.11/topics/cache/ | Django’s cache framework | Django documentation | Django
-
-http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python! — The Hitchhiker's Guide to Python
 
 https://www.amazon.com/s/ref=sr_pg_2?rh=n%3A283155%2Ck%3Apython&page=2&d=1&keywords=python&ie=UTF8&qid=1508296200 | Amazon.com: python: Books
 http://greenteapress.com/thinkpython/html/index.html | Think Python
