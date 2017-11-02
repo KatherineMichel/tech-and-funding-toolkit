@@ -5369,6 +5369,8 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+http://www.pythonmagazine.com
+
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 
@@ -5400,9 +5402,6 @@ https://www.python.org/about/apps/ | Applications for Python | Python.org
 
 https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
 
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
 https://docs.pytest.org/en/latest/example/
 
 
@@ -5415,6 +5414,9 @@ http://www.sphinx-doc.org/en/stable/
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
 https://github.com/graphql-python | GraphQL Python
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
 https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
 
@@ -5778,6 +5780,9 @@ EuroPython
 * [EuroPython Playlists](https://www.youtube.com/user/PythonItalia/playlists)
 
 <!--
+https://pydata.org/events.html | PyData - Events
+https://www.youtube.com/user/PyDataTV | PyData - YouTube
+
 PyCon Code
 https://github.com/kennethlove/pycon2017
 https://github.com/jacobian/pycon2017
