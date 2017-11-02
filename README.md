@@ -5399,12 +5399,7 @@ https://www.python.org/about/apps/ | Applications for Python | Python.org
 
 
 
-
-https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
-
 https://docs.pytest.org/en/latest/example/
-
-
 https://github.com/revsys/django-test-plus
 http://django-test-plus.readthedocs.io/en/latest/
 
@@ -5418,16 +5413,14 @@ https://github.com/graphql-python | GraphQL Python
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
+https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
+https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
 https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
-
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-
-https://developers.google.com/edu/python/set-up
 
 http://www.juiceanalytics.com/ | Juice Analytics
 http://www.juiceanalytics.com/juicebox-home/
@@ -5444,6 +5437,7 @@ https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transa
 django fixtures
 wsgi
 
+http://madewithwagtail.org
 https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
@@ -5452,7 +5446,6 @@ https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs 
 New
 https://mail.python.org/mailman/listinfo/core-workflow 
 
-http://madewithwagtail.org
 http://python.apichecklist.com
 
 http://www.sphinx-doc.org/en/stable/
@@ -5800,12 +5793,16 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 #### Python and Django Books and Tutorials
 
 <!--
+https://developers.google.com/edu/python/set-up
+
 https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036 | Python Crash Course: A Hands-On, Project-Based Introduction to Programming: Eric Matthes: 9781593276034: Amazon.com: Books
 mark pilgrim dive into python 3 pdf
 
 https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
+https://dbader.org/blog/python-first-class-functions
+https://dbader.org/static/img/pytricks-book/Python%20Tricks%20Sample.pdf
 
 https://stackoverflow.com/users/541136/aaron-hall | User Aaron Hall - Stack Overflow
 
