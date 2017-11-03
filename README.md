@@ -1490,6 +1490,8 @@ https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo 
 
 https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
 
+Camille
+http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
 http://www.camilletalk.com/ | Camille Fournier
 http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
 
@@ -1575,6 +1577,8 @@ Git Homepage, Resources
 * [Git Tower Learn](https://www.git-tower.com/learn)
 
 <!--
+https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ | GitHub - YouTube
+
 https://github.com/git/git-scm.com
 
 https://github.com/progit/progit2
@@ -5369,6 +5373,14 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+Philly
+http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
+http://longclaw.readthedocs.io/en/latest/index.html | Welcome to Longclaw’s documentation! — longclaw 1.0.0 documentation
+http://django-oscar-wagtail.readthedocs.io/en/latest/introduction.html | Introducing Django Oscar Wagtail — Django Oscar Wagtail 0.0.1 documentation
+https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | Django E-Commerce Tutorial With Wagtail CMS - Snipcart
+https://github.com/wharton/python-vagrant-centos7#creating-erds-of-django-models | wharton/python-vagrant-centos7
+https://raw.githubusercontent.com/wharton/python-vagrant-centos7/master/assets/users-faculty-courses.png | users-faculty-courses.png (2052×931)
+
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
@@ -5381,6 +5393,7 @@ Testing
 https://docs.pytest.org/en/latest/example/
 https://github.com/revsys/django-test-plus
 http://django-test-plus.readthedocs.io/en/latest/
+https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
 
 https://docs.python.org/3/ | 3.6.2 Documentation
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
@@ -11213,7 +11226,8 @@ Password Management
 
 Encrypted Communication
 * [Tor Project](https://www.torproject.org)
-* [Whisper Systems](https://whispersystems.org) and [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
+* [Whisper Systems](https://whispersystems.org)
+* [Signal](https://signal.org) and [Signal Wikipedia](https://en.wikipedia.org/wiki/Signal_(software))
 
 Privacy
 * [Electronic Frontier Foundation](https://www.eff.org)
@@ -11849,6 +11863,10 @@ Foreign Language
 * [Duolingo](https://en.duolingo.com), [Duolingo Words](https://www.duolingo.com/words), and [Duolingo Mobile](https://www.duolingo.com/mobile)
 * [Google Translate](https://translate.google.com/?hl=en) 
 * [BaBa Dum](https://babadum.com)
+
+<!--
+https://chatterbug.com | Chatterbug
+-->
 
 Foreign Language- Spanish
 * [Wikipedia Portal in Spanish](https://es.wikipedia.org/wiki/Wikipedia:Portada)
