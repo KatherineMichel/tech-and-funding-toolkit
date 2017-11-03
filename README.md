@@ -5790,6 +5790,11 @@ https://medium.com/the-renaissance-developer/python-101-data-structures-a397bcc2
 #### Python and Django Books and Tutorials
 
 <!--
+YouTube
+Coding is for girls  1
+PyLadiesRemote Webcasts
+freeCodeCamp  14
+
 https://developers.google.com/edu/python/set-up
 
 https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036 | Python Crash Course: A Hands-On, Project-Based Introduction to Programming: Eric Matthes: 9781593276034: Amazon.com: Books
