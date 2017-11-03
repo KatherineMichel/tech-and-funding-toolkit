@@ -522,6 +522,8 @@ Stack
 <!--
 https://stackshare.io/posts/top-developer-tools-2016
 http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
+
+http://thenewstack.io
 http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
 -->
 
