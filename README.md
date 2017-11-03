@@ -5373,6 +5373,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+Lacey
+http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/?utm_content=buffer2676f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | A Brief Intro to Docker for Djangonauts
+
 Philly
 http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
 http://longclaw.readthedocs.io/en/latest/index.html | Welcome to Longclaw’s documentation! — longclaw 1.0.0 documentation
@@ -5394,6 +5397,8 @@ https://docs.pytest.org/en/latest/example/
 https://github.com/revsys/django-test-plus
 http://django-test-plus.readthedocs.io/en/latest/
 https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
+Testing
+noqa - Google Search
 
 https://docs.python.org/3/ | 3.6.2 Documentation
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
