@@ -8864,6 +8864,14 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+https://medium.com/@loic
+https://twitter.com/nbashaw
+http://sonalchokshi.org/ | @SMC90
+https://adamnash.blog
+https://github.com/mcgd | mcgd (Michael Dearing)
+http://www.scottbelsky.com/ | SCOTT BELSKY
+http://tins.rklau.com
+
 https://www.slideshare.net/sblank/tagged/stanford
 https://www.slideshare.net/sblank/videos
 
@@ -8961,6 +8969,11 @@ Awards
 * [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
 <!--
+Nobel Peace Prize Winners, Economics
+Herbert Simon, Richard Thaler
+https://en.wikipedia.org/wiki/List_of_Nobel_laureates
+https://en.wikipedia.org/wiki/List_of_Nobel_Peace_Prize_laureates
+
 http://pitchatpalace.com/apply-7-0/
 https://idea.org.uk/
 http://www.xprize.org/
@@ -9042,6 +9055,7 @@ https://twitter.com/cullenroche
 https://twitter.com/dandolfa
 https://twitter.com/patrick_oshag
 https://twitter.com/awealthofcs
+http://awealthofcommonsense.com/ | http://awealthofcommonsense.com/
 https://twitter.com/jasonzweigwsj
 -->
 
@@ -10792,6 +10806,9 @@ STEM and STEAM
 #### Business and Tech News Sources
 
 <!--
+http://www.bbc.co.uk/programmes/p02nq0lx/episodes/downloads | BBC World Service - The Documentary - Downloads
+https://www.nytimes.com/podcasts/the-daily | The Daily - Podcasts - The New York Times
+
 http://www.nytimes.com/newsletters/morning-briefing
 https://www.vox.com/newsletters
 http://link.axios.com/join/signup-all
