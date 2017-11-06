@@ -6130,6 +6130,8 @@ https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
 http://ela.community
 https://twitter.com/JoniTrythall
 
+http://jonibologna.com/ | Joni Bologna’s Blog
+http://yupgup.com/ | Design for Events & Communities - YupGup
 http://www.toptentypography.tips
 https://speakerdeck.com/jonibologna/just-enough-typography
 https://confreaks.tv/videos/djangoconus2016-just-enough-typography
