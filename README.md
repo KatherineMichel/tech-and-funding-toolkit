@@ -1354,9 +1354,6 @@ GitLab (See also Project Management, Continuous Integration, Docker)
 GitLab Shop
 * [GitLab Shop](https://shop.gitlab.com)
 
-
-
-
 GitLab (See also Project Management and Docker)
 * [GitLab Docs](http://docs.gitlab.com)
 * [GitLab Enterprise Edition Documentation](https://docs.gitlab.com/ee)
@@ -1369,20 +1366,26 @@ GitLab (See also Project Management and Docker)
 * [Digital Ocean GitLab](https://www.digitalocean.com/features/one-click-apps/gitlab)
 
 <!--
-https://gitlab.com/ | Projects · Dashboard · GitLab
 https://about.gitlab.com/
 https://github.com/gitlabhq/gitlabhq
 
+https://gitlab.platzi.com/ | GitLab Live Show
+https://www.youtube.com/watch?v=nc0hPGerSd4 | GitLab Live Stream - YouTube
+
+https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
+
 https://about.gitlab.com/2017/07/19/git-wars-switching-to-gitlab/
-https://gitlabfan.com
 https://about.gitlab.com/eep-demo/
 https://about.gitlab.com/researchpanel/ | Join GitLab's Research Panel | GitLab
 https://about.gitlab.com/2017/08/08/gitlab-issue-bash-september-2017/
 https://about.gitlab.com/2017/07/17/redesigning-gitlabs-navigation/ | Redesigning GitLab's navigation | GitLab
 
+https://gitlabfan.com
+
 GitLab Org
 https://gitlab.com/groups/gitlab-org
 
+https://www.atlassian.com/licensing/stride | Stride Licensing | Atlassian
 https://www.atlassian.com/licensing/starter
 https://www.atlassian.com/software/jira
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
@@ -1393,65 +1396,40 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 #### Git and Markdown
 
 <!--
-
-Lean Software Development Book
-https://en.wikipedia.org/wiki/Lean_software_development | Lean software development - Wikipedia
-https://en.wikipedia.org/wiki/Systems_theory | Systems theory - Wikipedia
-https://en.wikipedia.org/wiki/Spiral_model
-https://en.wikipedia.org/wiki/Opportunity_cost | Opportunity cost - Wikipedia
-https://en.wikipedia.org/wiki/Software_development
-https://en.wikipedia.org/wiki/IEEE_12207
-https://en.wikipedia.org/wiki/ISO/IEC_12207
-http://standards.ieee.org/findstds/standard/12207-2008.html
-https://en.wikipedia.org/wiki/Software_release_life_cycle
-https://en.wikipedia.org/wiki/Software_deployment
-https://en.wikipedia.org/wiki/Software_versioning
-https://en.wikipedia.org/wiki/Rolling_release
-https://en.wikipedia.org/wiki/Release_management
-https://en.wikipedia.org/wiki/Application_release_automation
-
-Python
 https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
-https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
-https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.pdf | magicmethods/magicmethods.pdf at master · RafeKettler/magicmethods
-http://pdf.th7.cn/down/files/1508/Beginning%20Programming%20with%20Python%20For%20Dummies.pdf | Beginning Programming with Python For Dummies.pdf
+
+https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
+https://gist.github.com/ | Create a new Gist
+
+Camille
+http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
+http://www.camilletalk.com/ | Camille Fournier
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+
+
+
+
+
+
+
+https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
 
 
 
 http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
 http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf | Git for Teams
 
-https://docs.gitlab.com/ee/README.html | GitLab Documentation - GitLab Documentation
-https://about.gitlab.com/eep-demo/ | GitLab Enterprise Edition Demo | GitLab
 https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
 
-https://en.wikipedia.org/wiki/Roadmap | Roadmap - Wikipedia
-https://www.atlassian.com/agile/roadmaps | Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
-https://gist.github.com/ | Create a new Gist
-
-https://githubuniverse.com/ | Home | GitHub Universe
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
-
-https://github.com/explore | Explore
-https://github.com/dashboard/discover | Discover Repositories
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
-
-https://www.atlassian.com/software/jira | Jira | Issue & Project Tracking Software | Atlassian
-https://www.atlassian.com/licensing/stride | Stride Licensing | Atlassian
-
 https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/researchpanel/ | Join GitLab's Research Panel | GitLab
 https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
 https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/ | The 11 Rules of GitLab Flow | GitLab
 
 https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
 https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing | Merging vs. Rebasing | Atlassian Git Tutorial
+
+
 
 https://get.gitlab.com/forrester-wave-ci/ | https://get.gitlab.com/forrester-wave-ci/
 
@@ -1461,9 +1439,6 @@ https://github.com/blog/2443-project-note-summary-cards-bring-more-context-into-
 https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
 https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
-https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
-
-https://gitlab.platzi.com/ | GitLab Live Show
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
 
@@ -1486,17 +1461,6 @@ https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo 
 
 
 
-
-
-
-
-https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
-
-Camille
-http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
-http://www.camilletalk.com/ | Camille Fournier
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
-
 GitHub- Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending](https://github.com/josephyzhou/github-trending)
@@ -1506,15 +1470,21 @@ Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
 
-https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
-
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
-
 * [Git Tips GitHub](https://github.com/git-tips/tips)
 * [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
 
 
+
+https://github.com/explore | Explore
+https://github.com/dashboard/discover | Discover Repositories
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
+
+https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
+
+https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
 
 https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
 
@@ -1542,16 +1512,24 @@ https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/g
 https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
 
 
+
+
+https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
+
+https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
+
+https://git-for-windows.github.io
+
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://github.com/universe-2016
+https://githubuniverse.com/2016/program/sessions/
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+
 Miscellaneous
 https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
 https://github.com/settings/keys
 https://gist.github.com/adamjohnson/5682757
-
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-https://githubuniverse.com/2016/program/sessions/
-
-https://git-for-windows.github.io
 -->
 
 Concurrent Version System
@@ -1875,6 +1853,8 @@ Document Examples
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
 * [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
 
+https://github.com/dbader/readme-template | dbader/readme-template: README.md template for your open-source project
+
 * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
 * [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
 
@@ -1898,50 +1878,63 @@ https://twitter.com/housecor/status/883304305117323264
 #### Open Source Management and Programming Tiers
 
 <!--
-https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
+https://readthedocs.org/sustainability/advertising/ | Advertise with Us | Read the Docs
+http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/ | Funding Open Source with Marketing Money — Eric Holscher - Surfing in Kansas
+http://docs.readthedocs.io/en/latest/ethical-advertising.html | Ethical Advertising — Read the Docs 1.0 documentation
 
-https://www.youtube.com/watch?v=nc0hPGerSd4 | GitLab Live Stream - YouTube
-
-https://github.com/LappleApple
+https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
 
 https://opensource.apple.com/ | Open Source - Releases
 
-https://opensource.org/ | News | Open Source Initiative
-https://opensource.org/history
-https://opensource.com/ | Homepage | Opensource.com
+
+
+http://williln.github.io/
+https://github.com/williln/williln.github.io
 
 https://www.youtube.com/watch?v=VS6IpvTWwkQ&feature=youtu.be | "Rebuilding the Cathedral" by Nadia Eghbal - YouTube
 
+http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
+
 https://github.com/LappleApple | LappleApple (Lauri Apple)
+https://opensource.com/users/lapple | Lauri Apple | Opensource.com
 https://github.com/LappleApple/feedmereadmes | LappleApple/feedmereadmes: Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md | feedmereadmes/README-maturity-model.md at master · LappleApple/feedmereadmes
+https://twitter.com/LauritaApplez/status/922811612041568256 | Lauri Apple 🍎🖥🇪🇺 on Twitter: "Casual or "episodic" contributors are valuable as core contributors--catching Ann Barcomb's talk at #OSSummit https://t.co/klGAlJcHwQ"
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+
+https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
+https://twitter.com/sehurlburt/status/882421726562234369
+https://twitter.com/sehurlburt/status/885604819632705536
 
 https://www.youtube.com/watch?v=q3ie1duhpCg | Have It Your Way: Maximizing Drive-Thru Contributions - YouTube
 https://archive.org/details/pconau2016-drivethru | Internet Archive: Error
 
-http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
-https://twitter.com/LauritaApplez/status/922811612041568256 | Lauri Apple 🍎🖥🇪🇺 on Twitter: "Casual or "episodic" contributors are valuable as core contributors--catching Ann Barcomb's talk at #OSSummit https://t.co/klGAlJcHwQ"
-https://opensource.com/open-organization/resources/open-org-maturity-model | The Open Organization Maturity Model | Opensource.com
-
-https://opensource.com/users/lapple | Lauri Apple | Opensource.com
-https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
-
 https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 
-https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
+https://en.wikipedia.org/wiki/Capability_Maturity_Model
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://martinfowler.com/bliki/MaturityModel.html
+https://github.com/github/maturity-model
 
+https://opensource.com/open-organization/resources/open-org-maturity-model | The Open Organization Maturity Model | Opensource.com
 
-
-https://twitter.com/sehurlburt/status/882421726562234369
-https://twitter.com/sehurlburt/status/885604819632705536
+Sales
+https://www.cebglobal.com/insights/challenger-sale.html
+https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
 
 https://blog.golang.org/developer-experience
 https://www.ampproject.org/roadmap
 https://www.debian.org/social_contract
 http://hood.ie/contribute
+-->
+
+<!--
+https://opensource.org/ | News | Open Source Initiative
+https://opensource.org/history
+https://opensource.com/ | Homepage | Opensource.com
+https://opensource.com/how-submit-article
 -->
 
 Community
@@ -1960,18 +1953,9 @@ Developer Relations
 * ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 
 <!--
-Sales and DevRel
-https://www.cebglobal.com/insights/challenger-sale.html
-https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
-
 https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 https://influitive.com/blog/introduction-developer-relations/
-
-https://en.wikipedia.org/wiki/Capability_Maturity_Model
-https://en.wikipedia.org/wiki/Free_and_open-source_software
-https://martinfowler.com/bliki/MaturityModel.html
-https://github.com/github/maturity-model
 -->
 
 Open Source
@@ -2025,14 +2009,13 @@ https://github.com/v8/v8/wiki/Triaging-issues
 http://docs.hood.ie/en/latest/developers/TRIAGING.html
 -->
 
-
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
-
 Bus Factor
 * [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
 
 
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
 
 Open Source Hosting
 * [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
@@ -2079,12 +2062,6 @@ https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=o
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
-https://opensource.com
-https://opensource.com/how-submit-article
-
-http://williln.github.io/
-https://github.com/williln/williln.github.io
-
 https://github.com/HackathonHackers/code-of-conduct
 http://hackforchange.org/tips-for-better-open-source-documentation
 https://github.com/zalando/zalando-howto-open-source
@@ -2098,18 +2075,6 @@ https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
 https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
 
 https://github.com/jdorfman/awesome-help-wanted
-
-https://github.com/search?utf8=%E2%9C%93&q=interview+questions
-https://github.com/MaximAbramchuck/awesome-interview-questions
-https://github.com/blakeembrey/code-problems
-
-http://pyfound.blogspot.com
-http://pyfound.blogspot.com/2016/04/run-for-2016-board-of-directors.html
-
-http://blog.djangogirls.org
-http://blog.djangogirls.org/submit
-http://blog.djangogirls.org/post/137825610883/about-your-django-story
-https://docs.google.com/forms/d/1CdiEtvVyWLtdVZUXHLXoZI64K1qbslkOqSR0W5xz6_0/viewform
 
 https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
 
@@ -5372,11 +5337,20 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 --> 
 
 
+
 #### Python and Django Toolkit
 
 <!--
+Python
+https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
+
+
+
+
 Lacey
-http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/?utm_content=buffer2676f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | A Brief Intro to Docker for Djangonauts
+http://www.revsys.com/tidbits/brief-intro-docker-djangonauts | A Brief Intro to Docker for Djangonauts
 
 Philly
 http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
@@ -5390,9 +5364,9 @@ The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Tren
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
 https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
 https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
+https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
 
 Testing
 https://docs.pytest.org/en/latest/example/
@@ -5820,6 +5794,7 @@ https://developers.google.com/edu/python/set-up
 https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036 | Python Crash Course: A Hands-On, Project-Based Introduction to Programming: Eric Matthes: 9781593276034: Amazon.com: Books
 mark pilgrim dive into python 3 pdf
 
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
 https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
