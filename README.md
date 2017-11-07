@@ -5820,6 +5820,7 @@ https://developers.google.com/edu/python/set-up
 https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036 | Python Crash Course: A Hands-On, Project-Based Introduction to Programming: Eric Matthes: 9781593276034: Amazon.com: Books
 mark pilgrim dive into python 3 pdf
 
+https://dbader.org/blog/python-tricks-launch-faq | Python Tricks: The Book Launch FAQ – dbader.org
 https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 https://dbader.org/products/python-tricks-book/ | 🐍 Python Tricks: The Book – dbader.org
