@@ -29,8 +29,6 @@ Table of Content
 * [Programming Learning Tools](#programming-learning-tools) 
 * [Programming Documentation and Standards](#programming-documentation-and-standards) 
 * [Engineering Blogs, Design Systems, Style Guides](#engineering-blogs-design-systems-style-guides)
-
-
 * [Built With and Search](#built-with-and-search)
 * [Basics](#basics)
   * [Computer Basics](#computer-basics)
@@ -43,8 +41,9 @@ Table of Content
   * [Startup Engineering MOOC](#startup-engineering-mooc)
   * [Git and Markdown](#git-and-markdown)
   * [DevOps](#devops)
-  * [Open Source Documentation](#open-source-documentation)
-  * [Open Source Management and Programming Tiers](#open-source-management-and-programming-tiers)
+  * [Open Source](#open-source)
+  * [Open Source Management](#open-source-management)
+  * [Advice and Help for Beginners](#advice-and-help-for-beginners)  
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -1768,89 +1767,7 @@ Innovators Patent Agreements
 * [Balanced Employee IP Agreement GitHub](https://github.com/github/balanced-employee-ip-agreement)
 * [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
 
-
-
-
-<!--
-Lemonade Stand
-Mozilla- General
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-https://gist.github.com/gersande/8177770 | Blogs I Love
-https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
-
-https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
-
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-
-Document Examples
-* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
-* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
-
-https://github.com/dbader/readme-template | dbader/readme-template: README.md template for your open-source project
-
-* [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-
-* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-
-https://github.com/atom/atom/blob/master/CONTRIBUTING.md
-https://github.com/rails/rails/blob/master/CONTRIBUTING.md
-https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
-https://github.com/HSIDANA/REPORTINGEASY/blob/2bc147b9de68c75cff97080599c2ac796b5ff0e3/www/lib/ng-table/RELEASING.md
-https://github.com/rails/rails/blob/master/.github/issue_template.md
-
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-https://gist.github.com/PurpleBooth
-https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
-
-https://twitter.com/housecor/status/883304305117323264
-
-https://github.com/tj/gh-polls
-
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
--->
-
-
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-* [Gerrit Code Review](https://www.gerritcodereview.com)
-
-Triaging
-
-<!--
-http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
-
-* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
-
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://thoughtbot.com/playbook/developing/code-reviews
-https://github.com/blog/2123-more-code-review-tools
-
-https://github.com/marketplace/category/code-review
-
-https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
-
-https://github.com/isaacs/github/issues/248
-https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
-https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
-https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
-https://github.com/v8/v8/wiki/Triaging-issues
-http://docs.hood.ie/en/latest/developers/TRIAGING.html
-
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
-
-Open Source Hosting
-* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
--->
-
-
-#### Open Source Management and Programming Tiers
+#### Open Source
 
 <!--
 https://opensource.org/ | News | Open Source Initiative
@@ -1966,6 +1883,112 @@ https://influitive.com/blog/introduction-developer-relations/
 
 
 
+<!--
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
+Lemonade Stand
+Mozilla- General
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://gist.github.com/gersande/8177770 | Blogs I Love
+https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+
+https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
+
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+
+Document Examples
+* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
+
+https://github.com/dbader/readme-template | dbader/readme-template: README.md template for your open-source project
+
+* [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+
+https://github.com/atom/atom/blob/master/CONTRIBUTING.md
+https://github.com/rails/rails/blob/master/CONTRIBUTING.md
+https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
+https://github.com/HSIDANA/REPORTINGEASY/blob/2bc147b9de68c75cff97080599c2ac796b5ff0e3/www/lib/ng-table/RELEASING.md
+https://github.com/rails/rails/blob/master/.github/issue_template.md
+
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://gist.github.com/PurpleBooth
+https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
+
+https://twitter.com/housecor/status/883304305117323264
+
+https://github.com/tj/gh-polls
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+-->
+
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+* [Gerrit Code Review](https://www.gerritcodereview.com)
+
+Triaging
+
+<!--
+http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
+
+* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+https://github.com/blog/2123-more-code-review-tools
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
+
+https://github.com/isaacs/github/issues/248
+https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
+https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
+https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
+https://github.com/v8/v8/wiki/Triaging-issues
+http://docs.hood.ie/en/latest/developers/TRIAGING.html
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+
+Open Source Hosting
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
+https://github.com/HackathonHackers/code-of-conduct
+http://hackforchange.org/tips-for-better-open-source-documentation
+https://github.com/zalando/zalando-howto-open-source
+https://github.com/ddbeck/readme-checklist
+
+CODE_OF_CONDUCT
+https://github.com/stevemao/github-issue-templates
+
+https://github.com/devspace/awesome-github-templates
+https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
+https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
+
+https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
+
+http://slides.com/kentcdodds/1st-pr#/
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
+https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
+https://github.com/jfmengels/all-contributors-cli
+https://github.com/kentcdodds/ama/issues/93
+http://javascriptair.com
+-->
+
+
+
+
+## Advice and Help for Beginners
 
 <!--
 Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
@@ -2008,33 +2031,11 @@ https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=o
 https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
-https://github.com/HackathonHackers/code-of-conduct
-http://hackforchange.org/tips-for-better-open-source-documentation
-https://github.com/zalando/zalando-howto-open-source
-https://github.com/ddbeck/readme-checklist
-
-CODE_OF_CONDUCT
-https://github.com/stevemao/github-issue-templates
-
-https://github.com/devspace/awesome-github-templates
-https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
-https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
-
 https://github.com/jdorfman/awesome-help-wanted
-
-https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
 
 https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
 https://github.com/pybee/pybee.github.io
 http://pybee.org
-
-http://slides.com/kentcdodds/1st-pr#/
-https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-https://github.com/kentcdodds/all-contributors
-https://www.npmjs.com/package/all-contributors-cli
-https://github.com/jfmengels/all-contributors-cli
-https://github.com/kentcdodds/ama/issues/93
-http://javascriptair.com
 -->
 
 Example Help Tweets
