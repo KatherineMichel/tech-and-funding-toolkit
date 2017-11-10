@@ -1769,10 +1769,11 @@ Innovators Patent Agreements
 
 #### Open Source
 
-<!--
-https://opensource.org/ | News | Open Source Initiative
-https://opensource.com/ | Homepage | Opensource.com
+Sites
+* [Open Source Org](https://opensource.org)
+* [Open Source Dot Com](https://opensource.com)
 
+<!--
 https://opensource.org/history
 https://opensource.com/how-submit-article
 -->
@@ -1830,45 +1831,6 @@ https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-th
 
 
 
-<!--
-https://readthedocs.org/sustainability/advertising/ | Advertise with Us | Read the Docs
-http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/ | Funding Open Source with Marketing Money — Eric Holscher - Surfing in Kansas
-http://docs.readthedocs.io/en/latest/ethical-advertising.html | Ethical Advertising — Read the Docs 1.0 documentation
-
-https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
-
-https://opensource.apple.com/ | Open Source - Releases
-
-http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
-
-https://github.com/LappleApple | LappleApple (Lauri Apple)
-https://opensource.com/users/lapple | Lauri Apple | Opensource.com
-https://github.com/LappleApple/feedmereadmes | LappleApple/feedmereadmes: Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
-https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md | feedmereadmes/README-maturity-model.md at master · LappleApple/feedmereadmes
-https://twitter.com/LauritaApplez/status/922811612041568256 | Lauri Apple 🍎🖥🇪🇺 on Twitter: "Casual or "episodic" contributors are valuable as core contributors--catching Ann Barcomb's talk at #OSSummit https://t.co/klGAlJcHwQ"
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
-
-https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
-https://twitter.com/sehurlburt/status/882421726562234369
-https://twitter.com/sehurlburt/status/885604819632705536
-
-https://www.youtube.com/watch?v=q3ie1duhpCg | Have It Your Way: Maximizing Drive-Thru Contributions - YouTube
-https://archive.org/details/pconau2016-drivethru | Internet Archive: Error
-
-Sales
-https://www.cebglobal.com/insights/challenger-sale.html
-https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
-
-https://blog.golang.org/developer-experience
-https://www.ampproject.org/roadmap
-https://www.debian.org/social_contract
-http://hood.ie/contribute
--->
-
-
-
-
 Developer Relations
 * ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 
@@ -1876,56 +1838,6 @@ Developer Relations
 https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 https://influitive.com/blog/introduction-developer-relations/
--->
-
-
-
-
-
-
-<!--
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
-
-Lemonade Stand
-Mozilla- General
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-https://gist.github.com/gersande/8177770 | Blogs I Love
-https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
-
-https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
-
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
-
-Document Examples
-* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
-* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
-
-https://github.com/dbader/readme-template | dbader/readme-template: README.md template for your open-source project
-
-* [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
-
-* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
-
-https://github.com/atom/atom/blob/master/CONTRIBUTING.md
-https://github.com/rails/rails/blob/master/CONTRIBUTING.md
-https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
-https://github.com/HSIDANA/REPORTINGEASY/blob/2bc147b9de68c75cff97080599c2ac796b5ff0e3/www/lib/ng-table/RELEASING.md
-https://github.com/rails/rails/blob/master/.github/issue_template.md
-
-https://gist.github.com/PurpleBooth/b24679402957c63ec426
-https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
-https://gist.github.com/PurpleBooth
-https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
-
-https://twitter.com/housecor/status/883304305117323264
-
-https://github.com/tj/gh-polls
-
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
 -->
 
 
@@ -1985,7 +1897,86 @@ https://github.com/kentcdodds/ama/issues/93
 http://javascriptair.com
 -->
 
+<!--
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
 
+Lemonade Stand
+Mozilla- General
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://gist.github.com/gersande/8177770 | Blogs I Love
+https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+
+https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
+
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
+
+Document Examples
+* [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
+* [Rails Code of Conduct GitHub](https://github.com/rails/rails/blob/master/CODE_OF_CONDUCT.md)
+
+https://github.com/dbader/readme-template | dbader/readme-template: README.md template for your open-source project
+
+* [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+* Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
+
+https://github.com/atom/atom/blob/master/CONTRIBUTING.md
+https://github.com/rails/rails/blob/master/CONTRIBUTING.md
+https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
+https://github.com/HSIDANA/REPORTINGEASY/blob/2bc147b9de68c75cff97080599c2ac796b5ff0e3/www/lib/ng-table/RELEASING.md
+https://github.com/rails/rails/blob/master/.github/issue_template.md
+
+https://gist.github.com/PurpleBooth/b24679402957c63ec426
+https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+https://gist.github.com/PurpleBooth
+https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
+
+https://twitter.com/housecor/status/883304305117323264
+
+https://github.com/tj/gh-polls
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
+-->
+
+<!--
+https://readthedocs.org/sustainability/advertising/ | Advertise with Us | Read the Docs
+http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/ | Funding Open Source with Marketing Money — Eric Holscher - Surfing in Kansas
+http://docs.readthedocs.io/en/latest/ethical-advertising.html | Ethical Advertising — Read the Docs 1.0 documentation
+
+https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
+
+https://opensource.apple.com/ | Open Source - Releases
+
+http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
+
+https://github.com/LappleApple | LappleApple (Lauri Apple)
+https://opensource.com/users/lapple | Lauri Apple | Opensource.com
+https://github.com/LappleApple/feedmereadmes | LappleApple/feedmereadmes: Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md | feedmereadmes/README-maturity-model.md at master · LappleApple/feedmereadmes
+https://twitter.com/LauritaApplez/status/922811612041568256 | Lauri Apple 🍎🖥🇪🇺 on Twitter: "Casual or "episodic" contributors are valuable as core contributors--catching Ann Barcomb's talk at #OSSummit https://t.co/klGAlJcHwQ"
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+
+https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
+https://twitter.com/sehurlburt/status/882421726562234369
+https://twitter.com/sehurlburt/status/885604819632705536
+
+https://www.youtube.com/watch?v=q3ie1duhpCg | Have It Your Way: Maximizing Drive-Thru Contributions - YouTube
+https://archive.org/details/pconau2016-drivethru | Internet Archive: Error
+
+Sales
+https://www.cebglobal.com/insights/challenger-sale.html
+https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
+
+https://blog.golang.org/developer-experience
+https://www.ampproject.org/roadmap
+https://www.debian.org/social_contract
+http://hood.ie/contribute
+-->
 
 
 ## Advice and Help for Beginners
