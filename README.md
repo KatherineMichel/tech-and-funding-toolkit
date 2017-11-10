@@ -1448,6 +1448,7 @@ https://github.com/github/github-services/tree/master/docs
 
 https://github.com/explore | Explore
 https://github.com/dashboard/discover | Discover Repositories
+
 https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
 
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
@@ -1594,10 +1595,6 @@ GitHub- Main
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
 
-<!--
-https://githubengineering.com/github-debug/ | GitHub Debug | GitHub Engineering
--->
-
 Git Ignore and Licenses
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
 * [GitHub Choose a License](http://choosealicense.com)
@@ -1666,9 +1663,8 @@ Gist and Similar
 * [Gist](https://gist.github.com) and [Gist Starred](https://gist.github.com/starred)
 * [Pastebin](https://pastebin.com)
 
-<!--
-https://rawgit.com
--->
+Raw Git
+* [Raw Git](https://rawgit.com)
 
 Hub
 * [Hub](https://hub.github.com) and [Hub GitHub](https://github.com/github/hub)
@@ -1867,6 +1863,46 @@ Open Source Hosting
 
 #### Open Source Management and Programming Tiers
 
+<!--
+https://opensource.org/ | News | Open Source Initiative
+https://opensource.com/ | Homepage | Opensource.com
+
+https://opensource.org/history
+https://opensource.com/how-submit-article
+-->
+
+Open Source
+* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
+* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
+
+GitHub Open Source Survey
+* [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
+* [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+<!--
+https://opensource.google.com
+https://opensource.google.com/projects/explore/featured
+https://github.com/open-source
+
+https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
+http://opensourcesurvey.org/2017/#insights
+
+https://opensourcefriday.com
+
+https://opensource.com/open-organization/resources/open-org-maturity-model | The Open Organization Maturity Model | Opensource.com
+
+https://opensource.googleblog.com/2017/09/making-google-developers-documentation.html | Making the Google Developers Documentation Style Guide Public | Google Open Source Blog
+https://developers.googleblog.com/2017/03/a-new-home-for-google-open-source.html
+
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+
+https://en.wikipedia.org/wiki/Capability_Maturity_Model
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://martinfowler.com/bliki/MaturityModel.html
+https://github.com/github/maturity-model
+-->
+
 Bus Factor
 * [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
 
@@ -1912,16 +1948,6 @@ https://twitter.com/sehurlburt/status/885604819632705536
 https://www.youtube.com/watch?v=q3ie1duhpCg | Have It Your Way: Maximizing Drive-Thru Contributions - YouTube
 https://archive.org/details/pconau2016-drivethru | Internet Archive: Error
 
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
-
-https://en.wikipedia.org/wiki/Capability_Maturity_Model
-https://en.wikipedia.org/wiki/Free_and_open-source_software
-https://martinfowler.com/bliki/MaturityModel.html
-https://github.com/github/maturity-model
-
-https://opensource.com/open-organization/resources/open-org-maturity-model | The Open Organization Maturity Model | Opensource.com
-
 Sales
 https://www.cebglobal.com/insights/challenger-sale.html
 https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
@@ -1932,12 +1958,6 @@ https://www.debian.org/social_contract
 http://hood.ie/contribute
 -->
 
-<!--
-https://opensource.org/ | News | Open Source Initiative
-https://opensource.org/history
-https://opensource.com/ | Homepage | Opensource.com
-https://opensource.com/how-submit-article
--->
 
 
 
@@ -1949,31 +1969,6 @@ https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 https://about.gitlab.com/handbook/marketing/developer-relations/developer-advocacy/
 https://influitive.com/blog/introduction-developer-relations/
 -->
-
-Open Source
-* [Open Source Model Wikipedia](https://en.wikipedia.org/wiki/Open-source_model)
-* [Open Source Software Asssessment Methodologies](https://en.wikipedia.org/wiki/Open-source_software_assessment_methodologies)
-
-GitHub Open Source Survey
-* [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
-* [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/open-source-guide)
-
-<!--
-https://opensourcefriday.com
-
-https://opensource.googleblog.com/2017/09/making-google-developers-documentation.html | Making the Google Developers Documentation Style Guide Public | Google Open Source Blog
-https://developers.googleblog.com/2017/03/a-new-home-for-google-open-source.html
-
-https://opensource.google.com
-https://opensource.google.com/projects/explore/featured
-https://github.com/open-source
-
-https://github.com/github/opensource.guide
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-http://opensourcesurvey.org/2017/#insights
--->
-
-
 
 
 
