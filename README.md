@@ -685,15 +685,6 @@ Chomsky Hierarchy and Automata
 Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
-
-<!--
-Left off here
--->
-
-
-
-
-
 Computer Classes and Sizes
 * [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
 * [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
@@ -823,6 +814,9 @@ http://docs.openstack.org/developer/horizon
 -->
 
 
+<!--
+Left off here
+-->
 
 #### Command Line and Shell
 
@@ -1391,47 +1385,38 @@ https://www.atlassian.com/software/jira
 https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 -->
 
-
-
 #### Git and Markdown
 
+Concurrent Version System
+* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
+* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
+* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
+* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1) 
+
+Git Origin
+* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+* [Git GitHub](https://github.com/git/git)  
+* [Git Mojombo GitHub](https://github.com/mojombo/git)  
+* [Git GitHub](https://github.com/xlymian/git) 
+
+Git- Official Learning Resources
+* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
+* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+
+
+
+
+
+
 <!--
-https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
-
-https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
-https://gist.github.com/ | Create a new Gist
-
-Camille
-http://shop.oreilly.com/product/0636920056843.do | The Manager's Path - O'Reilly Media
-http://www.camilletalk.com/ | Camille Fournier
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
-
-
-
-
-
-
-
-https://github.com/git-tips/tips | git-tips/tips: Most commonly used git tips and tricks.
-
-
-
 http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
 http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf | Git for Teams
-
-https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
-
-https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
-https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow/ | The 11 Rules of GitLab Flow | GitLab
 
 https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
 https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing | Merging vs. Rebasing | Atlassian Git Tutorial
 
 
-
-https://get.gitlab.com/forrester-wave-ci/ | https://get.gitlab.com/forrester-wave-ci/
 
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 https://github.com/blog/2443-project-note-summary-cards-bring-more-context-into-your-boards | Project note summary cards bring more context into your boards
@@ -1442,60 +1427,10 @@ https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we u
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
 
-https://githubengineering.com/github-debug/ | GitHub Debug | GitHub Engineering
-
-https://github.com/18F/development-guide
-https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
-
-http://blog.endpoint.com/2014/05/git-workflows-that-work.html | Git Workflows That Work | End Point Blog
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext#F1 | Why Google Stores Billions of Lines of Code in a Single Repository | July 2016 | Communications of the ACM
-https://nanoc.ws/doc/deploying/#with-ci-pipeline-tools | Nanoc » Deploying Nanoc sites
-
-https://trunkbaseddevelopment.com/continuous-integration/ | Continuous Integration (CI) - Trunk Based Development
-
-https://www.visualstudio.com/learn/understand-git-history/ | Understand Git history | Learn Git
-https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
-
-
-
-
-
-
-GitHub- Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending](https://github.com/josephyzhou/github-trending)
-* [GitHub Trending Twitter](https://github.com/andygrunwald/TrendingGithub)
-
-Dear GitHub and Thank You GitHub
-* [Dear GitHub](https://github.com/dear-github/dear-github)
-* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-* [Git Tips GitHub](https://github.com/git-tips/tips)
-* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
-
-
-
-https://github.com/explore | Explore
-https://github.com/dashboard/discover | Discover Repositories
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
-
-https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type= | Search · github trending developers
-
-https://githubengineering.com/ | GitHub Engineering | The Blog of the GitHub Engineering Team
-
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
-
-https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
-
-https://rawgit.com
-
-https://github.com/github/site-policy
-
-https://github.com/blog/2401-the-github-diversity-report
-
-http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo; | remote repo :: Git Cheatsheet
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
 -->
+
+
 
 <!--
 New 
@@ -1503,20 +1438,28 @@ https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
 
-https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-
 My link
 https://classroom.github.com/classrooms
 https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/group-assignments/starter-files
 https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
 
+https://github.com/KatherineMichel/personal-goals/settings/installations
+https://github.com/github/github-services/tree/master/docs
+
+https://github.com/explore | Explore
+https://github.com/dashboard/discover | Discover Repositories
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
 
 
+https://github.com/github/site-policy
 
 https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
 
 https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
+https://github.com/blog/2401-the-github-diversity-report
 
 https://git-for-windows.github.io
 
@@ -1532,17 +1475,9 @@ https://github.com/settings/keys
 https://gist.github.com/adamjohnson/5682757
 -->
 
-Concurrent Version System
-* [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
-* [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
-* [Revision Control Wikipedia](http://en.wikipedia.org/wiki/Revision_control)  
-* [SHA-1 Wikipedia](http://en.wikipedia.org/wiki/SHA-1) 
 
-Git Origin
-* [Tom Preston-Werner: The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
-* [Git GitHub](https://github.com/git/git)  
-* [Git Mojombo GitHub](https://github.com/mojombo/git)  
-* [Git GitHub](https://github.com/xlymian/git) 
+
+
 
 Git Homepage, Resources
 * [Git Homepage](https://git-scm.com)
@@ -1559,11 +1494,10 @@ Git Homepage, Resources
 <!--
 https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ | GitHub - YouTube
 
-https://github.com/git/git-scm.com
-
 https://github.com/progit/progit2
 
 http://gitready.com
+https://github.com/git/git-scm.com
 https://git-scm.com/documentation/external-links
 https://git-scm.com/docs/git-difftool
 
@@ -1592,9 +1526,23 @@ https://www.codeschool.com/courses/git-real-2
 http://blog.udacity.com/2015/06/become-github-pro.html
 -->
 
-Git- Official Learning Resources
-* [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
-* [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
+* [Git Tips GitHub](https://github.com/git-tips/tips)
+* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
+
+<!--
+Project Guidelines
+http://www.ndpsoftware.com/git-cheatsheet.html#loc=remote_repo; | remote repo :: Git Cheatsheet
+
+https://github.com/wearehive/project-guidelines | wearehive/project-guidelines: A set of best practices for JavaScript projects
+
+https://github.com/python/mypy/wiki/Using-Git-And-GitHub | Using Git And GitHub · python/mypy Wiki
+
+https://github.com/18F/development-guide
+https://github.com/18F/development-guide/tree/master/example_workflows | development-guide/example_workflows at master · 18F/development-guide
+
+https://www.visualstudio.com/learn/understand-git-history/ | Understand Git history | Learn Git
+https://www.visualstudio.com/en-us/docs/git/tutorial/history | Review your repo history | Team Services & TFS
+-->
 
 GitHub Education and Training
 
@@ -1645,6 +1593,10 @@ GitHub- Main
 * [GitHub Engineering](https://githubengineering.com)  
 * [Github Development (Example Website)](https://github.com/github/developer.github.com)  
 * [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+<!--
+https://githubengineering.com/github-debug/ | GitHub Debug | GitHub Engineering
+-->
 
 Git Ignore and Licenses
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
@@ -1710,8 +1662,13 @@ https://pages.github.com
 -->
 
 
-Gist
-* [Gist](https://gist.github.com/starred) and [Gist Starred](https://gist.github.com/starred)
+Gist and Similar
+* [Gist](https://gist.github.com) and [Gist Starred](https://gist.github.com/starred)
+* [Pastebin](https://pastebin.com)
+
+<!--
+https://rawgit.com
+-->
 
 Hub
 * [Hub](https://hub.github.com) and [Hub GitHub](https://github.com/github/hub)
@@ -1797,24 +1754,7 @@ https://www.producthunt.com/@jordan_gonen/collections/everything-github
 
 
 
-
 #### Open Source Documentation
-
-<!--
-https://opensource.org/ | News | Open Source Initiative
-
-Lemonade Stand
-Mozilla- General
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
-
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-https://gist.github.com/gersande/8177770 | Blogs I Love
-https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
-
-https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
-
-https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
--->
 
 Types of Licenses
 * [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
@@ -1846,8 +1786,21 @@ Innovators Patent Agreements
 * [Balanced Employee IP Agreement GitHub](https://github.com/github/balanced-employee-ip-agreement)
 * [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
 
+
+
+
 <!--
-https://github.com/tj/gh-polls
+Lemonade Stand
+Mozilla- General
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://gist.github.com/gersande/8177770 | Blogs I Love
+https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+
+https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
+
+https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
 
 Document Examples
 * [Jekyll Code of Conduct GitHub](https://github.com/jekyll/jekyll/blob/master/CONDUCT.md)
@@ -1872,10 +1825,66 @@ https://gist.github.com/PurpleBooth
 https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
 
 https://twitter.com/housecor/status/883304305117323264
+
+https://github.com/tj/gh-polls
+-->
+
+
+Code Review (See also Project Management)
+* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
+* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
+* [Gerrit Code Review](https://www.gerritcodereview.com)
+
+Triaging
+
+<!--
+http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
+
+* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
+
+https://github.com/thoughtbot/guides/tree/master/code-review
+https://thoughtbot.com/playbook/developing/code-reviews
+https://github.com/blog/2123-more-code-review-tools
+
+https://github.com/marketplace/category/code-review
+
+https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
+
+https://github.com/isaacs/github/issues/248
+https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
+https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
+https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
+https://github.com/v8/v8/wiki/Triaging-issues
+http://docs.hood.ie/en/latest/developers/TRIAGING.html
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+
+Open Source Hosting
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
 -->
 
 
 #### Open Source Management and Programming Tiers
+
+Bus Factor
+* [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
+
+Notable People
+* [Mikeal Rogers Medium](https://medium.com/@mikeal) and [Mikeal Rogers Twitter](https://twitter.com/mikeal)
+* [Nadia Eghbal Medium](https://medium.com/@nayafia)
+
+<!--
+https://www.youtube.com/watch?v=VS6IpvTWwkQ&feature=youtu.be | "Rebuilding the Cathedral" by Nadia Eghbal - YouTube
+
+https://twitter.com/mikeal/status/872253127038181376
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+http://gousios.gr/bibliography/GSB16.html
+http://gousios.gr/bibliography/GB15.html
+https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
+-->
+
+
 
 <!--
 https://readthedocs.org/sustainability/advertising/ | Advertise with Us | Read the Docs
@@ -1885,13 +1894,6 @@ http://docs.readthedocs.io/en/latest/ethical-advertising.html | Ethical Advertis
 https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
 
 https://opensource.apple.com/ | Open Source - Releases
-
-
-
-http://williln.github.io/
-https://github.com/williln/williln.github.io
-
-https://www.youtube.com/watch?v=VS6IpvTWwkQ&feature=youtu.be | "Rebuilding the Cathedral" by Nadia Eghbal - YouTube
 
 http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
 
@@ -1937,17 +1939,7 @@ https://opensource.com/ | Homepage | Opensource.com
 https://opensource.com/how-submit-article
 -->
 
-Community
-* [Mikeal Rogers Medium](https://medium.com/@mikeal) and [Mikeal Rogers Twitter](https://twitter.com/mikeal)
-* [Nadia Eghbal Medium](https://medium.com/@nayafia)
 
-<!--
-https://twitter.com/mikeal/status/872253127038181376
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-http://gousios.gr/bibliography/GSB16.html
-http://gousios.gr/bibliography/GB15.html
-https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
--->
 
 Developer Relations
 * ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
@@ -1981,44 +1973,12 @@ https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
 http://opensourcesurvey.org/2017/#insights
 -->
 
-Code Review (See also Project Management)
-* [Code Review Wikipedia](https://en.wikipedia.org/wiki/Code_review)
-* [List of Tools for Code Review Wikipedia](https://en.wikipedia.org/wiki/List_of_tools_for_code_review)
-* [Gerrit Code Review](https://www.gerritcodereview.com)
-
-Triaging
-
-<!--
-http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
-
-* [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
-
-https://github.com/thoughtbot/guides/tree/master/code-review
-https://thoughtbot.com/playbook/developing/code-reviews
-https://github.com/blog/2123-more-code-review-tools
-
-https://github.com/marketplace/category/code-review
-
-https://github.com/kubernetes/community/blob/master/contributors/devel/pull-requests.md#best-practices-for-faster-reviews
-
-https://github.com/isaacs/github/issues/248
-https://medium.com/@clarkbw/github-issue-triage-and-transparency-be35acd8e85d
-https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
-https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
-https://github.com/v8/v8/wiki/Triaging-issues
-http://docs.hood.ie/en/latest/developers/TRIAGING.html
--->
-
-Bus Factor
-* [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
 
 
 
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
 
-Open Source Hosting
-* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
+
 
 
 <!--
@@ -5555,6 +5515,9 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+http://williln.github.io/
+https://github.com/williln/williln.github.io
+
 https://late.am/
 https://github.com/joshsimmons | joshsimmons (Josh Simmons) · GitHub
 
