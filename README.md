@@ -1438,22 +1438,7 @@ https://github.com/settings/connections/applications/64a051cf1598b9f0658f
 https://github.com/organizations/code-collaboration-and-review/invite
 https://github.com/settings/applications/511051
 
-My link
-https://classroom.github.com/classrooms
-https://classroom.github.com/classrooms/27039735-collaboration-and-code-review/group-assignments/starter-files
-https://classroom.github.com/classrooms/29296491-collaboration-and-code-review-classroom
-
 https://github.com/KatherineMichel/personal-goals/settings/installations
-https://github.com/github/github-services/tree/master/docs
-
-https://github.com/explore | Explore
-https://github.com/dashboard/discover | Discover Repositories
-
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
-
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-https://github.com/showcases/projects-with-great-wikis
-
 
 https://github.com/github/site-policy
 
@@ -1609,8 +1594,9 @@ GitHub Services Integration
 * [GitHub Integrations](https://github.com/integrations)  
 * [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
 
-
 <!--
+https://github.com/github/github-services/tree/master/docs
+
 https://help.github.com/articles/about-webhooks/
 https://developer.github.com/v3/repos/hooks/
 http://githooks.com/
@@ -1823,6 +1809,9 @@ https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
 https://twitter.com/housecor/status/883304305117323264
 
 https://github.com/tj/gh-polls
+
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+https://github.com/showcases/projects-with-great-wikis
 -->
 
 
@@ -1880,6 +1869,8 @@ GitHub Open Source Survey
 * [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
 <!--
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
+
 https://opensource.google.com
 https://opensource.google.com/projects/explore/featured
 https://github.com/open-source
