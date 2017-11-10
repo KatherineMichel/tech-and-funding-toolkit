@@ -5341,6 +5341,10 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
+
+http://www.financeandpython.com | Finance and Python
+
 Python
 https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
