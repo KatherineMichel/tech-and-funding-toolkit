@@ -1387,8 +1387,6 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 #### Git and Markdown
 
 <!--
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
-
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
 
@@ -1448,6 +1446,7 @@ GitHub News
 * [GitHub Blog](https://github.com/blog)  
 * [GitHub Engineering](https://githubengineering.com)  
 * [GitHub Updates](https://github.com/updates)
+* [GitHub YouTube](https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ)
 
 GitHub Features and Marketplace
 * [GitHub Features (Code Review, ect.)](https://github.com/features)
@@ -1486,9 +1485,11 @@ Git and GitHub Learning Resources
 * [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
 * [Git Tower Learn](https://www.git-tower.com/learn)
 
-<!--
-https://www.youtube.com/channel/UC7c3Kb6jYCRj4JOHHZTxKsQ | GitHub - YouTube
+Git Cheat Sheets
+* [Git Tips GitHub](https://github.com/git-tips/tips)
+* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet) 
 
+<!--
 https://github.com/progit/progit2
 
 http://gitready.com
@@ -1521,8 +1522,6 @@ https://www.codeschool.com/courses/git-real-2
 http://blog.udacity.com/2015/06/become-github-pro.html
 -->
 
-* [Git Tips GitHub](https://github.com/git-tips/tips)
-* [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet)  
 
 <!--
 Project Guidelines
@@ -5250,6 +5249,9 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+http://www.sphinx-doc.org/en/stable/
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
+
 https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
 
 http://www.financeandpython.com | Finance and Python
@@ -5328,8 +5330,6 @@ https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching Gi
 
 
 http://docs.python-requests.org/en/master/
-
-http://www.sphinx-doc.org/en/stable/
 
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
 
