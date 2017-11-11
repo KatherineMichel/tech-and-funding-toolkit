@@ -1439,7 +1439,6 @@ https://github.com/settings/applications/511051
 
 https://github.com/KatherineMichel/personal-goals/settings/installations
 
-https://github.com/github/site-policy
 
 https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
 
@@ -1624,11 +1623,10 @@ https://github.com/updates
 https://github.com/marketplace
 https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
 
-
 GitHub Standards
 https://standards.github.io
 
-https://github.com/contact
+https://github.com/github/site-policy
 
 https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
 https://github.com/desktop/desktop
@@ -1849,8 +1847,6 @@ Code Review (See also Project Management)
 Triaging
 
 <!--
-http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
-
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
 https://github.com/thoughtbot/guides/tree/master/code-review
@@ -1867,46 +1863,16 @@ https://github.com/angular/angular.js/blob/master/TRIAGING.md#assigning-work
 https://gist.github.com/boennemann/f4e3785455c488baa434#assigning-work
 https://github.com/v8/v8/wiki/Triaging-issues
 http://docs.hood.ie/en/latest/developers/TRIAGING.html
-
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
-
-Open Source Hosting
-* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
-
-https://github.com/HackathonHackers/code-of-conduct
-http://hackforchange.org/tips-for-better-open-source-documentation
-https://github.com/zalando/zalando-howto-open-source
-https://github.com/ddbeck/readme-checklist
-
-CODE_OF_CONDUCT
-https://github.com/stevemao/github-issue-templates
-
-https://github.com/devspace/awesome-github-templates
-https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
-https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
-
-https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
-
-http://slides.com/kentcdodds/1st-pr#/
-https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-https://github.com/kentcdodds/all-contributors
-https://www.npmjs.com/package/all-contributors-cli
-https://github.com/jfmengels/all-contributors-cli
-https://github.com/kentcdodds/ama/issues/93
-http://javascriptair.com
 -->
 
 <!--
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+Templates and Examples
 
-Lemonade Stand
-Mozilla- General
-* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
+https://twitter.com/sehurlburt/status/882421726562234369
+https://twitter.com/sehurlburt/status/885604819632705536
 
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-https://gist.github.com/gersande/8177770 | Blogs I Love
-https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
+http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
 
 https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
 
@@ -1936,16 +1902,59 @@ https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
 
 https://twitter.com/housecor/status/883304305117323264
 
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+
+Open Source Hosting
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
+https://github.com/HackathonHackers/code-of-conduct
+http://hackforchange.org/tips-for-better-open-source-documentation
+https://github.com/zalando/zalando-howto-open-source
+https://github.com/ddbeck/readme-checklist
+
+CODE_OF_CONDUCT
+https://github.com/stevemao/github-issue-templates
+
+https://github.com/devspace/awesome-github-templates
+https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
+https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
+
+https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
+
+https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
+https://github.com/jfmengels/all-contributors-cli
+https://github.com/kentcdodds/ama/issues/93
+http://javascriptair.com
+
+https://blog.golang.org/developer-experience
+https://www.ampproject.org/roadmap
+https://www.debian.org/social_contract
+http://hood.ie/contribute
+-->
+
+
+
+<!--
 https://github.com/tj/gh-polls
 
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 https://github.com/showcases/projects-with-great-wikis
--->
 
-<!--
 https://readthedocs.org/sustainability/advertising/ | Advertise with Us | Read the Docs
 http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/ | Funding Open Source with Marketing Money — Eric Holscher - Surfing in Kansas
 http://docs.readthedocs.io/en/latest/ethical-advertising.html | Ethical Advertising — Read the Docs 1.0 documentation
+
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
+Lemonade Stand
+Mozilla- General
+* [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
+
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://gist.github.com/gersande/8177770 | Blogs I Love
+https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Development // Speaker Deck
 
 https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
 
@@ -1961,21 +1970,12 @@ https://twitter.com/LauritaApplez/status/922811612041568256 | Lauri Apple 🍎�
 https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 
-https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
-https://twitter.com/sehurlburt/status/882421726562234369
-https://twitter.com/sehurlburt/status/885604819632705536
-
 https://www.youtube.com/watch?v=q3ie1duhpCg | Have It Your Way: Maximizing Drive-Thru Contributions - YouTube
 https://archive.org/details/pconau2016-drivethru | Internet Archive: Error
 
 Sales
 https://www.cebglobal.com/insights/challenger-sale.html
 https://www.cebglobal.com/sales-service/sales-effectiveness/challenger-selling.html
-
-https://blog.golang.org/developer-experience
-https://www.ampproject.org/roadmap
-https://www.debian.org/social_contract
-http://hood.ie/contribute
 -->
 
 
@@ -2023,6 +2023,9 @@ https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=s
 https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
 
 https://github.com/jdorfman/awesome-help-wanted
+
+http://slides.com/kentcdodds/1st-pr#/
+https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
 
 https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
 https://github.com/pybee/pybee.github.io
