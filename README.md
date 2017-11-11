@@ -1392,10 +1392,6 @@ https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live f
 
 https://www.atlassian.com/software-trends
 https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing | Merging vs. Rebasing | Atlassian Git Tutorial
-
-https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
 
 https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
@@ -1476,20 +1472,17 @@ GitHub Developer
 
 Git and GitHub Learning Resources
 * [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
+* [Pro Git - Index of Commands](https://git-scm.com/book/commands)
 * [Git Documentation](https://git-scm.com/documentation)
-* [Git Pro Git Book](https://git-scm.com/book/en/v2)
+* [Git Pro Git Book 2](https://git-scm.com/book/en/v2) and [Git Pro Git Book 2 GitHub](https://github.com/progit/progit2)
 * [GitHub Help](https://help.github.com)
 * [GitHub Guides](https://guides.github.com)
 * [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
 
 <!--
-https://github.com/progit/progit2
-
 https://github.com/git/git-scm.com
 https://git-scm.com/documentation/external-links
 https://git-scm.com/docs/git-difftool
-
-* [Pro Git - Index of Commands](https://git-scm.com/book/commands)
 -->
 
 High Profile Git Resources
@@ -1804,7 +1797,6 @@ http://gousios.gr/bibliography/GB15.html
 -->
 
 
-
 Developer Relations
 * ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
 
@@ -1825,6 +1817,8 @@ Triaging
 <!--
 * [How we organize GitHub issues: A simple styleguide for tagging](https://robinpowered.com/blog/best-practice-system-for-organizing-and-tagging-github-issues/)
 
+http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
+
 https://github.com/thoughtbot/guides/tree/master/code-review
 https://thoughtbot.com/playbook/developing/code-reviews
 https://github.com/blog/2123-more-code-review-tools
@@ -1844,13 +1838,7 @@ http://docs.hood.ie/en/latest/developers/TRIAGING.html
 <!--
 Templates and Examples
 
-https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
-https://twitter.com/sehurlburt/status/882421726562234369
-https://twitter.com/sehurlburt/status/885604819632705536
 
-http://cyberomin.github.io/engineering/2017/04/27/pull-request.html
-
-https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
 
 https://github.com/dastergon/postmortem-templates | dastergon/postmortem-templates: A collection of postmortem templates
 
@@ -1861,7 +1849,6 @@ Document Examples
 https://github.com/dbader/readme-template | dbader/readme-template: README.md template for your open-source project
 
 * [Art of README](https://github.com/noffle/art-of-readme), [How To Write A Readme](http://jfhbrook.github.io/2011/11/09/readmes.html)
-* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
 
 * Template - [Common Readme](https://github.com/noffle/common-readme) / [Standard Readme](https://github.com/RichardLitt/standard-readme) / [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md)
 
@@ -1878,12 +1865,6 @@ https://gist.github.com/PurpleBooth/635a35ed0cffb074014e
 
 https://twitter.com/housecor/status/883304305117323264
 
-Open Source Management, Codes of Conduct, Roadmaps
-* [Open Source Management at Docker](https://github.com/docker/opensource)
-
-Open Source Hosting
-* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
-
 https://github.com/HackathonHackers/code-of-conduct
 http://hackforchange.org/tips-for-better-open-source-documentation
 https://github.com/zalando/zalando-howto-open-source
@@ -1898,16 +1879,32 @@ https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
 
 https://github.com/nayafia/contributing-template/blob/master/CONTRIBUTING-template.md
 
-https://github.com/kentcdodds/all-contributors
-https://www.npmjs.com/package/all-contributors-cli
-https://github.com/jfmengels/all-contributors-cli
-https://github.com/kentcdodds/ama/issues/93
-http://javascriptair.com
+
+
+* [Top ten reasons why I won't use your open source project](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project)
+
+https://twitter.com/christi3k/status/902970714336006144 | Christie Koehler on Twitter: "From a recent thread about Node stuff... This question comes up a lot. So many people think running an OSS project is just about the tech. https://t.co/ngKFVD2wWZ"
+
+https://twitter.com/sehurlburt/status/921921604140937216 | Stephanie Hurlburt on Twitter: "“Why isn’t someone using my software product or open source tool? It’s good!” A checklist for you:"
+https://twitter.com/sehurlburt/status/882421726562234369
+https://twitter.com/sehurlburt/status/885604819632705536
 
 https://blog.golang.org/developer-experience
 https://www.ampproject.org/roadmap
 https://www.debian.org/social_contract
 http://hood.ie/contribute
+
+Open Source Management, Codes of Conduct, Roadmaps
+* [Open Source Management at Docker](https://github.com/docker/opensource)
+
+Open Source Hosting
+* [Sentry Open Source Hosting](https://getsentry.com/for/open-source)
+
+https://github.com/kentcdodds/all-contributors
+https://www.npmjs.com/package/all-contributors-cli
+https://github.com/jfmengels/all-contributors-cli
+https://github.com/kentcdodds/ama/issues/93
+http://javascriptair.com
 -->
 
 
@@ -1933,11 +1930,10 @@ https://speakerdeck.com/ryankennedy/fear-driven-development | Fear Driven Develo
 
 https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
 
-https://opensource.apple.com/ | Open Source - Releases
-
 http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
 
 https://github.com/LappleApple | LappleApple (Lauri Apple)
+https://opensource.apple.com/ | Open Source - Releases
 https://opensource.com/users/lapple | Lauri Apple | Opensource.com
 https://github.com/LappleApple/feedmereadmes | LappleApple/feedmereadmes: Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
 https://github.com/LappleApple/feedmereadmes/blob/master/README-maturity-model.md | feedmereadmes/README-maturity-model.md at master · LappleApple/feedmereadmes
