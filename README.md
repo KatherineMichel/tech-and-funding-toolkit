@@ -1386,6 +1386,43 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 
 #### Git and Markdown
 
+<!--
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
+
+https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+
+https://www.atlassian.com/software-trends
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
+https://www.atlassian.com/git/tutorials/merging-vs-rebasing | Merging vs. Rebasing | Atlassian Git Tutorial
+
+https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
+
+https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
+
+http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
+http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf | Git for Teams
+ 
+https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
+
+https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
+https://github.com/blog/2401-the-github-diversity-report
+
+https://githubuniverse.com/ | Home | GitHub Universe
+
+https://git-for-windows.github.io
+https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
+https://github.com/desktop/desktop
+https://github.atom.io
+http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html
+
+Miscellaneous
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+https://github.com/settings/keys
+https://gist.github.com/adamjohnson/5682757
+-->
+
 Concurrent Version System
 * [Concurrent Version System](https://en.wikipedia.org/wiki/Concurrent_Versions_System)
 * [Comparison of Version Control Software](http://en.wikipedia.org/wiki/Comparison_of_revision_control_software)
@@ -1402,62 +1439,43 @@ Git- Official Learning Resources
 * [Getting Started A Short History of Git](http://git-scm.com/book/en/Getting-Started-A-Short-History-of-Git)  
 * [Getting Started About Version Control](http://git-scm.com/book/en/Getting-Started-About-Version-Control)  
 
-
-
-
-
-
-<!--
-http://www.gitforteams.com/ | Git for Teams — Git for Teams — Creating efficiency for teams of one or more.
-http://pepa.holla.cz/wp-content/uploads/2016/01/Git-for-Teams.pdf | Git for Teams
-
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
-https://www.atlassian.com/git/tutorials/merging-vs-rebasing | Merging vs. Rebasing | Atlassian Git Tutorial
-
-https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
-
-
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
-https://github.com/blog/2443-project-note-summary-cards-bring-more-context-into-your-boards | Project note summary cards bring more context into your boards
-
-https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
-
-https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
-https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
-
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
--->
-
-
-
-<!--
-New 
-https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
-
-https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
-https://github.com/blog/2401-the-github-diversity-report
-
-https://git-for-windows.github.io
-
-https://githubuniverse.com/ | Home | GitHub Universe
-http://githubuniverse.com/watch
-https://github.com/universe-2016
-https://githubuniverse.com/2016/program/sessions/
-https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
-
-Miscellaneous
-https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
-https://github.com/settings/keys
-https://gist.github.com/adamjohnson/5682757
--->
-
-
-
-
-
-Git Homepage, Resources
+Git and GitHub- Main and Getting Started
 * [Git Homepage](https://git-scm.com)
+* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
+* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git)
+
+GitHub News
+* [GitHub Blog](https://github.com/blog)  
+* [GitHub Engineering](https://githubengineering.com)  
+* [GitHub Updates](https://github.com/updates)
+
+GitHub Features and Marketplace
+* [GitHub Features (Code Review, ect.)](https://github.com/features)
+* [GitHub Marketplace](https://github.com/marketplace)
+
+GitHub Services Integration and Web Hooks
+* [Service Hooks GitHub](https://github.com/github/github-services)  
+* [GitHub Integrations](https://github.com/integrations)  
+* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
+
+<!--
+https://github.com/github/github-services/tree/master/docs
+
+https://help.github.com/articles/about-webhooks/
+https://developer.github.com/v3/repos/hooks/
+http://githooks.com/
+
+https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
+https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
+
+https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
+-->
+
+GitHub Developer
+* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
+* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
+
+Git and GitHub Learning Resources
 * [Git Doc (Docs and Pro Git Book](https://git-scm.com/doc)
 * [Git Documentation](https://git-scm.com/documentation)
 * [Git Pro Git Book](https://git-scm.com/book/en/v2)
@@ -1562,15 +1580,6 @@ https://services.github.com/on-demand
 https://services.github.com/on-demand/downloads/subversion-migration
 -->
 
-GitHub- Main
-* [GitHub](https://github.com) and [GitHub Wikipedia](http://en.wikipedia.org/wiki/GitHub)  
-* [GitHub Features (Code Review, ect.)](https://github.com/features)
-* [GitHub Help: Set Up Git](https://help.github.com/articles/set-up-git) 
-* [GitHub Blog](https://github.com/blog)  
-* [GitHub Engineering](https://githubengineering.com)  
-* [Github Development (Example Website)](https://github.com/github/developer.github.com)  
-* [GitHub Developer](https://developer.github.com) and [GitHub Developer Program](https://developer.github.com/program)
-
 Git Ignore and Licenses
 * [Git Ignore GitHub](https://github.com/github/gitignore) 
 * [GitHub Choose a License](http://choosealicense.com)
@@ -1580,24 +1589,8 @@ Git Ignore and Licenses
 https://github.com/joeblau/gitignore.io
 -->
 
-GitHub Services Integration
-* [Service Hooks GitHub](https://github.com/github/github-services)  
-* [GitHub Integrations](https://github.com/integrations)  
-* [GitHub Webhooks](https://developer.github.com/webhooks) and [GitHub About Webhooks](https://help.github.com/articles/about-webhooks)
-
-<!--
-https://github.com/github/github-services/tree/master/docs
-
-https://help.github.com/articles/about-webhooks/
-https://developer.github.com/v3/repos/hooks/
-http://githooks.com/
-
-https://confluence.atlassian.com/bitbucket/tutorial-create-and-trigger-a-webhook-747606432.html
-https://blog.bitbucket.org/2015/06/24/the-new-bitbucket-webhooks/
-
-https://blog.bitbucket.org/2015/12/02/ship-faster-with-bitbucket-integrations-now-available-for-aws-azure-bamboo-and-more
--->
-
+GitHub Pages
+* [GitHub Pages](https://pages.github.com)
 
 GitHub Business
 * [GitHub Business](https://github.com/business)
@@ -1608,32 +1601,10 @@ GitHub Organizations Dashboard
 GitHub Organizations
 * [About Organizations](https://help.github.com/articles/about-organizations)
 
-
 <!--
-New
-https://github.com/updates
-
-https://github.com/marketplace
-https://github.com/blog/2359-introducing-github-marketplace-and-more-tools-to-customize-your-workflow
-
-GitHub Standards
-https://standards.github.io
-
-https://github.com/github/site-policy
-
-https://github.com/blog/2362-announcing-git-integration-for-atom-and-github-desktop-beta
-https://github.com/desktop/desktop
-https://github.atom.io
-http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html
-
 https://help.github.com/enterprise
 https://github.com/business/customers
-
-https://github.com/github-tools
-
-https://pages.github.com
 -->
-
 
 Gist and Similar
 * [Gist](https://gist.github.com) and [Gist Starred](https://gist.github.com/starred)
@@ -1666,7 +1637,6 @@ YAML
 http://www.yaml.org/refcard.html
 http://yaml.org/spec/1.2/spec.html
 -->
-
 
 Atlassian: Bitbucket and SourceTree
 * [Bitbucket](https://bitbucket.org) and [Bitbucket Blog](https://blog.bitbucket.org)
@@ -1709,8 +1679,6 @@ https://github.com/tv42/gitosis
 
 One Click Deploy
 
-https://www.atlassian.com/software-trends
-
 https://github.com/git-ftp
 https://github.com/github/git-lfs
 https://git-lfs.github.com
@@ -1720,6 +1688,8 @@ https://github.com/ajaxorg/ace
 https://ifttt.com/github/recipes
 
 https://www.producthunt.com/@jordan_gonen/collections/everything-github
+
+https://github.com/github-tools
 -->
 
 
@@ -1766,7 +1736,6 @@ Sites
 
 <!--
 https://opensource.org/history
-https://opensource.com/how-submit-article
 -->
 
 Open Source
@@ -1778,6 +1747,11 @@ GitHub Open Source Survey
 * [Open Source Guide](https://opensource.guide) and [Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
 <!--
+GitHub Standards
+https://standards.github.io
+
+https://github.com/github/site-policy
+
 https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open source project
 
 https://opensource.google.com
@@ -1810,16 +1784,16 @@ Notable People
 * [Mikeal Rogers Medium](https://medium.com/@mikeal) and [Mikeal Rogers Twitter](https://twitter.com/mikeal)
 * [Nadia Eghbal Medium](https://medium.com/@nayafia)
 
-<!--
-https://github.com/nayafia/lemonade-stand
+Funding
+* [Lemonade Stand](https://github.com/nayafia/lemonade-stand)
 
+<!--
 https://www.youtube.com/watch?v=VS6IpvTWwkQ&feature=youtu.be | "Rebuilding the Cathedral" by Nadia Eghbal - YouTube
 
 https://twitter.com/mikeal/status/872253127038181376
 https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 http://gousios.gr/bibliography/GSB16.html
 http://gousios.gr/bibliography/GB15.html
-https://medium.com/@nodejs/hello-im-mark-hinkle-the-new-executive-director-of-the-node-js-foundation-ask-me-anything-86a5f5417619
 -->
 
 
