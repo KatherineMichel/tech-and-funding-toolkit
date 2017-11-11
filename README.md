@@ -1415,12 +1415,12 @@ https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Ag
 https://www.atlassian.com/git/tutorials/comparing-workflows#feature-branch-workflow | Git Workflows and Tutorials | Atlassian Git Tutorial
 https://www.atlassian.com/git/tutorials/merging-vs-rebasing | Merging vs. Rebasing | Atlassian Git Tutorial
 
+https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
 
 
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 https://github.com/blog/2443-project-note-summary-cards-bring-more-context-into-your-boards | Project note summary cards bring more context into your boards
 
-https://github.com/blog/2042-git-2-5-including-multiple-worktrees-and-triangular-workflows
 https://github.com/blog/1124-how-we-use-pull-requests-to-build-github | How we use Pull Requests to build GitHub
 
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
@@ -1433,13 +1433,6 @@ https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your web
 
 <!--
 New 
-https://github.com/settings/connections/applications/64a051cf1598b9f0658f
-https://github.com/organizations/code-collaboration-and-review/invite
-https://github.com/settings/applications/511051
-
-https://github.com/KatherineMichel/personal-goals/settings/installations
-
-
 https://stackoverflow.com/questions/23821235/how-to-link-to-specific-line-number-on-github | How to link to specific line number on github - Stack Overflow
 
 https://octoverse.github.com/ | GitHub Octoverse 2017 | Highlights from the last twelve months
@@ -1818,6 +1811,8 @@ Notable People
 * [Nadia Eghbal Medium](https://medium.com/@nayafia)
 
 <!--
+https://github.com/nayafia/lemonade-stand
+
 https://www.youtube.com/watch?v=VS6IpvTWwkQ&feature=youtu.be | "Rebuilding the Cathedral" by Nadia Eghbal - YouTube
 
 https://twitter.com/mikeal/status/872253127038181376
@@ -1937,6 +1932,8 @@ http://hood.ie/contribute
 
 
 <!--
+https://github.com/DevOpsBootcamp/website/blob/master/Makefile
+
 https://github.com/tj/gh-polls
 
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
@@ -1946,9 +1943,6 @@ https://readthedocs.org/sustainability/advertising/ | Advertise with Us | Read t
 http://ericholscher.com/blog/2016/aug/31/funding-oss-marketing-money/ | Funding Open Source with Marketing Money — Eric Holscher - Surfing in Kansas
 http://docs.readthedocs.io/en/latest/ethical-advertising.html | Ethical Advertising — Read the Docs 1.0 documentation
 
-https://github.com/DevOpsBootcamp/website/blob/master/Makefile
-
-Lemonade Stand
 Mozilla- General
 * [Mozilla Open Source Support](https://wiki.mozilla.org/MOSS) and [MOSS Mission Partners](https://wiki.mozilla.org/MOSS/Mission_Partners)
 
