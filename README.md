@@ -1481,39 +1481,43 @@ Git and GitHub Learning Resources
 * [GitHub Help](https://help.github.com)
 * [GitHub Guides](https://guides.github.com)
 * [GitHub Training Guides YouTube](https://www.youtube.com/githubguides)
-* [Git Index](http://gitref.org) 
+
+<!--
+https://github.com/progit/progit2
+
+https://github.com/git/git-scm.com
+https://git-scm.com/documentation/external-links
+https://git-scm.com/docs/git-difftool
+
+* [Pro Git - Index of Commands](https://git-scm.com/book/commands)
+-->
+
+High Profile Git Resources
+* [Atlassian Git](https://www.atlassian.com/git)
+* [Atlassian Git Glossary](https://www.atlassian.com/git/glossary)
 * [Atlassian Git Tutorial](http://www.atlassian.com/git/tutorial)
+* [Atlassian Git Tutorials](https://www.atlassian.com/git/tutorials)
+* [Digital Ocean Git Tutorials](https://www.digitalocean.com/community/tutorials?q=git)
+
+<!--
+https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html
+https://developer.atlassian.com/blog/2015/10/cool-features-git-2.x/
+-->
+
+Other Git Learning Resources
+* [Git Index](http://gitref.org) 
 * [Git Tower Learn](https://www.git-tower.com/learn)
+* [Git Tower Git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
+* [Git Ready](http://gitready.com)
 
 Git Cheat Sheets
 * [Git Tips GitHub](https://github.com/git-tips/tips)
 * [GitHub Cheat Sheet GitHub](https://github.com/tiimgreen/github-cheat-sheet) 
 
 <!--
-https://github.com/progit/progit2
-
-http://gitready.com
-https://github.com/git/git-scm.com
-https://git-scm.com/documentation/external-links
-https://git-scm.com/docs/git-difftool
-
-https://www.atlassian.com/git/tutorials
-https://www.atlassian.com/git
-https://confluence.atlassian.com/bitbucket/tutorial-learn-git-with-bitbucket-cloud-759857287.html
-https://developer.atlassian.com/blog/2015/10/cool-features-git-2.x/
-
-GitHub Docs
-https://www.digitalocean.com/community/tutorials?q=git
-
 https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html
 
 https://sourceforge.net/p/forge/documentation/Git
-
-https://www.git-tower.com/blog/git-cheat-sheet
-
-* [Git Glossary](https://www.atlassian.com/git/glossary)
-* [Pro Git - Index of Commands](https://git-scm.com/book/commands)
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   
 https://www.amazon.com/Pragmatic-Guide-Git-Guides/dp/1934356727
 
@@ -1628,6 +1632,10 @@ Markdown
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
 * [Enterprise Markdown Cheat Sheet](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
 * [Dom Christie To Markdown](http://domchristie.github.io/to-markdown)
+
+<!--
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+-->
 
 YAML
 * [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
