@@ -5267,6 +5267,8 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
+
 https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
 
 https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
@@ -5312,6 +5314,10 @@ http://www.sphinx-doc.org/en/stable/
 https://www.crowdcast.io/e/sphinx/register | Writing Docs in Sphinx - Crowdcast
 https://twitter.com/treyhunner/status/925544923667095552 | ✨ Trey Hunner 🐍 on Twitter: "Interested in documenting your #Python code? I'm holding a live @PythonChat this Saturday with @WillingCarol about documenting w Sphinx! 🎊🐍"
 
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
+https://www.obeythetestinggoat.com/
+https://martinfowler.com/bliki/TestCoverage.html
+https://en.wikipedia.org/wiki/Code_coverage
 https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
 https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
 http://pythontesting.net/start-here | Start Here - Python Testing
@@ -6082,6 +6088,8 @@ https://hellowebapp.com/tutorial/intro/
 https://speakerdeck.com/limedaring/design-for-non-designers-all-things-open
 
 https://www.reddit.com/r/design_critiques/comments/6x9teg/cover_for_a_selfpublished_beginner_design_book/ | Cover for a self-published beginner design book : design_critiques
+
+https://hellowebbooks.com/news/my-adventures-and-advice-on-fulfilling-orders-for-a-printed-self-published-book/ | My adventures and advice on fulfilling orders for a printed self-published book. - Hello Web Books
 
 https://hellowebbooks.com/news/hello-web-app-online-forever
 
