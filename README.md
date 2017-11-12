@@ -1387,6 +1387,20 @@ https://www.atlassian.com/devops/tools-and-technologies#!test-automation
 #### Git and Markdown
 
 <!--
+https://about.gitlab.com/2017/11/01/gitlab-switches-to-dco-license/ | We're switching to a DCO for source code contributions | GitLab
+https://about.gitlab.com/2017/10/02/scaling-the-gitlab-database/ | Scaling the GitLab database | GitLab
+
+https://twitter.com/DynamicWebPaige/status/925816188646539264 | Paige Bailey on Twitter: "ICYMI: @GitHub now supports a single-button-click deploy to @AzureNotebooks option for any @ProjectJupyter notebook. This is huge!! https://t.co/dNIgG08qPb"
+https://github.com/blog/2458-keep-your-project-boards-up-to-date-automatically | Keep your project boards up to date, automatically
+https://github.com/blog/2463-github-welcomes-all-ci-tools | GitHub welcomes all CI tools
+
+https://www.codecademy.com/learn/learn-git | Learn Git | Codecademy
+https://github.com/pluralsight/git-internals-pdf | pluralsight/git-internals-pdf: PDF on Git Internals
+
+https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
+
+
+
 https://resources.github.com/webcasts/Introduction-to-open-source-security-tools | Introduction to open source security tools | GitHub Resources Library
 https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
 
@@ -5253,8 +5267,7 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-http://www.sphinx-doc.org/en/stable/
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
+http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
 
 https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
 
@@ -5264,8 +5277,6 @@ Python
 https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
 https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
 https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/3483/ | Lesson: 15 Calling Python Functions - Introduction to Python
-
-
 
 
 Lacey
@@ -5287,13 +5298,29 @@ https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco
 https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
 https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
 
-Testing
-https://docs.pytest.org/en/latest/example/
-https://github.com/revsys/django-test-plus
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
+http://www.sphinx-doc.org/en/stable/
+https://www.crowdcast.io/e/sphinx/register | Writing Docs in Sphinx - Crowdcast
+https://twitter.com/treyhunner/status/925544923667095552 | ✨ Trey Hunner 🐍 on Twitter: "Interested in documenting your #Python code? I'm holding a live @PythonChat this Saturday with @WillingCarol about documenting w Sphinx! 🎊🐍"
+
+https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
+https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
+https://bitbucket.org/ned/coveragepy | ned / coverage.py — Bitbucket
+https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
 http://django-test-plus.readthedocs.io/en/latest/
+https://github.com/FactoryBoy/factory_boy | FactoryBoy/factory_boy: A test fixtures replacement for Python
+https://github.com/timothycrosley/isort | timothycrosley/isort: A Python utility / library to sort imports.
+http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
+https://github.com/zheller/flake8-quotes | zheller/flake8-quotes: Flake8 extension for checking quotes in python
+https://docs.pytest.org/en/latest/example/
 https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
-Testing
 noqa - Google Search
+
+https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-joins-microsoft/ | Don Jayamanne, creator of the Python extension for Visual Studio Code, joins Microsoft – Python Engineering at Microsoft
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
 
 https://docs.python.org/3/ | 3.6.2 Documentation
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
