@@ -5267,8 +5267,15 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
+
+https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
+
+https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
+
 http://www.ironpythoninaction.com/magic-methods.html | IronPython in Action: Magic Methods
 
+https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
 https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
 
 http://www.financeandpython.com | Finance and Python
@@ -5280,6 +5287,8 @@ https://www.safaribooksonline.com/library/tutorials/introduction-to-python-anon/
 
 
 Lacey
+http://www.revsys.com/tidbits/docker-useful-command-line-stuff/ | Docker: Useful Command Line Stuff
+https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
 http://www.revsys.com/tidbits/brief-intro-docker-djangonauts | A Brief Intro to Docker for Djangonauts
 
 Philly
