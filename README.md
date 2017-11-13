@@ -7805,6 +7805,8 @@ AWS- Lambda
 * [Zappa GitHub](https://github.com/Miserlou/Zappa)
 
 <!--
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
 https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
 http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
 https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
@@ -9804,6 +9806,8 @@ http://ritholtz.com/2016/09/cognitive-bias-codex/
 * [25iq Books](https://www.25iqbooks.com)
 
 <!--
+https://arxiv.org/a/taleb_n_1.html | Nassim Nicholas Taleb's articles on arXiv
+
 https://twitter.com/trengriffin/status/872998412769153024
 https://www.amazon.com/Lessons-Entrepreneurs-Columbia-Business-Publishing/dp/0231184824/ref=redir_mobile_desktop?_encoding=UTF8&dpID=51dcU1CWqpL&dpPl=1&pi=AC_SX236_SY340_QL65&qid=1497639937&ref=plSrch&ref_=mp_s_a_1_2&refinements=p_27%3ATren%20Griffin&sr=1-2
  
