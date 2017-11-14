@@ -11106,28 +11106,7 @@ Digital Stats
 #### Popular Tools
 
 <!--
-https://www.producthunt.com/posts/airtable-universe | Airtable Universe - Product Hunt
-https://airtable.com/ | Airtable
-https://github.com/zapier | Zapier
-
 https://hola.org/ | Hola - Free VPN, Secure Browsing, Unrestricted Access
-
-Dongle
-https://en.wikipedia.org/wiki/Thunderbolt_(interface) | Thunderbolt (interface) - Wikipedia
-https://www.amazon.com/AmazonBasics-Mini-DisplayPort-Thunderbolt-Adapter/dp/B00NH13K8S/ | Amazon.com: AmazonBasics Mini DisplayPort (Thunderbolt) to HDMI Adapter: Computers & Accessories
-
-Travel
-http://lite.cnn.io/ | CNN - Breaking News, Latest News and Videos
-http://www.cnn.com/interactive/storm-tracker/ | CNN storm tracker - CNN.com
-https://www.southwest.com/flight/select-flight.html | Southwest Airlines - Select Flight(s)
-https://www.gov.uk/foreign-travel-advice/usa | USA travel advice - GOV.UK
-https://www.blog.google/topics/travel/new-ways-make-trip-planning-easier-and-cheaper/ | New ways to make trip planning easier and cheaper
-https://www.dhs.gov/real-id-public-faqs
-https://www.tsa.gov/
-https://www.cbp.gov/travel/trusted-traveler-programs/global-entry
-
-https://www.linkedin.com/directory | LinkedIn
-https://www.linkedin.com/directory/people-company-s/ | Browse Members by Name and Company: S a @ Larsen-&-toubro-limited - Số @ Acb-bank | LinkedIn
 
 https://merch.amazon.com/landing
 https://thehub.amazon.com/ | Welcome
@@ -11136,18 +11115,7 @@ https://www.amazon.com/ap/signin
 https://www.audible.com/whatis
 https://www.amazon.com/kindle-dbs/thankYouPage
 
-
-http://www.unixstickers.com/ | Stickers, T-shirts, Mugs on UNIX & Programming | unixstickers
-
 https://productforums.google.com/forum/#!msg/docs/iD5fRYPQYJU/bl8FGBwc0mQJ
-
-http://saythanks.io
-https://github.com/kennethreitz/saythanks.io | kennethreitz/saythanks.io: Spreading Thankfulness in Open Source.
-https://happinesspackets.io
-
-https://www.diffchecker.com/diff
-http://markup.su/highlighter
-http://www.striphtml.com
 
 http://www.avg.com
 
@@ -11172,6 +11140,16 @@ https://www.snap.com/en-US/news
 
 https://www.airbnb.com/work
 https://airbnbmag.com
+-->
+
+
+My Helpers
+* [OneTab](https://www.one-tab.com)
+
+<!--
+https://www.diffchecker.com/diff
+http://markup.su/highlighter
+http://www.striphtml.com
 -->
 
 Two Factor Authentication
@@ -11203,26 +11181,24 @@ Privacy
 * [Electronic Frontier Foundation](https://www.eff.org)
 
 <!--
+https://www.aclu.org/blog/privacy-technology/privacy-borders-and-checkpoints/can-border-agents-search-your-electronic | Can Border Agents Search Your Electronic Devices? It’s Complicated. | American Civil Liberties Union
+
+https://www.eff.org/deeplinks/2016/12/how-enable-two-factor-authentication-amazon | How to Enable Two-Factor Authentication on Amazon | Electronic Frontier Foundation
+
 https://www.eff.org/https-everywhere
 
 https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history
 https://www.mozilla.org/en-US/firefox/features/private-browsing/
-
+https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
 
 Browse in private with Incognito mode
 https://support.google.com/chromebook/answer/95464?co=GENIE.Platform%3DDesktop&hl=en
 
 https://www.torproject.org/docs/tor-doc-osx.html.en
-
-https://addons.mozilla.org/en-US/firefox/addon/ublock-origin
-https://www.eff.org/https-everywhere
 -->
 
 Microsoft Office
 * [Office Live (Windows Office Online)](https://office.live.com/start/default.aspx), [Office Starter](https://support.office.com/en-ca/article/Getting-started-with-Office-Starter-379fba5a-6d82-4e19-aa2e-d41627f5ea5e), and [Office Blog](https://blogs.office.com)
-
-Browser
-* [OneTab](https://www.one-tab.com)
 
 Brave and DuckDuckGo
 * [Brave](https://brave.com)
@@ -11264,6 +11240,13 @@ Google Docs and Research
 
 <!--
 https://developers.google.com/apps-script
+-->
+
+<!--
+https://airtable.com
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
+https://github.com/zapier | Zapier
 -->
 
 Google News Publisher
@@ -11341,6 +11324,9 @@ LinkedIn
 * [LinkedIn Alumni Search](https://www.linkedin.com/edu/alumni)  
 
 <!--
+https://www.linkedin.com/directory | LinkedIn
+https://www.linkedin.com/directory/people-company-s/ | Browse Members by Name and Company: S a @ Larsen-&-toubro-limited - Số @ Acb-bank | LinkedIn
+
 https://business.linkedin.com/sales-solutions/blog/linkedin-sales-navigator/2017/04/introducing-pointdrive
 -->
 
@@ -11530,6 +11516,10 @@ Presentations (Including JavaScript Presentations Frameworks)
 * [Prezi](https://prezi.com)
 
 <!--
+Dongle
+https://en.wikipedia.org/wiki/Thunderbolt_(interface) | Thunderbolt (interface) - Wikipedia
+https://www.amazon.com/AmazonBasics-Mini-DisplayPort-Thunderbolt-Adapter/dp/B00NH13K8S/ | Amazon.com: AmazonBasics Mini DisplayPort (Thunderbolt) to HDMI Adapter: Computers & Accessories
+
 See also GitHub
 https://github.com/integrations/gitpitch
 https://gitpitch.com/gitpitch/gitpitch
@@ -11626,6 +11616,7 @@ https://xapo.com
 https://exchange.gemini.com
 https://ripple.com/xrp
 
+Earn
 https://news.21.co
 -->
 
@@ -11652,6 +11643,10 @@ Swag
 * [Sticker Mule](https://www.stickermule.com)
 * [NailSnaps](https://nailsnaps.com)
 
+<!--
+http://www.unixstickers.com/ | Stickers, T-shirts, Mugs on UNIX & Programming | unixstickers
+-->
+
 Business Cards and More
 * [Moo](https://www.moo.com/us)
 
@@ -11672,12 +11667,27 @@ Admin, Hiring, Payroll, Expenses
 * [ZenPayroll](https://zenpayroll.com) 
 * [Zenefits](http://www.zenefits.com)
 
+<!--
+Travel
+http://lite.cnn.io/ | CNN - Breaking News, Latest News and Videos
+http://www.cnn.com/interactive/storm-tracker/ | CNN storm tracker - CNN.com
+https://www.southwest.com/flight/select-flight.html | Southwest Airlines - Select Flight(s)
+https://www.gov.uk/foreign-travel-advice/usa | USA travel advice - GOV.UK
+https://www.blog.google/topics/travel/new-ways-make-trip-planning-easier-and-cheaper/ | New ways to make trip planning easier and cheaper
+https://www.dhs.gov/real-id-public-faqs
+https://www.tsa.gov/
+https://www.cbp.gov/travel/trusted-traveler-programs/global-entry
+
+http://saythanks.io
+https://github.com/kennethreitz/saythanks.io | kennethreitz/saythanks.io: Spreading Thankfulness in Open Source.
+https://happinesspackets.io
+-->
+
 Events
 * [Eventbrite](https://www.eventbrite.com)
+* [Tito](https://ti.to/home)
 
 <!--
-https://ti.to/home
-
 * Search - [Algolia](https://www.algolia.com/)
 * SMS - [Nexmo](https://www.nexmo.com/) / [Twilio](https://www.twilio.com/) / [Amazon SNS](https://aws.amazon.com/sns/)
 * Maps - [Mapbox](https://www.mapbox.com/)
