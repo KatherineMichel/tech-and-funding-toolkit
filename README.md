@@ -5286,6 +5286,8 @@ https://jefftriplett.com/colophon
 https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 
+https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
+
 Lacey
 https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
 http://www.revsys.com/tidbits/docker-useful-command-line-stuff/ | Docker: Useful Command Line Stuff
@@ -5324,6 +5326,10 @@ https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-join
 https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace
 https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
 
+https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
+
+https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
+
 Philly
 http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
 http://longclaw.readthedocs.io/en/latest/index.html | Welcome to Longclaw’s documentation! — longclaw 1.0.0 documentation
@@ -5331,21 +5337,6 @@ http://django-oscar-wagtail.readthedocs.io/en/latest/introduction.html | Introdu
 https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | Django E-Commerce Tutorial With Wagtail CMS - Snipcart
 https://github.com/wharton/python-vagrant-centos7#creating-erds-of-django-models | wharton/python-vagrant-centos7
 https://raw.githubusercontent.com/wharton/python-vagrant-centos7/master/assets/users-faculty-courses.png | users-faculty-courses.png (2052×931)
-
-
-
-
-
-https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
-
-https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
-
-https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
-
-https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
 https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
@@ -5356,6 +5347,28 @@ https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your web
 http://www.sphinx-doc.org/en/stable/
 https://www.crowdcast.io/e/sphinx/register | Writing Docs in Sphinx - Crowdcast
 https://twitter.com/treyhunner/status/925544923667095552 | ✨ Trey Hunner 🐍 on Twitter: "Interested in documenting your #Python code? I'm holding a live @PythonChat this Saturday with @WillingCarol about documenting w Sphinx! 🎊🐍"
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
+
+https://www.sqlalchemy.org/
+https://github.com/mitsuhiko/flask-sqlalchemy
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+
+
+
+
+
+https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
+
+https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
 https://www.obeythetestinggoat.com/
@@ -5384,13 +5397,9 @@ Django Sites
 
 https://www.python.org/about/apps/ | Applications for Python | Python.org
 
-https://en.wikipedia.org/wiki/Benevolent_dictator_for_life | Benevolent dictator for life - Wikipedia
-
 http://www.pythonmagazine.com
 
 https://www.pygame.org/news | https://www.pygame.org/news
-
-https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
 
 https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
 
@@ -5401,18 +5410,8 @@ https://github.com/encode/apistar | encode/apistar: A smart Web API framework, d
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
 
-
-
-
-http://docs.python-requests.org/en/master/
 
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
 
@@ -5420,11 +5419,6 @@ http://www.juiceanalytics.com/ | Juice Analytics
 http://www.juiceanalytics.com/juicebox-home/
 
 https://conda.io/docs/user-guide/tasks/manage-environments.html | Managing environments — Conda documentation
-
-https://www.sqlalchemy.org/
-https://github.com/mitsuhiko/flask-sqlalchemy
-
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
 
 https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transactions | Django documentation | Django
 
@@ -5655,6 +5649,8 @@ Python Package Managers
 * []()
 
 <!--
+http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
+
 https://github.com/pypa/python-packaging-user-guide/issues
 https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
 https://packaging.python.org/new-tutorials/installing-and-using-packages
@@ -5701,10 +5697,12 @@ Python- Django- Packages and Snippets (Unofficial)
 
 #### Python and Django Templates and Microframeworks
 
+Python- Django- Pinax
+* [Pinax](http://pinaxproject.com) 
+
 <!--
 Eldarion and Pinax
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
-* [Pinax](http://pinaxproject.com) 
 * [Pinax GitHub](https://github.com/pinax)
 * [Pinax Slack](http://slack.pinaxproject.com)
 
@@ -5717,9 +5715,6 @@ Python- Microframeworks and Template Engines
 * [Flask](http://flask.pocoo.org), [Flask GitHub](https://github.com/mitsuhiko/flask), and [Flask Blueprints](http://flask.pocoo.org/docs/0.12/blueprints)
 * [WebPy GitHub](https://github.com/webpy/webpy)
 * [Tornado](http://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
-
-Python- Django- Pinax
-* [Pinax](http://pinaxproject.com) 
 
 Python- Django- Cookiecutter (See also Packages)
 * [Django Packages Cookiecutters](https://www.djangopackages.com/grids/g/cookiecutters)
@@ -5973,6 +5968,8 @@ Python- Django- Records, Requests
 * [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 <!--
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+
 https://github.com/kennethreitz/homebrew-pythons
 http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
 https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
