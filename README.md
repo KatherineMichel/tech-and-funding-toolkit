@@ -5271,15 +5271,58 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
+Joni Trythall
+http://elaconf.com
+https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
+http://ela.community
+https://twitter.com/JoniTrythall
 
-https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
+http://jonibologna.com/ | Joni Bologna’s Blog
+http://yupgup.com/ | Design for Events & Communities - YupGup
+http://www.toptentypography.tips
+https://speakerdeck.com/jonibologna/just-enough-typography
+https://confreaks.tv/videos/djangoconus2016-just-enough-typography
+https://jefftriplett.com/colophon
+https://github.com/jonitrythall/minitutstownworkshop
+http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 
-https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
+Lacey
+https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
+http://www.revsys.com/tidbits/docker-useful-command-line-stuff/ | Docker: Useful Command Line Stuff
+http://www.revsys.com/tidbits/brief-intro-docker-djangonauts | A Brief Intro to Docker for Djangonauts
 
-https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
+https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
 
+https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
 
+https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
+
+http://www.financeandpython.com | Finance and Python
+
+Kenneth Reitz
+https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
+
+https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
+https://dbader.org/blog/python-first-class-functions
+https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
+
+https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
+https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
+https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
+https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
+https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
+https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
+http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
+
+https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
+
+https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
+
+https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
+
+https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-joins-microsoft/ | Don Jayamanne, creator of the Python extension for Visual Studio Code, joins Microsoft – Python Engineering at Microsoft
+https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace
+https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
 
 Philly
 http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
@@ -5288,6 +5331,18 @@ http://django-oscar-wagtail.readthedocs.io/en/latest/introduction.html | Introdu
 https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | Django E-Commerce Tutorial With Wagtail CMS - Snipcart
 https://github.com/wharton/python-vagrant-centos7#creating-erds-of-django-models | wharton/python-vagrant-centos7
 https://raw.githubusercontent.com/wharton/python-vagrant-centos7/master/assets/users-faculty-courses.png | users-faculty-courses.png (2052×931)
+
+
+
+
+
+https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
+
+https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
+
+https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
+
+https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
 
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
@@ -5321,10 +5376,6 @@ https://docs.pytest.org/en/latest/example/
 https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
 noqa - Google Search
 
-https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-joins-microsoft/ | Don Jayamanne, creator of the Python extension for Visual Studio Code, joins Microsoft – Python Engineering at Microsoft
-https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace
-https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
-
 https://docs.python.org/3/ | 3.6.2 Documentation
 https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
 django parallel tests
@@ -5349,8 +5400,6 @@ https://github.com/encode/apistar | encode/apistar: A smart Web API framework, d
 
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-
-http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
 
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
@@ -5381,9 +5430,6 @@ https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transa
 
 django fixtures
 wsgi
-
-http://madewithwagtail.org
-https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
 
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
 
@@ -5532,23 +5578,13 @@ Python (See also Data Science)
 * [Python](http://www.python.org), [Python GitHub](https://github.com/python), and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 * [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
 * [Python Docs](https://docs.python.org)
-* [Python Standard Library](https://docs.python.org/3.5/library)
 * [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
-
-
 
 <!--
 https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
 
-https://www.python.org/doc/ | Our Documentation | Python.org
-https://www.python.org/doc/versions
-
 http://whypy3.com/#numeric-literals | Why Python 3?
 https://pythonclock.org Python 2.7 Countdown
-https://docs.python.org/3/ | 3.6.2 Documentation
-
-https://wiki.python.org/moin/Python2orPython3
-https://www.djangopackages.com/python3/
 -->
 
 CPython
@@ -5584,78 +5620,6 @@ Pyenv
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 -->
-
-
-
-#### Python and Django Playbooks and Styleguides
-
-Python- Playbooks
-* [Kenneth Reitz: Python Guide GitHub](https://github.com/kennethreitz/python-guide) and [The Hitchhiker’s Guide to Python!](http://docs.python-guide.org/en/latest)
-* [Kenneth Reitz: Dream Python GitHub](https://github.com/kennethreitz/dream-python)
-* [Full Stack Python](https://www.fullstackpython.com)
-
-<!--
-http://docs.python-guide.org/en/latest/starting/install/osx/
-http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
--->
-
-Python- Playbooks
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure) and [Sample Module GitHub](https://github.com/kennethreitz/samplemod)
-
-Python- Django- Project Stucture
-* [Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-<!--
-Lincoln Loop’s Django Best Practices
-http://lincolnloop.com/django-best-practices/
-https://github.com/lincolnloop/django-best-practices
-Deprecated
-https://github.com/lincolnloop/django-layout
-
-http://www.kennethreitz.org/essays/a-better-pip-workflow
-https://devcenter.heroku.com/articles/deploying-python
-
-See other article also
-http://nvie.com/posts/pin-your-packages/
-pip-tools https://github.com/nvie/pip-tools
-
-http://www.revsys.com/12days
-http://www.frankwiles.com/posts/django-template-variable-or-else
--->
-
-Python- PEP
-* [PEP Index](https://www.python.org/dev/peps)
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-* [PEP 0008 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-* [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
-* [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
-
-<!--
-https://www.python.org/dev/peps/pep-0498
-
-https://www.python.org/dev/peps/pep-0008/#a-foolish-consistency-is-the-hobgoblin-of-little-minds
-http://www.python.org/dev/peps/pep-0008/#maximum-line-length
-http://www.python.org/dev/peps/pep-0328/
-http://www.python.org/dev/peps/pep-0386
-http://www.python.org/dev/peps/pep-0427/
-http://www.python.org/dev/peps/pep-0263/
-http://www.python.org/dev/peps/pep-0257
-
-https://github.com/amontalenti/elements-of-python-style
--->
-
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: Requests Contributor's Guide](http://docs.python-requests.org/en/master/dev/contributing/#code-style)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Guide Style Guide](http://docs.python-guide.org/en/latest/notes/styleguide)
 
 
 
@@ -6218,6 +6182,11 @@ Python- Django- CMS, E-Commerce
 Python- Django- Wagtail (Recommended)
 * [Wagtail CMS GitHub](https://github.com/torchbox/wagtail), [Wagtail CMS Demo GitHub](https://github.com/torchbox/wagtaildemo), and [Wagtail CMS Template GitHub](https://github.com/torchbox/wagtail-template) 
 * [Wagtail Docs](http://docs.wagtail.io) and [Wagtail Read the Docs](https://media.readthedocs.org/pdf/wagtail/latest/wagtail.pdf)
+
+<!--
+http://madewithwagtail.org
+https://wagtail.io/blog/nhs-picks-wagtail/ | The NHS picks Wagtail | Wagtail CMS
+-->
 
 Python- Django- Other CMS and E-Commerce Options
 * [Django Fluent CMS](http://django-fluent.org), [Django Fluent CMS GitHub](https://github.com/edoburu), and [Django Fluent CMS Docs](http://django-fluent.org/documentation)  
