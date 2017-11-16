@@ -5308,6 +5308,9 @@ https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of 
 https://dbader.org/blog/python-first-class-functions
 https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
 
+Lightning Talk
+http://treyhunner.com/talk-talk/#/
+
 https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
 https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
 https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
@@ -5358,10 +5361,30 @@ https://github.com/mitsuhiko/flask-sqlalchemy
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
+https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
+
+https://pypi.org/project/cherry-picker
+https://pypi.python.org/pypi/johnny-cache
 
 
 
 
+
+
+
+http://www.slideshare.net/jacobian/the-best-and-worst-of-django
+http://jacobian.org/writing/rest-worst-practices/
+https://github.com/jacobian/django-dotenv
+
+http://www.pydanny.com/python-decorator-cheatsheet.html
+
+https://github.com/pydanny/cached-property
+http://www.pydanny.com/cached-property.html
+
+pydanny’s blog
+http://pydanny.com/tag/django.html
+http://pydanny.com/tag/class-based-views.html
+http://www.pydanny.com/tag/forms.html
 
 https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
 
@@ -5400,8 +5423,6 @@ https://www.python.org/about/apps/ | Applications for Python | Python.org
 http://www.pythonmagazine.com
 
 https://www.pygame.org/news | https://www.pygame.org/news
-
-https://github.com/rosarior/awesome-django | rosarior/awesome-django: Repository mirror of GitLab: https://gitlab.com/rosarior/awesome-django
 
 https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
 https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
@@ -5443,9 +5464,6 @@ http://djangoappschecklist.com
 https://github.com/python/planet
 https://github.com/epicserve/epicserve-docs
  
-https://pypi.org/project/cherry-picker
-https://pypi.python.org/pypi/johnny-cache
-
 Django Project’s Feeds
 Lincoln Loop’s Django Round Up
 PyCoders Weekly and Python Weekly
@@ -5538,6 +5556,13 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+Pythonista
+https://twitter.com/treyhunner/lists
+
+https://github.com/jacobian
+http://www.slideshare.net/jacobian
+https://github.com/jacobian-archive
+
 http://williln.github.io/
 https://github.com/williln/williln.github.io
 
@@ -5557,8 +5582,6 @@ https://speakerdeck.com/andrewgodwin
 https://github.com/econchick
 https://github.com/lorenanicole
 https://www.kennethreitz.org/talks/ | Talks — Kenneth Reitz
-
-https://twitter.com/treyhunner/lists
 -->
 
 Python- Django- News
@@ -5613,8 +5636,10 @@ Pyenv
 <!--
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
--->
 
+http://docs.python-guide.org/en/latest/starting/install/osx/
+http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
+-->
 
 
 #### Django General
