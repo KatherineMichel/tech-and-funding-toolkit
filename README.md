@@ -346,10 +346,6 @@ Documentation- General
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
 
-<!--
-https://www.packtpub.com/account/my-ebooks
--->
-
 IBM Documentation
 * [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
 * [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
@@ -1621,6 +1617,7 @@ https://github.com/business/customers
 Gist and Similar
 * [Gist](https://gist.github.com) and [Gist Starred](https://gist.github.com/starred)
 * [Pastebin](https://pastebin.com)
+* [dpaste](https://dpaste.de)
 
 Raw Git
 * [Raw Git](https://rawgit.com)
@@ -1728,6 +1725,8 @@ Types of Licenses
 * [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
 
 <!--
+http://matt.might.net/articles/crapl/ | The CRAPL: An academic-strength open source license
+
 https://www.apache.org/legal/resolved.html#category-x
 
 https://creativecommons.org/publicdomain/zero/1.0
@@ -5546,6 +5545,7 @@ Python- Django Community
 * [Daniel Greenfeld](http://www.pydanny.com), [Daniel Greenfeld](https://github.com/pydanny) and [Daniel Greenfeld Patreon](https://www.patreon.com/danielroygreenfeld)
 * [Jacob Kalplan-Moss](http://jacobian.org)
 * [Jeff Triplett](http://www.jefftriplett.com)
+* [Lacey Henschel](https://www.laceyhenschel.com)
 * [Ola Sendecka](http://blog.sendecka.me)
 * [Ola Sitarska](http://ola.sitarska.com)
 * [Simon Willison](https://simonwillison.net) and [Simon Willison Twitter](https://twitter.com/simonw )
@@ -8340,6 +8340,9 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+http://www.aaronsw.com/weblog/morebooks | HOWTO: Read more books (Aaron Swartz's Raw Thought)
+http://www.adamgrant.net/wondering | Wondering
+
 https://medium.com/@loic
 https://twitter.com/nbashaw
 http://sonalchokshi.org/ | @SMC90
