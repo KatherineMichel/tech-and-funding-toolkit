@@ -10176,6 +10176,9 @@ https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
 Keith Rabois Reading List
 https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
 
+* [Daniel Kahneman Wikipedia](https://en.wikipedia.org/wiki/Daniel_Kahneman)
+* [Amos Tversky Wikipedia](https://en.wikipedia.org/wiki/Amos_Tversky)
+
 Business Model You: A One-Page Method For Reinventing Your Career
 https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
 
