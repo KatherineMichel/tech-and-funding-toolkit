@@ -5350,21 +5350,14 @@ https://github.com/dropbox/pyannotate
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 
-
-
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
-
 https://www.pygame.org/news | https://www.pygame.org/news
 
 http://www.juiceanalytics.com/juicebox-home/
 
-django fixtures
-wsgi
-
 Provide guidance on editing PRs prior to merge
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
 
- 
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
 
 http://www.miniwebtool.com/django-secret-key-generator
@@ -5546,6 +5539,8 @@ Virtual Environment
 * [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
 
 <!--
+https://pythonhosted.org/an_example_pypi_project/setuptools.html
+
 http://docs.python-guide.org/en/latest/starting/install/osx/
 http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
 -->
@@ -5588,6 +5583,10 @@ Python- Django- Resources
 
 #### Python and Django Packages and Snippets
 
+Python- Django- Packages and Snippets (Unofficial)
+* [Django Packages](https://www.djangopackages.com)
+* [Django Snippets](https://djangosnippets.org) 
+
 Python- Packages/Libraries
 * [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
 * [Python Packaging Authority GitHub](https://github.com/pypa)  
@@ -5604,18 +5603,22 @@ Python- Packages/Libraries
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
 https://github.com/pypa/python-packaging-user-guide/issues
+
+https://packaging.python.org/guides/
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
-https://packaging.python.org/new-tutorials/installing-and-using-packages
+https://packaging.python.org/tutorials/installing-packages
 
 http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 -->
 
 Python and Django- Creating Packages
 * [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+
+Python and Django- Cookiecutter Creating Packages
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
 * [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
 * [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
@@ -5631,24 +5634,13 @@ Python and Django- Wheel (versus Egg!)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
 
-Python- Django- Packages and Snippets (Unofficial)
-* [Django Packages](https://www.djangopackages.com)
-* [Django Snippets](https://djangosnippets.org) 
-
-
 #### Python and Django Templates and Microframeworks
 
 Python- Django- Pinax
 * [Pinax](http://pinaxproject.com) 
-
-<!--
-Eldarion and Pinax
 * [Eldarion](http://eldarion.com) and [Eldarion GitHub](https://github.com/eldarion)
 * [Pinax GitHub](https://github.com/pinax)
 * [Pinax Slack](http://slack.pinaxproject.com)
-
-Pinax Hangouts YouTube
--->
 
 Python- Microframeworks and Template Engines
 * [Bottle](http://bottlepy.org/docs/dev/index.html)  
@@ -5818,9 +5810,6 @@ More WSGI (See also Apache)
 * [uWsgi GitHub](https://github.com/unbit/uwsgi) and [uWsgi Docs](http://uwsgi-docs.readthedocs.org/en/latest)
 
 <!--
-http://python-packaging-user-guide.readthedocs.org/en/latest/installing
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
 https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
 -->
 
