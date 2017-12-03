@@ -5285,48 +5285,26 @@ https://jefftriplett.com/colophon
 https://github.com/jonitrythall/minitutstownworkshop
 http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
 
-https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
-
 Lacey
 https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
 http://www.revsys.com/tidbits/docker-useful-command-line-stuff/ | Docker: Useful Command Line Stuff
 http://www.revsys.com/tidbits/brief-intro-docker-djangonauts | A Brief Intro to Docker for Djangonauts
 
-https://twitter.com/dbader_org/status/925764913041215489 | Dan Bader on Twitter: "BTW this is the foreword for Python Tricks: The Book by the amazing @mariatta (CPython core developer, PyLadies Vancouver organizer) https://t.co/kHYDw6uJRC"
+https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
 https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
-
-https://www.khanacademy.org/computing/computer-programming/programming/functions/p/function-return-values | Function Return Values | Functions | Khan Academy
 
 http://www.financeandpython.com | Finance and Python
 
 Kenneth Reitz
 https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
 
-https://dbader.org/blog/ultimate-list-of-python-podcasts | The Ultimate List of Python Podcasts – dbader.org
-https://dbader.org/blog/python-first-class-functions
-https://dbader.org/products/sublime-python-guide/ | Sublime Text for Python Developers – dbader.org
-
-Lightning Talk
-http://treyhunner.com/talk-talk/#/
-
-https://www.crowdcast.io/e/namespaces | Namespaces in Python – Crowdcast
-https://www.crowdcast.io/e/pygotham17 | PyGotham Chat – Crowdcast
-https://www.crowdcast.io/e/linting/register | Linting Python Code - Crowdcast
-https://www.crowdcast.io/e/comprehensions | List Comprehensions & Generator Expressions - Crowdcast
-https://www.crowdcast.io/e/classes-2/register | Classes in Python - Crowdcast
-https://www.crowdcast.io/e/PyConAU/register?session=1&qid=-Ks7fuwM8bTUOUtFLptn
-http://treyhunner.com/2017/07/craft-your-python-like-poetry/ | Craft Your Python Like Poetry - Trey Hunner
-
-https://www.youtube.com/watch?v=Wd7vcuiMhxU | Loop better - a deeper look at iteration in Python - YouTube
-
-https://jeffknupp.com/blog/2013/02/14/drastically-improve-your-python-understanding-pythons-execution-model/ | Drastically Improve Your Python: Understanding Python's Execution Model
-
 https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
 
 https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-joins-microsoft/ | Don Jayamanne, creator of the Python extension for Visual Studio Code, joins Microsoft – Python Engineering at Microsoft
-https://marketplace.visualstudio.com/items?itemName=ms-python.python | Python - Visual Studio Marketplace
-https://code.visualstudio.com/docs/languages/python | Python with Visual Studio Code
 
 https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
 
@@ -5365,101 +5343,33 @@ https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
 https://pypi.org/project/cherry-picker
 https://pypi.python.org/pypi/johnny-cache
 
-
-
-
-
-
-
-http://www.slideshare.net/jacobian/the-best-and-worst-of-django
-http://jacobian.org/writing/rest-worst-practices/
-https://github.com/jacobian/django-dotenv
-
-http://www.pydanny.com/python-decorator-cheatsheet.html
-
-https://github.com/pydanny/cached-property
-http://www.pydanny.com/cached-property.html
-
-pydanny’s blog
-http://pydanny.com/tag/django.html
-http://pydanny.com/tag/class-based-views.html
-http://www.pydanny.com/tag/forms.html
-
-https://snarky.ca/the-history-behind-the-decision-to-move-python-to-github/ | The history behind the decision to move Python to GitHub
-
+http://mypy.readthedocs.io/
 https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
-https://www.obeythetestinggoat.com/
-https://martinfowler.com/bliki/TestCoverage.html
-https://en.wikipedia.org/wiki/Code_coverage
-https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
-https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
-http://pythontesting.net/start-here | Start Here - Python Testing
-http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
-https://bitbucket.org/ned/coveragepy | ned / coverage.py — Bitbucket
-https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
-http://django-test-plus.readthedocs.io/en/latest/
-https://github.com/FactoryBoy/factory_boy | FactoryBoy/factory_boy: A test fixtures replacement for Python
-https://github.com/timothycrosley/isort | timothycrosley/isort: A Python utility / library to sort imports.
-http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
-https://github.com/zheller/flake8-quotes | zheller/flake8-quotes: Flake8 extension for checking quotes in python
-https://docs.pytest.org/en/latest/example/
-https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
-noqa - Google Search
-
-https://docs.python.org/3/ | 3.6.2 Documentation
-https://docs.python.org/3/tutorial/interpreter.html | 2. Using the Python Interpreter — Python 3.6.2 documentation
-django parallel tests
-https://docs.python.org/3.7/whatsnew/3.7.html | What’s New In Python 3.7 — Python 3.7.0a1 documentation
-Django Sites
-
-https://www.python.org/about/apps/ | Applications for Python | Python.org
-
-http://www.pythonmagazine.com
-
-https://www.pygame.org/news | https://www.pygame.org/news
-
-https://github.com/nioperas06/awesome-django-rest-framework | nioperas06/awesome-django-rest-framework: Tools, processes and resources you need to create an awesome API with Django REST Framework
-https://www.youtube.com/watch?v=9guGBxL_dpE | Administration & Building of Django-based REST API w/ Alyssa Andrews - YouTube
-https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
+https://github.com/dropbox/pyannotate
 
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 
 
 
-
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
 
-http://www.juiceanalytics.com/ | Juice Analytics
+https://www.pygame.org/news | https://www.pygame.org/news
+
 http://www.juiceanalytics.com/juicebox-home/
-
-https://conda.io/docs/user-guide/tasks/manage-environments.html | Managing environments — Conda documentation
-
-https://docs.djangoproject.com/en/1.11/topics/db/transactions/ | Database transactions | Django documentation | Django
 
 django fixtures
 wsgi
 
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
 
-
-New
-https://mail.python.org/mailman/listinfo/core-workflow 
-
-http://python.apichecklist.com
-
+ 
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
 
 http://www.miniwebtool.com/django-secret-key-generator
   
 https://github.com/python/devguide/issues/129
   
-http://djangoappschecklist.com
 https://github.com/python/planet
 https://github.com/epicserve/epicserve-docs
  
@@ -5470,6 +5380,8 @@ PyCoders Weekly and Python Weekly
 
 http://pytz.sourceforge.net
 -->
+
+
 
 #### Python and Django Foundations
 
@@ -5484,6 +5396,8 @@ Consulting Firms
 * [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
+http://www.juiceanalytics.com/ | Juice Analytics
+
 https://twitter.com/CaktusGroup/following
 https://www.caktusgroup.com/talks/speaker/mark-lavin
 https://www.caktusgroup.com/blog/2016/02/02/writing-unit-tests-django-migrations
@@ -5595,13 +5509,17 @@ Python (See also Data Science)
 * [Python](http://www.python.org), [Python GitHub](https://github.com/python), and [Python Wikipedia](http://en.wikipedia.org/wiki/Python_(programming_language))  
 * [Python Portal Wikipedia](http://en.wikipedia.org/wiki/Portal:Python_programming)
 * [Python Docs](https://docs.python.org)
+* [Python Magazine](http://www.pythonmagazine.com)
 * [PyPy (Python Interpreter) Wikipedia](http://en.wikipedia.org/wiki/PyPy)  
 
 <!--
+https://www.python.org/about/apps/ | Applications for Python | Python.org
+
 https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
 
 http://whypy3.com/#numeric-literals | Why Python 3?
 https://pythonclock.org Python 2.7 Countdown
+http://py3readiness.org/ | Python 3 Readiness - Python 3 support table for most popular Python packages
 -->
 
 CPython
@@ -5628,17 +5546,32 @@ Virtual Environment
 * [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io) and [Virtualenvwrapper BitBucket](http://www.doughellmann.com/projects/virtualenvwrapper)
 * [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
 
-Pyenv
+Python Environment and Version Management
+* [Conda Managing Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 * [Pyenv GitHub](https://github.com/yyuu/pyenv)
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
 
+Other Python Package Managers
+* [Poet GitHub](https://github.com/sdispater/poet)
+* [Flit GitHub](https://github.com/takluyver/flit)
+
 <!--
+https://packaging.python.org/key_projects/?highlight=pipenv
+
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 
 http://docs.python-guide.org/en/latest/starting/install/osx/
 http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
+
+http://docs.pipenv.org/en/latest/advanced.html | Advanced Usage of Pipenv — pipenv 7.6.2 documentation
+https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.2.6 documentation
+http://docs.pipenv.org/en/latest
+https://github.com/kennethreitz/env
+https://github.com/kennethreitz/pipenv/blob/master/Dockerfile | pipenv/Dockerfile at master · kennethreitz/pipenv
+https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
+https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
 -->
 
 
@@ -5670,28 +5603,16 @@ Python- Packages/Libraries
 * [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
-Python Package Managers
-* []()
-
 <!--
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
 https://github.com/pypa/python-packaging-user-guide/issues
 https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
+https://packaging.python.org/tutorials/ | Tutorials — Python Packaging User Guide
+https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 https://packaging.python.org/new-tutorials/installing-and-using-packages
 
-http://docs.pipenv.org/en/latest/advanced.html | Advanced Usage of Pipenv — pipenv 7.6.2 documentation
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.2.6 documentation
-http://docs.pipenv.org/en/latest
-https://github.com/kennethreitz/env
-https://github.com/kennethreitz/pipenv/blob/master/Dockerfile | pipenv/Dockerfile at master · kennethreitz/pipenv
-https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
-https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
-
-Python Package Managers
-https://github.com/sdispater/poet
-https://github.com/takluyver/flit
-https://packaging.python.org/key_projects/?highlight=pipenv
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 -->
 
 Python and Django- Creating Packages
@@ -5949,17 +5870,34 @@ pytest and Nose (Unit Test Extension)
 * [mock PyPi](https://pypi.python.org/pypi/mock)
 
 <!--
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-http://www.pyinvoke.org/
-https://github.com/revsys/django-test-plus
-http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
+https://www.obeythetestinggoat.com/
+https://martinfowler.com/bliki/TestCoverage.html
+https://en.wikipedia.org/wiki/Code_coverage
+https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
+https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
+https://bitbucket.org/ned/coveragepy | ned / coverage.py — Bitbucket
+coverage http://coverage.readthedocs.org/
+https://github.com/revsys/django-test-plus | revsys/django-test-plus: Useful additions to Django's default TestCase
+http://django-test-plus.readthedocs.io/en/latest/
+https://github.com/FactoryBoy/factory_boy | FactoryBoy/factory_boy: A test fixtures replacement for Python
+factory boy https://pypi.python.org/pypi/factory_boy
+https://github.com/timothycrosley/isort | timothycrosley/isort: A Python utility / library to sort imports.
+http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
+https://github.com/zheller/flake8-quotes | zheller/flake8-quotes: Flake8 extension for checking quotes in python
+https://docs.pytest.org/en/latest/example/
+https://github.com/tox-dev/detox | tox-dev/detox: distributed tox
+noqa - Google Search
 
+
+http://www.pyinvoke.org/
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
 
 http://doc.pytest.org/en/latest/contents.html#toc
 
 Testing
-coverage http://coverage.readthedocs.org/
-factory boy https://pypi.python.org/pypi/factory_boy
 model mommy https://pypi.python.org/pypi/model_mommy
  
 2.12 Writing your first patch for Django
@@ -6034,6 +5972,7 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
 <!--
+https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
 http://www.aeracode.org/2017/7/11/towards-channels-20/
 http://www.encode.io/reports/july-2017
 https://github.com/encode/django-rest-framework/issues
@@ -6042,7 +5981,6 @@ http://www.django-rest-framework.org/tutorial/quickstart/#project-setup
 http://www.django-rest-framework.org/api-guide/filtering
 https://github.com/encode/uvicorn
 http://www.uvicorn.org/toolkit
-https://github.com/encode/apistar
 
 http://gunicorn.org
 -->
