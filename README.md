@@ -5546,32 +5546,29 @@ Virtual Environment
 * [Virtualenvwrapper](https://virtualenvwrapper.readthedocs.io) and [Virtualenvwrapper BitBucket](http://www.doughellmann.com/projects/virtualenvwrapper)
 * [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
 
+<!--
+http://docs.python-guide.org/en/latest/starting/install/osx/
+http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
+-->
+
 Python Environment and Version Management
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 * [Conda Managing Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 * [Pyenv GitHub](https://github.com/yyuu/pyenv)
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
 
-Other Python Package Managers
-* [Poet GitHub](https://github.com/sdispater/poet)
-* [Flit GitHub](https://github.com/takluyver/flit)
-
 <!--
-https://packaging.python.org/key_projects/?highlight=pipenv
-
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
-
-http://docs.python-guide.org/en/latest/starting/install/osx/
-http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
 
 http://docs.pipenv.org/en/latest/advanced.html | Advanced Usage of Pipenv — pipenv 7.6.2 documentation
 https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.2.6 documentation
 http://docs.pipenv.org/en/latest
-https://github.com/kennethreitz/env
 https://github.com/kennethreitz/pipenv/blob/master/Dockerfile | pipenv/Dockerfile at master · kennethreitz/pipenv
 https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
 https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
+https://github.com/kennethreitz/env
 -->
 
 
