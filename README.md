@@ -5361,15 +5361,14 @@ http://www.juiceanalytics.com/juicebox-home/
 django fixtures
 wsgi
 
+Provide guidance on editing PRs prior to merge
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
 
  
 https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty
 
 http://www.miniwebtool.com/django-secret-key-generator
-  
-https://github.com/python/devguide/issues/129
-  
+    
 https://github.com/python/planet
 https://github.com/epicserve/epicserve-docs
  
@@ -5553,6 +5552,7 @@ http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
 
 Python Environment and Version Management
 * [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+* [Pipenv Read the Docs](https://pipenv.readthedocs.io)
 * [Conda Managing Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 * [Pyenv GitHub](https://github.com/yyuu/pyenv)
 * [Pyenv-virtualenv GitHub](https://github.com/yyuu/pyenv-virtualenv)
@@ -5563,8 +5563,6 @@ https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 
 http://docs.pipenv.org/en/latest/advanced.html | Advanced Usage of Pipenv — pipenv 7.6.2 documentation
-https://pipenv.readthedocs.io/en/latest/ | Pipenv: Python Dev Workflow for Humans — pipenv 8.2.6 documentation
-http://docs.pipenv.org/en/latest
 https://github.com/kennethreitz/pipenv/blob/master/Dockerfile | pipenv/Dockerfile at master · kennethreitz/pipenv
 https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
 https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
@@ -5597,15 +5595,15 @@ Python- Packages/Libraries
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
 * [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
 * [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-* [Python Packaging User Guide](https://packaging.python.org/en/latest/distributing.html)  
+* [Python Packaging User Guide](https://packaging.python.org) 
+* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
+* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
 <!--
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
 https://github.com/pypa/python-packaging-user-guide/issues
-https://packaging.python.org/ | Python Packaging User Guide — Python Packaging User Guide
-https://packaging.python.org/tutorials/ | Tutorials — Python Packaging User Guide
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 https://packaging.python.org/new-tutorials/installing-and-using-packages
 
