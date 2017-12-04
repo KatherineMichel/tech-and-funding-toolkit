@@ -12,6 +12,9 @@ Table of Contents
 - [Disqus](#disqus)
 
 <!--
+https://codeinthedarkspokane.com/ | Code in the Dark - Spokane
+https://github.com/brentschneider/Code-In-The-Dark-Spokane
+
 npm 
 https://github.com/OpenCollective/opencollective-website
 https://opencollective.com/
