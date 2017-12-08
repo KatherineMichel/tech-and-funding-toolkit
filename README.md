@@ -1891,9 +1891,9 @@ https://github.com/zalando/zalando-howto-open-source
 https://github.com/ddbeck/readme-checklist
 
 CODE_OF_CONDUCT
-https://github.com/stevemao/github-issue-templates
+https://github.com/devspace/awesome-github-templates | devspace/awesome-github-templates: Curated list of GitHub Issues and Pull Requests templates
+https://github.com/stevemao/github-issue-templates | stevemao/github-issue-templates: A collection of GitHub issue and pull request templates
 
-https://github.com/devspace/awesome-github-templates
 https://github.com/jessicard/remote-jobs/blob/master/PULL_REQUEST_TEMPLATE.MD
 https://github.com/tylucaskelley/github-templates/blob/master/CONTRIBUTING.md
 
