@@ -1778,6 +1778,11 @@ http://opensourcesurvey.org/2017/#insights
 
 https://opensourcefriday.com
 
+https://github.com/maintainerati | Maintainerati
+https://maintainerati.org/ | Maintainerati
+https://twitter.com/maintainerati | Maintainerati (@maintainerati) | Twitter
+https://github.com/maintainerati/events | maintainerati/events: Home of information about Maintainerati events.
+
 https://opensource.com/open-organization/resources/open-org-maturity-model | The Open Organization Maturity Model | Opensource.com
 
 https://opensource.googleblog.com/2017/09/making-google-developers-documentation.html | Making the Google Developers Documentation Style Guide Public | Google Open Source Blog
@@ -1948,6 +1953,7 @@ https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with
 http://events.linuxfoundation.org/events/open-source-summit-north-america | Open Source Summit North America 2017 | Linux Conferences and Linux Events | The Linux Foundation
 
 https://github.com/LappleApple | LappleApple (Lauri Apple)
+certified LeSS (large-scale Scrum) practitioner
 https://opensource.apple.com/ | Open Source - Releases
 https://opensource.com/users/lapple | Lauri Apple | Opensource.com
 https://github.com/LappleApple/feedmereadmes | LappleApple/feedmereadmes: Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
@@ -5554,9 +5560,6 @@ Python Environment and Version Management
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
 
 <!--
-https://packaging.python.org/new-tutorials | Maze Found | Read the Docs
-https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
-
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 
@@ -5603,11 +5606,14 @@ Python- Packages/Libraries
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
 <!--
+https://github.com/kennethreitz/samplemod | kennethreitz/samplemod: Sample module for Python-Guide.org.
+
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
 
 https://github.com/pypa/python-packaging-user-guide/issues
 
 https://packaging.python.org/guides/
+https://packaging.python.org/new-tutorials | Maze Found | Read the Docs
 https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
 https://packaging.python.org/tutorials/installing-packages
 
