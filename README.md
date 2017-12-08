@@ -5554,6 +5554,9 @@ Python Environment and Version Management
 * [Pyenv-virtualenvwrapper GitHub](https://github.com/yyuu/pyenv-virtualenvwrapper)
 
 <!--
+https://packaging.python.org/new-tutorials | Maze Found | Read the Docs
+https://packaging.python.org/tutorials/installing-packages/ | Installing Packages — Python Packaging User Guide
+
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 
