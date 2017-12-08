@@ -5469,6 +5469,7 @@ Python- Django Community
 
 <!--
 Pythonista
+http://truthful.technology/ | Truthful Technology | On-Site Python and Django Training
 https://twitter.com/treyhunner/lists
 
 https://github.com/jacobian
@@ -5563,6 +5564,8 @@ Python Environment and Version Management
 https://github.com/yyuu/pyenv#homebrew-on-mac-os-x
 https://github.com/yyuu/pyenv/blob/master/COMMANDS.md
 
+https://github.com/kennethreitz/pipenv/issues/996 | Pipenv now has a homebrew formula · Issue #996 · kennethreitz/pipenv
+
 http://docs.pipenv.org/en/latest/advanced.html | Advanced Usage of Pipenv — pipenv 7.6.2 documentation
 https://github.com/kennethreitz/pipenv/blob/master/Dockerfile | pipenv/Dockerfile at master · kennethreitz/pipenv
 https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
@@ -5606,6 +5609,8 @@ Python- Packages/Libraries
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
 <!--
+https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
+
 https://github.com/kennethreitz/samplemod | kennethreitz/samplemod: Sample module for Python-Guide.org.
 
 http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
