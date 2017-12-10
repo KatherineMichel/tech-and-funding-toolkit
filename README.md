@@ -11363,10 +11363,7 @@ The Happiness Project
 Bullet Journal and Pomodoro Technique (see also: Agile Project Management)
 * [Bullet Journal](http://bulletjournal.com)
 * [The Pomodoro Technique](http://pomodorotechnique.com) and [Cirillo Consulting Pomodoro Technique](http://cirillocompany.de/pages/pomodoro-technique)
-
-<!--
-Personal Kanban
--->
+* [Personal Kanban](http://www.personalkanban.com/pk)
 
 #### Journalism Handbooks and Grammatical Style Guides
 
