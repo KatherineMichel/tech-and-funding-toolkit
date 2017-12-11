@@ -36,10 +36,11 @@ Table of Content
   * [Keyboard Shortcuts](#keyboard-shortcuts)
   * [Encoding](#encoding)
   * [Dot Files](#dot-files)
-* [Systems](#systems)
-  * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
+<!--
+* [Systems](#systems) 
   * [Startup Engineering MOOC](#startup-engineering-mooc)
-  * [Advice and Help for Beginners](#advice-and-help-for-beginners)  
+  * [Advice and Help for Beginners](#advice-and-help-for-beginners) 
+-->
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -1201,122 +1202,7 @@ Currently out of commission.
 
 
 
-<!--
-#### Open Companies
 
-https://stackoverflow.blog/2016/02/18/the-stack-overflow-interviewing-process/
-http://blog.triplebyte.com/how-to-interview-engineers
-https://redditblog.com/2017/08/02/acing-your-technical-interviews-at-reddit
-https://hbr.org/2014/04/the-ceo-of-automattic-on-holding-auditions-to-build-a-strong-team
-
-
-
-Buffer
-* [Buffer](https://bufferapp.com), [Buffer About](https://bufferapp.com/about), [Buffer Blog](https://blog.bufferapp.com), and [Buffer Slideshare](http://www.slideshare.net/Bufferapp) 
-* [Buffer Transparency](https://bufferapp.com/transparency), [Buffer Dashboard](https://buffer.baremetrics.io/dashboard), and [Buffer Spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AgrWVeoG5divdE81a2wzcHYxV1pacWE1UjM3V0w0MUE&amp;amp;amp;usp=drive_web#gid=4) 
-
-Clef
-* [Open Sourcing the Clef Handbook](http://blog.getclef.com/open-sourcing-the-clef-handbook) and [Clef Handbook GitHub](https://github.com/clef/handbook)
-
-Mattermark
-* [How We Spend Money at Mattermark](http://mattermark.com/how-we-spend-money-at-mattermark)
-
-Medium
-* [Medium Inside Launch Post](https://medium.com/inside/hatching-inside-medium-5ae60292d655), [Medium Inside](https://medium.com/inside), and [Medium The Story](https://medium.com/the-story)
-
-More
-* [Chartbeat Public Release](https://chartbeat.com/public-release-methodology/#intro)  
-* [Everpix Financial and Business Metrics Uncensored GitHub](https://github.com/everpix/Everpix-Intelligence) 
-
-<!--
-https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
-https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
-
-http://phx.corporate-ir.net/phoenix.zhtml?c=176060&p=irol-newsArticle&ID=2264001
-https://www.subscribewithamazon.com
-https://www.amazon.jobs/principles
-https://github.com/basecamp/handbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
-
-https://github.com/Paperwell?tab=repositories
-https://github.com/danluu/post-mortems
-
-https://github.com/nmsanchez?tab=repositories
-
-https://afonsopacifer.github.io/open-source-checklist/
-https://github.com/18F/bpa-identity-management
-https://github.com/bocoup/opendesignkit
-
-https://github.com/zincmade/employee-handbook
-https://github.com/rosarior/Code-of-Merit
-https://github.com/FormidableLabs/formidable-playbook
-https://github.com/goinvo/InvoPlaybook
-https://github.com/18F/partnership-playbook
-https://github.com/sprintly/sprint.ly-culture
-https://github.com/bonusly/un-handbook
-https://corner.squareup.com/2016/02/womeng-handbook-launch.html
-https://github.com/digitalocean/engineering-code-of-conduct
-
-https://github.com/Prismatic/eng-practices
-
-https://code.gov/#/policy-guide/docs/compliance/measuring-code
-https://github.com/isobar-idev/code-standards
-http://isobar-idev.github.io/code-standards
-
-https://github.com/asciimoo/ListOfGithubLists
-https://github.com/VarCI/inspiring-github-templates
-https://github.com/tutsplus/Website-Launch-Checklist-for-Web-Designers
-
-https://github.com/todogroup/opencodeofconduct
-https://github.com/spotify/code-of-conduct
-https://github.com/opengovfoundation/hr-manual
-
-https://github.com/babel/babel.github.io/issues
-
-https://github.com/DockYard/styleguides
-http://kafka.apache.org/coding-guide.html
-
-http://accessibility.voxmedia.com/
-https://github.com/voxmedia/accessibility
-https://www.w3.org/TR/WCAG/
-https://github.com/ascott1/accessibility-policy
-https://github.com/ascott1/ethical-web-dev
-https://ethicalweb.org/
--->
-
-#### Digital Agencies and Code Philosophies
-
-Digital Agency Playbook, Blog, Styleguide, Templates
-* [The Figure 53 Company Handbook](http://figure53.com/handbook)
-* [Hanno Logbook](https://logbook.hanno.co), [Hanno Playbook GitHub](https://github.com/wearehanno/playbook), and [Hanno Body Storming GitHub](https://github.com/wearehanno/designthinking/wiki/Body-Storming)
-* [Hypenotic Handbook GitHub](https://github.com/hypenotic/handbook)
-* [North GitHub](https://github.com/north/north) and [North](http://pointnorth.io)
-* [Thoughtbot Playbook](https://playbook.thoughtbot.com), [Thoughtbot Blog](https://robots.thoughtbot.com), [Thoughtbot Templates GitHub](https://github.com/thoughtbot/templates), and [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
-* [Thoughtbot Apprenticeship GitHub](https://github.com/thoughtbot/apprenticeship)
-* [Valve Software Employee Handbook](http://www.valvesoftware.com/company/Valve_Handbook_LowRes.pdf) 
-
-<!--
-Gitlab handbooks
-https://about.gitlab.com/2015/04/08/the-remote-manifesto
-https://about.gitlab.com/about
-https://about.gitlab.com/culture
-https://about.gitlab.com/handbook
-https://about.gitlab.com/handbook/hiring
-
-https://about.gitlab.com/handbook/people-operations
-
-https://thoughtbot.com/playbook
-https://github.com/thoughtbot/guides
-
-https://github.com/thoughtbot/guides/tree/master/protocol
-https://robots.thoughtbot.com/keeping-a-github-fork-updated
-https://robots.thoughtbot.com/tags/git
-
-https://github.com/hypenotic/hypelabs
--->
 
 
 
