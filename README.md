@@ -5608,7 +5608,15 @@ Python- Packages/Libraries
 * [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
 * [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
+Python and Django- Creating Packages
+* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
+
 <!--
+https://pypi.org/ | PyPI - the Python Package Index · Warehouse (PyPI)
+https://github.com/pypa/warehouse | pypa/warehouse: Next Generation Python Package Repository
+https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
+
 https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
 
 https://github.com/kennethreitz/samplemod | kennethreitz/samplemod: Sample module for Python-Guide.org.
@@ -5624,10 +5632,6 @@ https://packaging.python.org/tutorials/installing-packages
 
 http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 -->
-
-Python and Django- Creating Packages
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 
 Python and Django- Cookiecutter Creating Packages
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
