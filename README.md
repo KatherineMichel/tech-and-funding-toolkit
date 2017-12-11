@@ -39,12 +39,6 @@ Table of Content
 * [Systems](#systems)
   * [Digital Agencies and Code Philosophies](#digital-agencies-and-code-philosophies)  
   * [Startup Engineering MOOC](#startup-engineering-mooc)
-<!--
-  * [Git and Markdown](#git-and-markdown)
-  * [DevOps](#devops)
-  * [Open Source](#open-source)
-  * [Open Source Management](#open-source-management)
--->
   * [Advice and Help for Beginners](#advice-and-help-for-beginners)  
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
