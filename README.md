@@ -4760,16 +4760,11 @@ http://py3readiness.org/ | Python 3 Readiness - Python 3 support table for most 
 CPython
 * [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
-Python Authorities
-* [Python Authority Authority GitHub](https://github.com/pyaa)
-* [Python Code Quality Authority GitHub](https://github.com/PyCQA)
-
 Pip
 * [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
 * [Pip Wikipedia](http://en.wikipedia.org/wiki/Pip_(package_manager))
 * [Pip Installer](http://pip-installer.org)
 * [Pypa Get pip GitHub](https://github.com/pypa/get-pip)
-* [Pypa Warehouse](https://github.com/pypa/warehouse)
 
 <!--
 http://pythonhosted.org
@@ -4782,8 +4777,6 @@ Virtual Environment
 * [Virtualenvwrapper-Win PyPi](https://pypi.python.org/pypi/virtualenvwrapper-win) and [Virtualenvwrapper-Win GitHub](https://github.com/davidmarble/virtualenvwrapper-win)  
 
 <!--
-https://pythonhosted.org/an_example_pypi_project/setuptools.html
-
 http://docs.python-guide.org/en/latest/starting/install/osx/
 http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
 -->
@@ -4809,22 +4802,18 @@ https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 
 https://github.com/kennethreitz/env
 -->
 
-
 #### Django General
 
 Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Docs](https://docs.djangoproject.com)  
 
-Python- Django DEPS
-* [DEPS (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 Python- Django- Resources
 * [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
 * [Django Google Users Forum](https://groups.google.com/forum/#!forum/django-users) 
-* [Django Google Developers Forum](https://groups.google.com/forum/#!forum/django-developers) 
-* [Django Developers Slack](https://django-developers.herokuapp.com)
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
+
 
 #### Python and Django Packages and Snippets
 
@@ -4849,8 +4838,9 @@ Python and Django- Creating Packages
 * [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
 
 <!--
+* [Pypa Warehouse](https://github.com/pypa/warehouse)
+
 https://pypi.org/ | PyPI - the Python Package Index · Warehouse (PyPI)
-https://github.com/pypa/warehouse | pypa/warehouse: Next Generation Python Package Repository
 https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
 
 https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
@@ -4888,6 +4878,7 @@ Python and Django- Wheel (versus Egg!)
 * [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
 * [Python Wheels](http://pythonwheels.com)
 
+
 #### Python and Django Templates and Microframeworks
 
 Python- Django- Pinax
@@ -4914,9 +4905,7 @@ Python- Django- Cookiecutter (See also Packages)
 
 #### Python and Django Deployment
 
-Python- Django- Git and Deployment
-* [Working with Git and GitHub](https://docs.djangoproject.com/en/1.8/internals/contributing/writing-code/working-with-git)
-* [Deployment Checklist](https://docs.djangoproject.com/en/1.10/howto/deployment/checklist)
+
 
 Python- PEP 3333 (Python Web Server Gateway Interface)
 * [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
@@ -4987,9 +4976,6 @@ Django Class-Based-View Inspector -- Classy CBV
 
 http://cdrf.co
 http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
-
-http://www.fullstackpython.com/deployment.html
-http://masteringdjango.com/testing-in-django
 
 Database
 django-db-tools https://pypi.python.org/pypi/django-db-tools
