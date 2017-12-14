@@ -4615,7 +4615,9 @@ PyCoders Weekly and Python Weekly
 http://pytz.sourceforge.net
 -->
 
-
+<!--
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+-->
 
 #### Python and Django Foundations
 
@@ -4821,43 +4823,17 @@ Python- Django- Packages and Snippets (Unofficial)
 * [Django Packages](https://www.djangopackages.com)
 * [Django Snippets](https://djangosnippets.org) 
 
+
+
 Python- Packages/Libraries
 * [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
 * [Python Packaging Authority GitHub](https://github.com/pypa)  
 * [Python Package Warehouse](https://warehouse.python.org/project) 
 * [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
-* [PyPa Core Packaging Utilities](https://github.com/pypa/packaging)  
-* [PyPa Core Packaging Utilities Documents](https://packaging.pypa.io/en/latest/)  
-* [Python Packaging User Guide](https://packaging.python.org) 
-* [Python Packaging Tutorials](https://packaging.python.org/tutorials) 
-* [Python Packaging and Distributing Projects Tutorial](https://packaging.python.org/tutorials/distributing-packages/)  
-* [Digital Ocean Tutorial How to Package and Distribute Python Applications](https://www.digitalocean.com/community/tutorials/how-to-package-and-distribute-python-applications) 
 
-Python and Django- Creating Packages
-* [Distributing Python Modules](https://docs.python.org/3/distributing/index.html)
+
+
 * [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-
-<!--
-* [Pypa Warehouse](https://github.com/pypa/warehouse)
-
-https://pypi.org/ | PyPI - the Python Package Index · Warehouse (PyPI)
-https://warehouse.readthedocs.io/development/getting-started/ | Getting started — Warehouse 15.0.dev0 documentation
-
-https://kirankoduru.github.io/python/pypi-stats.html | How to get PyPI download statistics
-
-https://github.com/kennethreitz/samplemod | kennethreitz/samplemod: Sample module for Python-Guide.org.
-
-http://the-hitchhikers-guide-to-packaging.readthedocs.io/en/latest/contributing.html | Contribute Your Package to the World — The Hitchhiker's Guide to Packaging 1.0 documentation
-
-https://github.com/pypa/python-packaging-user-guide/issues
-
-https://packaging.python.org/guides/
-https://packaging.python.org/new-tutorials | Maze Found | Read the Docs
-https://packaging.python.org/tutorials/managing-dependencies/ | Managing Application Dependencies — Python Packaging User Guide
-https://packaging.python.org/tutorials/installing-packages
-
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
--->
 
 Python and Django- Cookiecutter Creating Packages
 * [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
@@ -4866,17 +4842,8 @@ Python and Django- Cookiecutter Creating Packages
 * [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
 
 <!--
-https://www.npmjs.com/package/generator-django
-
 https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
-
-https://pythonhosted.org/setuptools/formats.html
-http://python-packaging-user-guide.readthedocs.io/en/latest/wheel_egg/
 -->
-
-Python and Django- Wheel (versus Egg!)
-* [Wheel PyPi](https://pypi.python.org/pypi/wheel) and [Wheel Read the Docs](http://wheel.readthedocs.org)
-* [Python Wheels](http://pythonwheels.com)
 
 
 #### Python and Django Templates and Microframeworks
@@ -4962,6 +4929,8 @@ Database
 #### Python and Django Common Deployment Tools
 
 <!--
+https://www.npmjs.com/package/generator-django
+
 https://github.com/django/django-localflavor
 https://github.com/django/django-formtools
 https://github.com/django/django-contrib-comments
