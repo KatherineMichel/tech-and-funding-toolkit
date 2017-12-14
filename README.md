@@ -75,12 +75,12 @@ Table of Content
   * [Python- High Level](#python-high-level)
   * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)   
   * [Django General](#django-general)
+<!--
   * [Python and Django Contributing](#python-and-django-contributing)
   * [Python and Django Support Groups](#python-and-django-support-groups)
-  <!--* [Python and Django Conference Videos and Slides](#python-and-django-conference-videos-and-slides)-->
+  * [Python and Django Conference Videos and Slides](#python-and-django-conference-videos-and-slides)
   * [Python- Object Oriented Programming](#python-object-oriented-programming) 
-  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)       
-  * [Python and Django Packages and Snippets](#python-and-django-packages-and-snippets)
+  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)-->      
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Deployment](#python-and-django-deployment)
   * [Python and Django Lincoln Loop Stack](#python-and-django-lincoln-loop-stack)
@@ -4617,6 +4617,14 @@ http://pytz.sourceforge.net
 
 <!--
 http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+
+https://github.com/python/performance
+
+https://code.djangoproject.com/wiki/LittleEasyImprovements
+
+* [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
+
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
 -->
 
 #### Python and Django Foundations
@@ -4810,40 +4818,15 @@ Python- Django
 * [Django](https://www.djangoproject.com), [Django GitHub](https://github.com/django/django), and [Django Wikipedia](http://en.wikipedia.org/wiki/Django_(web_framework))  
 * [Django Docs](https://docs.djangoproject.com)  
 
-
 Python- Django- Resources
 * [Django Resources](https://code.djangoproject.com/wiki/DjangoResources)  
 * [Django Google Users Forum](https://groups.google.com/forum/#!forum/django-users) 
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
-
-#### Python and Django Packages and Snippets
-
 Python- Django- Packages and Snippets (Unofficial)
 * [Django Packages](https://www.djangopackages.com)
 * [Django Snippets](https://djangosnippets.org) 
 
-
-
-Python- Packages/Libraries
-* [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
-* [Python Packaging Authority GitHub](https://github.com/pypa)  
-* [Python Package Warehouse](https://warehouse.python.org/project) 
-* [PyPi Python Package Index PyPi](https://pypi.python.org/pypi)  
-
-
-
-* [PyPi Release Checklist](https://gist.github.com/audreyr/5990987) and [PyPi Release Checklist 2](https://gist.github.com/audreyr/9f1564ea049c14f682f4)
-
-Python and Django- Cookiecutter Creating Packages
-* [Cookiecutter Django Package GitHub](https://github.com/pydanny/cookiecutter-djangopackage)
-* [Cookiecutter PyPackage Read the Docs](https://cookiecutter.readthedocs.org/en/latest/tutorial1.html)
-* [Cookiecutter PyPackage GitHub](https://github.com/audreyr/cookiecutter-pypackage)
-* [Cookiecutter via Django Rest Framework: How to create a Third Party Package](http://www.django-rest-framework.org/topics/third-party-resources)
-
-<!--
-https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
--->
 
 
 #### Python and Django Templates and Microframeworks
