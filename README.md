@@ -4854,6 +4854,10 @@ Python- Django- Cookiecutter (See also Packages)
 * [Cookiecutter Django Deployment on Python Anywhere](http://cookiecutter-django.readthedocs.org/en/latest/deployment-on-pythonanywhere.html)
 * [Cookiecutter Django Deployment with Docker](http://cookiecutter-django.readthedocs.org/en/latest/deployment-with-docker.html)
 
+<!--
+https://github.com/audreyr/cookiecutter | audreyr/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.
+-->
+
 #### Python and Django Deployment
 
 
@@ -5104,6 +5108,7 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 <!--
 https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
 http://www.aeracode.org/2017/7/11/towards-channels-20/
+http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
 http://www.encode.io/reports/july-2017
 https://github.com/encode/django-rest-framework/issues
 https://github.com/encode/django-rest-framework/projects
@@ -5121,6 +5126,9 @@ Python- Django- Channels
 * [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
 
 <!--
+https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
+https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
+
 http://channels.readthedocs.io/en/2.0/asgi.html | ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
 https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
 
