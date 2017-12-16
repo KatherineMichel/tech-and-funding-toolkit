@@ -10519,6 +10519,10 @@ Journalism Handbooks
 * [The BuzzFeed News Standards And Ethics Guide](https://www.buzzfeed.com/shani/the-buzzfeed-editorial-standards-and-ethics-guide)
 * [On the Media: The Breaking News Consumer's Handbook](http://www.onthemedia.org/story/breaking-news-consumers-handbook-pdf) and [On the Media: The Breaking News Consumer's Handbook Post](http://www.onthemedia.org/story/breakingnews-consumers-handbook)
 
+<!--
+https://www.buzzfeed.com/emmyf/buzzfeed-style-guide | BuzzFeed Style Guide
+-->
+
 Journalism Style Guides 
 * [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
 * [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
