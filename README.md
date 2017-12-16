@@ -377,6 +377,7 @@ KDE (See also KHTML)
 #### Engineering Blogs, Design Systems, Style Guides
 
 <!--
+See Events
 http://webbyawards.com
 -->
 
@@ -4700,6 +4701,7 @@ Python- Django Community
 * [Eric Holscher Blog](http://ericholscher.com/blog)
 * [Frank Wiles](http://www.frankwiles.com)
 * [Heather Marie Luna](http://heats.life)
+* [Kenneth Love](https://thekennethlove.com)
 * [Kenneth Reitz](http://www.kennethreitz.org) and [Kenneth Reitz GitHub](https://github.com/kennethreitz)
 * [Daniel Greenfeld](http://www.pydanny.com), [Daniel Greenfeld](https://github.com/pydanny) and [Daniel Greenfeld Patreon](https://www.patreon.com/danielroygreenfeld)
 * [Jacob Kalplan-Moss](http://jacobian.org)
@@ -4716,6 +4718,7 @@ Python- Django Community
 
 <!--
 Pythonista
+http://mariatta.ca
 http://truthful.technology/ | Truthful Technology | On-Site Python and Django Training
 https://twitter.com/treyhunner/lists
 
@@ -6225,7 +6228,10 @@ http://kubernetes.io/docs/getting-started-guides/aws
 http://kubernetes.io/docs/hellonode
 https://github.com/kubernetes-incubator/cri-o
 
-https://github.com/kelseyhightower/kubernetes-the-hard-way
+https://github.com/kelseyhightower/pipeline | kelseyhightower/pipeline: A step by step guide on creating build and deployment pipelines for Kubernetes.
+https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kelseyhightower/oscon-2017-kubernetes-tutorial: OSCON 2017 Kubernetes Tutorial
+https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+
 http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
 https://deis.com/blog/2016/kubernetes-illustrated-guide/
 -->
@@ -9128,6 +9134,10 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 
 <!--
 https://theeuropas.com
+
+https://www.youtube.com/channel/UCa5-AIw8jipYOtRmGfYI7uw | Shorty Awards - YouTube
+https://www.streamys.org/ | The Streamy Awards
+http://webbyawards.com
 -->
 
 Mobile (See also Mobile)
@@ -9175,12 +9185,34 @@ Unboxing
 New
 https://www.amazon.com/gp/product/1501180738 | Amazon.com: The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance (9781501180736): Tom Brady: Books
 
+Blue Ocean
+https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
+https://en.wikipedia.org/wiki/Blue_Ocean_Strategy | Blue Ocean Strategy - Wikipedia
+
+https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
+https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
+https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
+https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
+
 https://www.principles.com/ | Principles by Ray Dalio
-https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021/ref=as_li_ss_tl?_encoding=UTF8&qid=&sr=&linkCode=sl1&tag=offsitoftimfe-20&linkId=98dba62b6694664a8e708b67b5b03486&utm_content=buffere470d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
+https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
+https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
+https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
 
 https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
 https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
+
+Tiny Habits
+http://www.tinyhabitsacademy.org/ | Home - Tiny Habits Academy
+https://www.google.com/search?source=hp&ei=DJ4LWszYDqTVjwSJqbGgBQ&q=file%3Apdf+tiny+habits+method&oq=file%3Apdf+tiny+habits+method&gs_l=psy-ab.3...1065.4635.0.4822.29.26.0.0.0.0.212.2526.6j11j2.20.0....0...1.1.64.psy-ab..9.3.464.0..0j0i131k1.178.4bBPf3zghWo | file:pdf tiny habits method - Google Search
+https://www.slideshare.net/tinyhabits | Tinyhabits presentations
+http://www.foggmethod.com/ | Fogg Method
+https://en.wikipedia.org/wiki/B._J._Fogg | B. J. Fogg - Wikipedia
+
+https://www.slideshare.net/schlaf/one-change-club-workshop?ref=https://twitter.com/i/cards/tfw/v1/941158908600647682?cardname=player&autoplay_disabled=true&forward=true&earned=true&edge=true&lang=en&card_height=130&scribe_context=%7B%22client%22%3A%22web%22%2C%22page%22%3A%22home%22%2C%22section%22%3A%22home%22%2C%22component%22%3A%22tweet%22%7D&bearer_token=AAAAAAAAAAAAAAAAAAAAAPYXBAAAAAAACLXUNDekMxqa8h%252F40K4moUkGsoc%253DTYfbDKbT3jJPCEVnMYqilB28NHfOPqkca3qaAxGfsyKCs0wRbw | One Change Club Workshop
 
 https://www.amazon.com/Pushback-Smart-Women-Ask_and-Up_for/dp/1501264311
 
