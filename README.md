@@ -7424,6 +7424,9 @@ http://www.slideshare.net/mikemaplesjr
 * [Youngme Moon Twitter](https://twitter.com/YoungmeMoon)
 
 <!--
+https://medium.com/@tzhongg | Tiffany Zhong – Medium
+https://twitter.com/TZhongg
+
 http://www.aaronsw.com/weblog/morebooks | HOWTO: Read more books (Aaron Swartz's Raw Thought)
 http://www.adamgrant.net/wondering | Wondering
 
