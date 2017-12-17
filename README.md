@@ -4717,6 +4717,8 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+http://www.kimcrayton.com/ | Home - Kim Crayton
+
 Pythonista
 http://mariatta.ca
 http://truthful.technology/ | Truthful Technology | On-Site Python and Django Training
@@ -9474,6 +9476,11 @@ STEM Journals
 * [Science News](https://www.sciencenews.org)
 * [Social Sciences Research Network](http://www.ssrn.com/en) and [Social Sciences Research Network Search](http://papers.ssrn.com)
 
+<!--
+http://www.thelancet.com/ | TheLancet.com Homepage
+http://www.nejm.org/ | The New England Journal of Medicine: Research & Review Articles on Disease & Clinical Practice
+-->
+
 Tech Aggregated, Question and Answer Forums
 * [Hacker News](https://news.ycombinator.com), [Hacker News News](https://news.ycombinator.com/news), [Hacker News Newest](https://news.ycombinator.com/newest), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 * [Inside Tech](https://www.inside.com/tech)
@@ -9504,6 +9511,10 @@ Tech Periodical
 * [The Next Web](http://thenextweb.com)
 * [The Information (Subscription Based)](https://www.theinformation.com)
 * [Wired](http://www.wired.com)
+
+<!--
+tech.eu/brief
+-->
 
 Tech Longform
 * [Medium Backchannel](https://medium.com/backchannel) and [Medium Message](https://medium.com/message) 
