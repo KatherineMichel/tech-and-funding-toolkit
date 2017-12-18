@@ -5046,8 +5046,70 @@ https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-a
 #### Python and Django Testing and Automation
 
 
+<!--
+Test-Driven Development with Python<br>
+
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
+https://www.obeythetestinggoat.com/
+
+* [CircleCI](https://circleci.com)
+* [Codecov](https://codecov.io)
+
+* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+
+Tox (Automation)
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
+
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+
+* [isort GitHub](https://github.com/timothycrosley/isort)
+
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 
 
+http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
+
+
+2.12 Writing your first patch for Django
+https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches
+https://docs.python.org/3.5/library/unittest.html
+http://www.diveintopython.net/unit_testing
+
+https://en.wikipedia.org/wiki/Code_coverage
+https://martinfowler.com/bliki/TestCoverage.html
+
+http://pythontesting.net/start-here | Start Here - Python Testing
+http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
+-->
+
+<!--
+pytest and Nose (Unit Test Extension)
+* [Nose GitHub](https://github.com/nose-devs/nose)
+* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
+* [pytest](http://pytest.org)
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and * [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+* [mock PyPi](https://pypi.python.org/pypi/mock)
+
+https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
+https://docs.pytest.org/en/latest/example/
+https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
+http://doc.pytest.org/en/latest/contents.html#toc
+
+http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
+
+noqa - Google Search
+
+http://www.pyinvoke.org/
+
+model mommy https://pypi.python.org/pypi/model_mommy
+ 
+Selenium
+* [Selenium](http://www.seleniumhq.org)
+-->
 
 
 
