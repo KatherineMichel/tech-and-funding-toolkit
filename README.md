@@ -5045,7 +5045,6 @@ https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-a
 
 #### Python and Django Testing and Automation
 
-
 <!--
 * [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
 
@@ -5061,23 +5060,6 @@ Tox (Automation)
 * [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 
-
-Test-Driven Development with Python<br>
-
-https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
-https://www.obeythetestinggoat.com/
-
-https://docs.python.org/3.5/library/unittest.html
-http://www.diveintopython.net/unit_testing
-
-https://en.wikipedia.org/wiki/Code_coverage
-https://martinfowler.com/bliki/TestCoverage.html
-
-http://pythontesting.net/start-here | Start Here - Python Testing
-http://toastdriven.com/blog/2011/apr/10/guide-to-testing-in-django
--->
-
-<!--
 pytest and Nose (Unit Test Extension)
 * [Nose GitHub](https://github.com/nose-devs/nose)
 * [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
