@@ -5047,14 +5047,6 @@ https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-a
 
 
 <!--
-Test-Driven Development with Python<br>
-
-https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
-https://www.obeythetestinggoat.com/
-
-* [CircleCI](https://circleci.com)
-* [Codecov](https://codecov.io)
-
 * [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
 
 Tox (Automation)
@@ -5066,15 +5058,15 @@ Tox (Automation)
 
 * [isort GitHub](https://github.com/timothycrosley/isort)
 
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 
 
-http://flake8.pycqa.org/en/latest/ | Flake8: Your Tool For Style Guide Enforcement — flake8 3.5.0 documentation
+Test-Driven Development with Python<br>
 
+https://en.wikipedia.org/wiki/Kent_Beck | Kent Beck - Wikipedia
+https://www.obeythetestinggoat.com/
 
-2.12 Writing your first patch for Django
-https://docs.djangoproject.com/en/1.9/internals/contributing/writing-code/submitting-patches
 https://docs.python.org/3.5/library/unittest.html
 http://www.diveintopython.net/unit_testing
 
