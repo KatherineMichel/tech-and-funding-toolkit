@@ -359,8 +359,14 @@ Better Reference than W3C
 
 Mozilla and Documentation
 * [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 * [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+<!--
+Web Development- Microsoft
+* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
+-->
 
 Free Software Foundation
 * [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
