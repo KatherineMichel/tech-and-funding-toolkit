@@ -4602,6 +4602,7 @@ https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
 https://pypi.org/project/cherry-picker
 https://pypi.python.org/pypi/johnny-cache
 
+https://github.com/Instagram/MonkeyType
 http://mypy.readthedocs.io/
 https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
 https://github.com/dropbox/pyannotate
