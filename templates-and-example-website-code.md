@@ -195,7 +195,7 @@ Brent O'Connor Django Base Template and Front-End Framework
 Django Product Websites
 * [Django Sites GitHub](https://github.com/rossp/djangosites.org)
 * [Python 2 Sites](http://python2sites.com/detail/python2sites) and [Python 2 Sites GitHub](https://github.com/electrocoder/python2sites)
-* [Django Packages GitHub](https://github.com/pydanny/djangopackages)
+* [Django Packages GitHub](https://github.com/djangopackages)
 * [Django Snippets GitHub](https://github.com/django-de/djangosnippets.org)
 
 Python Product Websites
