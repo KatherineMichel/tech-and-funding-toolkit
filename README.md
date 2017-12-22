@@ -4577,6 +4577,15 @@ https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your web
 http://www.sphinx-doc.org/en/stable/
 https://www.crowdcast.io/e/sphinx/register | Writing Docs in Sphinx - Crowdcast
 https://twitter.com/treyhunner/status/925544923667095552 | ✨ Trey Hunner 🐍 on Twitter: "Interested in documenting your #Python code? I'm holding a live @PythonChat this Saturday with @WillingCarol about documenting w Sphinx! 🎊🐍"
+http://www.sphinx-doc.org/en/stable/install.html | Installing Sphinx — Sphinx 1.6.6+ documentation
+
+https://github.com/python/python-docs-theme | python/python-docs-theme: Sphinx theme for Python documentation
+
+* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
+
+Python- Django-Sphinxdoc
+* [Sphinxdoc](http://sphinx-doc.org)  
+* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
 
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
@@ -6846,6 +6855,11 @@ Mongoose, Mongoid, Moped, Mongomapper
 
 #### Software Manuals and Documentation 
 
+<!--
+https://docusaurus.io/ | Docusaurus · Easy to Maintain Open Source Documentation Websites
+https://github.com/facebook/Docusaurus | facebook/Docusaurus: Easy to maintain open source documentation websites.
+-->
+
 Write the Docs (Conference and Community)
 * [Write the Docs](http://www.writethedocs.org)
 
@@ -6890,12 +6904,7 @@ LaTeX
 Read the Docs
 * [Read the Docs](https://readthedocs.org) and [Read the Docs GitHub](https://github.com/rtfd/readthedocs.org)  
 * [A Beginner's Guide to Docs](http://www.writethedocs.org/guide/writing/beginners-guide-to-docs)
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-* [Sphinxdoc](http://sphinx-doc.org)  
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc)  
-
+ 
 API Docs (see also Python- Django- Rest Framework Swagger)
 * [Swagger API Docs](http://swagger.io)  
 * [Slate API Docs GitHub](https://github.com/tripit/slate)  
