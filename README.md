@@ -4568,24 +4568,10 @@ https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | Django E-Comme
 https://github.com/wharton/python-vagrant-centos7#creating-erds-of-django-models | wharton/python-vagrant-centos7
 https://raw.githubusercontent.com/wharton/python-vagrant-centos7/master/assets/users-faculty-courses.png | users-faculty-courses.png (2052×931)
 
-https://pypi.org/project/pytaco/ | pytaco · Warehouse (PyPI)
-https://github.com/Mariatta/taco-py | Mariatta/taco-py: Figure out how many taco to order for your meetup
-https://github.com/Mariatta/miss-islington/tree/master/backport | miss-islington/backport at master · Mariatta/miss-islington
-https://www.slideshare.net/MariattaWijaya/pythonpowered-savage-garden-hotline | Python-Powered Savage Garden Hotline
-
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
-http://www.sphinx-doc.org/en/stable/
 https://www.crowdcast.io/e/sphinx/register | Writing Docs in Sphinx - Crowdcast
 https://twitter.com/treyhunner/status/925544923667095552 | ✨ Trey Hunner 🐍 on Twitter: "Interested in documenting your #Python code? I'm holding a live @PythonChat this Saturday with @WillingCarol about documenting w Sphinx! 🎊🐍"
-http://www.sphinx-doc.org/en/stable/install.html | Installing Sphinx — Sphinx 1.6.6+ documentation
 
-https://github.com/python/python-docs-theme | python/python-docs-theme: Sphinx theme for Python documentation
-
-* [Read the Docs Sphinx Theme GitHub](https://github.com/snide/sphinx_rtd_theme)  
-
-Python- Django-Sphinxdoc
-* [Sphinxdoc](http://sphinx-doc.org)  
-* [Django-Sphinxdoc PyPi](https://pypi.python.org/pypi/django-sphinxdoc) 
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
 
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
@@ -4599,7 +4585,6 @@ https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching Gi
 
 https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
 
-https://pypi.org/project/cherry-picker
 https://pypi.python.org/pypi/johnny-cache
 
 https://github.com/Instagram/MonkeyType
