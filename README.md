@@ -4836,7 +4836,7 @@ Python- Django- Resources
 * [Google Code Django](https://code.google.com/hosting/search?q=label%3aDjango)  
 
 Python- Django- Packages and Snippets (Unofficial)
-* [Django Packages](https://www.djangopackages.com)
+* [Django Packages](https://www.djangopackages.com) and [Django Packages GitHub](https://github.com/djangopackages)
 * [Django Snippets](https://djangosnippets.org) 
 
 
