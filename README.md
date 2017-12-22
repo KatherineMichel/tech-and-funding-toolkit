@@ -4645,7 +4645,7 @@ Consulting Firms
 * [Revolution Systems](http://www.revsys.com), [Revolution Systems Blog](http://www.revsys.com/blog), [Revolution Systems Writings](http://www.revsys.com/writings), and [Revolution Systems (Frank Wiles) GitHub](https://github.com/revsys)
 * [Lincoln Loop](http://lincolnloop.com)
 * [Caktus Group](https://www.caktusgroup.com), [Caktus Group Blog](https://www.caktusgroup.com/blog), and [Caktus Group GitHub](https://github.com/caktus)
-* [Vinta Software GitHub](https://github.com/vintasoftware)
+* [Vinta Blog](https://www.vinta.com.br) and [Vinta Software GitHub](https://github.com/vintasoftware)
 
 <!--
 http://www.juiceanalytics.com/ | Juice Analytics
