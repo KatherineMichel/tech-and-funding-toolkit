@@ -4542,34 +4542,7 @@ http://www.revsys.com/tidbits/brief-intro-docker-djangonauts | A Brief Intro to 
 
 https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wikipedia
 
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
-
-http://www.financeandpython.com | Finance and Python
-
-Kenneth Reitz
-https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
-
-https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
-
 https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-joins-microsoft/ | Don Jayamanne, creator of the Python extension for Visual Studio Code, joins Microsoft – Python Engineering at Microsoft
-
-https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
-
-https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
-
-Philly
-http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
-http://longclaw.readthedocs.io/en/latest/index.html | Welcome to Longclaw’s documentation! — longclaw 1.0.0 documentation
-http://django-oscar-wagtail.readthedocs.io/en/latest/introduction.html | Introducing Django Oscar Wagtail — Django Oscar Wagtail 0.0.1 documentation
-https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | Django E-Commerce Tutorial With Wagtail CMS - Snipcart
-https://github.com/wharton/python-vagrant-centos7#creating-erds-of-django-models | wharton/python-vagrant-centos7
-https://raw.githubusercontent.com/wharton/python-vagrant-centos7/master/assets/users-faculty-courses.png | users-faculty-courses.png (2052×931)
-
-https://www.crowdcast.io/e/sphinx/register | Writing Docs in Sphinx - Crowdcast
-https://twitter.com/treyhunner/status/925544923667095552 | ✨ Trey Hunner 🐍 on Twitter: "Interested in documenting your #Python code? I'm holding a live @PythonChat this Saturday with @WillingCarol about documenting w Sphinx! 🎊🐍"
 
 https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
 
@@ -4583,9 +4556,9 @@ https://github.com/mitsuhiko/flask-sqlalchemy
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
-https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
-
-https://pypi.python.org/pypi/johnny-cache
+http://click.pocoo.org/5/contrib/
+https://github.com/click-contrib | click-contrib
+http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
 
 https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
@@ -4598,10 +4571,49 @@ https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 
+http://www.juiceanalytics.com/juicebox-home/
+
+Philly
+http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
+http://longclaw.readthedocs.io/en/latest/index.html | Welcome to Longclaw’s documentation! — longclaw 1.0.0 documentation
+http://django-oscar-wagtail.readthedocs.io/en/latest/introduction.html | Introducing Django Oscar Wagtail — Django Oscar Wagtail 0.0.1 documentation
+https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | Django E-Commerce Tutorial With Wagtail CMS - Snipcart
+https://github.com/wharton/python-vagrant-centos7#creating-erds-of-django-models | wharton/python-vagrant-centos7
+https://raw.githubusercontent.com/wharton/python-vagrant-centos7/master/assets/users-faculty-courses.png | users-faculty-courses.png (2052×931)
+
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
+
+https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
+
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+
+https://github.com/python/performance
+
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+
+
+
+https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
+
+http://www.financeandpython.com | Finance and Python
+
+Kenneth Reitz
+https://www.youtube.com/watch?v=bpZS9ehw98k | Python For Humans - YouTube
+
+https://megwill4268.gitbooks.io/learning-python-on-mars/content/test.html
+
+https://www.crowdcast.io/e/sphinx/register | Writing Docs in Sphinx - Crowdcast
+https://twitter.com/treyhunner/status/925544923667095552 | ✨ Trey Hunner 🐍 on Twitter: "Interested in documenting your #Python code? I'm holding a live @PythonChat this Saturday with @WillingCarol about documenting w Sphinx! 🎊🐍"
+
+https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
+
+https://pypi.python.org/pypi/johnny-cache
+
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
 https://www.pygame.org/news | https://www.pygame.org/news
-
-http://www.juiceanalytics.com/juicebox-home/
 
 Provide guidance on editing PRs prior to merge
 https://github.com/python/devguide/issues/129 | Provide guidance on editing PRs prior to merge · Issue #129 · python/devguide
@@ -4619,18 +4631,10 @@ PyCoders Weekly and Python Weekly
 34.4.1 9 Easy Ways to Participate
 
 http://pytz.sourceforge.net
--->
-
-<!--
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
-
-https://github.com/python/performance
 
 https://code.djangoproject.com/wiki/LittleEasyImprovements
 
 * [Python Libraries (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Python_libraries)
-
-https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
 -->
 
 #### Python and Django Foundations
