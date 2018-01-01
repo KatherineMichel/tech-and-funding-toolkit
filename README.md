@@ -4587,13 +4587,16 @@ https://twitter.com/easyaspython | Easy as Python (@easyaspython) | Twitter
 
 https://pypi.python.org/pypi/johnny-cache
 
-https://github.com/Instagram/MonkeyType
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
 http://mypy.readthedocs.io/
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
 https://github.com/dropbox/pyannotate
 
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
 
 https://pyweek.org/ | PyWeek - Python Game Programming Challenge
 https://www.pygame.org/news | https://www.pygame.org/news
