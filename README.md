@@ -4725,6 +4725,27 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+https://blog.jessfraz.com
+https://blog.jessfraz.com/post/personal-infrastructure/ | Jessie Frazelle's Blog: Personal Infrastructure
+https://blog.jessfraz.com/post/home-lab-is-the-dopest-lab/ | Jessie Frazelle's Blog: Home Lab is the Dopest Lab
+
+https://github.com/feross/TheAnnoyingSite.com/blob/master/static/index.js | TheAnnoyingSite.com/index.js at master · feross/TheAnnoyingSite.com
+https://theannoyingsite.com/index.js | https://theannoyingsite.com/index.js
+https://speakerdeck.com/feross/the-annoying-site-aka-the-power-of-the-web-platform | The Annoying Site aka "The Power of the Web Platform" // Speaker Deck
+https://www.youtube.com/watch?v=6pY9Bfwfj2A | dotJS 2017 - Feross Aboukhadijeh - The Most Annoying Website (aka "The Power of the Web Platform") - YouTube
+https://github.com/feross/TheAnnoyingSite.com | feross/TheAnnoyingSite.com: The Annoying Site a.k.a. "The Power of the Web Platform"
+
+https://feross.org/about/ | Feross Aboukhadijeh Bio » Feross.org
+https://github.com/feross | feross (Feross Aboukhadijeh) / Repositories
+https://www.twitch.tv/ferossity | Ferossity - Twitch
+
+https://help.twitch.tv/customer/portal/articles/2418761 | Twitch | How to use the Friends Feature
+https://www.twitch.tv/ferossity/videos/all | Ferossity - Videos - Twitch
+https://www.twitch.tv/aws | AWS - Twitch
+https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
+https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1 | Lessons from my first year of live coding on Twitch
+https://www.youtube.com/user/levelsio | levelsio - YouTube
+
 http://www.kimcrayton.com/ | Home - Kim Crayton
 
 Pythonista
