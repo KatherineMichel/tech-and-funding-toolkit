@@ -8450,17 +8450,6 @@ Charlie Munger and A Dozen Things via [Tren Griffin](https://twitter.com/trengri
 * [Munger Blog Posts](http://25iq.com/charlie-munger-the-complete-investor-2)
 * [Munger Quotations](http://25iq.com/quotations/charlie-munger)
 
-Charlie Munger Mental Models via [Tren Griffin](https://twitter.com/trengriffin)
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-
-Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-
-Mental Models
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Farnam Street Mental Models](https://www.farnamstreetblog.com/mental-models)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
 Rationality Community
 * ["What is the "rationality community" and what does it consist of?"](https://www.quora.com/What-is-the-rationality-community-and-what-does-it-consist-of)
 * [Overcoming Bias](http://www.overcomingbias.com)
