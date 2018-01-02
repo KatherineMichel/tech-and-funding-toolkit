@@ -343,6 +343,7 @@ Documentation- General
 * [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
 * [Safari Books](https://www.safaribooksonline.com)
 * [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
+* [No Starch Press](https://www.nostarch.com)
 
 IBM Documentation
 * [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
@@ -9837,6 +9838,8 @@ Google Assistant: Google Allo
 https://play.google.com/store/apps/details?id=com.google.android.apps.fireball&hl=en
 https://itunes.apple.com/us/app/the-google-assistant-get-help-anytime-anywhere/id1220976145?mt=8
 https://blog.google/products/assistant/your-assistant-getting-better-on-google-home-and-your-phone/?ref=producthunt
+https://qz.com/1131072/baidu-raven-h-the-newest-smart-home-assistant-stands-out-for-one-reason/ | Baidu Raven H: The newest smart home assistant stands out for one reason — Quartz
+https://teenage.engineering/designs/H | teenage engineering – H
 
 https://atap.google.com/soli
 https://fi.google.com/about
@@ -9859,12 +9862,8 @@ https://airbnbmag.com
 
 My Helpers
 * [OneTab](https://www.one-tab.com)
-
-<!--
-https://www.diffchecker.com/diff
-http://markup.su/highlighter
-http://www.striphtml.com
--->
+* [Diff Checker](https://www.diffchecker.com)
+* [Strip HTML](http://www.striphtml.com)
 
 Two Factor Authentication
 * [Two Factor Authentication List](https://twofactorauth.org), [Facebook 2FA](https://www.facebook.com/note.php?note_id=10150172618258920), [Facebook Settings](https://www.facebook.com/settings?tab=applications&section=all), [Google 2FA](https://support.google.com/accounts/answer/180744?hl=en), [Google Settings](https://security.google.com/settings/security/permissions?pli=1), [Twitter 2FA](https://blog.twitter.com/2013/getting-started-with-login-verification), [Twitter Settings](https://twitter.com/settings/applications), and [GitHub 2FA](https://github.com/blog/1614-two-factor-authentication) 
@@ -9876,6 +9875,9 @@ Mobile Two Factor Authentication
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
 <!--
+https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8 | Google Authenticator on the App Store
+https://authy.com/ | Authy - Two-Factor Authentication App
+
 https://www.google.com/landing/2step
 
 Yubikey, Google Authenticator, Authy
@@ -10187,12 +10189,15 @@ Group Communication/Chat
 * [Zoom](https://zoom.us)
   
 <!--
+http://webchat.freenode.net
+
 https://hangouts.google.com/ | Google Hangouts
 https://support.google.com/hangouts/answer/3110347?co=GENIE.Platform%3DDesktop&hl=en | Start a video call - Computer - Hangouts Help
 https://support.google.com/youtube/answer/7083786?hl=en | Hangouts On Air with YouTube Live - YouTube Help
 
 Anchor - Radio, reinvented
 https://anchor.fm
+https://www.breaker.audio/ | Breaker
 -->  
   
 Scheduling
@@ -10358,6 +10363,10 @@ Swag
 * [NailSnaps](https://nailsnaps.com)
 
 <!--
+https://www.outdoorbillboard.com/billboards | Billboard for Rent
+
+https://www.marcopromotionalproducts.com/ | Promotional Products by MARCO: Your Logo Printed on Promo Items
+https://cottonbureau.com
 http://www.unixstickers.com/ | Stickers, T-shirts, Mugs on UNIX & Programming | unixstickers
 -->
 
@@ -10382,6 +10391,10 @@ Admin, Hiring, Payroll, Expenses
 * [Zenefits](http://www.zenefits.com)
 
 <!--
+https://www.fancyhands.com | Assistants for Everyone - Fancy Hands
+
+https://www.easypost.com/ | The Simple Shipping API - EasyPost
+
 Travel
 http://lite.cnn.io/ | CNN - Breaking News, Latest News and Videos
 http://www.cnn.com/interactive/storm-tracker/ | CNN storm tracker - CNN.com
