@@ -9875,6 +9875,8 @@ Mobile Two Factor Authentication
 * [Duo](https://duo.com) and [Duo Guide](https://guide.duo.com)
 
 <!--
+https://advocacy.mozilla.org/en-US/privacynotincluded | privacy not included
+
 https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8 | Google Authenticator on the App Store
 https://authy.com/ | Authy - Two-Factor Authentication App
 
