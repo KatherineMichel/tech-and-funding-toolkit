@@ -8558,6 +8558,8 @@ Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 * [Frontiers of Finance: Competitive Advantage Period "CAP", The Neglected Value Driver](http://people.stern.nyu.edu/adamodar/pdfiles/eqnotes/cap.pdf)
 
 <!--
+https://www.bluemountaincapital.com/wp-content/uploads/2017/12/How-Well-Do-You-Compare.pdf | How-Well-Do-You-Compare.pdf
+
 http://valuewalkposts.tumblr.com/post/135380637670/michael-mauboussin-research-papers-full | ValueWalk — Michael Mauboussin Research Papers - Full...
 -->
 
