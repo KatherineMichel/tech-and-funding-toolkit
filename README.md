@@ -4726,6 +4726,7 @@ Python- Django Community
 * [Lacey Henschel](https://www.laceyhenschel.com)
 * [Ola Sendecka](http://blog.sendecka.me)
 * [Ola Sitarska](http://ola.sitarska.com)
+* [Philip John James](http://philipjohnjames.com)
 * [Simon Willison](https://simonwillison.net) and [Simon Willison Twitter](https://twitter.com/simonw )
 * [Timothy Allen](http://www.peregrinesalon.com) and [Timothy Allen GitHub](https://github.com/FlipperPA)
 * [Tom Christie](https://github.com/tomchristie)
@@ -4734,11 +4735,10 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
-http://philipjohnjames.com/ | Philip John James
-
 https://blog.jessfraz.com
 https://blog.jessfraz.com/post/personal-infrastructure/ | Jessie Frazelle's Blog: Personal Infrastructure
 https://blog.jessfraz.com/post/home-lab-is-the-dopest-lab/ | Jessie Frazelle's Blog: Home Lab is the Dopest Lab
+https://github.com/jessfraz | jessfraz (Jess Frazelle)
 
 https://github.com/feross/TheAnnoyingSite.com/blob/master/static/index.js | TheAnnoyingSite.com/index.js at master · feross/TheAnnoyingSite.com
 https://theannoyingsite.com/index.js | https://theannoyingsite.com/index.js
