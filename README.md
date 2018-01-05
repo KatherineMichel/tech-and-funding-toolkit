@@ -4568,6 +4568,22 @@ http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
 https://github.com/dropbox/pyannotate
 
+
+* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+* [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
+* [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
+
+https://www.python.org/dev/peps/pep-0498
+
+http://www.python.org/dev/peps/pep-0328/
+http://www.python.org/dev/peps/pep-0386
+http://www.python.org/dev/peps/pep-0427/
+http://www.python.org/dev/peps/pep-0263/
+
+https://github.com/amontalenti/elements-of-python-style
+
+
 https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
 https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
 https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
@@ -4718,6 +4734,8 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+http://philipjohnjames.com/ | Philip John James
+
 https://blog.jessfraz.com
 https://blog.jessfraz.com/post/personal-infrastructure/ | Jessie Frazelle's Blog: Personal Infrastructure
 https://blog.jessfraz.com/post/home-lab-is-the-dopest-lab/ | Jessie Frazelle's Blog: Home Lab is the Dopest Lab
