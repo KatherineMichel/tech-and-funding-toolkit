@@ -9477,7 +9477,7 @@ General News Sources- High Brow
 
 Question and Answer Forums
 * [Quora](http://www.quora.com)
-* [Reddit](http://www.reddit.com) and [Reddit AMA](http://www.reddit.com/r/AMA)
+* [Reddit](http://www.reddit.com), [Reddit Mobile](https://www.reddit.com/mobile/download), and [Reddit AMA](http://www.reddit.com/r/AMA)
 * [Stack Exchange](http://stackexchange.com)
 * [Stack Exchange Sites](http://stackexchange.com/sites) 
 * [Yahoo Answers](https://answers.yahoo.com)
@@ -10451,7 +10451,7 @@ https://classroom.google.com/u/0/h
 -->
 
 Foreign Language
-* [Duolingo](https://en.duolingo.com), [Duolingo Words](https://www.duolingo.com/words), and [Duolingo Mobile](https://www.duolingo.com/mobile)
+* [Duolingo](https://en.duolingo.com), [Duolingo Words](https://www.duolingo.com/words), [Duolingo Mobile](https://www.duolingo.com/mobile), and [Duolingo Podcast](https://podcast.duolingo.com)
 * [Google Translate](https://translate.google.com/?hl=en) 
 * [BaBa Dum](https://babadum.com)
 
