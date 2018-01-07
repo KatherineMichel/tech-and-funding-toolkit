@@ -584,18 +584,8 @@ Keyboard Layout
 * [Colemak Website](https://colemak.com)
 * [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
 
-Famous Literature
-* [The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar) and [The Cathedral and the Bazaar Wikipedia](https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar)
-
 Great Unsolved Problems in Computer Science
 * [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know
--->
 
 Internet Service Provider
 * [Internet Service Provider Wikipedia](https://en.wikipedia.org/wiki/Internet_service_provider)
@@ -645,10 +635,6 @@ Local Terms
 * [Home Wikipedia](http://en.wikipedia.org/wiki/Home_directory)  
 * [Firewall Wikipedia](https://en.wikipedia.org/wiki/Firewall_(computing))
 
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
 Utilities
 * [Pipeline Wikipedia](http://en.wikipedia.org/wiki/Pipeline_(Unix))  
 * [Standard Streams](http://en.wikipedia.org/wiki/Standard_streams) 
@@ -686,6 +672,7 @@ Chomsky Hierarchy and Automata
 Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
+
 Computer Classes and Sizes
 * [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
 * [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
@@ -695,51 +682,9 @@ Smartphones (See also Mobile)
 * [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
 * [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
 
-Microprocessor, CPU and Instruction Set
-* [Intel Core Wikipedia](https://en.wikipedia.org/wiki/Intel_Core)
-* [List of CPU Architectures Wikipedia](https://en.wikipedia.org/wiki/List_of_CPU_architectures)
-* [Instruction Set Wikipedia](https://en.wikipedia.org/wiki/Instruction_set)
-* [List of Instruction Sets Wikipedia](https://en.wikipedia.org/wiki/List_of_instruction_sets)
-* [Comparison of Instruction Set (CPU) Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
-
-Binary
-* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
-* [Binary Code Wikipedia](https://en.wikipedia.org/wiki/Binary_code)
-* [Units of Information Wikipedia](https://en.wikipedia.org/wiki/Units_of_information)
-* [Power of Two Wikipedia](https://en.wikipedia.org/wiki/Power_of_two)
-* [Orders of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Orders_of_magnitude_(data))
-
-Port and Host
-* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
-* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
-* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
-* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-
-TCP-IP and OSI Protocols
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-
-HTTP
-* [Hypertext Transfer Protocol Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields)  
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-
 <!--
-https://en.wikipedia.org/wiki/Computer_architecture
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/John_von_Neumann
-
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Latency_(engineering)
-
-
 
 https://en.wikipedia.org/wiki/Alan_Turing
 https://en.wikipedia.org/wiki/Alonzo_Church
@@ -752,9 +697,7 @@ https://en.wikipedia.org/wiki/Display_resolution
 https://en.wikipedia.org/wiki/Graphics_display_resolution
 
 https://en.wikipedia.org/wiki/Most_significant_bit
-https://en.wikipedia.org/wiki/Machine_code
 https://en.wikipedia.org/wiki/Opcode
-https://en.wikipedia.org/wiki/Assembly_language
 https://en.wikipedia.org/wiki/Assembly_language#Assembler
 https://en.wikipedia.org/wiki/Processor_register
 https://en.wikipedia.org/wiki/Bus_(computing)
@@ -769,7 +712,6 @@ https://en.wikipedia.org/wiki/Floating-point_arithmetic
 https://en.wikipedia.org/wiki/Floating_point#Accuracy_problems
 https://en.wikipedia.org/wiki/Instruction_cycle
 https://en.wikipedia.org/wiki/Cache_(computing)
-https://en.wikipedia.org/wiki/Microprocessor
 https://en.wikipedia.org/wiki/Program_counter
 https://en.wikipedia.org/wiki/Instruction_register
 
@@ -793,14 +735,6 @@ http://whatismyipaddress.com/ip-basics
 http://tcpipguide.com/free/index.htm
 
     * [How DNS works](https://howdns.works)
--->
-
-<!--
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-
-Status Code Definitions
-https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html
 
 HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
@@ -814,10 +748,6 @@ https://wiki.openstack.org/wiki/Horizon
 http://docs.openstack.org/developer/horizon
 -->
 
-
-<!--
-Left off here
--->
 
 #### Command Line and Shell
 
@@ -1059,11 +989,6 @@ https://en.wikipedia.org/wiki/Meta_key
 https://en.wikipedia.org/wiki/File_system_permissions
 https://en.wikipedia.org/wiki/Tar_(computing)
 
-https://en.wikipedia.org/wiki/Make_(software)
-https://en.wikipedia.org/wiki/Makefile
-http://pubs.opengroup.org/onlinepubs/9699919799/utilities/make.html
-https://www.gnu.org/software/make/manual/make.html
-
 https://en.wikipedia.org/wiki/PowerShell#Scripting
 https://en.wikibooks.org/wiki/Windows_Batch_Scripting
 https://en.wikipedia.org/wiki/Batch_file
@@ -1106,8 +1031,6 @@ https://www.gnu.org/software/grub/manual/html_node/Command_002dline-and-menu-ent
 
 http://www.unix.com/man-page/posix/1posix/eval
 -->
-
-
 
 #### Keyboard Shortcuts
 
@@ -1156,7 +1079,6 @@ https://www.w3.org/International/getting-started/characters
 https://www.w3.org/International/articles/definitions-characters
 -->
 
-
 #### Dot Files
 
 See also Startup Engineering MOOC<br>
@@ -1203,74 +1125,12 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 #### Systems
 
 
-
-
 #### Startup Engineering MOOC
 
 Currently out of commission. 
 
 
 
-
-
-
-
-
-## Advice and Help for Beginners
-
-<!--
-Easy (Static/Client-Side) to Difficult (Dynamic/Server-Side)<br>
-
-Make What You Can Complete- Example of Using Notepad as CSS and Rendering in Browser)
-* [HTML via Notepad](http://www.w3schools.com/html/html_editors.asp) + [Internal/External Style Sheet, Inline Style](http://www.w3schools.com/css/css_howto.asp)
-
-Learn Git/GitHub
-* [GitHub Hello World Tutorial](https://guides.github.com/activities/hello-world)
-
-Make Something Static/Client-Side- HTML (Can Use GitHub Browser)
-* [HTML via GitHub Pages (Example: My Portfolio)](https://github.com/KatherineMichel/katherinemichel.github.io)
-
-Make Something Static- Jekyll (Can Use Git Bash)
-* [Jekyll via GitHub Pages](https://jekyllrb.com)
-
-Make Something Dynamic/Server-Side- Can Store Code on GitHub, but Host Elsewhere (Heroku, AWS, Digital Ocean)
-* Python, Ruby, Node.js, PHP (Dynamic and require hosting such as Heroku or AWS)
--->
-
-Start contributing to open source
-* Seek out mentor(s) (some frameworks such as Django have mentor lists) 
-* Follow community members and projects (for instance, on Twitter) and look for opportunities
-* Look for guides in repos that explain how to contribute
-* Do a GitHub search such as ["pull requests welcome"](https://github.com/search?utf8=%E2%9C%93&q=pull+requests+welcome)
-
-Look for First-Timers Info
-* [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.barzl7cwa) 
-
-Example First-Timers Info
-* [Pinax First-Timer Opportunity via Twitter](https://twitter.com/pinaxproject/status/687318459072446466) and [First-Timer](https://twitter.com/pinaxproject/status/694213861327659008)
-* [How to Contribute to Pinax Blog Post](http://pinaxproject.com/pinax/ways_to_contribute) and [How to Contribute to Pinax Blog Post](http://blog.pinaxproject.com/2015/11/10/guide-how-contribute-pinax)
-* [Pinax First Timers Only](http://blog.pinaxproject.com/2016/01/11/first-timers-only-and-new-labels), and [Pinax Issues GitHub](https://github.com/pinax/pinax/issues)
-* [Pinax 16.04](http://blog.pinaxproject.com/2016/02/01/pinax-1604) and [Proposal for Pinax Distribution Versioning GitHub](https://github.com/pinax/pinax/issues/84)
-* [Pinax Groupware Starter Project GitHub](https://github.com/pinax/pinax-starter-projects/wiki/Groupware-Starter-Project)
-
-<!--
-https://github.com/search?utf8=%E2%9C%93&q=help+wanted
-https://github.com/search?p=4&q=label%3A%22beginner%22&ref=searchresults&state=open&type=Issues&utf8=✓
-https://github.com/search?utf8=✓&q=label%3A%22help+wanted%22&type=Issues&ref=searchresults
-https://github.com/search?l=Ruby&q=label%3A%22help+wanted%22&ref=searchresults&type=Issues&utf8=✓
-
-https://github.com/jdorfman/awesome-help-wanted
-
-http://slides.com/kentcdodds/1st-pr#/
-https://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4#.sdw2t63pw
-
-https://github.com/pybee/voc/wiki/Your-first-VOC-contribution
-https://github.com/pybee/pybee.github.io
-http://pybee.org
--->
-
-Example Help Tweets
-* [Anna Ossowski Help Tweet](https://twitter.com/OssAnna16/status/687326661184978944), [PyBee Help Tweet](https://twitter.com/PyBeeWare/status/682368919533785089), and [Russell Keith-Magee Help Tweet](https://twitter.com/freakboy3742/status/668432035766124545)
 
 
 
@@ -1317,6 +1177,10 @@ Linux
 * [Linus Torvalds Google Group Post](https://groups.google.com/forum/?hl=en#!msg/comp.os.minix/dlNtH7RRrGA/SwRavCzVE7gJ)
 * [Linux Copyright, Trademark, and Naming Wikipedia](http://en.wikipedia.org/wiki/Linux#Copyright.2C_trademark.2C_and_naming)  
 * [Linux Journal](http://www.linuxjournal.com) 
+
+<!--
+https://lkml.org
+-->
 
 Linux- Ubuntu (Debian)
 * [Debian Wikipedia](http://en.wikipedia.org/wiki/Debian)  
@@ -1377,7 +1241,6 @@ https://support.google.com/chromebook/answer/1700055?hl=en&rd=1
 Supported file types and external devices
 https://support.google.com/chromebook/answer/183093
 -->
-
 
 
 #### Apple General
@@ -1459,8 +1322,6 @@ https://support.apple.com/en-us/HT2963
 http://www.mac-forums.com/os-x-operating-system/282475-permissions-error-jpeg-files.html
 http://osxdaily.com/2015/11/04/verify-repair-permissions-mac-os-x/
 -->
-
-
 
 
 #### Dashboard
@@ -1683,6 +1544,12 @@ Portfolio and Community Websites
 
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2017](https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017)
+
+
+
+<!--
+Left off here
+-->
 
 #### Pretotyping and Prototyping
 
@@ -4576,6 +4443,7 @@ https://github.com/dropbox/pyannotate
 
 https://www.python.org/dev/peps/pep-0498
 
+https://www.python.org/dev/peps/pep-0557/ | PEP 557 -- Data Classes | Python.org
 http://www.python.org/dev/peps/pep-0328/
 http://www.python.org/dev/peps/pep-0386
 http://www.python.org/dev/peps/pep-0427/
@@ -4735,6 +4603,8 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+https://snarky.ca
+
 https://blog.jessfraz.com
 https://blog.jessfraz.com/post/personal-infrastructure/ | Jessie Frazelle's Blog: Personal Infrastructure
 https://blog.jessfraz.com/post/home-lab-is-the-dopest-lab/ | Jessie Frazelle's Blog: Home Lab is the Dopest Lab
