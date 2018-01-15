@@ -431,6 +431,7 @@ Company Design Blogs
 * [Brand Style Guide Examples](http://saijogeorge.com/brand-style-guide-examples)
 * [Style Guide Driven Development / Living Style Guides](http://styleguides.io)
 
+https://principles.design/ Design Principles
 https://github.com/bradfrost/style-guide-guide
 https://github.com/alexpate/awesome-design-systems
 https://github.com/kciter/awesome-style-guide
@@ -439,6 +440,7 @@ https://github.com/kciter/awesome-style-guide
 https://developer.apple.com/design/awards/
 
 https://github.com/buzzfeed/design
+http://www.duolingo.com/design | Duolingo: Design Guidelines
 
 https://console.ng.bluemix.net
 
@@ -2440,6 +2442,10 @@ Apple Developer Program Membership
 * [Apple Developer Program Membership Enrollment Support](https://developer.apple.com/support/enrollment)
 * [D-U-N-S® Number](https://developer.apple.com/support/D-U-N-S)
 
+<!--
+https://developer.apple.com/news/?id=01032018a | Apple Developer Program Membership Fee Waivers Now Available - News - Apple Developer
+-->
+
 Apple Developer and Open Source
 * [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
 * [Apple Developer Forum](https://forums.developer.apple.com)
@@ -2821,7 +2827,7 @@ Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
 * [Crashlytics](http://try.crashlytics.com) and [Crashlytics Beta Testing](http://try.crashlytics.com/beta) 
 * [Mixpanel](https://mixpanel.com) and [Mixpanel Education](https://mixpanel.com/education)
 * [New Relic](http://newrelic.com)
-* [Sentry](http://getsentry.com)
+* [Sentry](https://sentry.io/welcome)
 
 A/B Testing
 * [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
@@ -8443,8 +8449,6 @@ Mauboussin, Callahan, Majd, Rone, Burns, Bartholdson
 
 <!--
 https://www.bluemountaincapital.com/wp-content/uploads/2017/12/How-Well-Do-You-Compare.pdf | How-Well-Do-You-Compare.pdf
-
-http://valuewalkposts.tumblr.com/post/135380637670/michael-mauboussin-research-papers-full | ValueWalk — Michael Mauboussin Research Papers - Full...
 -->
 
 * [The Babe Ruth Effect: Frequency versus Magnitude](http://turtletrader.com/pdfs/babe-ruth.pdf)
@@ -10220,6 +10224,10 @@ Payments
 * [TransferWise](https://transferwise.com)
 
 <!--
+https://www.producthunt.com/posts/google-pay | Google Pay - Product Hunt
+https://itunes.apple.com/us/app/walmart-scan-go/id1183082704 | Walmart Scan & Go on the App Store
+https://transferwise.com/gb/borderless | TransferWise borderless account - TransferWise
+
 https://www.google.com/payments/solutions
 
 https://stripe.com/docs/sources/ideal
@@ -10237,6 +10245,8 @@ https://stripe.com/works-with
 https://stripe.com/docs/checkout/tutorial
 https://stripe.com/docs/webhooks
 https://stripe.com/docs/examples
+
+https://github.com/stripe/stripe-payments-demo | stripe/stripe-payments-demo: Sample store accepting universal payments on the web with Stripe Elements, Payment Request, Apple Pay, and the Sources API.
 -->
 
 Coins
