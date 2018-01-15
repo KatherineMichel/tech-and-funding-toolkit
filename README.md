@@ -293,6 +293,10 @@ Twitch Creative- Accounts
 * [Levelsio Twitch](http://www.twitch.tv/levelsio)
 * [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
 
+<!--
+https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
+-->
+
 Robotics and/or Geared toward Kids
 * [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
 * [Arduino](https://www.arduino.cc)
@@ -9703,6 +9707,24 @@ Digital Stats
 #### Popular Tools
 
 <!--
+Cards
+https://developers.facebook.com/tools/debug/sharing/?q=https%3A%2F%2Fdevict-hacktoberfest.herokuapp.com%2F | Sharing Debugger - Facebook for Developers
+https://search.google.com/structured-data/testing-tool/u/0/ | Structured Data Testing Tool
+https://developers.google.com/search/docs/guides/sd-policies | Structured Data General Guidelines  |  Search  |  Google Developers
+https://support.google.com/websearch/answer/175288?hl=en | Add an image to Google - Google Search Help
+https://support.google.com/webmasters/answer/114016 | Image publishing guidelines - Search Console Help
+
+https://developers.google.com/analytics/devguides/collection/gtagjs/migration | Migrate from analytics.js to gtag.js  |  Analytics for Web (gtag.js)  |  Google Developers
+
+https://developers.google.com/search/docs/guides/intro-structured-data?authuser=1&visit_id=1-636462681720810400-1513615750&hl=en&rd=1 | Introduction to Structured Data  |  Search  |  Google Developers
+https://www.facebook.com/creators#
+https://newsroom.fb.com/news/2017/11/announcing-new-tools-for-the-creator-community/ | Announcing New Tools for the Creator Community | Facebook Newsroom
+Facebook Markdown
+
+https://developer.foursquare.com/places-api
+https://developer.foursquare.com/docs/api/getting-started | Getting Started - Foursquare Developer
+
+
 https://hola.org/ | Hola - Free VPN, Secure Browsing, Unrestricted Access
 
 https://merch.amazon.com/landing
@@ -9822,6 +9844,15 @@ Google Account
 
 <!--
 https://support.google.com/docs/answer/1689475?hl=en&vid=0-236960046453-1499920685649
+
+https://gsuiteupdates.googleblog.com/2017/05/move-google-drive-files-and-folders.html | G Suite Updates Blog: Move Google Drive files and folders into Team Drives
+https://support.google.com/groups/answer/2464926?hl=en | Create a group & choose group settings - Groups Help
+
+https://github.com/stripe/gaps | stripe/gaps: Easy management of your Google Groups subscriptions.
+
+https://www.blog.google/products/search/stay-top-finance-information-google/ | Stay on top of finance information on Google
+
+https://www.google.com/culturalinstitute/beta/ | Google Arts & Culture
 -->
 
 My Google Activity and Info
@@ -10073,6 +10104,8 @@ Group Communication/Chat
 * [Zoom](https://zoom.us)
   
 <!--
+https://get.slack.help/hc/en-us/articles/216771908-Make-calls-in-Slack
+
 http://webchat.freenode.net
 
 https://hangouts.google.com/ | Google Hangouts
