@@ -8975,8 +8975,6 @@ https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
 https://hbr.org/2013/05/what-makes-a-good-corporate-st
 
-http://sloanreview.mit.edu/article/the-different-ways-for-companies-to-innovate
-
 The 12 Different Ways for Companies to Innovate
 http://sloanreview.mit.edu/article/the-different-ways-for-companies-to-innovate
 
@@ -9018,6 +9016,8 @@ https://johncarlosbaez.wordpress.com/2016/10/02/complex-adaptive-system-design-p
 http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=UTF8&ref_=cm_sw_r_cp_awd_tvhaxbCH8XQPF
 https://en.m.wikipedia.org/wiki/Anthropomorphism
 -->
+
+
 
 Computer Lore
 * [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
@@ -9099,20 +9099,12 @@ Mobile (See also Mobile)
 Unconference
 * [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
 
-Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
-* [Talks at Google](https://talksat.withgoogle.com), [Google Talks YouTube](https://www.youtube.com/channel/UCbmNph6atAoGfqLoCL_duAg) and [Google Tech Talks Videos Popular YouTube](https://www.youtube.com/user/AtGoogleTalks/videos?shelf_id=10&sort=p&view=0)
-* [Google Zeitgeist Minds](https://www.zeitgeistminds.com)
-* [Google Tech Talks](https://www.youtube.com/user/GoogleTechTalks), [Google Tech Talks Videos](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=2&view=0&sort=dd) and [Google Tech Talks Videos Popular](https://www.youtube.com/user/GoogleTechTalks/videos?shelf_id=3&view=0&sort=p)
-* [TED Talks](http://www.ted.com/talks), [TED Talks Technology](http://www.ted.com/talks?topics%5B%5D=technology&sort=newest), [TED Talks Business](http://www.ted.com/talks?topics%5B%5D=business&sort=newest), [TED Talks design](http://www.ted.com/talks?topics%5B%5D=design&sort=newest), and [The Most Popular TED Talks of All Time](http://www.ted.com/playlists/171/the_most_popular_talks_of_all)
-* [Charlie Rose](http://www.charlierose.com)
-* [PBS](http://www.pbs.org)
-* [This American Life](http://www.thisamericanlife.org)
-
 <!--
 http://www.churchillclub.org
 https://www.youtube.com/user/commonwealthclub
 
-http://hacklolla.challengepost.com
+https://devpost.com/hackathons
+https://devpost.com
 -->
 
 Shows
@@ -9128,6 +9120,8 @@ Shows
 
 Unboxing
 * [Unboxing](http://unboxing.gearlive.com)
+
+
 
 #### Books and Courses
 
