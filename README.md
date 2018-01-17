@@ -4378,10 +4378,6 @@ https://github.com/aspnetboilerplate/sample-blog-module
 https://github.com/aspnet/Mvc/tree/dev/samples
 --> 
 
-<!--
-Left off here
--->
-
 #### Python and Django Toolkit
 
 <!--
@@ -4631,8 +4627,6 @@ http://mariatta.ca
 http://truthful.technology/ | Truthful Technology | On-Site Python and Django Training
 https://twitter.com/treyhunner/lists
 
-https://github.com/jacobian
-http://www.slideshare.net/jacobian
 https://github.com/jacobian-archive
 
 http://williln.github.io/
@@ -5656,7 +5650,6 @@ https://cloud.google.com/products
 -->
 
 
-
 #### Deployment and Git Integration
 
 Heroku Multiple Environments and Site Staging
@@ -6073,7 +6066,9 @@ https://zeit.co/blog/github
 -->
 
 
-
+<!--
+Left off here
+-->
 
 #### Dev Ops Tools
 
