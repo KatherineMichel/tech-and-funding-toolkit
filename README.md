@@ -1551,12 +1551,6 @@ Portfolio and Community Websites
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2017](https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017)
 
-
-
-<!--
-Left off here
--->
-
 #### Pretotyping and Prototyping
 
 Pretotyping
@@ -1830,9 +1824,6 @@ https://websitedownloader.io
 https://webpreserver.com
 https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
-
-
-
 
 #### Facebook and Google Design and Development Approaches
 
@@ -2401,10 +2392,6 @@ Cross Browser and Sniffing
 * [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
 * [Feature Detection Wikipedia](https://en.wikipedia.org/wiki/Feature_detection_(web_development))
 
-
-
-
-
 #### Development Environment and Programming
 
 #### Apple Developer
@@ -2500,8 +2487,6 @@ https://developer.apple.com/reference/accelerate/1912851-bnns
 https://developer.apple.com/sirikit
 https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
 -->
-
-
 
 #### Google Developer
 
@@ -4393,7 +4378,9 @@ https://github.com/aspnetboilerplate/sample-blog-module
 https://github.com/aspnet/Mvc/tree/dev/samples
 --> 
 
-
+<!--
+Left off here
+-->
 
 #### Python and Django Toolkit
 
