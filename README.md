@@ -175,60 +175,9 @@ https://github.com/systers/portal | systers/portal: Systers Portal for communiti
 https://anitaborg.org/systers/ | Systers - Anita Borg Institute
 -->
 
-Wikipedia
-* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists) 
-
-Wikipedia Portals
-* [Wikipedia Computer Science Portal](http://en.wikipedia.org/wiki/Portal:Computer_science) and [Wikipedia Technology and Applied Sciences Portal](http://en.wikipedia.org/wiki/Portal:Contents/Portals#Technology_and_applied_sciences)
-* [Wikipedia Internet Portal](https://en.wikipedia.org/wiki/Portal:Internet)
-* [Wikipedia Information Technology Portal](https://en.wikipedia.org/wiki/Portal:Information_technology)
-
-History of Technology and Computer Science
-* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
-* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
-* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
-* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
-* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
-* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
-* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
-* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
-* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
-* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
-* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
-
-<!--
-http://www.computerhistory.org
-https://twitter.com/ComputerHistory
--->
-
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
-MOOCs
-* [Coursera](https://www.coursera.org) and [Specializations](https://www.coursera.org/specialization)
-* [Stanford Open Classroom](http://openclassroom.stanford.edu/MainFolder/HomePage.php), [Online Courses](http://online.stanford.edu/courses), and [Classroom.fm](http://classroom.fm)
-* [Stanford Continuing Studies Public Lectures (iTunes)](https://itunes.apple.com/us/itunes-u/continuing-studies-public/id385643787?mt=10)
-* [MIT Open Courseware Homepage](http://ocw.mit.edu/index.htm#), [MIT Open Courseware Scholar](http://ocw.mit.edu/courses/ocw-scholar), and [MIT Open Courseware Most Visited Courses](http://ocw.mit.edu/courses/most-visited-courses)
-* [HarvardX](http://harvardx.harvard.edu/) and [Harvard University Online Learning](http://online-learning.harvard.edu) 
-* [EdX](https://www.edx.org)  
-* [Plus Acumen Courses (Social Entrepreneurship)](http://plusacumen.org/courses)
-* [Udacity](https://www.udacity.com), [Udacity Nanodegree Plus](https://www.udacity.com/nanodegree/plus), and [Udacity Medium](https://medium.com/udacity)
-* [Udemy](https://www.udemy.com)
-* [NovoEd (Social Entrepreneurship)](https://novoed.com) 
-
 Courses (See also MOOCs)
-* [Pluralsight](https://www.pluralsight.com), [Pluralsight Projects GitHub](https://github.com/pluralsight-projects), [Pluralsight Newest Courses](https://app.pluralsight.com/library), and [Pluralsight Free Weekly Course](https://learn.pluralsight.com/resource/free-course/free-weekly-course)
-* [Code School](https://www.codeschool.com), [Code School Projects](https://www.codeschool.com/projects), and [Code School GitHub](https://github.com/codeschool)
-* [Free Code Camp (CSS (Bootstrap), HTML, JavaScript)](http://www.freecodecamp.com), and [Free Code Camp GitHub](https://github.com/FreeCodeCamp)
 * ["How many people have finished the FreeCodeCamp curriculum so far?"](https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far)
-* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
-* [Learn to Code the Hard Way](http://learncodethehardway.org)  
-* [Codecademy](http://www.codecademy.com), [Codecademy Learn Beta](https://www.codecademy.com/learn/beta), and [Codecademy Pro](http://pro.codecademy.com)
-* [Khan Academy Computer Programming](https://www.khanacademy.org/computing/computer-programming) and [Khan Academy GitHub](https://github.com/Khan), and [Khan Academy GitHub](https://github.com/Khan)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
-* [Treehouse](https://teamtreehouse.com)
-* [Egghead](https://egghead.io) and [Egghead Free](https://egghead.io/tags/free)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
 <!--
@@ -242,47 +191,12 @@ http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight
 -->
 
 W3Schools
-* [W3Schools Web Development Tutorials](http://www.w3schools.com)
-* [W3Fools](http://www.w3fools.com/)
 * [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
 * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
 
-Stack Overflow
-* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
-* [Stack Overflow Blog](https://stackoverflow.blog) and [Stack Overflow Insights](https://stackoverflow.com/insights)
-* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
-* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
-
-Stack Exchange
-* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
-
-Math and General Knowledge
-* [Project Euler](http://www.projecteuler.net)  
+Math and General Knowledge 
 * [Project Euler Local GitHub](https://github.com/imsky/LocalEuler)  
-* [Project Euler Problems](http://projecteuler.net/problems)  
-* [Khan Academy](https://www.khanacademy.org)
-* [Math Overflow](http://mathoverflow.net)
-* [Wolfram MathWorld](http://mathworld.wolfram.com)
-* [Wolfram Alpha](https://www.wolframalpha.com), [Wolfram Alpha Blog](http://blog.stephenwolfram.com), and [Wolfram Alpha Wikipedia](http://en.wikipedia.org/wiki/Wolfram_Alpha)
 * [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
-* [Math is Fun](http://www.mathsisfun.com)
-
-JavaScript Scene, Eric Elliot: CSS, HTML, JavaScript, and Other
-* [JavaScript Scene](https://medium.com/javascript-scene)
-* [Eric Elliot GitHub](https://github.com/ericelliott)
-* [Eric Elliot Latest Medium](https://medium.com/@_ericelliott/latest)
-
-Addy Osmani
-* [Addy Osmani GitHub](https://github.com/addyosmani) and [Addy Osmani Twitter](https://twitter.com/addyosmani)
-
-Kyle Simpson
-* [Kyle Simpson (Getify) GitHub](https://github.com/getify) and [Kyle Simpson (You Don't Know JavaScript) Twitter](https://twitter.com/YDKJS)
-
-Live Coding
-* [Live Coding TV](https://www.livecoding.tv)
-* [Twitch Creative Directory](http://www.twitch.tv/directory/game/Creative)
-* [YouTube](https://www.youtube.com)
 
 Coding Competitions
 * [Code Jam](https://code.google.com/codejam)
@@ -315,6 +229,8 @@ http://www.appinventor.org
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
+
+
 <!--
 Design and Dev Publications
 * [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
@@ -343,36 +259,6 @@ Programming Books- General
 * [Humble Bundle](https://www.humblebundle.com)
 * [DevFreeBooks](https://github.com/devfreebooks/devfreebooks.github.io)
 
-Documentation- General
-* [O'Reilly Free](http://www.oreilly.com/free), [O'Reilly Programming Free](http://www.oreilly.com/programming/free), and [O'Reilly Design Free](http://www.oreilly.com/design/free)
-* [Safari Books](https://www.safaribooksonline.com)
-* [Packt](https://www.packtpub.com) and [Packt Free e-Book](https://www.packtpub.com/packt/offers/free-learning)
-* [No Starch Press](https://www.nostarch.com)
-
-IBM Documentation
-* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
-* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
-
-Standards
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c) 
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-Mozilla and Documentation
-* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-<!--
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
--->
-
 Free Software Foundation
 * [Free Software Foundation Wikipedia](https://en.wikipedia.org/wiki/Free_Software_Foundation)
 
@@ -384,6 +270,8 @@ GNU Software and Manuals
 KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
+
+
 
 #### Engineering Blogs, Design Systems, Style Guides
 
@@ -912,16 +800,6 @@ Brackets control-e
 
 Visual Studio Code
 
-<!--
-* Other Electron-based IDE
-  * [VS Code](https://code.visualstudio.com/)
-    * [Visual Studio Marketplace](https://marketplace.visualstudio.com/vscode)
-    
-https://code.visualstudio.com/docs?start=true
-https://code.visualstudio.com/docs/setup/mac
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
--->
-
 More Shell/Text Editors (See also Visual Studio and XCode)
 * [Sublime Text Editor](http://www.sublimetext.com)
 * [Atom GitHub](ttps://github.com/atom/atom) and [Electron (Formerly Atom Shell) GitHub](http://electron.atom.io)
@@ -947,8 +825,6 @@ Intellisense
 * [Intelligent Code Completion Wikipedia](https://en.wikipedia.org/wiki/Intelligent_code_completion)
 
 <!--
-https://code.visualstudio.com/docs/editor/intellisense
-https://code.visualstudio.com/docs/introvideos/intellisense
 https://msdn.microsoft.com/en-us/library/hcw1s69b.aspx
 
 https://en.wikipedia.org/wiki/IntelliJ_IDEA
@@ -959,7 +835,7 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 
 http://plnkr.co/
 
-https://www.jetbrains.com/pycharm
+PyCharm
 -->
 
 <!--
@@ -4012,15 +3888,6 @@ https://blog.xamarin.com/net-standard-library-support-for-xamarin
 https://blogs.windows.com/buildingapps/2016/07/28/adding-color-to-your-design
 -->
 
-JavaScript- Microsoft
-* [Microsoft JavaScript](https://msdn.microsoft.com/library/aa902517.aspx)
-* [Microsoft JavaScript Reference](https://msdn.microsoft.com/library/yek4tbz0(v=vs.94).aspx)
-
-Web Development- Microsoft
-* [Microsoft Web Development](https://msdn.microsoft.com/library/aa155073.aspx)
-
-
-
 Microsoft General Resources
 * [Microsoft Support](https://support.microsoft.com)
 * [Microsoft TechNet](http://technet.microsoft.com)
@@ -4037,11 +3904,9 @@ Microsoft Library
 * [Microsoft Library](https://msdn.microsoft.com/library)
 * [Microsoft Library Table of Contents](https://msdn.microsoft.com/library/ms310241)
 
-Visual Studio
+Visual Studio (See also: Visual Studio Code)
+* [Visual Studio](http://www.visualstudio.com) 
 * [Microsoft Visual Studio Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Visual_Studio)
-* [Visual Studio](http://www.visualstudio.com)  
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
 * [Visual Studio Go GitHub](https://github.com/Microsoft/vscode-go)
 * [Python Tools for Visual Studio GitHub](https://github.com/Microsoft/PTVS)
 
@@ -4051,9 +3916,6 @@ https://www.visualstudio.com/en-us/visual-studio-2015-system-requirements-vs#1
 
 https://developer.microsoft.com/en-us/windows/downloads/virtual-machines
 http://kb.parallels.com/en/122884
-
-https://code.visualstudio.com/Docs
-https://code.visualstudio.com/Docs/setup/setup-overview
 
 https://www.youtube.com/user/VisualStudio/playlists?shelf_id=31&sort=dd&view=50
 
