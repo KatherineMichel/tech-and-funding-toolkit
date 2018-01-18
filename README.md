@@ -1034,126 +1034,6 @@ http://www.mac-forums.com/os-x-operating-system/282475-permissions-error-jpeg-fi
 http://osxdaily.com/2015/11/04/verify-repair-permissions-mac-os-x/
 -->
 
-
-
-
-<!--
-Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
-
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
-https://en.wikipedia.org/wiki/Unix-like
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
-
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [SS64 OS X Reference](http://ss64.com/osx)
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
-
-https://en.wikipedia.org/wiki/File_system_permissions
-
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-#### Command Line and Shell
-Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
-
-https://www.openstack.org/coa
-https://docs.openstack.org
-http://docs.openstack.org/developer/nova
-https://wiki.openstack.org/wiki/Horizon
-http://docs.openstack.org/developer/horizon
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
-
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
-
-See also: Data Science
-https://github.com/keen/cohorts
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-See Events
-http://webbyawards.com
-
-Design and Dev Publications
-* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-* [Smashing Magazine](http://www.smashingmagazine.com) 
-* [Tympanus](http://tympanus.net)
-* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
-
-https://webdesign.tutsplus.com
-https://code.tutsplus.com
-
-[HTML5Rocks](https://www.html5rocks.com/)
-
-http://html5doctor.com
-https://css-tricks.com
-https://alistapart.com
-https://www.sitepoint.com
-https://csswizardry.com
--->
-
-
-
 #### Social Graph and Webmaster
 
 <!--
@@ -1289,8 +1169,6 @@ Sharing Buttons
 * [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
 
-
-
 #### Social Media
 
 <!--
@@ -1344,9 +1222,6 @@ YouTube (Google)
 * [YouTube Analytics](http://www.youtube.com/yt/playbook/yt-analytics.html)  
 * [YouTube Creators](http://www.youtube.com/yt/creators)  
 * [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
-
-Net Promoter
-* [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
 
 #### Design Thinking
 
@@ -1402,8 +1277,6 @@ https://www.quora.com/Whats-the-average-desktop-screen-resolution-as-of-2015
 -->
 
 Prototyping Software- Keynotopia
-* [Keynotopia](http://keynotopia.com), [Keynotopia Twitter](https://twitter.com/keynotopia), and [Keynotopia Super Bundle (including Functionality List)](http://keynotopia.com/keynotopia-super-bundle)  
-* [Fake It Make It: How to Make an App Prototype in 3 Hours by Amir Khella (featuring Keynotopia)](http://www.amazon.com/dp/B00X8U2BCY) and [Fake It Make It](http://keynotopia.com/fakeitmakeit)
 * [Keynotopia FontAwesome](http://keynotopia.com/fontawesome-icons-for-keynote-and-powerpoint)
 * [Keynote Theme File Extension](http://fileinfo.com/extension/kth)
 
@@ -1501,6 +1374,26 @@ https://writeclearlyblog.com/2016/01/27/does-the-f-shaped-pattern-for-reading-we
 
 https://en.wikipedia.org/wiki/Heat_map
 https://www.crazyegg.com
+-->
+
+<!--
+Design and Dev Publications
+* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+* [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
+* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+
+https://webdesign.tutsplus.com
+https://code.tutsplus.com
+
+[HTML5Rocks](https://www.html5rocks.com/)
+
+http://html5doctor.com
+https://css-tricks.com
+https://alistapart.com
+https://www.sitepoint.com
+https://csswizardry.com
 -->
 
 <!--
@@ -1629,31 +1522,20 @@ Easy App Installation
 https://mosh.org
 
 http://updateyourfooter.com
-
-https://websitedownloader.io/wayback-machine-downloader
-https://websitedownloader.io
-https://webpreserver.com
-https://itunes.apple.com/gb/app/sitesucker/id442168834?mt=12
 -->
 
 #### Facebook and Google Design and Development Approaches
 
-Facebook and Google Design
-
 Google
 * [Google Roboto GitHub](https://github.com/google/roboto) 
 
-Google Material Design (See also Facebook React)
-Bootstrap Material Design
-Polymer (See also Facebook React)
- 
 Accelerated Mobile Pages (AMP HTML)
 * [Accelerated Mobile Pages Blog Post](https://googleblog.blogspot.com/2015/10/introducing-accelerated-mobile-pages.html) and [How it Works](https://www.ampproject.org/how-it-works)
 * [Accelerated Mobile Pages Project](https://www.ampproject.org) and [Accelerated Mobile Pages Project GitHub](https://github.com/ampproject/amphtml)
 
-<!--
-https://developers.google.com/web/showcase
--->
+
+
+
 
 #### Front-End Development
 
@@ -2203,6 +2085,10 @@ Cross Browser and Sniffing
 * [User Agent Sniffing Wikipedia](https://en.wikipedia.org/wiki/User_agent#User_agent_sniffing)
 * [Feature Detection Wikipedia](https://en.wikipedia.org/wiki/Feature_detection_(web_development))
 
+
+
+
+
 #### Development Environment and Programming
 
 #### Apple Developer
@@ -2212,28 +2098,12 @@ Mac OS X
 * [OS X El Capitan, Core Technologies Overview, September 2015](https://www.apple.com/osx/all-features/pdf/osx_elcapitan_core_technologies_overview.pdf)
 * [How to Reinstall OS X](https://support.apple.com/en-us/HT204904)
 
-Mac OS X- Architecture
-* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
-* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
-* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
-
 Apple iOS
 * [Apple iOS](https://developer.apple.com/ios) and [iOS Wikipedia](https://en.wikipedia.org/wiki/IOS)
 * [List of iOS Devices Wikipedia](https://en.wikipedia.org/wiki/List_of_iOS_devices)
 
 MacPorts
 * [MacPorts](https://guide.macports.org) and [MacPorts GitHub](https://github.com/macports/macports-ports)
-
-Mac OS X Directory Strucure and Listing Applications
-* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
-* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
-
-<!--
-http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
-
-https://en.wikipedia.org/wiki/Apple_File_System
-https://en.wikipedia.org/wiki/HFS_Plus
--->
 
 Apple Developer Program Membership
 * [Apple Developer Program Membership Details](https://developer.apple.com/programs/whats-included), [Apple Developer Program Membership Center](https://developer.apple.com/membercenter), and [Compare Memberships](https://developer.apple.com/support/compare-memberships)
@@ -2247,23 +2117,11 @@ https://developer.apple.com/news/?id=01032018a | Apple Developer Program Members
 Apple Developer and Open Source
 * [Apple Developer](https://developer.apple.com), [Apple Developer Develop](https://developer.apple.com/develop)
 * [Apple Developer Forum](https://forums.developer.apple.com)
-* [Apple Open Source](https://developer.apple.com/opensource)
 * [.DS_Store Wikipedia](https://en.wikipedia.org/wiki/.DS_Store)
 
 Apple Developer Helpers
-* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
-* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
 * [Xcode](https://developer.apple.com/xcode) and [Xcode Wikipedia](https://en.wikipedia.org/wiki/Xcode)
 * [TestFlight App Beta Testing (Apple)](https://developer.apple.com/testflight)
-
-<!--
-https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
-https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
--->
-
-iTerm2
-* [iTerm2](https://www.iterm2.com)
-* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 App Store Submission
 * [Choosing a Business Model](https://developer.apple.com/app-store/business-models)
@@ -2281,9 +2139,6 @@ Apple- Kits
 * [ResearchKit and Carekit](http://www.apple.com/researchkit)
 * [Watchkit](https://developer.apple.com/watchkit) 
 
-Apple- Dash
-* [Dash for MacOS](https://kapeli.com/dash)
-
 <!--
 http://www.cnet.com/how-to/how-to-find-your-macs-basic-specs-in-os-x/
 
@@ -2294,10 +2149,45 @@ https://developer.apple.com/download/more
 https://itunes.apple.com/us/app/avg-cleaner/id667434228?mt=12
 
 https://developer.apple.com/reference/applepayjs
-https://developer.apple.com/reference/accelerate/1912851-bnns
 https://developer.apple.com/sirikit
 https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
 -->
+
+
+
+<!--
+See Events
+http://webbyawards.com
+
+https://developer.apple.com/reference/accelerate/1912851-bnns
+
+Mac OS X- Architecture
+* [Darwin Wikipedia](https://en.wikipedia.org/wiki/Darwin_(operating_system))
+* [Architecture of OS X Wikipedia](https://en.wikipedia.org/wiki/Architecture_of_OS_X)
+* [List of OS X Components](https://en.wikipedia.org/wiki/List_of_OS_X_components)
+
+Mac OS X Directory Strucure and Listing Applications
+* [Mac OS X Directory Structure Explained](http://osxdaily.com/2007/03/30/mac-os-x-directory-structure-explained)
+* [List all applications on Mac OS X](http://osxdaily.com/2015/05/25/list-all-applications-mac-os-x)
+
+https://en.wikipedia.org/wiki/Apple_File_System
+https://en.wikipedia.org/wiki/HFS_Plus
+
+http://osxdaily.com/2013/08/08/change-default-application-open-files-mac-os-x
+
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)
+* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
+
+https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
+
+* [Apple Open Source](https://developer.apple.com/opensource)
+
+iTerm2
+* [iTerm2](https://www.iterm2.com)
+* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
+-->
+
 
 #### Google Developer
 
@@ -3254,42 +3144,13 @@ http://webassets.readthedocs.org/en/latest
 
 
 
-
 #### Back-End Programming Languages, MVCs
 
-Programming Languages
-* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
-* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-Scripting and MVCs
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](http://en.wikipedia.org/wiki/Server-side_scripting#Server-side_scripting_languages)  
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-Programming Languages- Assembly
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org)  
+Programming Languages- Assembly (See also: C)
 * [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
 * [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
 * [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
 * [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
-
-<!--
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
--->
 
 Programming Languages- Miscellaneous
 * [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
@@ -3431,11 +3292,6 @@ Rails- Preferred Templates and Documents
 * [Ruby Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)  
 
 Jekyll
-* [Jekyll](https://jekyllrb.com) and [Jekyll GitHub](https://github.com/jekyll/jekyll)
-* [Jekyll Templates](https://jekyllrb.com/docs/templates)
-* [Shopify Liquid](https://shopify.github.io/liquid) and [Shopify Liquid GitHub](https://github.com/Shopify/liquid)
-* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
-* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
 
 <!--
 New
@@ -3453,7 +3309,6 @@ https://github.com/daigofuji/jekyll-foundation-5-starter
 -->
 
 Jekyll Admin/CMS
-* [Jekyll Admin GitHub](https://github.com/jekyll/jekyll-admin)
 * [CloudCannon](http://cloudcannon.com)
 
 <!--
@@ -5129,9 +4984,6 @@ https://www.alibabacloud.com
 
 #### AWS
 
-Amazon Web Services
-* [Amazon Web Services](http://aws.amazon.com)  
-
 AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
 * [AWS Regions](http://aws.amazon.com/articles/3912)  
 * [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
@@ -5547,6 +5399,8 @@ Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
 * [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
 * [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
 
+
+
 PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
 * [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
@@ -5873,10 +5727,11 @@ See also Django
  
 Terraform
 * [Terraform](https://www.terraform.io)
+* [Terraform Module Registry](https://registry.terraform.io)
+
+
 
 <!--
-https://registry.terraform.io/ | Terraform Module Registry
-
 http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
 http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
 https://github.com/cyberomin/terraform/tree/master/part-ii
@@ -6427,6 +6282,8 @@ Distributed and Parallel Computing
 * [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
 * [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
 
+
+
 #### More Back-end
 
 Chef
@@ -6536,6 +6393,8 @@ Mongoose, Mongoid, Moped, Mongomapper
 * [Mongoid ElasticSearch GitHub](https://github.com/rs-pro/mongoid-elasticsearch)  
 * [Moped GitHub](https://github.com/mongoid/moped)  
 * [Mongomapper GitHub](https://github.com/mongomapper/mongomapper) 
+
+
 
 #### Software Manuals and Documentation 
 
