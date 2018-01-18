@@ -2140,6 +2140,52 @@ https://developer.apple.com/sirikit
 https://idmsa.apple.com/IDMSWebAuth/login?appIdKey=891bd3417a7776362562d2197f89480a8547b108fd934911bcbea0110d07f757&baseURL=https://developer.apple.com/&path=%2Fdownload%2F&rv=1
 -->
 
+#### Google Developer
+
+Google
+* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
+
+Chrome Extensions
+* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
+* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
+* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
+* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
+
+<!--
+chrome://apps
+
+google chrome experiments tab
+chrome://flags/#enable-devtools-experiments
+
+https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
+
+http://docs.ionic.io/docs/chrome-inspector
+-->
+
+#### Microsoft Developer
+
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
+
+<!--
+https://www.microsoft.com/en-us/software-download/windows10ISO
+-->
+
+Windows SSH and Telnet Client
+* [PuTTY](http://www.putty.org)
+
+<!--
+http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+-->
+
+Linux Feeling- on Windows
+* [Cygwin](http://cygwin.com)
+
+
 
 
 <!--
@@ -2173,13 +2219,6 @@ https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-T
 iTerm2
 * [iTerm2](https://www.iterm2.com)
 * [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
--->
-
-
-#### Google Developer
-
-Google
-* [Android Wikipedia](https://en.wikipedia.org/wiki/Android_(operating_system))
 
 Google Developers- General
 * [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
@@ -2192,47 +2231,13 @@ Google Developers- Web
 * [Google Developer Web](https://developers.google.com/web)
 
 Chrome Extensions
-* [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related?hl=en)
-* [Chrome User Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)
-* [Chrome Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
-* [Chrome Apps & Extensions Developer Tools](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc)
-* [Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb/related)
-* [Scraper](https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd)
-
-<!--
-chrome://apps
-
-google chrome experiments tab
-chrome://flags/#enable-devtools-experiments
 
 https://developer.chrome.com/apps/notifications
 https://developer.chrome.com/extensions/crx
-
-https://dataist.wordpress.com/2012/10/12/get-started-with-screenscraping-using-google-chromes-scraper-extension/
-
-http://docs.ionic.io/docs/chrome-inspector
 -->
 
-#### Microsoft Developer
 
-Windows
-* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
-* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
-* [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
 
-<!--
-https://www.microsoft.com/en-us/software-download/windows10ISO
--->
-
-Windows SSH and Telnet Client
-* [PuTTY](http://www.putty.org)
-
-<!--
-http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
--->
-
-Linux Feeling- on Windows
-* [Cygwin](http://cygwin.com)
 
 #### Mozilla Developer
 
@@ -2411,6 +2416,8 @@ Mozilla Developer Tools
     * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
 -->
 
+
+
 <!--
 Web Development- Microsoft
 * [Microsoft Web Development](https://msdn.microsoft.com/en-us/library/aa155073.aspx)
@@ -2451,6 +2458,8 @@ JavaScript Styleguide
 * [Clean Code JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [JavaScript Clean Coding Best Practices](https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/)
 -->
+
+
 
 #### Testing and Performance
 
@@ -2777,10 +2786,8 @@ Node Forks (IO.js merged with Node again)
 * [JXCore GitHub](https://github.com/jxcore/jxcore) 
 
 Node.js Package Managers (npm (build-step))
-* [NPM](https://www.npmjs.com) and [NPM GitHub](https://github.com/npm/npm) 
 
 Node.js Package Managers (npm (build-step))
-* [Yarn](https://yarnpkg.com) and [Yarn GitHub](https://github.com/yarnpkg/yarn)
 * ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
 * [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
   
