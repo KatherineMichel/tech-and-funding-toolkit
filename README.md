@@ -8,21 +8,6 @@ A :star::star::star::star::star: curated list of high quality resources (mostly 
 
 Update: This list has become larger than ever intended and is nearing a point of being too large to be rendered by GitHub. Parts of it are being spun out into smaller lists. 
 
-<!--
-* [Mental Models](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/mental-models.md)
-* [Templates and Example Website Code](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/templates-and-example-website-code.md)
-* [Organizations on GitHub](https://github.com/KatherineMichel/tech-and-venture-capital-toolkit/blob/master/organizations-on-github.md)
-
-https://github.com/KatherineMichel/favorite-learning-resources
-https://github.com/KatherineMichel/analysis-and-pitching
-https://github.com/KatherineMichel/project-and-product-management
-https://github.com/KatherineMichel/front-end-development-process
-https://github.com/KatherineMichel/javascript-stack
-https://github.com/KatherineMichel/advanced-workflows
-https://github.com/KatherineMichel/data-science
-https://github.com/KatherineMichel/organizations-on-github
--->
-
 Table of Content
 -----------------
 
@@ -36,11 +21,6 @@ Table of Content
   * [Keyboard Shortcuts](#keyboard-shortcuts)
   * [Encoding](#encoding)
   * [Dot Files](#dot-files)
-<!--
-* [Systems](#systems) 
-  * [Startup Engineering MOOC](#startup-engineering-mooc)
-  * [Advice and Help for Beginners](#advice-and-help-for-beginners) 
--->
 * [Operating System, Browser, Layout Engine](#operating-system-browser-layout-engine)
   * [Unix and Linux General](#unix-and-linux-general)
   * [Mojombo Chromebook Recommendation](#mojombo-chromebook-recommendation)
@@ -72,16 +52,8 @@ Table of Content
 * [Python and Django Toolkit](#python-and-django-toolkit)
   * [Python and Django Foundations](#python-and-django-foundations)
   * [Python General](#python-general)
-  * [Python- High Level](#python-high-level)
-<!--
-  * [Python and Django Playbooks and Styleguides](#python-and-django-playbooks-and-styleguides)-->   
-  * [Django General](#django-general)
-<!--
-  * [Python and Django Contributing](#python-and-django-contributing)
-  * [Python and Django Support Groups](#python-and-django-support-groups)
-  * [Python and Django Conference Videos and Slides](#python-and-django-conference-videos-and-slides)
-  * [Python- Object Oriented Programming](#python-object-oriented-programming) 
-  * [Python and Django Books and Tutorials](#python-and-django-books-and-tutorials)-->      
+  * [Python- High Level](#python-high-level) 
+  * [Django General](#django-general)     
   * [Python and Django Templates and Microframeworks](#python-and-django-template-and-microframeworks)
   * [Python and Django Deployment](#python-and-django-deployment)
   * [Python and Django Lincoln Loop Stack](#python-and-django-lincoln-loop-stack)
@@ -204,10 +176,10 @@ Coding Competitions
 Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
 * [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
-* [Levelsio Twitch](http://www.twitch.tv/levelsio)
 * [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
 
 <!--
+* [Levelsio Twitch](http://www.twitch.tv/levelsio)
 https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
 -->
 
@@ -228,28 +200,6 @@ http://www.appinventor.org
 
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
-
-
-
-<!--
-Design and Dev Publications
-* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
-* [Smashing Magazine](http://www.smashingmagazine.com) 
-* [Tympanus](http://tympanus.net)
-* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
-* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
-
-https://webdesign.tutsplus.com
-https://code.tutsplus.com
-
-[HTML5Rocks](https://www.html5rocks.com/)
-
-http://html5doctor.com
-https://css-tricks.com
-https://alistapart.com
-https://www.sitepoint.com
-https://csswizardry.com
--->
 
 #### Programming Documentation and Standards
 
@@ -274,14 +224,6 @@ KDE (See also KHTML)
 
 
 #### Engineering Blogs, Design Systems, Style Guides
-
-<!--
-See Events
-http://webbyawards.com
--->
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 
 Developer Surveys
 * [Stack Overflow Survey: What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends)
@@ -409,21 +351,14 @@ Swift Styleguide
 
 #### Built With and Search
 
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news) 
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
 <!--
 https://stackshare.io/posts/top-developer-tools-2016
 http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
 
-http://thenewstack.io
 http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
 -->
 
 Built With (Exluding Django; See also Squarespace)
-* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)  
 * [Made with Angular](https://www.madewithangular.com)  
 * [Built with Bootstrap](http://expo.getbootstrap.com)  
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
@@ -432,13 +367,6 @@ Built With (Exluding Django; See also Squarespace)
 * [Made with React](http://madewithreact.com)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 * [Built with Shopify](http://www.builtwithshopify.com)
-
-Product/Service Directories
-* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
-* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
-
-DevCenter (Developer Center/API)
-* [DevCenter Website](DevCenter.me) 
 
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
@@ -566,16 +494,6 @@ Chomsky Hierarchy and Automata
 Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
-
-Computer Classes and Sizes
-* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
-* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
-* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
-
-Smartphones (See also Mobile)
-* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
-* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
-
 <!--
 https://en.wikipedia.org/wiki/Bandwidth_(computing)
 https://en.wikipedia.org/wiki/Latency_(engineering)
@@ -634,15 +552,6 @@ HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
 -->
 
-<!--
-https://www.openstack.org/coa
-https://docs.openstack.org
-http://docs.openstack.org/developer/nova
-https://wiki.openstack.org/wiki/Horizon
-http://docs.openstack.org/developer/horizon
--->
-
-
 #### Command Line and Shell
 
 See also Bash and PowerShell<br>
@@ -652,23 +561,9 @@ Unix
 * [Stanford Open Classroom Practical Unix](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=PracticalUnix)  
 * [Unix Tutorial For Beginners](http://www.ee.surrey.ac.uk/Teaching/Unix)  
 
-Comparison of File Systems
-* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
-
-<!--
-https://en.wikipedia.org/wiki/Unix-like
--->
-
 Unix Shell and File system
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
 * [List of Unix Commands Wikipedia](https://en.wikipedia.org/wiki/List_of_Unix_commands)
 * [Guide to Unix/Commands Wikibook](https://en.wikibooks.org/wiki/Guide_to_Unix/Commands) and [Guide to Unix/Commands/File System Utilities Wikibook](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities)
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
-
-POSIX (Compatible with Unix)
-* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
 
 The Linux Documentation Project
 * [The Linux Documentation Project](http://www.tldp.org)
@@ -702,17 +597,11 @@ Shell
 * [Secure Shell (TCP/IP Application Layer) Wikipedia](http://en.wikipedia.org/wiki/Secure_Shell)  
 * [Shell Script Wikipedia](http://en.wikipedia.org/wiki/Shell_script) 
 
-Comparison of Command Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-
 SS64 (Command Line Reference (CMD, PowerShell, Bash, OS X, Access, VB Script, Oracle, SQL Server, CSS, Convert MB/GB))
 * [SS64](http://ss64.com)
 
 Mac OS X- Terminal, Bash (Unix)
-* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
-* [SS64 OS X Reference](http://ss64.com/osx) and [SS64 Bash Reference](http://ss64.com/bash)
-* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [SS64 Bash Reference](http://ss64.com/bash)
 * [Bash Homepage](https://www.gnu.org/software/bash), [Bash Manual](http://www.gnu.org/software/bash/manual), and [Bash Reference Manual](http://www.gnu.org/software/bash/manual/bashref.html)
 * [Bash Handbook](https://github.com/denysdovhan/bash-handbook) 
 * [Bash Command Line Shortcuts](http://www.catonmat.net/download/bash-history-cheat-sheet.pdf)  
@@ -834,8 +723,6 @@ Good Node Editors (Atom, WebStorm (good, but not free), Brackets, VSCode)
 * [WebStorm](https://www.jetbrains.com/webstorm)
 
 http://plnkr.co/
-
-PyCharm
 -->
 
 <!--
@@ -844,14 +731,6 @@ PyCharm
 
 See JavaScript Stack
 [Google Code Prettify](https://github.com/google/code-prettify)
--->
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-<!--
-https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 -->
 
 Unix Shell (See also Unix)
@@ -868,7 +747,6 @@ Integrated Development Environment
 New
 https://en.wikipedia.org/wiki/Meta_key
 
-https://en.wikipedia.org/wiki/File_system_permissions
 https://en.wikipedia.org/wiki/Tar_(computing)
 
 https://en.wikipedia.org/wiki/PowerShell#Scripting
@@ -915,11 +793,6 @@ http://www.unix.com/man-page/posix/1posix/eval
 -->
 
 #### Keyboard Shortcuts
-
-Keyboard Shortcuts
-* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
-* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
-* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
 
 Emoji and Other Funny Keyboard Shortcode 
 * [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com)
@@ -1003,49 +876,10 @@ https://github.com/mitchty/src/blob/master/dotfiles/maid/rules.rb
 http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 -->
 
-
-#### Systems
-
-
-#### Startup Engineering MOOC
-
-Currently out of commission. 
-
-
-
-
-
-
 #### Operating System, Browser, Layout Engine
-
-Operating Systems
-* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
-* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
-* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
-* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
-* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
-
-Web Browser
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
-* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
-* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
-
-Web Browser and JavaScript Engines (See also JavaScript)- General
-* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
-* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
-* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
-
-Compilers
-* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
-* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
-* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
 
 #### Unix and Linux General
 
-* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
-* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
-* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
 * [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
 
 Linux
@@ -1124,7 +958,6 @@ Supported file types and external devices
 https://support.google.com/chromebook/answer/183093
 -->
 
-
 #### Apple General
 
 Apple Posters of Ago
@@ -1186,10 +1019,6 @@ Apple- Support
 Mac Update
 * [Mac Update](http://www.macupdate.com)
 
-Mac Keyboard Shortcuts
-* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
-* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
-
 <!--
 Use Activity Monitor on Your Mac
 https://support.apple.com/en-us/HT201464
@@ -1206,9 +1035,92 @@ http://osxdaily.com/2015/11/04/verify-repair-permissions-mac-os-x/
 -->
 
 
-#### Dashboard
+
 
 <!--
+Mac Keyboard Shortcuts
+* [Mac Keyboard Shortcuts](https://support.apple.com/en-us/HT201236)
+* [How to type accents, emoji, and symbols on your Mac](https://support.apple.com/en-us/HT201586)
+
+Comparison of Command Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+
+https://en.wikipedia.org/wiki/Unix-like
+
+POSIX (Compatible with Unix)
+* [POSIX Wikipedia](https://en.wikipedia.org/wiki/POSIX)
+
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Terminal (OS X) Wikipedia](https://en.wikipedia.org/wiki/Terminal_(OS_X)) 
+* [Mac Command Line Primer](https://developer.apple.com/library/mac/documentation/OpenSource/Conceptual/ShellScripting/CommandLInePrimer/CommandLine.html)
+* [SS64 OS X Reference](http://ss64.com/osx)
+
+Keyboard Shortcuts
+* [W3Schools Keyboard Shortcuts](http://www.w3schools.com/tags/ref_keyboardshortcuts.asp)
+* [Keyboard Shortcut Wikipedia](https://en.wikipedia.org/wiki/Keyboard_shortcut)
+* [Table of Keyboard Shortcuts Wikipedia](https://en.wikipedia.org/wiki/Table_of_keyboard_shortcuts)
+
+https://en.wikipedia.org/wiki/File_system_permissions
+
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+Comparison of File Systems
+* [Comparison of File Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+
+#### Command Line and Shell
+Names for command line: prompt, console, terminal, shell, bash; .bashrc, .bash_profile
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
+
+https://www.openstack.org/coa
+https://docs.openstack.org
+http://docs.openstack.org/developer/nova
+https://wiki.openstack.org/wiki/Horizon
+http://docs.openstack.org/developer/horizon
+
+Computer Classes and Sizes
+* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
+
+Smartphones (See also Mobile)
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+
+* [Unix Wikipedia](http://en.wikipedia.org/wiki/Unix)  
+* [Unix History SVG Wikipedia](http://en.wikipedia.org/wiki/File:Unix_history-simple.svg)  
+* [List of Web Browsers for Unix and Unix-Like Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers_for_Unix_and_Unix-like_operating_systems)
+
+Operating Systems
+* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
+
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+
+Compilers
+* [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 
+* [GNU Compiler Collection (Unix, BSD) Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)
+* [LLVM (FreeBSD, Mac OS X) Wikipedia](https://en.wikipedia.org/wiki/LLVM)
+
 See also: Data Science
 https://github.com/keen/cohorts
 
@@ -1217,7 +1129,30 @@ https://github.com/brutasse/graphite-api
 http://grafana.org
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
+
+See Events
+http://webbyawards.com
+
+Design and Dev Publications
+* [NETTUTS GitHub](https://github.com/NETTUTS) and [TUTS+ GitHub](https://github.com/tutsplus) 
+* [Smashing Magazine](http://www.smashingmagazine.com) 
+* [Tympanus](http://tympanus.net)
+* [Tympanus Codrops](http://tympanus.net/codrops) and [Tympanus Codrops GitHub](https://github.com/codrops)  
+* [Our Favorite Codrops Resources 2015](http://tympanus.net/codrops2015) and [Our Favorite Codrops Resources 2014](http://tympanus.net/codrops2014)
+
+https://webdesign.tutsplus.com
+https://code.tutsplus.com
+
+[HTML5Rocks](https://www.html5rocks.com/)
+
+http://html5doctor.com
+https://css-tricks.com
+https://alistapart.com
+https://www.sitepoint.com
+https://csswizardry.com
 -->
+
+
 
 #### Social Graph and Webmaster
 
