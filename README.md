@@ -1800,9 +1800,6 @@ Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 * [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
 
-
-
-
 <!--      
   * Platform Status
     * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
@@ -1817,6 +1814,7 @@ Mozilla Developer Tools
     * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
     * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
 -->
+
 
 
 
@@ -2648,6 +2646,16 @@ Jekyll
 New
 https://github.com/planetjekyll/awesome-jekyll-plugins
 
+https://jekyllrb.com/docs/home
+https://jekyllrb.com/docs/collections
+https://talk.jekyllrb.com
+http://www.jekyll-plugins.com
+http://jekyll.tips
+
+https://www.shopify.ca/partners/shopify-cheat-sheet
+
+https://github.com/harrisj/swagger-jekyll
+
 http://jekyllbootstrap.com/lessons/jekyll-introduction.html
 https://jekyll.github.io/jekyll-assets
 -->
@@ -2663,15 +2671,6 @@ https://github.com/CloudCannon/Strata-Jekyll-Theme
 https://github.com/integrations/siteleaf
 https://staticman.net
 https://staticman.net/get-started
-https://github.com/harrisj/swagger-jekyll
-
-https://jekyllrb.com/docs/home
-https://jekyllrb.com/docs/collections
-https://talk.jekyllrb.com
-http://www.jekyll-plugins.com
-http://jekyll.tips
-
-https://www.shopify.ca/partners/shopify-cheat-sheet
 
 https://github.com/imathis/octopress/wiki/3rd-party-plugins
 
@@ -4403,16 +4402,6 @@ http://aws.amazon.com/pricing
 https://aws.amazon.com/simpledb/pricing
 https://aws.amazon.com/ebs/pricing
 
-https://aws.amazon.com/ec2/instance-types
-https://aws.amazon.com/ec2/purchasing-options
-https://aws.amazon.com/ec2/pricing
-https://aws.amazon.com/ec2/spot/pricing
-https://aws.amazon.com/ec2/pricing/reserved-instances/pricing
-https://aws.amazon.com/s3/pricing
-http://aws.amazon.com/pricing/rds
-https://aws.amazon.com/codedeploy/pricing
-https://aws.amazon.com/elasticache/pricing
-
 Ubuntu Server
 https://aws.amazon.com/marketplace/pp/B00JV9JBDS
 
@@ -4743,38 +4732,6 @@ Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
 * [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
 * [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
 
-
-
-PHP- Heroku Buildpacks and Getting Started
-* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
-* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
-* [Heroku PHP Getting Started](https://devcenter.heroku.com/articles/getting-started-with-php) and [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
-* [Heroku Deploying PHP](https://devcenter.heroku.com/articles/deploying-php) 
-* [Heroku PHP Support](https://devcenter.heroku.com/articles/php-support) 
-
-<!--
-https://devcenter.heroku.com/categories/php
--->
-
-PHP- Heroku and Docker
-* [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
-
-Ruby- Heroku Buildpacks and Getting Started
-* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
-* [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
-
-Ruby- Heroku and Docker
-* [Heroku Ruby Docker GitHub](https://github.com/heroku/docker-ruby)
-
-Go- Heroku Buildpacks and Getting Started
-* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
-* [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
-
-
-
-
-
-
 <!--
 * [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
 
@@ -4821,21 +4778,17 @@ Python- Django- Digital Ocean Deployment (See also Docker)
 Python- Django- OpenShift Deployment
 * [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
 
-PHP- Amazon
-* [AWS PHP](https://aws.amazon.com/php)
-* [AWS PHP SDK](https://github.com/aws/aws-sdk-php)
-* [Installing AWS SDK for PHP via Composer](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html#installing-via-composer)
-* [Getting Started with the AWS SDK for PHP](https://aws.amazon.com/articles/4261)
-* [Deploying a PHP Application to AWS Elastic Beanstalk (WordPress?)](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html)
+.NET and ASP.Net- Heroku
+* [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
+* [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
 
-PHP/WordPress- Amazon
-* [Getting Started with WordPress](http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress.html)
-* [Deploying WordPress with AWS Elastic Beanstalk](https://d0.awsstatic.com/whitepapers/deploying-wordpress-with-aws-elastic-beanstalk.pdf)
-* [Tutorial: Hosting a WordPress Blog with Amazon Linux](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html)
-* [Tutorial: Deploying a WordPress Blog on Your Amazon EC2 Instance Running Windows Server](http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html)
-
-PHP/WordPress- Google Cloud
-* [Google Cloud Platform WordPress Starter Project](https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project)
+.NET- Amazon
+* [AWS .NET](https://aws.amazon.com/net)
+* [AWS .NET SDK](https://github.com/aws/aws-sdk-net)
+* [Hosting a .NET Web App on Amazon Web Services](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+* [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
+* [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
+* [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
 <!--
 https://github.com/heroku/mobile-template1
@@ -4855,6 +4808,54 @@ http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
 https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
 -->
 
+
+
+
+
+
+
+
+PHP- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
+* [Heroku Buildpack PHP ('More advanced') GitHub](https://github.com/CHH/heroku-buildpack-php)  
+* [Heroku PHP Getting Started](https://devcenter.heroku.com/articles/getting-started-with-php) and [Heroku PHP Getting Started GitHub](https://github.com/heroku/php-getting-started) 
+* [Heroku Deploying PHP](https://devcenter.heroku.com/articles/deploying-php) 
+* [Heroku PHP Support](https://devcenter.heroku.com/articles/php-support) 
+
+<!--
+https://devcenter.heroku.com/categories/php
+-->
+
+PHP- Heroku and Docker
+* [Heroku PHP Docker GitHub](https://github.com/heroku/docker-php)
+
+Ruby- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack Ruby GitHub](https://github.com/heroku/heroku-buildpack-ruby)  
+* [Heroku Ruby Getting Started GitHub](https://github.com/heroku/ruby-getting-started) 
+
+Ruby- Heroku and Docker
+* [Heroku Ruby Docker GitHub](https://github.com/heroku/docker-ruby)
+
+Go- Heroku Buildpacks and Getting Started
+* [Heroku Buildpack Go GitHub](https://github.com/heroku/heroku-buildpack-go)
+* [Heroku Go Getting Started GitHub](https://github.com/heroku/go-getting-started) 
+
+PHP- Amazon
+* [AWS PHP](https://aws.amazon.com/php)
+* [AWS PHP SDK](https://github.com/aws/aws-sdk-php)
+* [Installing AWS SDK for PHP via Composer](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html#installing-via-composer)
+* [Getting Started with the AWS SDK for PHP](https://aws.amazon.com/articles/4261)
+* [Deploying a PHP Application to AWS Elastic Beanstalk (WordPress?)](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_PHP_eb.html)
+
+PHP/WordPress- Amazon
+* [Getting Started with WordPress](http://docs.aws.amazon.com/codedeploy/latest/userguide/getting-started-wordpress.html)
+* [Deploying WordPress with AWS Elastic Beanstalk](https://d0.awsstatic.com/whitepapers/deploying-wordpress-with-aws-elastic-beanstalk.pdf)
+* [Tutorial: Hosting a WordPress Blog with Amazon Linux](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/hosting-wordpress.html)
+* [Tutorial: Deploying a WordPress Blog on Your Amazon EC2 Instance Running Windows Server](http://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/EC2Win_CreateWordPressBlog.html)
+
+PHP/WordPress- Google Cloud
+* [Google Cloud Platform WordPress Starter Project](https://github.com/GoogleCloudPlatform/appengine-php-wordpress-starter-project)
+
 Ruby- Amazon
 * [AWS Ruby](https://aws.amazon.com/ruby)
 * [AWS Ruby SDK](https://aws.amazon.com/sdk-for-ruby) and [AWS Ruby SDK GitHub](https://github.com/aws/aws-sdk-ruby)
@@ -4866,29 +4867,7 @@ Ruby on Rails- Amazon
 Go- Amazon
 * [Deploying Go Applications to Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_go.html)
 
-.NET and ASP.Net- Heroku
-* [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
-* [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
-
-.NET- Amazon
-* [AWS .NET](https://aws.amazon.com/net)
-* [AWS .NET SDK](https://github.com/aws/aws-sdk-net)
-* [Hosting a .NET Web App on Amazon Web Services](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
-* [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
-* [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
-* [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
-
-
-
 #### Domains, DNS, SSL
-
-Authorities
-* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
-* [Internet Assigned Numbers Authority](http://www.iana.org)
-
-<!--
-* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
--->
 
 Domain Names
 * [Google Domains](https://domains.google.com)
@@ -4931,6 +4910,19 @@ https://www.godaddy.com/help/manage-your-hosting-account-subdomains-4652
 https://www.godaddy.com/help/what-is-a-subdomain-296
 -->
 
+
+
+<!--
+Authorities
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
+* [Internet Assigned Numbers Authority](http://www.iana.org)
+
+* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
+
+DNS, SSL, Wildcard
+-->
+
+<!--
 #### Security
 
 Malware and Encryption
@@ -4938,7 +4930,6 @@ Malware and Encryption
 * [Let's Encrypt](https://github.com/letsencrypt/letsencrypt)
 * [Malware Museum](https://archive.org/details/malwaremuseum)
 
-<!--
 Repeat?
 https://www.amazon.com/Yubico/pages/10358012011 | Amazon.com: Yubico
 https://www.yubico.com/products/yubikey-hardware/
@@ -4971,6 +4962,8 @@ http://www.cert.org/vulnerability-analysis/knowledgebase/index.cfm
 https://www.owasp.org/index.php/Main_Page
 -->
 
+
+
 #### Deployment, Cloud, and Playgrounds
 
 Cloud Computing- General
@@ -4995,6 +4988,9 @@ PaaS- General and Alternatives to Heroku (including Google App Engine)
 SaaS- General and Alternatives to GoogleApps
 * [SaaS](http://en.wikipedia.org/wiki/Software_as_a_service)  
 
+
+
+
 Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Fiddle](https://fiddles.io)
 * [JSFiddle](http://jsfiddle.net)
@@ -5018,6 +5014,10 @@ Bots
 * [Microsoft Bot Framework](https://dev.botframework.com)
 
 <!--
+Workflow Automation
+* [Zapier](https://zapier.com)
+* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
+
 https://glitch.com/art
 
 https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
@@ -5272,9 +5272,7 @@ https://www.cloudflare.com/traffic-manager
 https://blog.cloudflare.com/encryption-week/
 -->
 
-Workflow Automation
-* [Zapier](https://zapier.com)
-* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
+
 
 
 
