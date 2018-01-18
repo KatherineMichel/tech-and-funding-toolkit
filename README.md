@@ -152,16 +152,6 @@ Courses (See also MOOCs)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
 * [Lynda](https://www.lynda.com) and [Lynda for Free](http://smallbusiness.com/resources/lyndacom-for-free)
 
-<!--
-* [The Pluralsight Opportunity](https://www.pluralsight.com/blog/career/the-pluralsight-opportunity)
-
-https://www.pluralsight.com/teach
-https://github.com/pluralsight/pluralsight-author-contrib/wiki/Royalties
-https://www.pluralsight.com/blog/news/authoring-for-pluralsight
-
-http://allibec.com/lessons-learned-from-creating-my-first-course-for-pluralsight/
--->
-
 W3Schools
 * [W3Schools Responds to W3Fools](https://readwrite.com/2011/01/17/w3schools-responds-to-w3fools/)
 * [Why shouldn't I use W3Schools?](https://codereview.meta.stackexchange.com/questions/4975/why-shouldnt-i-use-w3schools-as-reference), [Why do people hate W3schools?](https://www.quora.com/Why-do-people-hate-W3schools-com), [Does W3Schools really suck?](https://www.quora.com/Does-W3Schools-really-suck)
@@ -177,11 +167,6 @@ Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
 * [Brent Schooley Twitch](https://www.twitch.tv/brentschooley)
 * [The Practical Dev Twitch](https://www.twitch.tv/thepracticaldev)
-
-<!--
-* [Levelsio Twitch](http://www.twitch.tv/levelsio)
-https://www.twitch.tv/ewdurbin | ewdurbin - Twitch
--->
 
 Robotics and/or Geared toward Kids
 * [Pluralsight Kids Courses](https://www.pluralsight.com/kids-courses)
@@ -2054,6 +2039,8 @@ Other Kickstarters
 https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/TOC.md
 https://github.com/h5bp/html5-boilerplate/blob/master/dist/doc/misc.md
 -->
+
+
 
 #### CSS Helpers
 
