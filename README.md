@@ -4122,19 +4122,50 @@ http://www.djangopony.com/
 
 #### Dashboards
 
-#### AWS
 
-#### Heroku
 
-#### Digital Ocean
-
-#### Google Cloud
-
-#### Deployment and Git Integration
-
-#### Deployment and Cloud by Language
 
 <!--
+Chrome Extensions
+
+Miscellaneous
+https://bugs.chromium.org/p/v8/issues/list
+
+https://zapier.com/blog/inspect-element-tutorial/
+
+http://www.paulirish.com/2011/a-re-introduction-to-the-chrome-developer-tools/
+http://www.ibm.com/developerworks/library/os-extendchrome/
+https://developer.apple.com/library/safari/documentation/UserExperience/Conceptual/SafariExtensionsConversionGuide/Chapters/Chrome.html
+http://docs.aws.amazon.com/appstream/latest/developerguide/appstream-build-client-chrome.html
+https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
+http://developer.samsung.com/technical-doc/view.do?v=T000000203
+https://developer.salesforce.com/docs/atlas.en-us.lightning.meta/lightning/inspector_intro.htm
+https://dev.twitter.com/web/embedded-timelines (Twitter timeline widget)
+
+https://developer.mozilla.org/en-US/docs/Chrome_Registration
+
+Google Maps JavaScript API
+https://developers.google.com/maps/documentation/javascript
+
+http://cyberomin.github.io/engineering/2017/05/29/terraform-introduction.html | Terraform: Infrastructure as code - Part I
+http://cyberomin.github.io/engineering/2017/06/24/terraform-part-ii.html | Terraform: Infrastructure as code - Part II
+https://github.com/cyberomin/terraform/tree/master/part-ii
+
+https://heap.engineering/terraform-gotchas
+
+Container Intro
+* [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s) 
+ 
+* [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
+* [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
+* [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications) 
+
+http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
+https://deis.com/blog/2016/kubernetes-illustrated-guide/
+
+* [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
+* [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
+          
 Authorities
 * [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
 * [Internet Assigned Numbers Authority](http://www.iana.org)
@@ -4157,6 +4188,39 @@ https://github.com/mhoofman/wordpress-heroku
 http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
 https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
 -->
+
+#### AWS
+
+#### Heroku
+
+#### Digital Ocean
+
+Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
+* [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
+* [Digital Ocean + Dokku Tutorial](https://www.andrewmunsell.com/blog/dokku-tutorial-digital-ocean)  
+* [Dokku](http://progrium.viewdocs.io/dokku/index)  
+* [Dokku GitHub](https://github.com/progrium/dokku)  
+* [Deis](http://deis.io)  
+* [Deis GitHub](https://github.com/deis/deis) 
+
+#### Google Cloud
+
+#### Deployment and Git Integration
+
+#### Deployment and Cloud by Language
+
+Python- Django- Digital Ocean Deployment (See also Docker)
+* [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
+* [Digital Ocean Django One-Click Install Image](https://www.digitalocean.com/community/tutorials/how-to-use-the-django-one-click-install-image)  
+
+Python- Django- OpenShift Deployment
+* [OpenShift Django Example GitHub](https://github.com/openshift/django-example) 
+
+.NET and ASP.Net- Heroku
+* [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
+* [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
+
+
 
 PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
