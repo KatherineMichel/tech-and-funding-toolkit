@@ -4470,6 +4470,7 @@ https://en.wikipedia.org/wiki/JD_Edwards
 
 
 
+
 #### Apache, SQL, Nginx
 
 See also Azure
@@ -4761,11 +4762,6 @@ Mongoose, Mongoid, Moped, Mongomapper
 * [Moped GitHub](https://github.com/mongoid/moped)  
 * [Mongomapper GitHub](https://github.com/mongomapper/mongomapper) 
 
-
-
-
-
-
 #### Software Manuals and Documentation 
 
 <!--
@@ -4848,6 +4844,16 @@ Mobile Phones- General
 Embedded Operating Systems
 * [List of Embedded Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems#Embedded)  
 
+Standards
+* [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
+* [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
+* [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
+* [W3C Mobile](http://www.w3.org/Mobile) 
+* [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language) 
+
+
+
+
 Android
 * [Android.com](http://www.android.com), [Android GitHub](https://github.com/android), and [Android Wikipedia](http://en.wikipedia.org/wiki/Android_(operating_system))  
 * [Android Version History](https://en.wikipedia.org/wiki/Android_version_history)
@@ -4892,13 +4898,6 @@ Deep Linking
 * [Applinks Documentation](http://applinks.org/documentation)  
 * [Deeplink.me Documentation](https://www.deeplink.me)  
 * [URXtech Developer Documentation](https://developers.urx.com) and [URXtech Documentation GitHub](https://github.com/URXtech)  
-
-Standards
-* [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
-* [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
-* [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
-* [W3C Mobile](http://www.w3.org/Mobile) 
-* [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language)  
 
 Internet of Things (including payments)
 * [Arduino](http://www.arduino.cc)  
@@ -5117,6 +5116,9 @@ http://developersacademy.io/blog/
 * [Awesome Swift GitHub](https://github.com/matteocrippa/awesome-swift)
 * [Awesome Swift Education GitHub](https://github.com/hsavit1/Awesome-Swift-Education)
 -->
+
+
+
 
 #### Video Gaming and Virtual Reality
 
