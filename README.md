@@ -1714,6 +1714,10 @@ https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
 -->
 
 
+
+
+
+
 #### JavaScript
 
 JavaScript Ecosystem
@@ -2311,6 +2315,8 @@ http://webassets.readthedocs.org/en/latest
 
 
 
+
+
 #### Back-End Programming Languages, MVCs
 
 Programming Languages- Assembly (See also: C)
@@ -2830,6 +2836,8 @@ Wikitech Development
 #### .NET, ASP, Visual Studio, WebMatrix
 
 <!--
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1#.o5r3loda5
+
 #### New
 https://azure.microsoft.com/en-us/pricing/calculator
 -->
@@ -4127,6 +4135,24 @@ http://www.djangopony.com/
 #### Deployment and Cloud by Language
 
 <!--
+Authorities
+* [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
+* [Internet Assigned Numbers Authority](http://www.iana.org)
+
+* [National Telecommunications and Information Administration ](https://www.ntia.doc.gov)
+
+https://github.com/heroku/mobile-template1
+https://github.com/heroku/heroku-buildkits
+https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo
+https://github.com/heroku/skeleton-4r
+https://github.com/heroku/heroku-buildpack-jvm-common
+https://github.com/heroku/heroku-git
+https://github.com/heroku/heroku-maven-plugin
+https://github.com/heroku/heroku-deploy
+
+ember, go
+heroku-kafka
+
 https://github.com/mhoofman/wordpress-heroku
 http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
 https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
