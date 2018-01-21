@@ -4187,6 +4187,11 @@ heroku-kafka
 https://github.com/mhoofman/wordpress-heroku
 http://www.andrewgertig.com/2013/05/set-up-wordpress-on-heroku
 https://ksylvest.com/posts/2014-05-02/deploying-wordpress-to-heroku
+
+https://www.mongodb.com//blog/post/announcing-free-tier-and-live-migration-tool-for-mongodb-atlas?jmp=twt | Announcing Free Tier and Live Migration Tool for MongoDB Atlas | MongoDB
+https://www.mongodb.com/cloud/stitch | MongoDB Stitch - Backend as a Service | MongoDB
+https://www.elastic.co/products/kibana | Kibana: Explore, Visualize, Discover Data | Elastic
+https://www.elastic.co/blog
 -->
 
 #### AWS
