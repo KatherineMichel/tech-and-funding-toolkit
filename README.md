@@ -3208,6 +3208,7 @@ https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
 http://ela.community
 https://twitter.com/JoniTrythall
 
+https://twitter.com/helloyupgup/lists/community-folks/members | List members
 http://jonibologna.com/ | Joni Bologna’s Blog
 http://yupgup.com/ | Design for Events & Communities - YupGup
 http://www.toptentypography.tips
