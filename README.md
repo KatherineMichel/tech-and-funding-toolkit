@@ -4193,6 +4193,9 @@ https://www.mongodb.com//blog/post/announcing-free-tier-and-live-migration-tool-
 https://www.mongodb.com/cloud/stitch | MongoDB Stitch - Backend as a Service | MongoDB
 https://www.elastic.co/products/kibana | Kibana: Explore, Visualize, Discover Data | Elastic
 https://www.elastic.co/blog
+
+https://manage.serverpilot.io
+https://serverpilot.io/community
 -->
 
 #### AWS
