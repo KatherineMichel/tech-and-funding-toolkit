@@ -3230,6 +3230,13 @@ https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Micr
 
 https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
 
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-model-utils
+
+https://github.com/rossp/djangosites.org | rossp/djangosites.org: Source code for djangosites.org.
+
+https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
+
 
 http://python.apichecklist.com
 https://github.com/vintasoftware/python-api-checklist
@@ -3391,6 +3398,9 @@ Python- Django Community
 * [Vincent Driessen](http://nvie.com) and [Vincent Driessen GitHub](https://github.com/nvie)
 
 <!--
+https://speakerdeck.com/limedaring
+https://medium.com/@limedaring
+
 https://snarky.ca
 
 https://blog.jessfraz.com
