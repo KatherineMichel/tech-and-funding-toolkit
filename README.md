@@ -3202,21 +3202,38 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-Joni Trythall
-http://elaconf.com
-https://www.youtube.com/channel/UCrOaNE6f1r6Xrgmpq3UzcIA
-http://ela.community
-https://twitter.com/JoniTrythall
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
-https://twitter.com/helloyupgup/lists/community-folks/members | List members
-http://jonibologna.com/ | Joni Bologna’s Blog
-http://yupgup.com/ | Design for Events & Communities - YupGup
-http://www.toptentypography.tips
-https://speakerdeck.com/jonibologna/just-enough-typography
-https://confreaks.tv/videos/djangoconus2016-just-enough-typography
-https://jefftriplett.com/colophon
-https://github.com/jonitrythall/minitutstownworkshop
-http://jonibologna.com/intro-to-writing-svg-and-tuts-town-workshops
+
+
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
+http://mypy.readthedocs.io/
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
+https://github.com/dropbox/pyannotate
+
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+http://graphql.org/ | GraphQL | A query language for your API
+https://github.com/graphql-python | GraphQL Python
+
+https://www.sqlalchemy.org/
+
+http://www.juiceanalytics.com/juicebox-home/
+
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+
+https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
+
+https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
+
+
+http://python.apichecklist.com
+https://github.com/vintasoftware/python-api-checklist
+http://djangoappschecklist.com
 
 Lacey
 https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
@@ -3227,29 +3244,7 @@ https://en.wikipedia.org/wiki/List_of_data_breaches | List of data breaches - Wi
 
 https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-joins-microsoft/ | Don Jayamanne, creator of the Python extension for Visual Studio Code, joins Microsoft – Python Engineering at Microsoft
 
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-https://www.sqlalchemy.org/
 https://github.com/mitsuhiko/flask-sqlalchemy
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-http://click.pocoo.org/5/contrib/
-https://github.com/click-contrib | click-contrib
-http://click.pocoo.org/5/ | Welcome to the Click Documentation — Click Documentation (5.0)
-
-https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
-https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
-http://mypy.readthedocs.io/
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
-https://github.com/dropbox/pyannotate
-
 
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 * [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
@@ -3266,13 +3261,6 @@ http://www.python.org/dev/peps/pep-0263/
 
 https://github.com/amontalenti/elements-of-python-style
 
-
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-
-http://www.juiceanalytics.com/juicebox-home/
-
 Philly
 http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
 http://longclaw.readthedocs.io/en/latest/index.html | Welcome to Longclaw’s documentation! — longclaw 1.0.0 documentation
@@ -3280,21 +3268,6 @@ http://django-oscar-wagtail.readthedocs.io/en/latest/introduction.html | Introdu
 https://snipcart.com/blog/django-ecommerce-tutorial-wagtail-cms | Django E-Commerce Tutorial With Wagtail CMS - Snipcart
 https://github.com/wharton/python-vagrant-centos7#creating-erds-of-django-models | wharton/python-vagrant-centos7
 https://raw.githubusercontent.com/wharton/python-vagrant-centos7/master/assets/users-faculty-courses.png | users-faculty-courses.png (2052×931)
-
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
-
-https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
-
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
-
-https://github.com/python/performance
-
-https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
-
-
 
 https://www.youtube.com/watch?v=JXsQaVl6ZNM | Where to find serious Python freelancing projects - YouTube
 
