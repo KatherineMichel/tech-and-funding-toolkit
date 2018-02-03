@@ -3403,7 +3403,9 @@ https://medium.com/@limedaring
 
 https://snarky.ca
 
-https://blog.jessfraz.com
+https://jvns.ca/ | Julia Evans - Julia Evans
+
+https://blog.jessfraz.com/ | Jessie Frazelle's Blog: Home
 https://blog.jessfraz.com/post/personal-infrastructure/ | Jessie Frazelle's Blog: Personal Infrastructure
 https://blog.jessfraz.com/post/home-lab-is-the-dopest-lab/ | Jessie Frazelle's Blog: Home Lab is the Dopest Lab
 https://github.com/jessfraz | jessfraz (Jess Frazelle)
@@ -5450,8 +5452,6 @@ https://medium.com/@tjholowaychuk
 https://medium.com/@dan_abramov
 https://twitter.com/nayafia/status/724616808704008192
 https://www.slideshare.net/NadiaEghbal
-https://github.com/nayafia/contributing-template
-http://a16z.com/2017/04/08/culture-open-source-community/
 -->
 
 <!--
