@@ -5455,19 +5455,6 @@ https://www.slideshare.net/NadiaEghbal
 -->
 
 <!--
-https://linux.conf.au/
-https://www.youtube.com/watch?v=W2AR1owg0ao
-https://www.slideshare.net/NadiaEghbal/consider-the-maintainer
-https://blog.darkmere.gen.nz/2017/01/linux-conf-au-2017-thursday-keynote-nadia-eghbal
-https://medium.com/@nayafia/there-is-no-my-in-open-source-c3e5555390fa
-
-https://fordfoundcontent.blob.core.windows.net/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf
-https://blogs.worldbank.org/opendata/leveraging-open-source-public-institution-new-analysis-reveals-significant-returns-investment-open
-
-http://a16z.com/2017/04/08/culture-open-source-community
-http://a16z.com/tag/open-v-closed
-https://www.wired.com/tag/open-vs-closed
-
 https://gist.github.com/anonymous/b65cae924a2434a363f5385da70eeced
 
 https://m.signalvnoise.com
