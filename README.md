@@ -83,7 +83,7 @@ Table of Content
 * [Software Manuals and Documentation](#software-manuals-and-documentation)
 * [Mobile](#mobile)
 * [Swift](#swift)
-* [Video Gaming and Virtal Reality](#video-gaming-and-virtual-reality)
+* [Video Gaming and Virtual Reality](#video-gaming-and-virtual-reality)
 * [Appendix](#appendix)
 * [People](#people)
   * [Venture Capitalists and Angel Investors](#venture-capitalists-and-angel-investors)
@@ -343,7 +343,7 @@ http://stackshare.io/posts/top-50-developer-tools-and-services-of-2015
 http://thenewstack.io/the-new-stack-and-linux-foundation-survey-openstack-and-docker-are-the-most-popular-open-source-projects
 -->
 
-Built With (Exluding Django; See also Squarespace)
+Built With (Excluding Django; See also Squarespace)
 * [Made with Angular](https://www.madewithangular.com)  
 * [Built with Bootstrap](http://expo.getbootstrap.com)  
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
@@ -614,7 +614,7 @@ cURL and Wget
 Nano and Pico
 * [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
 * [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
-* [Pico Wjkipedia](https://en.wikipedia.org/wiki/Pico_(text_editor))
+* [Pico Wikipedia](https://en.wikipedia.org/wiki/Pico_(text_editor))
 
 Windows- PowerShell
 * [Command Prompt also known as cmd.exe](https://en.wikipedia.org/wiki/Cmd.exe)
@@ -1137,7 +1137,7 @@ Twitter Developer
 * [Twitter Intents](https://dev.twitter.com/web/intents), [Twitter Tweet Button](https://dev.twitter.com/web/tweet-button), and [Twitter Tweet Button/Web Intents](https://dev.twitter.com/web/tweet-button/web-intent)
 
 Yahoo and Bing- Developer, Webmaster
-* [Yahoo Development](http://developer.yahoo.com), [Yahoo Developer Network Wikpedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
+* [Yahoo Development](http://developer.yahoo.com), [Yahoo Developer Network Wikipedia](http://en.wikipedia.org/wiki/Yahoo!_Developer_Network), and [Yahoo Webmaster Info (Powered by Bing)](https://help.yahoo.com/kb/search/SLN2245.html?impressions=true)  
 * [Bing Developer Center Wikipedia](http://www.bing.com/dev/en-us/dev-center)  
 * [Bing Webmaster Center Wikipedia](http://en.wikipedia.org/wiki/Bing_Webmaster_Center) and [Bing Webmaster Toolbox](http://www.bing.com/toolbox/webmaster) 
 
@@ -1494,7 +1494,7 @@ http://realfavicongenerator.net
 Gravatar
 * [Gravatar](http://en.gravatar.com)
 
-Utilites
+Utilities
 * [FileZilla](https://filezilla-project.org/download.php?platform=osx)
 * [PeaZip SourceForge](https://sourceforge.net/projects/peazip/files/latest/download)
 * [HTTrack](http://www.httrack.com) and [HTTrack Downloads](http://www.httrack.com/page/2}
@@ -2194,7 +2194,7 @@ https://github.com/vuejs/vue-hackernews
 -->
 
 <!--
-Development Webservers Options: http-server, live-server, Express (production also), budo (greate to use with Browserify), Webpack dev server, Browsersync
+Development Webservers Options: http-server, live-server, Express (production also), budo (great to use with Browserify), Webpack dev server, Browsersync
 Development Webservers- Work Sharing Options: localtunnel, ngrok, Surge, now
 
 https://github.com/browsersync/recipes
@@ -8548,7 +8548,7 @@ https://www.buzzfeed.com/emmyf/buzzfeed-style-guide | BuzzFeed Style Guide
 
 Journalism Style Guides 
 * [Style Guide Wikipedia](http://en.wikipedia.org/wiki/Style_guide)  
-* [List of Style Guides Wikipediar](http://en.wikipedia.org/wiki/List_of_style_guides) 
+* [List of Style Guides Wikipedia](http://en.wikipedia.org/wiki/List_of_style_guides) 
 * [AP Style Guide](http://www.apstylebook.com) 
 * [BBC News Style Guide](http://www.bbc.co.uk/academy/journalism/news-style-guide)  
 * [Economist Style Guide](http://www.economist.com/styleguide/introduction)  
