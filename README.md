@@ -3513,6 +3513,13 @@ https://github.com/kennethreitz/pipenv/blob/master/Dockerfile | pipenv/Dockerfil
 https://vimeo.com/233134524 | Pipenv Screencast on Vimeo
 https://twitter.com/kennethreitz/status/906528251367116800 | Kenneth Reitz 🐍 on Twitter: "Improved the ASCII art inside of Pipenv https://t.co/SqTcvpALEs"
 https://github.com/kennethreitz/env
+
+https://docs.pipenv.org/ | Pipenv: Python Dev Workflow for Humans — pipenv 9.0.3 documentation
+https://pipenv.readthedocs.io/en/latest/advanced.html#managing-system-dependencies | Advanced Usage of Pipenv — pipenv 8.0.8 documentation
+
+https://github.com/pypa/pipfile | pypa/pipfile
+https://speakerdeck.com/kennethreitz/the-future-of-python-dependency-management | The Future of Python Dependency Management // Speaker Deck
+https://www.kennethreitz.org/essays/pipenv-one-year-later-a-call-for-help | Pipenv: One Year Later & a Call for Help — Kenneth Reitz
 -->
 
 #### Django General
