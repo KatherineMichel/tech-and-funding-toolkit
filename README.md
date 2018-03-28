@@ -3205,22 +3205,13 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
-
-
-https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
-https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
-http://mypy.readthedocs.io/
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
-https://github.com/dropbox/pyannotate
-
-https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
-
 https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
 http://graphql.org/ | GraphQL | A query language for your API
 https://github.com/graphql-python | GraphQL Python
 
 https://www.sqlalchemy.org/
+
+https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
 
 http://www.juiceanalytics.com/juicebox-home/
 
@@ -3254,7 +3245,6 @@ https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-join
 https://github.com/mitsuhiko/flask-sqlalchemy
 
 * [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
 * [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
 
@@ -3506,7 +3496,6 @@ http://docs.python-guide.org/en/latest/dev/virtualenvs/#virtualenvironments-ref
 -->
 
 Python Environment and Version Management
-* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
 * [Pipenv Read the Docs](https://pipenv.readthedocs.io)
 * [Conda Managing Environments](https://conda.io/docs/user-guide/tasks/manage-environments.html)
 * [Pyenv GitHub](https://github.com/yyuu/pyenv)
@@ -3631,22 +3620,9 @@ Database
 
 <!--
 https://www.npmjs.com/package/generator-django
-
-https://github.com/django/django-localflavor
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
 -->
 
 <!--
-http://cdf.9vo.lt/ | Django 1.11 -- Classy Django Forms
-https://github.com/ana-balica/classy-django-forms/ | ana-balica/classy-django-forms: Documentation tool for inspecting Django forms API.
-Classy Django REST Framework
-https://github.com/vintasoftware/classy-django-rest-framework 
-Django Class-Based-View Inspector -- Classy CBV
-
-http://cdrf.co
-http://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
-
 Database
 django-db-tools https://pypi.python.org/pypi/django-db-tools
 psycopg2 https://pypi.python.org/pypi/psycopg2
@@ -3754,38 +3730,9 @@ https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-a
 #### Python and Django Testing and Automation
 
 <!--
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-
-Tox (Automation)
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Detox GitHub](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPi](https://pypi.python.org/pypi/factory_boy)
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-
-* [isort GitHub](https://github.com/timothycrosley/isort)
-
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-
-pytest and Nose (Unit Test Extension)
-* [Nose GitHub](https://github.com/nose-devs/nose)
-* [Nose Docs Reads the Docs](https://nose.readthedocs.org/en/latest) 
-* [Django Nose GitHub](https://github.com/django-nose/django-nose)
-* [pytest](http://pytest.org)
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and * [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-* [mock PyPi](https://pypi.python.org/pypi/mock)
-
-https://www.crowdcast.io/e/pytest-2 | Testing Python with pytest – Crowdcast
-https://docs.pytest.org/en/latest/example/
-https://github.com/pytest-dev/cookiecutter-pytest-plugin | pytest-dev/cookiecutter-pytest-plugin: A Cookiecutter to create pytest plugins with ease.
-http://doc.pytest.org/en/latest/contents.html#toc
+http://www.pyinvoke.org/
 
 http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
-
-noqa - Google Search
-
-http://www.pyinvoke.org/
 
 model mommy https://pypi.python.org/pypi/model_mommy
  
@@ -3821,17 +3768,7 @@ http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
 https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
 https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
 
-https://github.com/kennethreitz/setup.py
-https://github.com/kennethreitz/setup.py/blob/master/setup.py
 
-https://github.com/direnv
-http://docs.python-requests.org/en/master
-http://docs.python-guide.org/en/latest/ | The Hitchhiker’s Guide to Python!
-https://github.com/kennethreitz/python-guide
-https://devcenter.heroku.com/articles/getting-started-with-python#declare-app-dependencies | Getting Started on Heroku with Python | Heroku Dev Center
-
-Setup.py Kenneth Reitz
-https://www.kennethreitz.org/python-for-humans/ | Python for Humans — Kenneth Reitz
 https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
 -->
@@ -3892,11 +3829,6 @@ Python- Django- Python Social Auth
 * [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
 
 <!--
-flake8 
-noqa: E501
-https://gitlab.com/pycqa/flake8
-https://pypi.python.org/pypi/flake8
-
 https://django-registration-redux.readthedocs.io/en/latest/quickstart.html#quickstart
 
 User Registration/Auth
@@ -3974,23 +3906,6 @@ https://bitbucket.org/mailchimp/mailchimp-api-python
 
 https://github.com/divio/django-mailchimp
 http://django-mailer2.readthedocs.org/en/latest
--->
-
-<!--
-https://en.wikipedia.org/wiki/ReStructuredText
-
-Mastering Regular Expressions Jeffrey Friedl
-https://it-ebooks.info/search/?q=mastering+regular+expressions&type=title
-https://docs.python.org/3.6/library/re.html
-http://regex.info/book.html
-
-https://docs.python.org/3.5/howto/regex.html
-
-RegEx
-* [Regular Expression Wikipedia](http://en.wikipedia.org/wiki/Regular_expression)  
-* [Learning to Code the Hard Way- RegEx](http://regex.learncodethehardway.org) 
-
-http://www.diveintopython.net/regular_expressions/
 -->
 
 Automated Dependency Management
