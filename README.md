@@ -3761,13 +3761,16 @@ Python- Django- Records, Requests
 * [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
 
 <!--
+https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
+https://github.com/kennethreitz/requests-html | kennethreitz/requests-html: HTML Parsing for Humans™
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
 https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
 
 https://github.com/kennethreitz/homebrew-pythons
 http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
 https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
 https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
 
 https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
