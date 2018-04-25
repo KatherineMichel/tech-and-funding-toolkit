@@ -186,6 +186,49 @@ http://www.appinventor.org
 Mobile
 * [CodePath GitHub](https://github.com/codepath)
 
+Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
+* [Fiddle](https://fiddles.io)
+* [JSFiddle](http://jsfiddle.net)
+* [JS Bin](https://jsbin.com)
+* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
+* [Codepen](http://codepen.io)
+* [Cloud9](https://c9.io)
+* [Runkit](https://runkit.com)
+
+Makers
+* [Cloudflare Apps](https://www.cloudflare.com/apps) and [Cloudflare Apps Developers](https://www.cloudflare.com/apps/developers)
+* [IFTTT Maker](https://platform.ifttt.com/maker)
+* [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
+
+<!--
+https://glitch.com/art
+https://glitch.com/slack | Slack
+
+https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
+https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
+
+https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
+-->
+
+#### Live Coding
+
+Live Coding
+* [Live Coding TV](https://www.livecoding.tv)
+* [Twitch Creative Directory](https://www.twitch.tv/directory/creative)
+* [YouTube](https://www.youtube.com)
+
+#### Favorite Authors and Blogs
+
+Fave Pluralsight Authors
+* [Justin Marshall](https://app.pluralsight.com/profile/author/justin-marshall)
+* [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
+* [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
+
 #### Programming Documentation and Standards
 
 Programming Books- General
@@ -206,7 +249,9 @@ KDE (See also KHTML)
 * [KDE Wikipedia](https://en.wikipedia.org/wiki/KDE)
 * [List of KDE Wikipedia](https://en.wikipedia.org/wiki/List_of_KDE_applications)
 
-
+IBM Documentation
+* [IBM developerWorks](https://www.ibm.com/developerworks), [IBM developerWorks Learn](https://www.ibm.com/developerworks/learn), and [IBM developerWorks Library](https://www.ibm.com/developerworks/library)
+* [IBM Knowledge Center](https://www.ibm.com/support/knowledgecenter), [IBM Research](http://research.ibm.com), [IBM Redbooks Homepage](http://www.redbooks.ibm.com), and [List of IBM Products Wikipedia](http://en.wikipedia.org/wiki/List_of_IBM_products) 
 
 #### Engineering Blogs, Design Systems, Style Guides
 
@@ -391,6 +436,31 @@ Keyboard Layout
 * [Colemak Website](https://colemak.com)
 * [Split Keyboard Wikipedia](https://en.wikipedia.org/wiki/Ergonomic_keyboard#Split_keyboard)
 
+History of Technology and Computer Science
+* [History of Technology Wikipedia](https://en.wikipedia.org/wiki/History_of_technology)
+* [History of Computer Science Wikipedia](https://en.wikipedia.org/wiki/History_of_computer_science)
+* [Computer Science (Category) Wikibook](https://en.wikibooks.org/wiki/Category:Computer_science)
+* [History of Computing Wikipedia](https://en.wikipedia.org/wiki/History_of_computing)
+* [Timeline of Computing Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_computing)
+* [World Wide Web Wikipedia](https://en.wikipedia.org/wiki/World_Wide_Web)
+* [History of the World Wide Web Wikipedia](https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web)
+* [Internet Wikipedia](https://en.wikipedia.org/wiki/Internet)
+* [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
+* [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
+* [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+Computer Classes and Sizes
+* [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
+* [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
+* [Computer Display Standards Wikipedia](https://en.wikipedia.org/wiki/Computer_display_standard)
+
+Smartphones (See also Mobile)
+* [Smartphone Wikipedia](https://en.wikipedia.org/wiki/Smartphone)
+* [Comparison of Smartphones Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_smartphones)
+
+Computer History Museum
+* [Computer History Museum](http://www.computerhistory.org) and [Computer History Museum Twitter](https://twitter.com/ComputerHistory)
+
 Great Unsolved Problems in Computer Science
 * [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
 
@@ -458,18 +528,6 @@ Miscellaneous Vocab
 Line Endings
 * [Newline Wikipedia](https://en.wikipedia.org/wiki/Newline)
 * [GitHub Dealing with Line Endings](https://help.github.com/articles/dealing-with-line-endings)
-
-Singly Linked Linear Lists vs. Other Lists
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-
-Bracket Notation and Zero-Based Numbering
-* [Bracket Notation Wikipedia](https://en.wikipedia.org/wiki/Bracket_(mathematics))
-* [Zero-Based Numbering Wikipedia](https://en.wikipedia.org/wiki/Zero-based_numbering)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 Chomsky Hierarchy and Automata
 * [Noam Chomsky Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
@@ -862,6 +920,13 @@ http://blog.palcu.ro/2014/06/dotfiles-and-dev-tools-provisioned-by.html
 -->
 
 #### Operating System, Browser, Layout Engine
+
+Operating Systems
+* [Operating System Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
+* [History of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/History_of_operating_systems)
+* [Timeline of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_operating_systems)
+* [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
+* [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 
 #### Unix and Linux General
 
@@ -1618,6 +1683,10 @@ http://docs.ionic.io/docs/chrome-inspector
 
 #### Microsoft Developer
 
+Windows
+* [Microsoft Windows Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* [Microsoft Windows Releases Wikipedia](https://en.wikipedia.org/wiki/Windows_NT#Releases)
+
 * [Windows USB/DVD Download Tool](https://www.microsoft.com/en-us/download/windows-usb-dvd-download-tool)
 
 <!--
@@ -1633,6 +1702,127 @@ http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 
 Linux Feeling- on Windows
 * [Cygwin](http://cygwin.com)
+
+<!--
+ChakraCore
+  * [Chakra](https://github.com/Microsoft/ChakraCore)
+    * [Microsoft Edge’s JavaScript engine to go open-source](https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/)
+    * [Architecture Overview](https://github.com/Microsoft/ChakraCore/wiki/Architecture-Overview)
+    * [Node-ChakraCore and VM Neutrality in Node.js](https://blogs.windows.com/msedgedev/2016/11/29/node-chakracore-vm-neutrality/)
+    * Internal
+      * JavaScript performance updates - [2015](https://blogs.windows.com/msedgedev/2015/05/20/delivering-fast-javascript-performance-in-microsoft-edge), [2016](https://blogs.windows.com/msedgedev/2016/06/22/javascript-performance-updates-anniversary-update/), [2017](https://blogs.windows.com/msedgedev/2017/04/20/improved-javascript-performance-webassembly-shared-memory/)
+    * Next Generation
+      * [Roadmap](https://github.com/Microsoft/ChakraCore/wiki/Roadmap)
+-->
+
+#### Browser and Layout Engines    
+
+Web Browser
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Timeline of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_web_browsers)
+* [List of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/List_of_web_browsers)
+* [Comparison of Web Browsers Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browsers)
+
+Web Browser and JavaScript Engines (See also JavaScript)- General
+* [Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Web_browser_engine)
+* [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
+* [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
+
+Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
+* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
+* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
+* [Chromium Developers](https://www.chromium.org/developers)
+* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
+
+Chrome (Browser, Layout Engine)
+* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
+* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
+* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
+* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+
+Opera (Also Blink)
+* [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Opera Neon](http://www.opera.com/computer/neon)
+
+Mozilla (Browser, Layout Engine)
+* [Firefox Wikipedia](https://en.wikipedia.org/wiki/Firefox) and [Firefox Products](https://www.mozilla.org/en-US/firefox/products)
+* [Gecko Wikipedia](https://en.wikipedia.org/wiki/Gecko_(software))
+
+Safari, WebKit, and WebKit Parts (Browser, Layout Engine)
+* [Safari Wikipedia](https://en.wikipedia.org/wiki/Safari_(web_browser))
+* [KHTML Wikipedia](https://en.wikipedia.org/wiki/KHTML)
+* [WebKit](https://webkit.org) and [WebKit GitHub](https://github.com/WebKit/webkit )
+* [WebCore Wikipedia](https://en.wikipedia.org/wiki/WebKit#WebCore)
+* [JavaScriptCore (JavaScript Engine) Wikipedia](https://en.wikipedia.org/wiki/WebKit#JavaScriptCore)
+
+Internet Explorer and Trident (Browser, Layout Engine)
+* [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie)
+* [Trident Wikipedia](https://en.wikipedia.org/wiki/Trident_(layout_engine))
+
+Edge and EdgeHTML (Browser, Layout Engine)
+* [Microsoft Edge Web Browser Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Edge)
+* [EdgeHTML Wikipedia](https://en.wikipedia.org/wiki/EdgeHTML)
+
+#### Developer Tools
+  
+Mozilla Developer Tools
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
+* [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
+
+Firefox Add-Ons
+* [Firefox Add-Ons](https://addons.mozilla.org/en-US/firefox)
+
+Safari Developer Tools
+* [Safari Web Inspector](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/Introduction/Introduction.html)
+
+Microsoft Developer Tools
+* [Microsoft Edge Developer Documentation](https://github.com/MicrosoftDocs/edge-developer)
+* ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
+* [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
+
+Google Developers- General
+* [Google Chrome Home](https://developers.google.com/chrome)
+
+Google Developers- Canary Chrome
+* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
+
+Google Chrome Doc Archive 
+* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+
+<!--
+https://www.mozilla.org/en-US/firefox/new/
+https://github.com/devtools-html/debugger.html | devtools-html/debugger.html: The Firefox debugger that works anywhere
+
+Brave
+
+[WebKit JS](https://developer.apple.com/reference/webkitjs/)
+     
+https://www.mozilla.org/en-US/firefox/channel/desktop/
+https://testpilot.firefox.com
+
+Old Docs
+* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
+
+https://developer.chrome.com/devtools/docs/network
+https://developer.chrome.com/devtools/docs/console
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.chrome.com/devtools/docs/videos
+https://developer.chrome.com/extensions
+https://developer.chrome.com/extensions/devguide
+https://developer.chrome.com/apps/about_apps
+
+https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
+
+https://developer.chrome.com/apps/notifications
+https://developer.chrome.com/extensions/crx
+
+http://anti-code.com/devtools-cheatsheet
+
+https://www.codeschool.com/courses/discover-devtools
+http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
+
+https://www.udacity.com/course/website-performance-optimization--ud884
+-->
 
 #### Testing and Performance
 
@@ -2316,6 +2506,16 @@ http://webassets.readthedocs.org/en/latest
 
 
 
+#### Programming Languages- General Concepts
+
+Programming Languages
+* [Programming Language Wikipedia](https://en.wikipedia.org/wiki/Programming_language)
+* [Alphabetical List of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Alphabetical_list_of_programming_languages)  
+* [Programming Language Popularity Ranking](http://techcrunch.com/2012/09/12/javascript-tops-latest-programming-language-popularity-ranking-from-redmonk)  
+* [Timeline of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_programming_languages)
+
+Programming Languages- Usage in Popular Websites
+* [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 
 #### Back-End Programming Languages, MVCs
 
@@ -3144,6 +3344,28 @@ https://azure.microsoft.com/en-us/documentation/articles/web-sites-dotnet-get-st
 
 https://developer.xamarin.com/guides/cross-platform/azure
 https://developer.xamarin.com/guides/cross-platform/getting_started
+
+    * Azure's Cloud Fundamentals - [Architecture styles](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/), [Pillars of software quality](https://docs.microsoft.com/en-us/azure/architecture/guide/pillars), [Design principles](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/index)
+  * Static
+    * [Static Content Hosting](https://docs.microsoft.com/en-us/azure/architecture/patterns/static-content-hosting), [Valet Key](https://docs.microsoft.com/en-us/azure/architecture/patterns/valet-key), [Content Delivery Network](https://docs.microsoft.com/en-us/azure/architecture/best-practices/cdn)    
+  * Queue / Jobs
+    * [Queue-Based Load Leveling](https://docs.microsoft.com/en-us/azure/architecture/patterns/queue-based-load-leveling), [Competing Consumers](https://docs.microsoft.com/en-us/azure/architecture/patterns/competing-consumers), [Priority Queue](https://docs.microsoft.com/en-us/azure/architecture/patterns/priority-queue)
+    * [Background jobs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/background-jobs)
+  * Decompose
+    * [Federated Identity](https://docs.microsoft.com/en-us/azure/architecture/patterns/federated-identity)
+    * [Pipes and Filters](https://docs.microsoft.com/en-us/azure/architecture/patterns/pipes-and-filters)
+    * [Compute Resource Consolidation](https://docs.microsoft.com/en-us/azure/architecture/patterns/compute-resource-consolidation)
+  * Configuration
+    * [External Configuration Store](https://docs.microsoft.com/en-us/azure/architecture/patterns/external-configuration-store), [Runtime Reconfiguration](https://docs.microsoft.com/en-us/azure/architecture/patterns/runtime-reconfiguration)
+  * Storage / Querying
+    * [Cache-Aside](https://docs.microsoft.com/en-us/azure/architecture/patterns/cache-aside), [Caching](https://docs.microsoft.com/en-us/azure/architecture/best-practices/caching)
+    * [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs), [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+    * [Index Table](https://docs.microsoft.com/en-us/azure/architecture/patterns/index-table), [Materialized View](https://docs.microsoft.com/en-us/azure/architecture/patterns/materialized-view)
+    * [Data partitioning](https://docs.microsoft.com/en-us/azure/architecture/best-practices/data-partitioning), [Sharding](https://docs.microsoft.com/en-us/azure/architecture/patterns/sharding)
+  * [Resiliency](https://docs.microsoft.com/en-us/azure/architecture/resiliency/) / [Availability](https://docs.microsoft.com/en-us/azure/architecture/checklist/availability)
+    * [Retry](https://docs.microsoft.com/en-us/azure/architecture/patterns/retry), [Circuit Breaker](https://docs.microsoft.com/en-us/azure/architecture/patterns/circuit-breaker), [Transient fault handling](https://docs.microsoft.com/en-us/azure/architecture/best-practices/transient-faults)
+    * [Compensating Transaction](https://docs.microsoft.com/en-us/azure/architecture/patterns/compensating-transaction)
+    * [Health Endpoint Monitoring](https://docs.microsoft.com/en-us/azure/architecture/patterns/health-endpoint-monitoring), [Leader Election](https://docs.microsoft.com/en-us/azure/architecture/patterns/leader-election), [Scheduler Agent Supervisor](https://docs.microsoft.com/en-us/azure/architecture/patterns/scheduler-agent-supervisor)
 -->
 
 Nuget
@@ -4110,7 +4332,184 @@ https://serverpilot.io/community
 
 #### AWS
 
+AWS- Regions, Instances, Getting Started, EC2/CLI/Linux Reference
+* [AWS Regions](http://aws.amazon.com/articles/3912)  
+* [AWS Instance Types](http://aws.amazon.com/ec2/instance-types)  
+* [AWS Micro-Instances](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts_micro_instances.html)  
+
+AWS- Pricing
+* [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
+* [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
+
+<!--
+https://aws.amazon.com/about-aws/ | About AWS
+
+https://aws.amazon.com/business-builder/?nc1=f_dr
+https://www.createspace.com
+https://affiliate-program.amazon.com/influencers
+https://aws.amazon.com/connect/
+http://www.amazon.co.uk/b?ie=UTF8&node=4780051031
+https://aws.amazon.com/premiumsupport/developer-support
+https://aws.amazon.com/blogs/aws/empowerment-engagement-and-education-for-women-in-tech
+
+* [Amazon Profiles](http://www.amazon.com/gp/profile)
+
+https://aws.amazon.com/console
+https://aws.amazon.com/certification
+
+https://aws.amazon.com/partners/
+https://tickets.amazon.co.uk/prime-live-events
+https://aws.amazon.com/releasenotes/
+https://aws.amazon.com/blogs/aws/aws-online-tech-talks-july-2017/
+https://aws.amazon.com/about-aws/events/monthlywebinarseries
+Week in Review
+https://aws.amazon.com/blogs/aws/aws-week-in-review-october-31-2016
+https://aws.amazon.com/blogs/apn/announcing-the-aws-storage-competency-for-consulting-partners
+
+Repeat?
+
+https://github.com/awslabs/aws-security-benchmark
+https://d0.awsstatic.com/whitepapers/compliance/AWS_CIS_Foundations_Benchmark.pdf
+https://github.com/awslabs/aws-security-automation
+http://aws.amazon.com/security
+
+https://enterprise.github.com/aws
+https://medium.com/aws-enterprise-collection
+
+https://aws.amazon.com/free
+https://aws.amazon.com/pricing/services
+
+http://aws.amazon.com/pricing
+
+https://aws.amazon.com/simpledb/pricing
+https://aws.amazon.com/ebs/pricing
+
+Ubuntu Server
+https://aws.amazon.com/marketplace/pp/B00JV9JBDS
+
+Marketplace
+https://www.youtube.com/watch?v=SUnjmoc7h70
+
+http://www.docker.com/aws
+
+Config
+http://docs.aws.amazon.com/general/latest/gr/rande.html
+http://docs.aws.amazon.com/cli/latest/reference/configure/
+http://docs.aws.amazon.com/cli/latest/userguide/installing.html
+http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+http://docs.aws.amazon.com/cli/latest/userguide/tutorial-ec2-ubuntu.html
+https://aws.amazon.com/blogs/security/a-new-and-standardized-way-to-manage-credentials-in-the-aws-sdks/
+https://aws.amazon.com/about-aws/whats-new/2016/12/aws-config-now-enables-you-to-create-50-or-more-config-rules-in-your-aws-account
+
+https://aws.amazon.com/blogs/security/writing-iam-policies-how-to-grant-access-to-an-amazon-s3-bucket
+
+https://aws.amazon.com/javascript
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.container.html
+http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/welcome.html
+https://aws.amazon.com/blogs/developer/react-native-support-in-the-aws-sdk-for-javascript/
+
+https://aws.amazon.com/blogs/aws/new-next-generation-gpu-powered-ec2-instances-g3/
+cpu memory
+aws t2 machine learning
+aws t2 gpu
+how to use nvidia with mac
+https://news.ycombinator.com/item?id=10741575
+https://aws.amazon.com/blogs/aws/new-p2-instance-type-for-amazon-ec2-up-to-16-gpus
+https://aws.amazon.com/blogs/aws/ec2-update-t2-nano-instances-now-available
+
+https://aws.amazon.com/blogs/ai/exploiting-the-unique-features-of-the-apache-mxnet-deep-learning-framework-with-a-cheat-sheet
+https://aws.amazon.com/blogs/ai/apache-mxnet-release-candidate-now-supports-apple-core-ml-and-keras-v1-2
+
+AWS General Reference
+http://docs.aws.amazon.com/general/latest/gr/Welcome.html
+
+Getting Started with AWS
+http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html
+
+Working with the AWS Management Console
+http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html
+
+Understanding and Getting Your Security Credentials
+http://docs.aws.amazon.com/general/latest/gr/aws-sec-cred-types.html
+
+Web Application Hosting Infographic
+http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf
+
+Setting Up to Host a Web App on AWS
+http://docs.aws.amazon.com/gettingstarted/latest/wah/getting-started-prereq.html
+
+Hosting a Static Website on Amazon Web Services
+http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html
+
+Step 3: Deploy Your Website
+http://docs.aws.amazon.com/gettingstarted/latest/swh/getting-started-hosting-your-website.html#testing-website
+
+Hosting a Static Website on Amazon S3
+http://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html
+
+Getting Started with Linux Web Applications in the AWS Cloud
+http://aws.amazon.com/web-applications/gsg-webapps-linux
+
+Amazon EC2 API Reference
+http://docs.aws.amazon.com/AWSEC2/latest/APIReference/Welcome.html
+
+EC2
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/install-LAMP.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AMIs.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-vpc.html#vpc-only-instance-types
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/get-set-up-for-amazon-ec2.html#create-a-vpc
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-instance-resize.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-modification-instancemove.html
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ri-market-concepts-buying.html
+
+http://aws.amazon.com/about-aws/whats-new/2013/03/12/announcing-ami-copy-for-amazon-ec2
+https://aws.amazon.com/blogs/aws/low-cost-burstable-ec2-instances
+
+S3
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/GetStartedWithS3.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/Welcome.html
+https://docs.aws.amazon.com/AmazonS3/latest/dev/acl-overview.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/HowDoIWebsiteConfiguration.html
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/PuttingAnObjectInABucket.html
+http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html
+http://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
+
+Elastic Beanstalk
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/command-reference-get-started.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.platforms.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install.html
+http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/using-features.managing.ec2.html
+
+Deploying a Web App Using Elastic Beanstalk
+Elastic Beanstalk supports apps developed in Java, PHP, .NET, Node.js, Python, and Ruby
+http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html
+http://docs.aws.amazon.com/gettingstarted/latest/deploy/deploying-with-elastic-beanstalk.html
+-->
+
 #### Heroku
+
+Heroku- Pricing and App Limits
+* [Heroku App Limits](https://devcenter.heroku.com/articles/limits#other)
+* [Heroku Pricing](https://www.heroku.com/pricing)
+* [Heroku Usage and Billing](https://devcenter.heroku.com/articles/usage-and-billing)
+* [Heroku Free Dyno Hours](https://devcenter.heroku.com/articles/free-dyno-hours)
+* [New Dyno Types and Pricing Public Beta (Deprecated)](https://blog.heroku.com/archives/2015/5/7/new-dyno-types-public-beta)
+
+Heroku- Dynos
+* [Heroku Dynos](https://devcenter.heroku.com/articles/dynos)
+* [Heroku Dyno Size](https://devcenter.heroku.com/articles/dyno-size)
+* [Heroku Scaling](https://devcenter.heroku.com/articles/scaling)
+
+<!--
+All dynos in your application that are scaled above 0 will accrue usage–regardless of whether they’re actually receiving or processing requests.
+https://www.google.com/search?client=safari&rls=en&q=heroku+ps:scale+web=1&ie=UTF-8&oe=UTF-8
+heroku ps:scale web=1
+Heroku SSL
+
+https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours
+-->
 
 #### Digital Ocean
 
@@ -4126,7 +4525,85 @@ Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 
 #### Deployment and Git Integration
 
+<!--
+http://docs.aws.amazon.com/AmazonS3/latest/dev/BucketBilling.html
+https://devcenter.heroku.com/articles/s3
+
+https://devcenter.heroku.com/articles/multiple-environments#advanced-linking-local-branches-to-remote-apps
+
+https://devcenter.heroku.com/articles/renaming-apps
+https://devcenter.heroku.com/articles/fork-app
+
+https://devcenter.heroku.com/articles/git-repository-ssh-fingerprints
+
+https://help.github.com/articles/error-permission-denied-publickey
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+-->
+
+AWS Deployment/Staging- Virtual Private Networks
+* [Virtual Private Clouds](http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/default-vpc.html) and [Virtual Private Clouds Wikipedia](https://en.wikipedia.org/wiki/Amazon_Virtual_Private_Cloud) 
+
+GitHub, Heroku, AWS SSH and SSH Keys
+* [GitHub SSH](https://github.com/settings/ssh)  
+* [GitHub Generating SSH Keys](https://help.github.com/articles/generating-ssh-keys)  
+* [Heroku Keys (including fixing problems with keys)](https://devcenter.heroku.com/articles/keys)  
+* [AWS EC2 Key Pairs](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html) 
+
+<!--
+https://help.github.com/articles/checking-for-existing-ssh-keys/
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+-->
+
+Heroku Secure Key
+* [Secure Key](https://devcenter.heroku.com/articles/securekey)
+* [Fortnightly](https://addons.heroku.com/securekey#fortnightly)
+
+Git Cloning Existing Heroku Applications
+* [Git Cloning Existing Heroku Applications](https://devcenter.heroku.com/articles/git-clone-heroku-app)
+
+<!--
+https://devcenter.heroku.com/articles/fork-app#git-repository
+http://stackoverflow.com/questions/35389389/how-can-i-host-my-own-parse-server-on-heroku-using-mongodb
+http://stackoverflow.com/questions/31608615/heroku-fork-heroku-gitclone-new-app-works-but-empty-repository
+-->
+
+Ubuntu (Debian) Deployment
+* [Ubuntu PostgreSQL](https://help.ubuntu.com/community/PostgreSQL)  
+* [AWS Ubuntu](https://help.ubuntu.com/community/EC2StartersGuide)  
+* [AWS Ubuntu Server 14.04 LTS (HVM)](https://aws.amazon.com/marketplace/pp/B00JV9TBA6/ref=gtw_msl_title?ie=UTF8&amp;amp;amp;pf_rd_r=03MSJ27P1BFT09163JEP&amp;amp;amp;pf_rd_m=A33KC2ESLMUT5Y&amp;amp;amp;pf_rd_t=101&amp;amp;amp;pf_rd_i=awsmp-gateway-1&amp;amp;amp;pf_rd_p=1841533842&amp;amp;amp;pf_rd_s=right-3)  
+* [Heroku Ubuntu](https://toolbelt.heroku.com/debian) 
+
 #### Deployment and Cloud by Language
+
+Node.js- Heroku
+* [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
+* [Heroku App.json GitHub](https://github.com/heroku/app.json)  
+* [Heroku Getting Started with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs)  
+* [Heroku Node.js Getting Started GitHub](https://github.com/heroku/node-js-getting-started)  
+* [Heroku Node.js Sample GitHub](https://github.com/heroku/node-js-sample)  
+* [Heroku Node.js Client GitHub](https://github.com/heroku/node-heroku-client)
+* [Node Angular Heroku To Do Demo GitHub](https://github.com/heroku/Node-Angular-Heroku-To-Do-Demo)
+
+Node.js- Heroku and Docker
+* [Heroku Node.js Docker GitHub](https://github.com/heroku/docker-nodejs)
+* [Heroku Node.js Docker Hello World GitHub](https://github.com/heroku/docker-nodejs-hello-world)
+
+JavaScript- Amazon
+* [AWS JavaScript SDK](https://aws.amazon.com/documentation/sdk-for-javascript), [AWS SDK for JavaScript](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide), and [AWS JavaScript SDK GitHub](https://github.com/aws/aws-sdk-js)
+
+<!--
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html
+http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-examples.html
+-->
+
+Node.js- Google Cloud
+* [Google Cloud Library for Node GitHub](https://github.com/GoogleCloudPlatform/gcloud-node)  
+
+Node.js- Amazon
+* [AWS Node.js](https://aws.amazon.com/sdk-for-node-js)
+* [Deploying a Node.js Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs.html)
+
 
 Python- Django- Digital Ocean Deployment (See also Docker)
 * [Digital Ocean Django Tags](https://www.digitalocean.com/community/tags/django)  
@@ -4139,7 +4616,13 @@ Python- Django- OpenShift Deployment
 * [Vadim Abdrashitov's Heroku ASP.NET Buildpack GitHub](https://github.com/jincod/dotnet-buildpack)
 * [Heroku ASP.NET Buildpack GitHub](https://github.com/heroku/dotnet-buildpack)
 
-
+.NET- Amazon
+* [AWS .NET](https://aws.amazon.com/net)
+* [AWS .NET SDK](https://github.com/aws/aws-sdk-net)
+* [Hosting a .NET Web App on Amazon Web Services](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
+* [AWS Toolkit for Visual Studio](https://aws.amazon.com/visualstudio)
+* [AWS Toolkit for Visual Studio Documentation](https://aws.amazon.com/documentation/aws-toolkit-visual-studio)
+* [Setting Up the AWS Toolkit for Visual Studio](http://docs.aws.amazon.com/AWSToolkitVS/latest/UserGuide/tkv_setup.html)
 
 PHP- Heroku Buildpacks and Getting Started
 * [Heroku Buildpack PHP GitHub](https://github.com/heroku/heroku-buildpack-php)  
@@ -4385,10 +4868,64 @@ https://en.wikipedia.org/wiki/JD_Edwards
 
 #### Functions
 
+<!--
+https://aws.amazon.com/serverless/build-a-web-app/
+https://aws.amazon.com/blogs/aws/build-your-first-serverless-application/
+http://docs.aws.amazon.com/lambda/latest/dg/getting-started.html
+http://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/lambda-examples.html
+https://aws.amazon.com/about-aws/whats-new/2017/05/aws-x-ray-makes-aws-lambda-request-tracing-generally-available
+https://aws.amazon.com/blogs/developer/aws-toolkit-for-eclipse-improved-support-for-serverless-applications-part-3-3/
+https://aws.amazon.com/blogs/developer/chalice-1-0-0-ga-release/
+
+http://docs.aws.amazon.com/lambda/latest/dg/lambda-app.html
+http://docs.aws.amazon.com/lambda/latest/dg/get-started-create-function.html
+https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway
+https://aws.amazon.com/blogs/compute/building-enterprise-level-web-applications-on-aws-lambda-with-deep
+https://github.com/awslabs/lambda-refarch-webapp
+https://github.com/awslabs/serverless-application-model
+https://github.com/awslabs/aws-serverless-express
+https://github.com/awslabs/serverless-photo-recognition
+
+https://serverlesscode.com/post/zappa-wsgi-for-python/
+https://serverless.com/framework/docs/providers/aws/guide/credentials/
+https://serverlesscode.com/post/rich-jones-interview-django-zappa/
+
+https://jinwright.net/how-deploy-serverless-wsgi-app-using-zappa/
+https://gun.io/blog/announcing-zappa-serverless-python-aws-lambda
+https://pypi.python.org/pypi/django-zappa
+https://github.com/ryansb/django-zappa-example
+
+http://dev.classmethod.jp/cloud/aws/preview-the-python-serverless-microframework-for-aws
+https://github.com/MitocGroup/deep-microservices-todomvc
+
+* Microservices
+  * [A pattern language for microservices](http://microservices.io/patterns/index.html)
+    * [Microservice Architecture](http://microservices.io/patterns/microservices.html), [Monolithic Architecture](http://microservices.io/patterns/monolithic.html)
+    * Decompose by [business capability](http://microservices.io/patterns/decomposition/decompose-by-business-capability.html), [subdomain](http://microservices.io/patterns/decomposition/decompose-by-subdomain.html)
+    * [Service instance per container](http://microservices.io/patterns/deployment/service-per-container.html), [Service deployment platform](http://microservices.io/patterns/deployment/service-deployment-platform.html)
+    * [Externalized configuration](http://microservices.io/patterns/externalized-configuration.html), [Microservice chassis](http://microservices.io/patterns/microservice-chassis.html)
+    * Service discovery ([Server-side](http://microservices.io/patterns/server-side-discovery.html), [Client-side](http://microservices.io/patterns/client-side-discovery.html)), [Service registry](http://microservices.io/patterns/service-registry.html), [Remote Procedure Invocation](http://microservices.io/patterns/communication-style/rpi.html)
+    * [Database per service](http://microservices.io/patterns/data/database-per-service.html), [Shared database](http://microservices.io/patterns/data/shared-database.html)
+  * [Microservices: From Design to Deployment](https://www.nginx.com/blog/introduction-to-microservices/)
+  * API Gateway
+    * [Pattern: API Gateway / Backend for Front-End](http://microservices.io/patterns/apigateway.html)
+    * [Why an API Gateway?](https://www.nginx.com/blog/microservices-api-gateways-part-1-why-an-api-gateway/)
+    * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247) / [From REST to GraphQL](https://0x2a.sh/from-rest-to-graphql-b4e95e94c26b)
+    * [Serverless and GraphQL: A Perfect Match for the New Cloud Paradigm](https://thenewstack.io/serverless-graphql-perfect-match-new-cloud-paradigm/)
+  * Serverless
+    * [Pattern: Serverless deployment](http://microservices.io/patterns/deployment/serverless-deployment.html)
+    * [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/)
+    * [The Next Layer of Abstraction in Cloud Computing is Serverless](https://read.acloud.guru/iaas-paas-serverless-the-next-big-deal-in-cloud-computing-34b8198c98a2)
+    * [The essential guide to serverless technologies and architectures](https://techbeacon.com/essential-guide-serverless-technologies-architectures), \
+      [An essential guide to the serverless ecosystem](https://techbeacon.com/essential-guide-serverless-ecosystem)
+    * [Serverless Architecture: Five Design Patterns](https://thenewstack.io/serverless-architecture-five-design-patterns/), \
+      [Serverless Code Patterns](https://serverless.com/blog/serverless-architecture-code-patterns/)
+      
+* [IronFunctions](https://github.com/iron-io/functions)
+-->
+
+
 #### Servers, Databases, Architectures
-
-
-
 
 #### Apache, SQL, Nginx
 
