@@ -147,6 +147,22 @@ https://github.com/systers/portal | systers/portal: Systers Portal for communiti
 https://anitaborg.org/systers/ | Systers - Anita Borg Institute
 -->
 
+Forums
+* [Codecademy Discuss](https://discuss.codecademy.com/top/all)
+* [Free Code Camp Forum](http://forum.freecodecamp.com)
+* [Treehouse Community](https://teamtreehouse.com/community)
+
+Stack Exchange
+* [Stack Exchange Software Engineering](https://softwareengineering.stackexchange.com)
+
+Math Forums
+* [Math Overflow](http://mathoverflow.net)
+* [Stack Exchange Math](https://math.stackexchange.com)
+* [Stack Exchange Stats](https://stats.stackexchange.com)
+
+CodePen
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
 Courses (See also MOOCs)
 * ["How many people have finished the FreeCodeCamp curriculum so far?"](https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far)
 * [Skillshare](http://www.skillshare.com/classes) and [Skillshare Free Classes](https://www.skillshare.com/classes/?enrollmentType=free)
@@ -200,6 +216,10 @@ Makers
 * [IFTTT Maker](https://platform.ifttt.com/maker)
 * [Slack Best Practices](https://api.slack.com/best-practices) and [Slack Blueprints](https://api.slack.com/best-practices/blueprints)
 
+Workflow Automation
+* [Zapier](https://zapier.com)
+* [Zapier Workflow Automation (Like Yahoo Pipes)](https://zapier.com/blog/workflow-automation)
+
 <!--
 https://glitch.com/art
 https://glitch.com/slack | Slack
@@ -208,6 +228,37 @@ https://medium.com/glitch/just-raise-your-hand-how-glitch-helps-aa6564cb1685
 https://medium.com/glitch/developer-relations-and-the-need-for-better-tooling-5617db2e6f40
 
 https://medium.com/slack-developer-blog/the-building-blocks-of-a-great-slack-app-e7aa49fdb44
+
+Bots
+* [Microsoft Bot Framework](https://dev.botframework.com)
+
+https://blog.keyreply.com/the-chatbot-landscape-2017-edition-ff2e3d2a0bdb
+https://chatbotsmagazine.com
+
+New (See also reporobot and githubteacher)
+https://github.com/guardian/facebook-news-bot
+https://www.messenger.com/t/theguardian/
+
+https://messengerplatform.fb.com/
+https://developers.facebook.com/docs/messenger-platform
+https://developers.facebook.com/blog/post/2016/04/12/bots-for-messenger/
+https://developers.facebook.com/videos/f8-2016/building-your-messenger-bot/
+
+https://github.com/jw84/messenger-bot-tutorial
+https://github.com/WhiteHouse/fb_messenger_bot
+-->
+
+<!--
+Product Hunt
+https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
+https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
+https://twitter.com/rrhoover/status/924678180073455617
+https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
+https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
+https://glitch.com/producthunt | Product Hunt
+Guides for Development
+https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
+https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
 -->
 
 #### Live Coding
@@ -216,6 +267,10 @@ Live Coding
 * [Live Coding TV](https://www.livecoding.tv)
 * [Twitch Creative Directory](https://www.twitch.tv/directory/creative)
 * [YouTube](https://www.youtube.com)
+
+<!--
+https://www.twitchtools.com/followers | Followers - TwitchTools
+-->
 
 #### Favorite Authors and Blogs
 
@@ -228,6 +283,19 @@ The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 * [Hacker Noon](https://hackernoon.com)
 * [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
+
+## People and Projects
+
+Dear GitHub and Thank You GitHub
+* [Dear GitHub](https://github.com/dear-github/dear-github)
+* [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
+
+GitHub Trending Developers
+* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
+
+<!--
+http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
+-->
 
 #### Programming Documentation and Standards
 
@@ -398,9 +466,16 @@ Built With (Excluding Django; See also Squarespace)
 * [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 * [Built with Shopify](http://www.builtwithshopify.com)
 
+Product/Service Directories
+* [AddThis.com Services Directory](http://www.addthis.com/services/all?c=&amp;amp;amp;p=1#.UW76bqI7x9V)  
+* [ShareThis.com Services Directory](http://sharethis.com/publishers/services-directory#sthash.fs9JQXIc.dpbs) 
+
+DevCenter (Developer Center/API)
+* [DevCenter Website](DevCenter.me)
+
 Code Search
 * [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
-* [Nerdy Data](http://nerdydata.com)  
+* [Nerdy Data](http://nerdydata.com) 
 
 Wayback Machine
 * [Wayback Machine](http://archive.org/web) and [Wayback Machine Wikipedia](http://en.wikipedia.org/wiki/Wayback_Machine)
@@ -484,6 +559,15 @@ URL and IRI
 * [Uniform Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Identifier)
 * [Uniform Resource Locator Wikipedia](https://en.wikipedia.org/wiki/Uniform_Resource_Locator)
 * [Internationalized Resource Identifier Wikipedia](https://en.wikipedia.org/wiki/Internationalized_resource_identifier)
+
+Port and Host
+* [Computer Port Wikipedia](https://en.wikipedia.org/wiki/Computer_port_(hardware))
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+* [List of TCP and UDP Port Numbers Wikipedia](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
+* [List of Well Known TCP and UDP Port Numbers Wikipedia](http://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports)  
+* [Common Port Numbers Wikipedia](http://en.wikipedia.org/wiki/Port_number#Common_port_numbers) 
+* [Host Wikipedia](https://en.wikipedia.org/wiki/Host_(network)) 
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
 
 More
 * [Web Service Wikipedia](https://en.wikipedia.org/wiki/Web_service) 
@@ -1043,6 +1127,17 @@ Apple- Refurbished, Clearance, Reuse, Recycling
 * [Apple Refurbished and Clearance](http://www.apple.com/shop/browse/home/specialdeals)  
 * [Apple Reuse, Recycling](http://www.apple.com/shop/browse/reuse_and_recycle)
 * [Apple Recycling](http://www.apple.com/recycling)
+
+Homebrew
+* [Homebrew](http://brew.sh), [Braumeister](http://braumeister.org), [Homebrew GitHub](https://github.com/Homebrew/homebrew), [Homebrew FAQs GitHub](https://github.com/Homebrew/homebrew/blob/master/share/doc/homebrew/FAQ.md)		
+* [Homebrew-Cask](https://caskroom.github.io) and [Homebrew-Cask GitHub](https://github.com/caskroom/homebrew-cask)
+
+<!--
+https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md
+
+https://github.com/Homebrew/brew/blob/master/docs/brew-tap.md		
+https://github.com/Homebrew/brew/blob/master/docs/How-to-Create-and-Maintain-a-Tap.md
+-->
 
 Virtual Box and Vagrant (See also: VMware, Vagrant, VirtualBox)
 * [Virtual Box and Vagrant GitHub](https://github.com/eucalyptus/se34euca/wiki/Installing-Virtual-Box-and-Vagrant-on-Mac-OS-X)
@@ -2519,11 +2614,25 @@ Programming Languages- Usage in Popular Websites
 
 #### Back-End Programming Languages, MVCs
 
+Assembly 
+* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
+* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
+* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
+
+<!--
+https://learncodethehardway.org/c/
+http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
+-->
+
 Programming Languages- Assembly (See also: C)
 * [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
 * [C++ Wikibook](http://en.wikibooks.org/wiki/C%2B%2B_Programming)  
 * [Stanford CS 106B: Programming Abstractions in C++](http://web.stanford.edu/class/cs106b)  
 * [Stanford CS 106B: Programming Abstractions in C++ Lectures](http://web.stanford.edu/class/cs106b/lectures.shtml#today)
+
+<!--
+https://en.wikipedia.org/wiki/C%2B%2B | C++ - Wikipedia
+-->
 
 Programming Languages- Miscellaneous
 * [Clojure GitHub](https://github.com/clojure/clojure) and [Clojure Wikipedia](http://en.wikipedia.org/wiki/Clojure)  
@@ -4253,12 +4362,61 @@ https://github.com/docopt/docopt
 http://www.djangopony.com/
 -->
 
+#### Host- General
+
+Hosting Newsletters
+* [Digital Ocean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+* [GitHub Explore Subscribe](https://github.com/explore/subscribe)
+* [Heroku Newsletter](https://www.heroku.com/newsletter)
+
+Experts
+* [Google Developer Experts](https://developers.google.com/experts)
+* [Microsoft Most Valuable Professional Wikipedia](https://en.wikipedia.org/wiki/Microsoft_Most_Valuable_Professional)
+
+Designer/Developer Conferences
+* [Apple WWDC](https://developer.apple.com/wwdc), [Apple WWDC Videos](https://developer.apple.com/videos), and [Apple WWDC Wikipedia](http://en.wikipedia.org/wiki/Apple_Worldwide_Developers_Conference)  
+* [F8 Facebook Developer Conference](https://www.fbf8.com) 
+* [Google Developers Events](https://developers.google.com/events), and [Google Developers University](https://developers.google.com/university) 
+* [Google Design Form](http://www.google.com/design/form) 
+* [Google IO](https://www.google.com/events/io)  
+* [Google Summer of Code](https://developers.google.com/open-source/soc/?csw=1) 
+* [Twitter Flight](https://www.twitterflight.com/index.cfm?)  
+* [Twitter Flock](http://flock.fabric.io) 
+
+AWS- Events
+* [AWS Live Events](https://live.awsevents.com)
+* [AWS Global Summits](https://aws.amazon.com/summits)
+
 #### Dashboards
 
+Status
+* [Amazon Status](http://status.aws.amazon.com)
+* [Facebook Status](https://developers.facebook.com/status)
+* [GitBook Status](http://status.gitbook.com)
+* [GitHub Status](https://status.github.com) and [GitHub Status Twitter](https://twitter.com/githubstatus)
+* [Google Cloud Status](https://status.cloud.google.com/incident/compute/15045)
+* [Heroku Status](https://status.heroku.com) and [Heroku Status Twitter](https://twitter.com/herokustatus)
+* [Slack Status](https://status.slack.com)
 
+Consoles: Developer
+* [GitHub Settings](https://github.com/settings)
+* [Heroku Dashboard](https://dashboard.heroku.com)
+* [Google Developer Console](https://console.developers.google.com) and [Google Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard) 
+* [Digital Ocean Welcome](https://cloud.digitalocean.com) and [Digital Ocean Settings](https://cloud.digitalocean.com/settings)
+* [AWS Billing & Cost Management Dashboard](https://console.aws.amazon.com/billing) and [AWS Instances Dashboard](https://console.aws.amazon.com/ec2/v2/home?region=us-east-1#Instances)
 
+Consoles: Webmaster and Analytics
+* [Google Webmaster Tools](https://www.google.com/webmasters/tools) and [Google Webmaster Dashboard](https://www.google.com/webmasters/tools/dashboard)
+* [Google Analytics Dashboard](https://analytics.google.com/analytics/web)
 
 <!--
+https://status.cloud.google.com/incident/cloud-networking/17002 | Google Cloud Status Dashboard
+
+https://myactivity.google.com/myactivity | Google – My Activity
+
+https://status.bitbucket.org/ | Atlassian Bitbucket Status
+
+
 Chrome Extensions
 
 Miscellaneous
@@ -4295,6 +4453,10 @@ Container Intro
 
 http://blog.kubernetes.io/2016/06/illustrated-childrens-guide-to-kubernetes.html
 https://deis.com/blog/2016/kubernetes-illustrated-guide/
+
+http://docs.kelproject.com/installation/layer0/gce
+http://kubernetes.io/docs/hellonode
+https://github.com/kubernetes-incubator/cri-o
 
 * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
@@ -4867,6 +5029,13 @@ https://en.wikipedia.org/wiki/JD_Edwards
 -->
 
 #### Functions
+
+AWS- Lambda
+* [AWS Lambda FAQs](http://aws.amazon.com/lambda/faqs)  
+* [AWS Lambda Pricing](http://aws.amazon.com/lambda/pricing)  
+
+Azure Functions
+* [An introduction to Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview)
 
 <!--
 https://aws.amazon.com/serverless/build-a-web-app/
@@ -7751,6 +7920,10 @@ Madhavan Ramanujam and Georg Tacke
 http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
 -->
 
+Best Books
+* [New York Times Best Sellers List](https://www.nytimes.com/books/best-sellers)
+* [Washington Post: Best books of 2017](https://www.washingtonpost.com/graphics/2017/entertainment/best-books)
+
 Books
 * [Andy Grove: High Output Management](http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
 * [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
@@ -7898,6 +8071,7 @@ Tech Periodical
 * [New York Times Tech](http://www.nytimes.com/pages/technology/index.html)
 * [Recode](http://recode.net)
 * [Stratechery (Partially Subscription Based)](https://stratechery.com)
+* [Stratechery: The 2017 Stratechery Year in Review](https://stratechery.com/2017/the-2017-stratechery-year-in-review)
 * [TechCrunch](http://techcrunch.com)
 * [Techpinions (Partially Subscription Based)](https://techpinions.com)
 * [Tech EU](http://tech.eu) and [Tech EU Features](http://tech.eu/features)
@@ -7966,11 +8140,7 @@ Off the Wall
 * [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) and [Wait But Why Facebook](https://www.facebook.com/waitbutwhy) 
-
-<!--
-Slate Star Codex
-http://slatestarcodex.com
--->
+* [Slate Star Codex](http://slatestarcodex.com)
 
 Eccentric
 * [Brain Pickings](https://www.brainpickings.org)
@@ -8897,7 +9067,9 @@ https://www.glassdoor.com/Job/software-engineer-jobs-SRCH_KO0,17.htm
 
 #### Learning Resources
 
- 
+Wikipedia
+* [Wikipedia Portal Contents](http://en.wikipedia.org/wiki/Portal:Contents), [Wikipedia Lists of Topics](http://en.wikipedia.org/wiki/Portal:Lists_of_topics), and [Wikipedia Lists of Lists (Category) ](http://en.wikipedia.org/wiki/Category:Lists_of_lists)
+
 Flash Cards
 * [Anki](https://apps.ankiweb.net)
 
