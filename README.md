@@ -545,6 +545,9 @@ Smartphones (See also Mobile)
 Computer History Museum
 * [Computer History Museum](http://www.computerhistory.org) and [Computer History Museum Twitter](https://twitter.com/ComputerHistory)
 
+Computing Classification
+* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
+
 Great Unsolved Problems in Computer Science
 * [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
 
