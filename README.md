@@ -160,6 +160,11 @@ Math Forums
 * [Stack Exchange Math](https://math.stackexchange.com)
 * [Stack Exchange Stats](https://stats.stackexchange.com)
 
+Stack Overflow
+* [Stack Overflow Documentation](http://stackoverflow.com/documentation)
+* [Stack Overflow Blog](https://stackoverflow.blog)
+* [Stack Overflow Badges](https://stackoverflow.com/help/badges)
+
 CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
@@ -523,6 +528,10 @@ History of Technology and Computer Science
 * [History of the Internet Wikipedia](https://en.wikipedia.org/wiki/History_of_the_Internet)
 * [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
+
+Computer Scientists
+* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
+* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
 
 Computer Classes and Sizes
 * [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
@@ -2773,6 +2782,11 @@ Rails- Preferred Templates and Documents
 
 Jekyll
 
+Jekyll
+* [Jekyll Templates](https://jekyllrb.com/docs/templates)
+* [Jekyll Bootstrap GitHub](https://github.com/plusjade/jekyll-bootstrap)
+* [Jekyll Sitemap GitHub](https://github.com/jekyll/jekyll-sitemap)
+
 <!--
 New
 https://github.com/planetjekyll/awesome-jekyll-plugins
@@ -4447,6 +4461,14 @@ https://heap.engineering/terraform-gotchas
 Container Intro
 * [Preethi Kasireddy: A Beginner-Friendly Introduction to Containers, VMs and Docker](https://medium.freecodecamp.com/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b#.tj0g4gt4s) 
  
+ Containers- Kubernetes
+* [Kubernetes GitHub](https://github.com/kubernetes/kubernetes) 
+
+Containers- Docker
+* [Docker GitHub](https://github.com/docker/docker)  
+* [Docker Hub](https://hub.docker.com)
+* [Docker Swarm (Kubernetes Competitor)](https://docs.docker.com/swarm)
+
 * [Installing Docker on Mac](https://docs.docker.com/engine/installation/mac)
 * [DigitalOcean Getting Started with Docker](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-getting-started) 
 * [Digital Ocean Django Docker](https://www.digitalocean.com/community/tutorials/docker-explained-how-to-containerize-python-web-applications) 
@@ -4460,7 +4482,54 @@ https://github.com/kubernetes-incubator/cri-o
 
 * [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum)
 * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet) / [Docker Cheat Sheet](http://docker.jens-piegsa.com/)
-          
+      
+https://mobyproject.org/#moby-and-docker
+
+https://github.com/docker/cli
+https://github.com/docker/infrakit
+https://github.com/moby/moby
+
+https://github.com/linuxkit/linuxkit
+
+https://github.com/Docker/labs
+
+* [Dockerfile Reference](https://docs.docker.com/engine/reference/builder)
+* [Docker Run Reference](https://docs.docker.com/engine/reference/run)
+* [Docker Compose](https://docs.docker.com/compose/overview)
+
+Container Clusters
+* [Compose File Reference](https://docs.docker.com/compose/compose-file/)
+* [Docker Engine in Swarm Mode](https://docs.docker.com/engine/swarm/)
+	
+* [Play with docker classroom](http://training.play-with-docker.com/)
+	  	  	
+Docker Images
+* [node](https://github.com/nodejs/docker-node) / [risingstack/alpine](https://hub.docker.com/r/risingstack/alpine/) / [keymetrics/pm2-docker-alpine](https://hub.docker.com/r/keymetrics/pm2-docker-alpine/)
+* [docker-lambda](https://github.com/lambci/docker-lambda)
+
+* [Heroku Container registry public beta - deploy Docker images to Heroku](https://devcenter.heroku.com/changelog-items/926)
+
+https://github.com/heroku/alpinehelloworld/blob/master/Dockerfile
+
+https://hub.docker.com/r/heroku/cedar
+
+https://github.com/revsys/jslog4kube
+https://github.com/kubernetes/minikube
+https://github.com/kubernetes/kops
+https://github.com/kubernetes/helm
+
+https://heptio.com/ | Heptio | Unleash the Power of Kubernetes
+https://github.com/heptio/aws-quickstart | heptio/aws-quickstart: AWS Kubernetes cluster via CloudFormation and kubeadm
+        
+https://github.com/GoogleCloudPlatform/kubernetes-workshops
+
+http://kubernetes.io/docs/getting-started-guides/aws
+
+https://github.com/kelseyhightower/pipeline | kelseyhightower/pipeline: A step by step guide on creating build and deployment pipelines for Kubernetes.
+https://github.com/kelseyhightower/oscon-2017-kubernetes-tutorial | GitHub - kelseyhightower/oscon-2017-kubernetes-tutorial: OSCON 2017 Kubernetes Tutorial
+
+https://github.com/kelseyhightower/kubernetes-the-hard-way | kelseyhightower/kubernetes-the-hard-way: Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
+      
 Authorities
 * [Internet Corporation for Assigned Names and Numbers (ICANN)](https://www.icann.org)
 * [Internet Assigned Numbers Authority](http://www.iana.org)
