@@ -1872,6 +1872,23 @@ Edge and EdgeHTML (Browser, Layout Engine)
 
 #### Developer Tools
   
+<!--
+Platform Status
+* [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+    
+Platform Releases
+ * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+    
+Platform Updates
+* [Mozilla Hacks](https://hacks.mozilla.org/)
+* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
+* [Webkit Blog](https://webkit.org/blog/)
+* [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
+* [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
+
+http://release.mozilla.org/ | Mozilla Releases
+-->
+
 Mozilla Developer Tools
 * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools) and [Firebug](http://getfirebug.com)
 * [Firebug Chrome](http://getfirebug.com/releases/lite/chrome) and [Firebug Chrome Store](https://chrome.google.com/webstore/detail/firebug-lite-for-google-c/bmagokdooijbeehmkpknfglimnifench)
@@ -4809,6 +4826,51 @@ Ubuntu (Debian) Deployment
 * [Heroku Ubuntu](https://toolbelt.heroku.com/debian) 
 
 #### Deployment and Cloud by Language
+
+Python- Heroku
+* [Heroku Python Homepage](https://www.heroku.com/python) 
+* [Heroku Python Category](https://devcenter.heroku.com/categories/python) 
+* [Heroku Python Sample GitHub](https://github.com/heroku/python-sample)  
+* [Heroku Buildpack Python GitHub](https://github.com/heroku/heroku-buildpack-python)
+* [Heroku Python Getting Started GitHub](https://github.com/heroku/python-getting-started)
+* [Heroku Getting Started with Python](https://devcenter.heroku.com/articles/getting-started-with-python)   
+* [Heroku Python Docker GitHub](https://github.com/heroku/docker-python)
+
+<!--
+https://devcenter.heroku.com/articles/s3-upload-python
+
+https://devcenter.heroku.com/articles/django-app-configuration
+https://devcenter.heroku.com/articles/django-assets
+-->
+
+Python- Django- Heroku Deployment (URL: http://appname.herokuapp.com)
+* [Heroku Django Template GitHub](https://github.com/heroku/heroku-django-template) 
+* [Heroku Getting Started with Django](https://devcenter.heroku.com/articles/getting-started-with-django)  
+* [Heroku Django App Configuration](https://devcenter.heroku.com/articles/django-app-configuration)  
+* [Heroku Django Memcached](https://devcenter.heroku.com/articles/django-memcache) 
+
+<!--
+* [heroku-cli](https://devcenter.heroku.com/articles/heroku-cli#getting-started)
+-->
+
+Python- Amazon
+* [AWS Python](https://aws.amazon.com/python)
+* [AWS Python SDK (Boto) PyPi](https://pypi.python.org/pypi/boto)
+* [AWS Python SDK (Boto3)](https://aws.amazon.com/sdk-for-python) and [Boto3 GitHub](https://github.com/boto/boto3)
+* [Getting Started with the AWS SDK for Python (Boto)](http://aws.amazon.com/developers/getting-started/python)
+* [Deploying a Python Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-apps.html)
+
+<!--
+https://github.com/boto/boto
+https://aws.amazon.com/premiumsupport/knowledge-center/python-boto3-virtualenv
+
+https://pypi.python.org/pypi/django-toolbelt
+https://pypi.python.org/pypi/static3/0.5
+-->
+
+Python- Django- AWS Elastic Beanstalk Deployment
+* [Deploying a Django Application to AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_django.html) 
+
 
 Node.js- Heroku
 * [Heroku Buildpack Node GitHub](https://github.com/heroku/heroku-buildpack-nodejs)  
