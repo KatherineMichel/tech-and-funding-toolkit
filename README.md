@@ -1911,6 +1911,10 @@ Edge and EdgeHTML (Browser, Layout Engine)
 #### Developer Tools
   
 <!--
+Mozilla
+* [Mozilla](http://mozilla.org), [Mozilla Blog](https://blog.mozilla.org)
+* [Mozilla Support](https://support.mozilla.org)
+
 Platform Status
 * [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
     
@@ -7945,29 +7949,6 @@ Unboxing
 #### Books and Courses
 
 <!--
-New
-https://www.amazon.com/gp/product/1501180738 | Amazon.com: The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance (9781501180736): Tom Brady: Books
-
-Blue Ocean
-https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
-https://en.wikipedia.org/wiki/Blue_Ocean_Strategy | Blue Ocean Strategy - Wikipedia
-
-https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
-https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
-https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
-https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
-https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
-https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
-
-https://www.principles.com/ | Principles by Ray Dalio
-https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
-https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
-https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
-
-https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
-https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
-https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
-
 Tiny Habits
 http://www.tinyhabitsacademy.org/ | Home - Tiny Habits Academy
 https://www.google.com/search?source=hp&ei=DJ4LWszYDqTVjwSJqbGgBQ&q=file%3Apdf+tiny+habits+method&oq=file%3Apdf+tiny+habits+method&gs_l=psy-ab.3...1065.4635.0.4822.29.26.0.0.0.0.212.2526.6j11j2.20.0....0...1.1.64.psy-ab..9.3.464.0..0j0i131k1.178.4bBPf3zghWo | file:pdf tiny habits method - Google Search
@@ -7994,12 +7975,6 @@ https://www.weforum.org/agenda/2016/10/brain-plasticity-yes-you-really-can-chang
 
 
 <!--
-http://fourhourworkweek.com
-http://fourhourworkweek.com/sitemap.xml
-
-Masters of Scale with Reid Hoffman
-https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1&_branch_match_id=345698913933613519
-
 Stanford Continuing Studies
 https://continuingstudies.stanford.edu/courses/courses-overview
 
@@ -8032,29 +8007,11 @@ https://archive.org/stream/mentalradio005537mbp/mentalradio005537mbp_djvu.txt
 Keith Rabois Reading List
 https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
 
-* [Daniel Kahneman Wikipedia](https://en.wikipedia.org/wiki/Daniel_Kahneman)
-* [Amos Tversky Wikipedia](https://en.wikipedia.org/wiki/Amos_Tversky)
+http://blakemasters.com/peter-thiels-cs183-startup | Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012
+http://blakemasters.com/ | Blake Masters
 
 Business Model You: A One-Page Method For Reinventing Your Career
 https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-Tools of Titans
-http://tim.blog/2017/01/25/tools-of-titans-index/
-https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-
-FreshBooks: Breaking the Time Barrier
-https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
-
-Rec from Tim Ferris
-Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
-http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
-https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-http://vagabonding.net
-https://en.wikipedia.org/wiki/Rolf_Potts
-https://en.wikipedia.org/wiki/The_Graveyard_Book
-https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 
 Angela Duckworth Grit
 https://www.udemy.com/acumen-presents-angela-duckworth-on-building-grit | Acumen Presents: Angela Duckworth on Building Grit | Udemy
@@ -8102,6 +8059,34 @@ https://www.amazon.com/Machine-Platform-Crowd-Harnessing-Digital/dp/0393254291/r
 
 Madhavan Ramanujam and Georg Tacke
 http://www.amazon.com/Monetizing-Innovation-Companies-Design-Product/dp/1119240867/ref=redir_mobile_desktop?ie=UTF8&dpID=51ad8bHOkPL&dpPl=1&keywords=monetizing%20innovation&pi=SY200_QL40&qid=1461365770&ref=plSrch&ref_=mp_s_a_1_1&sr=8-1
+
+New
+https://www.amazon.com/gp/product/1501180738 | Amazon.com: The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance (9781501180736): Tom Brady: Books
+-->
+
+
+<!--
+Masters of Scale with Reid Hoffman
+https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1&_branch_match_id=345698913933613519
+
+Blue Ocean
+https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
+https://en.wikipedia.org/wiki/Blue_Ocean_Strategy | Blue Ocean Strategy - Wikipedia
+
+https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
+https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
+https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
+https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
+https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
+
+https://www.principles.com/ | Principles by Ray Dalio
+https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
+https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
+https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
+
+http://fourhourworkweek.com
+http://fourhourworkweek.com/sitemap.xml
 -->
 
 Best Books
@@ -8130,10 +8115,42 @@ Tim Ferris
 * [Tribe of Mentors](https://tribeofmentors.com)
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
 
+<!--
+Tools of Titans
+http://tim.blog/2017/01/25/tools-of-titans-index/
+https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
+https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
+
+FreshBooks: Breaking the Time Barrier
+https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+
+Rec from Tim Ferris
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+http://vagabonding.net
+https://en.wikipedia.org/wiki/Rolf_Potts
+https://en.wikipedia.org/wiki/The_Graveyard_Book
+https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
+
+https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
+-->
+
 Learning
 * [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
 * [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
 * [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
+<!--
+* [Daniel Kahneman Wikipedia](https://en.wikipedia.org/wiki/Daniel_Kahneman)
+* [Amos Tversky Wikipedia](https://en.wikipedia.org/wiki/Amos_Tversky)
+
+https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
+
+https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
+https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
+-->
 
 Whole Earth Catalog
 * [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
