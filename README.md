@@ -147,6 +147,12 @@ https://github.com/systers/portal | systers/portal: Systers Portal for communiti
 https://anitaborg.org/systers/ | Systers - Anita Borg Institute
 -->
 
+Free Code Camp
+* [Free Code Camp Help](https://gitter.im/FreeCodeCamp/Help)
+* [Free Code Camp LinkedIn](https://www.linkedin.com/edu/free-code-camp-166029)
+* [Free Code Camp Reddit](https://www.reddit.com/r/freecodecamp)
+* [List of Free Code Camp City Based Campsites](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/List-of-Free-Code-Camp-city-based-Campsites)
+
 Forums
 * [Codecademy Discuss](https://discuss.codecademy.com/top/all)
 * [Free Code Camp Forum](http://forum.freecodecamp.com)
@@ -307,7 +313,6 @@ http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 |
 Programming Books- General
 * [IT eBooks](http://it-ebooks.info)
 * [Free Programming Books GitHub](https://github.com/vhf/free-programming-books)
-* [Humble Bundle](https://www.humblebundle.com)
 * [DevFreeBooks](https://github.com/devfreebooks/devfreebooks.github.io)
 
 Free Software Foundation
@@ -337,6 +342,15 @@ Developer Surveys
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 <!--
+https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
+https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
+https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
+
+* [Stack Overflow Insights](https://stackoverflow.com/insights)
+* [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
+* [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
+
+
 https://github.com/showcases/programming-languages | Programming languages
 https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/ | What programming languages are used late at night? - Stack Overflow Blog
 
@@ -691,6 +705,7 @@ HTTP protocol defaults to port 80 and HTTPS defaults to port 443
 https://technet.microsoft.com/en-us/library/bb962069.aspx
 -->
 
+
 #### Command Line and Shell
 
 See also Bash and PowerShell<br>
@@ -1024,6 +1039,19 @@ Operating Systems
 * [List of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/List_of_operating_systems)
 * [Comparison of Operating Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_operating_systems)
 
+<!--
+https://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in | What Languages are Windows, Mac OS X and Linux written in? - Stack Overflow
+-->
+
+Linux and Darwin Code
+* [Linux Kernel GitHub](https://github.com/torvalds/linux)
+* [Linux Kernel Mailing List](https://lkml.org)
+* [Darwin Kernel GitHub](https://github.com/apple/darwin-xnu)
+
+Arm, Intel
+* [Arm](https://developer.arm.com)
+* [Intel](https://newsroom.intel.com)
+
 #### Unix and Linux General
 
 * [Unix Year 2038 Problem Wikipedia](http://en.wikipedia.org/wiki/Year_2038_problem) 
@@ -1105,6 +1133,16 @@ https://support.google.com/chromebook/answer/183093
 -->
 
 #### Apple General
+
+Apple
+* [Apple Support](https://support.apple.com)
+
+Apple- Dash
+* [Dash for MacOS](https://kapeli.com/dash)
+
+iTerm2		
+* [iTerm2](https://www.iterm2.com)		
+* [iTerm Color Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 Apple Posters of Ago
 * [Apple Posters of Ago](http://beagle.applearchives.com/the_posters)
@@ -4592,6 +4630,22 @@ AWS- Pricing
 * [AWS Free Tier Usage](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-free-tier-usage-limits.html)  
 * [AWS S3 Calculator](http://calculator.s3.amazonaws.com/index.html)
 
+AWS- Websites, Mobile, Social
+* [AWS Websites](https://aws.amazon.com/websites)
+* [AWS Websites Getting Started](http://aws.amazon.com/websites/getting-started)
+* [AWS Web Mobile Social](http://aws.amazon.com/web-mobile-social)
+* [AWS Mobile](https://aws.amazon.com/mobile)
+* [AWS Mobile SDK](http://aws.amazon.com/mobile/sdk)
+* [AWS Mobile Analytics](http://aws.amazon.com/mobileanalytics)
+
+AWS- Elastic Beanstalk and S3
+* [AWS Elastic Beanstalk](http://docs.aws.amazon.com/elasticbeanstalk)
+* [AWS S3](http://aws.amazon.com/documentation/s3)
+
+AWS- SES and SNS (Including Worldwide SMS)
+* [AWS Simple Email Service (SES)](http://aws.amazon.com/ses) 
+* [AWS Simple Notification Service (SNS)](http://aws.amazon.com/sns)
+
 <!--
 https://aws.amazon.com/about-aws/ | About AWS
 
@@ -4763,6 +4817,16 @@ https://blog.heroku.com/archives/2016/5/18/announcing_heroku_free_ssl_beta_and_f
 -->
 
 #### Digital Ocean
+
+Digital Ocean Hosting Docs (VPS)
+* [Digital Ocean Pricing](https://www.digitalocean.com/pricing) 
+* [Digital Ocean One Click Apps](https://www.digitalocean.com/features/one-click-apps)
+* [Digital Ocean Getting Started](https://www.digitalocean.com/help/getting-started)
+* [Digital Ocean Getting Started Setting Up Your Server](https://www.digitalocean.com/help/getting-started/setting-up-your-server)
+* [Digital Ocean Features Technology](https://www.digitalocean.com/features/technology)
+* [Digital Ocean Developer Documentation](https://developers.digitalocean.com/documentation) 
+* [Digital Ocean Questions](https://www.digitalocean.com/community/questions)
+* [Digital Ocean Logos and Badges](https://www.digitalocean.com/company/logos-and-badges)
 
 Digital Ocean + Dokku/Deis (Alternative to AWS + Heroku)
 * [Digital Ocean One Click Apps Dokku](https://www.digitalocean.com/features/one-click-apps/dokku)
@@ -5605,7 +5669,6 @@ Embedded Operating Systems
 
 Standards
 * [Mobile Web Standards Evolution Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language#mediaviewer/File:Mobile_Web_Standards_Evolution_Vector.svg) 
-* [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
 * [Open Mobile Alliance Wikipeda](http://en.wikipedia.org/wiki/Open_Mobile_Alliance (Standards))  
 * [W3C Mobile](http://www.w3.org/Mobile) 
 * [Wireless Markup Language Wikipedia](http://en.wikipedia.org/wiki/Wireless_Markup_Language) 
@@ -7721,11 +7784,6 @@ https://vimeo.com/220999602
 -->
 
 <!--
-The 4ps
-https://www.cleverism.com/understanding-marketing-mix-concept-4ps
-https://en.wikipedia.org/wiki/Marketing_mix
-
-https://hbr.org/2016/09/the-elements-of-value
 https://hbr.org/2015/01/what-is-a-business-model
 https://hbr.org/2013/05/what-makes-a-good-corporate-st
 
@@ -7838,10 +7896,6 @@ Conferences (See also Designer/Developer Conferences and Python Django Conferenc
 
 <!--
 https://theeuropas.com
-
-https://www.youtube.com/channel/UCa5-AIw8jipYOtRmGfYI7uw | Shorty Awards - YouTube
-https://www.streamys.org/ | The Streamy Awards
-http://webbyawards.com
 -->
 
 Mobile (See also Mobile)
@@ -7854,6 +7908,17 @@ Unconference
 * [Unconference Wikipedia](https://en.wikipedia.org/wiki/Unconference)
 
 <!--
+* [Mobile World Congress Wikipedia](http://en.wikipedia.org/wiki/Mobile_World_Congress) 
+
+See Events
+http://shortyawards.com/ | The Shorty Awards - Honoring the best of social media
+https://www.youtube.com/channel/UCa5-AIw8jipYOtRmGfYI7uw | Shorty Awards - YouTube
+https://www.streamys.org/ | The Streamy Awards
+http://webbyawards.com
+
+* [The Consumer Electronics Show (CES)](https://www.ces.tech)
+* [CEBIT – Europe's Business Festival for Innovation and Digitization](https://www.cebit.de)
+
 http://www.churchillclub.org
 https://www.youtube.com/user/commonwealthclub
 
@@ -7913,26 +7978,11 @@ https://en.wikipedia.org/wiki/B._J._Fogg | B. J. Fogg - Wikipedia
 https://www.slideshare.net/schlaf/one-change-club-workshop?ref=https://twitter.com/i/cards/tfw/v1/941158908600647682?cardname=player&autoplay_disabled=true&forward=true&earned=true&edge=true&lang=en&card_height=130&scribe_context=%7B%22client%22%3A%22web%22%2C%22page%22%3A%22home%22%2C%22section%22%3A%22home%22%2C%22component%22%3A%22tweet%22%7D&bearer_token=AAAAAAAAAAAAAAAAAAAAAPYXBAAAAAAACLXUNDekMxqa8h%252F40K4moUkGsoc%253DTYfbDKbT3jJPCEVnMYqilB28NHfOPqkca3qaAxGfsyKCs0wRbw | One Change Club Workshop
 
 https://www.amazon.com/Pushback-Smart-Women-Ask_and-Up_for/dp/1501264311
-
-Back Pain Mind-Body Connection
-http://www.correctus.se/dokument/DrSarno-en.pdf | DrSarno-en.pdf
-https://www.amazon.com/gp/product/B01M5FH9PM/?th=1
-
-
-IT and Ethics
-https://plato.stanford.edu/entries/it-moral-values/
-https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
-http://www.tristanharris.com/
-https://medium.com/@tristanharris
-http://www.tristanharris.com/the-need-for-a-new-design-ethics/
 -->
 
 Learning Transfer
 * [How Elon Musk Learns Faster and Better than Everyone Else](https://qz.com/968101/how-elon-musk-learns-faster-and-better-than-everyone-else)
 * [Transfer of Learning Wikipedia](https://en.wikipedia.org/wiki/Transfer_of_learning)
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 Neuroplasticity
 * [You Can Grow Your Brain](https://www.khanacademy.org/brainworkout_1)
@@ -8065,7 +8115,6 @@ Books
 * [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
 * [Carlota Perez: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
 * [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
-* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
 * [Eric Ries: Lean Startup](http://www.amazon.com/gp/product/0307887898)
 * [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
 * [John Brooks: Business Adventures, via Bill Gates](https://www.gatesnotes.com/Books/Business-Adventures)
@@ -8074,7 +8123,17 @@ Books
 * [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 * [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+
+Tim Ferris
 * [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
+* [Tools of Titans](https://toolsoftitans.com) 
+* [Tribe of Mentors](https://tribeofmentors.com)
+* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
+
+Learning
+* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
+* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
 
 Whole Earth Catalog
 * [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
@@ -8108,8 +8167,14 @@ https://www.vox.com/newsletters
 http://link.axios.com/join/signup-all
 https://www.axios.com
 
-https://www.techopedia.com
 https://pinboard.in/popular
+
+* [Charlie Rose](http://www.charlierose.com)
+* [This American Life](http://www.thisamericanlife.org)
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
 More News
 * [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
@@ -8352,8 +8417,6 @@ Investment Firms
 http://en.wikipedia.org/wiki/Flesch%E2%80%93Kincaid_readability_tests
 -->
 
-
-
 #### Labs, Kitchens, Garages
 
 Labs, Kitchens, Garages
@@ -8388,7 +8451,6 @@ Tools
 * [Find Tech Reporters](http://www.brownsteinegusa.com/find-tech-reporters) 
 * [Amazon Example Press Release](http://aws.amazon.com/new) 
 * [Sandwich Video](http://sandwichvideo.com)
-
 
 
 #### Growth, Marketing, and Content Resources
