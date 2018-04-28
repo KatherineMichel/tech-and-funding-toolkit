@@ -1418,6 +1418,11 @@ YouTube (Google)
 * [YouTube Creators](http://www.youtube.com/yt/creators)  
 * [YouTube Developers](https://www.youtube.com/yt/dev), [YouTube Developers](https://developers.google.com/youtube), and [YouTube Developers](https://www.youtube.com/user/GoogleDevelopers) 
 
+<!--
+Net Promoter
+* [Net Promoter Network](https://www.netpromoter.com) and [Net Promoter Wikipedia](https://en.wikipedia.org/wiki/Net_Promoter)
+-->
+
 #### Design Thinking
 
 Design- General 
@@ -3609,6 +3614,34 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
+The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
+* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
+
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
+http://mypy.readthedocs.io/
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
+https://github.com/dropbox/pyannotate
+http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
+https://github.com/python/typeshed | python/typeshed: Collection of library stubs for Python, with static types
+
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+
+https://gitter.im/twoscoopspress/packaging-workshop-march-10 | twoscoopspress/packaging-workshop-march-10 - Gitter
+https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/events/248261891/ | [Online] PyCon Colombia Packaging Tutorial | Medellín Python Meetup (Medellín, Colombia) | Meetup
+
+See also: Data Science
+https://github.com/keen/cohorts
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
@@ -3626,15 +3659,12 @@ http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 
 https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
 
-https://github.com/AllenDowney/ThinkComplexity2 | AllenDowney/ThinkComplexity2: Book and code for Think Complexity, 2nd edition
-
 https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
 https://github.com/jazzband/django-model-utils
 
 https://github.com/rossp/djangosites.org | rossp/djangosites.org: Source code for djangosites.org.
 
 https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
-
 
 http://python.apichecklist.com
 https://github.com/vintasoftware/python-api-checklist
@@ -8038,6 +8068,7 @@ A Brief History of Existential Terror
 https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 
 The Upside of Stress
+https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
 http://online.stanford.edu/course/upside-stress
 https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
 https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
