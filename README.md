@@ -3617,7 +3617,6 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
 * [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
 
-https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
 http://mypy.readthedocs.io/
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
@@ -3628,6 +3627,9 @@ https://github.com/python/typeshed | python/typeshed: Collection of library stub
 
 https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
 https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+
+https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
+https://github.com/jazzband/django-model-utils
 
 https://gitter.im/twoscoopspress/packaging-workshop-march-10 | twoscoopspress/packaging-workshop-march-10 - Gitter
 https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/events/248261891/ | [Online] PyCon Colombia Packaging Tutorial | Medellín Python Meetup (Medellín, Colombia) | Meetup
@@ -3659,16 +3661,9 @@ http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 
 https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
 
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-model-utils
-
 https://github.com/rossp/djangosites.org | rossp/djangosites.org: Source code for djangosites.org.
 
 https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
-
-http://python.apichecklist.com
-https://github.com/vintasoftware/python-api-checklist
-http://djangoappschecklist.com
 
 Lacey
 https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
