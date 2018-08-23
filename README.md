@@ -3614,56 +3614,17 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)
-* [The Top-Starred Python GitHub Devs, Orgs, and Repos to Follow (All-Time and Trending)](https://github.com/StijnMiroslav/top-starred-devs-and-repos-to-follow)
-
-https://github.com/Instagram/MonkeyType | Instagram/MonkeyType: A system for Python that generates static type annotations by collecting runtime types
-http://mypy.readthedocs.io/
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://github.com/python/mypy | python/mypy: Optional static typing for Python 2 and 3 (PEP484)
-https://github.com/dropbox/pyannotate
-http://mypy-lang.blogspot.com/2018/03/mypy-0570-released.html?spref=tw | The Mypy Blog: Mypy 0.570 Released
-https://github.com/python/typeshed | python/typeshed: Collection of library stubs for Python, with static types
-
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
-
 https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
 https://github.com/jazzband/django-model-utils
 
 https://gitter.im/twoscoopspress/packaging-workshop-march-10 | twoscoopspress/packaging-workshop-march-10 - Gitter
 https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/events/248261891/ | [Online] PyCon Colombia Packaging Tutorial | Medellín Python Meetup (Medellín, Colombia) | Meetup
 
-See also: Data Science
-https://github.com/keen/cohorts
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-http://graphql.org/ | GraphQL | A query language for your API
-https://github.com/graphql-python | GraphQL Python
-
-https://www.sqlalchemy.org/
-
 https://github.com/edwardtufte/tufte-css | edwardtufte/tufte-css: Style your webpage like Edward Tufte’s handouts.
 
 http://www.juiceanalytics.com/juicebox-home/
 
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
-
 https://github.com/Azure/azure-sdk-for-python | Azure/azure-sdk-for-python: Microsoft Azure SDK for Python
-
-https://github.com/rossp/djangosites.org | rossp/djangosites.org: Source code for djangosites.org.
-
-https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
 
 Lacey
 https://www.google.com/search?q=set_trace()&oq=set_trace()&aqs=chrome..69i57j0l5.246j0j7&sourceid=chrome&ie=UTF-8 | set_trace() - Google Search
