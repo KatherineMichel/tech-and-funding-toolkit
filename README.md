@@ -4178,56 +4178,6 @@ https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py a
 
 
 
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org)  
-* [Django Rest Framework GitHub](https://github.com/tomchristie/django-rest-framework)  
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
-
-Python- Django- Alternative Rest Framework
-* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
-
-Python- Django- Rest Framework (Serialization/Deserialization)
-* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
-* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
-* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-<!--
-https://github.com/encode/apistar | encode/apistar: A smart Web API framework, designed for Python 3. 🌟
-http://www.aeracode.org/2017/7/11/towards-channels-20/
-http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-http://www.encode.io/reports/july-2017
-https://github.com/encode/django-rest-framework/issues
-https://github.com/encode/django-rest-framework/projects
-http://www.django-rest-framework.org/tutorial/quickstart/#project-setup
-http://www.django-rest-framework.org/api-guide/filtering
-https://github.com/encode/uvicorn
-http://www.uvicorn.org/toolkit
-
-http://gunicorn.org
--->
-
-
-Python- Django- Channels
-* [Channels GitHub](https://github.com/django/channels), [Channels Examples GitHub](https://github.com/andrewgodwin/channels-examples), and [Channels Docs](http://channels.readthedocs.org/en/latest)
-* [Daphne (Django Channels HTTP/WebSocket Server)](https://github.com/django/daphne)
-
-<!--
-https://github.com/andrewgodwin/asgigram | andrewgodwin/asgigram: ASGI/Telegram protocol server
-https://groups.google.com/forum/#!topic/django-developers/_314PGl3Ao0 | On ASGI... - Google Groups
-
-http://channels.readthedocs.io/en/2.0/asgi.html | ASGI (Asynchronous Server Gateway Interface) Draft Spec — Channels 2.0a1 documentation
-https://docs.python.org/3/library/asyncio.html | 18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks — Python 3.6.2 documentation
-
-https://github.com/jacobian/demo-thing
-https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django
-
-https://docs.djangoproject.com/en/dev/topics/db/queries/ Django ORM
--->
-
-
 Python- Django- Python Social Auth
 * [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
 
