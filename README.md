@@ -1878,17 +1878,7 @@ Web Browser and JavaScript Engines (See also JavaScript)- General
 * [Comparison of Web Browser Engines Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_web_browser_engines)
 * [List of Layout Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_layout_engines)
 
-Google (Chromium, Chrome, Blink, V8) (See also Google Developers)
-* [Chromium OS (Linux) Wikipedia](http://en.wikipedia.org/wiki/Chromium_OS) 
-* [Chromium Wikipedia](https://en.wikipedia.org/wiki/Chromium_(web_browser))
-* [Chromium Developers](https://www.chromium.org/developers)
-* [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
-
-Chrome (Browser, Layout Engine)
-* [Google Chrome](https://www.google.com/intl/en/chrome), and [Google Chrome](https://www.google.com/chrome/browser/desktop/index.html), and [Chrome OS Wikipedia](https://en.wikipedia.org/wiki/Chrome_OS)
-* [Blink (Web Engine) Wikipedia](https://en.wikipedia.org/wiki/Blink_(web_engine)), [Blink](http://www.chromium.org/blink), and [Blink Code](https://chromium.googlesource.com/chromium/blink)
-* [V8 (JavaScript Engine) (used in Google Chrome, Node.js, and V8.NET) Wikipedia](https://en.wikipedia.org/wiki/V8_(JavaScript_engine)), [V8 GitHub](https://github.com/v8/v8)
-* [Developers V8 JavaScript Engine](https://developers.google.com/v8)  
+See also Google Developers, Chromium, Chrome, Blink, V8
 
 Opera (Also Blink)
 * [Opera Developer](https://dev.opera.com) and [Opera Wikipedia](https://en.wikipedia.org/wiki/Opera_(web_browser))
@@ -1921,14 +1911,13 @@ Mozilla
 * [Mozilla Support](https://support.mozilla.org)
 
 Platform Status
-* [Chrome](https://www.chromestatus.com/features), [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
-    
+* [WebKit](https://webkit.org/status/), [Firefox](https://platform-status.mozilla.org/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/), [TBS (China)](http://x5.tencent.com/tbs/guide/w3c.html)
+      
 Platform Releases
- * [Chrome](https://chromereleases.googleblog.com/), [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
+ * [Safari](https://developer.apple.com/library/content/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html) ([Webkit](https://trac.webkit.org/)), [Firefox](https://www.mozilla.org/en-US/firefox/releases/), [Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
     
 Platform Updates
 * [Mozilla Hacks](https://hacks.mozilla.org/)
-* [Web Updates](https://developers.google.com/web/updates/), [Chromium Blog](https://blog.chromium.org/)
 * [Webkit Blog](https://webkit.org/blog/)
 * [Microsoft Edge Dev Blog](https://developer.microsoft.com/en-us/microsoft-edge/community/)
 * [Microsoft Edge Developer Guide](https://docs.microsoft.com/en-us/microsoft-edge/dev-guide)
@@ -1951,14 +1940,7 @@ Microsoft Developer Tools
 * ["Meet the Microsoft Edge F12 Dev Tools"](https://docs.microsoft.com/en-us/microsoft-edge/f12-devtools-guide)
 * [F12 Developer Tool Keyboard Shortcuts](https://msdn.microsoft.com/en-us/library/dn322041(v=vs.85).aspx)
 
-Google Developers- General
-* [Google Chrome Home](https://developers.google.com/chrome)
-
-Google Developers- Canary Chrome
-* [Google Canary Chrome](https://www.google.com/chrome/browser/canary.html) and [Mobile Emulation Feature](http://blog.chromium.org/2014/09/responsive-web-design-with-devtools.html)
-
-Google Chrome Doc Archive 
-* [Google Chrome DevTools (Old)](https://developer.chrome.com/devtools), [Google Chrome DevTools (Old) Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks), [Google Chrome DevTools Docs (Old) GitHub](https://github.com/GoogleChrome/devtools-docs)
+See also Google Developers
 
 <!--
 https://www.mozilla.org/en-US/firefox/new/
@@ -1970,29 +1952,6 @@ Brave
      
 https://www.mozilla.org/en-US/firefox/channel/desktop/
 https://testpilot.firefox.com
-
-Old Docs
-* [Google Chrome- Using the Console](https://developer.chrome.com/devtools/docs/console)
-
-https://developer.chrome.com/devtools/docs/network
-https://developer.chrome.com/devtools/docs/console
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.chrome.com/devtools/docs/videos
-https://developer.chrome.com/extensions
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/apps/about_apps
-
-https://developer.chrome.com/devtools/docs/elements-styles?csw=1#computed_style
-
-https://developer.chrome.com/apps/notifications
-https://developer.chrome.com/extensions/crx
-
-http://anti-code.com/devtools-cheatsheet
-
-https://www.codeschool.com/courses/discover-devtools
-http://discover-devtools.codeschool.com/chapters/1/challenges/1?locale=en
-
-https://www.udacity.com/course/website-performance-optimization--ud884
 -->
 
 #### Testing and Performance
@@ -2058,26 +2017,6 @@ Example
 * [Example Org](http://www.example.org)  
 * [Example Org Mobile](https://m.example.com) 
 
-<!--
-HTTP Archive
-https://en.wikipedia.org/wiki/.har
-https://toolbox.googleapps.com/apps/har_analyzer
-https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading
-https://www.w3.org/webperf
-https://chrome.google.com/webstore/detail/http-archive-viewer/ebbdbdmhegaoooipfnjikefdpeoaidml?hl=en
-http://www.softwareishard.com/blog/har-12-spec
-http://www.softwareishard.com/blog/har-viewer
-
-https://help.salesforce.com/apex/HTViewSolution?id=000187144&language=en_US
-https://www.maxcdn.com/one/visual-glossary/har-file
-https://confluence.atlassian.com/kb/generating-har-files-and-analysing-web-requests-720420612.html
-https://dvcs.w3.org/hg/webperf/raw-file/tip/specs/HAR/Overview.html
--->
-
-
-
-
-
 
 #### JavaScript
 
@@ -2092,55 +2031,7 @@ JavaScript Ecosystem
 * Build Tools (hot reloading, sourcemap)
 * Testing (Mocha, Jasmine, Chai, Tape, Karma, Selenium, phantomjs)
 
-5 Module Formats
-* IIFE (thing of the past)
-* Asynchronous Module Definition (AMD) (require.js, the first popular bundler) (thing of the past)
-* Universal Module Definition (UMD)
-* CommonJS (CJS) (var jquery = require('jquery'))
-* ES6 Modules (import jQuery from 'jquery') (best choice)
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
-CommonJS
-* [webpack CommonJS Explanation](https://webpack.github.io/docs/commonjs.html)
-* [RequireJS CommonJS Explanation](http://requirejs.org/docs/commonjs.html)
-
-WebAssembly
-* [WebAssembly](http://webassembly.org), [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly), and [WebAssembly GitHub](https://github.com/webassembly
-
-JavaScript Libraries/Frameworks/Engine
-* [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
-* [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
-* [JavaScript Engine Wikipedia](https://en.wikipedia.org/wiki/JavaScript_engine)
-
-Comparison of Layout Engines (By DOM and ECMA Script)
-* [List of ECMA Script Engines Wikipedia](https://en.wikipedia.org/wiki/List_of_ECMAScript_engines)
-* [ECMAScript Implementations](https://en.wikipedia.org/wiki/ECMAScript#Implementations)
-* [Comparison of Layout Engines (Document Object Model) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Document_Object_Model))
-* [Comparison of Layout Engines (ECMA Script) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(ECMAScript))
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-ECMA Standards
-* [ECMA International](http://www.ecma-international.org)
-
-JavaScript Event Keycodes
-* [JavaScript Event Keycodes](http://keycode.info)
-
 #### AJAX, jQuery, JSON
-
-<!--
-New
-https://en.wikipedia.org/wiki/JSON
-https://en.wikipedia.org/wiki/Ajax_(programming)
-https://developer.mozilla.org/en-US/docs/AJAX/Getting_Started
--->
 
 jQuery
 * [jQuery](https://jquery.com) and [jQuery GitHub](https://github.com/jquery/jquery)  
@@ -2161,8 +2052,8 @@ Another JavaScript Library
 
 #### JavaScript Tools
 
-
-
+WebAssembly
+* [WebAssembly](http://webassembly.org), [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly), and [WebAssembly GitHub](https://github.com/webassembly
 
 <!--
 https://html.spec.whatwg.org/multipage
@@ -2181,140 +2072,6 @@ https://github.com/mjavascript/practical-modern-javascript
 
 -->
 
-<!--
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
-
-https://nodejs.org/en/docs/es6
-https://github.com/mjavascript/practical-es6
-https://github.com/lukehoban/es6features
-http://es6-features.org/
-http://es6-features.org/#Constants
-https://github.com/sgaurav/understanding-es6
--->
-
-<!--
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standard/standard
-
-    * Internal
-      * [Introducing the WebKit FTL JIT](https://webkit.org/blog/3362/introducing-the-webkit-ftl-jit/)
-    * Next Generation
-      * [JSC Love ES6](https://webkit.org/blog/7536/jsc-loves-es6/)
-      * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/)
-           
-  * [NativeScript](https://www.nativescript.org/) / [Weex](https://weex-project.io/)
-  
-* Network
-  * XHR - [window.fetch Polyfill](https://github.com/github/fetch)
-  * WebSocket - [Socket.IO-client](https://www.npmjs.com/package/socket.io-client) / [Engine.IO-client](https://www.npmjs.com/package/engine.io-client) / [SockJS-client](https://www.npmjs.com/package/sockjs-client)
-* Offline
-  * Service Work - [sw-toolbox](https://googlechrome.github.io/sw-toolbox/)
-  * IndexedDB
-    * LocalStorage API - [localForage](https://www.npmjs.com/package/localforage)
-   
-https://github.com/github/fetch
-https://github.com/localForage/localForage
-
-New
-Progressive Web Apps
-https://app.pluralsight.com/library/courses/web-apps-progressive-getting-started
-https://app.pluralsight.com/profile/author/bill-stavroulakis
-http://bstavroulakis.com/pluralsight/courses/progressive-web-apps/
-https://github.com/bstavroulakis/progressive-web-apps/tree/master/car-deals
-
-https://app.pluralsight.com/library/courses/progressive-web-app-fundamentals/table-of-contents
-https://app.pluralsight.com/library/courses/polymer-js-elements-working/table-of-contents
-https://app.pluralsight.com/library/courses/javascript-module-fundamentals/table-of-contents
-https://app.pluralsight.com/profile/author/john-papa
-
-https://github.com/bstavroulakis?tab=repositories
-https://github.com/bstavroulakis/progressive-web-apps
-https://github.com/bstavroulakis/progressive-web-apps/blob/master/car-deals/index.html
-https://twitter.com/bstavroulakis
-
-https://developers.google.com/web/showcase
-
-http://caniuse.com/#search=service%20worker
-http://caniuse.com/#search=app%20cache
-
-https://github.com/systemjs/systemjs
-
-https://www.w3.org/TR/notifications
-https://www.w3.org/TR/push-api
-
-http://realfavicongenerator.net
-http://realfavicongenerator.net/favicon_checker#.WVMfKxPytxh
-
-http://www.apkmirror.com/apk/google-inc/chrome
-https://developer.android.com/studio/index.html
-
-http://www.tutorialspoint.com/materialdesignlite
-https://jakearchibald.github.io/isserviceworkerready
-https://github.com/material-components/material-components-web
-http://manifoldjs.com/generator
-https://davidwalsh.name/cache
-https://tests.peter.sh/
-https://sodapopped.com/
-https://web-push-codelab.appspot.com/
-
-http://blog.teamtreehouse.com/mastering-developer-tools-console
-https://remysharp.com/2010/10/08/what-is-a-polyfill
-https://github.com/es-shims/es6-shim
-https://github.com/es-shims/es5-shim
-
-
-
-
-
-http://andrewhfarmer.com/starter-project
-http://andrewhfarmer.com/webpack-hmr-tutorial
-
-https://github.com/Microsoft/TypeScript-React-Starter
-
-https://github.com/webpack/webpack-cli
-https://github.com/stripe/react-stripe-elements
-https://github.com/mesosphere/reactjs-components
-
-https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Inversion_of_control
-
-
-  * Integration Testing
-    * [Enzyme](http://airbnb.io/enzyme/)
-  * Functional Testing
-    * Headless Browser Automation - [Selenium WebDriverJS](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) / [WebDriverIO](http://webdriver.io/)
-    * Cloud - [BrowserStack Automate](https://www.browserstack.com/automate) / [Sauce Labs](https://saucelabs.com/open-source#automated-testing-platform)
-  * Visual Testing
-    * [React Storybook](https://storybooks.js.org/) / [React Cosmos](https://github.com/react-cosmos/react-cosmos)
-    * [BrowserStack](https://www.browserstack.com/)
-  * Headless Browsers
-    * Browsers
-      * Chromium - [Headless Chrome/Chromium](https://developers.google.com/web/updates/2017/04/headless-chrome)
-      * Chromium + Node.js - [electron-prebuilt](https://www.npmjs.com/package/electron)
-      * WebKit - [PhantomJS](http://phantomjs.org/)
-      * Gecko - [SlimerJS](https://slimerjs.org/)
-    * In-memory X11 Display Server
-      * [xvfb](https://en.wikipedia.org/wiki/Xvfb) - [xvfb-run](http://manpages.ubuntu.com/manpages/trusty/man1/xvfb-run.1.html) / [headless](https://www.npmjs.com/package/headless)
-    * Docker
-      * [lighthouse-ci/builder/Dockerfile.headless](https://github.com/ebidel/lighthouse-ci/blob/master/builder/Dockerfile.headless#L16)
-      * [electron-headless](https://hub.docker.com/r/dannysu/electron-headless/~/dockerfile/)
--->
-
-Node.js
-* [Node.js](http://nodejs.org)    
-
-<!--   
-* [Node Beginner](http://www.nodebeginner.org) 
--->
-
-Contributing
-* [Node Core Technical Committee & Collaborators](https://github.com/nodejs/CTC)
-* [node.js.org Issues](https://github.com/nodejs/nodejs.org/issues)
-
 Node.js Launch and Ryan Dahl
 * [Node.js Launch](http://www.youtube.com/watch?v=F6k8lTrAE2g&amp;amp;amp;feature=youtu.be)  
 * [Ryan Dahl Interview](http://bostinno.streetwise.co/2011/01/31/node-js-interview-4-questions-with-creator-ryan-dahl)  
@@ -2324,61 +2081,6 @@ Node Forks (IO.js merged with Node again)
 * [JXCore GitHub](https://github.com/jxcore/jxcore) 
 
 Node.js Package Managers (npm (build-step))
-
-Node.js Package Managers (npm (build-step))
-* ["Yarn: A new package manager for JavaScript"](https://code.facebook.com/posts/1840075619545360)
-* [Hello, Yarn!](http://blog.npmjs.org/post/151660845210/hello-yarn)
-  
-<!--
-  * [The Art of Node](https://github.com/maxogden/art-of-node)
-  * [You Don’t Know Node](https://webapplog.com/you-dont-know-node/)
-  * [RisingStack's](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/) / [NodeSource's](https://nodesource.com/blog/understanding-the-nodejs-event-loop/) Understanding the Node.js Event Loop
-  * [Node.js Garbage Collection Explained](https://blog.risingstack.com/node-js-at-scale-node-js-garbage-collection/)
-  * [Stream Handbook](https://github.com/substack/stream-handbook)
-    * [A Brief History of Node Streams](https://medium.com/the-node-js-collection/a-brief-history-of-node-streams-pt-1-3401db451f21)
-    * [Understanding Object Streams](https://nodesource.com/blog/understanding-object-streams/)
-  * [Keeping the Node.js core small](https://developer.ibm.com/node/2017/04/20/keeping-node-js-core-small/)
-  * [Debugging Node.js with Google Chrome](https://medium.com/the-node-js-collection/debugging-node-js-with-google-chrome-4965b5f910f4)
-    * [Add v8_inspector supports](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27)
-  * [Joyent's Production Practices - Design](https://www.joyent.com/node-js/production/design/), [Error Handling](https://www.joyent.com/node-js/production/design/errors)
-  * [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-  
-* [How Node.js created a model open source community](https://readwrite.com/2016/04/15/how-node-js-model-open-source-community-pl1/)
-* [Healthy Open Source](https://medium.com/the-node-js-collection/healthy-open-source-967fa8be7951)
-      
-* [Meeting Notes](https://github.com/nodejs/CTC/tree/master/meetings)
-* [Node.js EPs (Enhancement Proposals)](https://github.com/nodejs/node-eps)
-    
-  * [how many npm users are there?](http://blog.npmjs.org/post/143451680695/how-many-npm-users-are-there), [Module Counts](http://www.modulecounts.com/)
-  * [Why not to use version control hosting for packages](http://blog.npmjs.org/post/154387331670/the-right-tool-for-the-job-why-not-to-use-version)
-  * [npm and front-end packaging](http://blog.npmjs.org/post/101775448305/npm-and-front-end-packaging)
-  * [changes to npm’s unpublish policy](http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy), [kik, left-pad, and npm](http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm)
-  
-  * package.json
-    * [Specifics of npm's package.json](https://docs.npmjs.com/files/package.json)
-    * [Specifics of yarn's package.json](https://yarnpkg.com/en/docs/package-json)
-    * [What's the difference between dependencies, devDependencies and peerDependencies](http://stackoverflow.com/questions/18875674/whats-the-difference-between-dependencies-devdependencies-and-peerdependencies)
-    
-    * Finding Packages
-  * Search
-    * [npms.io](https://npms.io/) / [node-modules.com](http://node-modules.com/) / [npmsearch.com](http://npmsearch.com/)
-  * Stats
-    * [npm trends](http://www.npmtrends.com/)
-    * [NPMCompare](https://npmcompare.com/)
-    * [npm-stat](https://npm-stat.com/)
-  * Rank
-    * [The State Of JavaScript](http://stateofjs.com/), \
-      [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
-    * npm's [most depended-upon packages](https://www.npmjs.com/browse/depended)
-* Dependency Management / Release / Maintenance
-  * [npm Developer Guide](https://docs.npmjs.com/misc/developers)
-    * [npm's CLI](https://docs.npmjs.com/#cli)
-    * [v5.0.0](http://blog.npmjs.org/post/161081169345/v500)
-    * [npm’s lockfiles](http://blog.npmjs.org/post/161627993435/learn-more-about-npms-lockfiles)
-  * [Yarn](https://yarnpkg.com/)
-    * [yarn's CLI](https://yarnpkg.com/en/docs/cli/)
-    * [yarn.lock](https://yarnpkg.com/en/docs/yarn-lock)
--->
 
 Check Update
 * [Check Update (npm install -g npm-check-updates)](https://www.npmjs.com/package/check-update)
@@ -2396,16 +2098,6 @@ Security Scanning (checking all the packages for any known vulnerabilities)
 Facebook- React (JavaScript)
 
 React and Redux Developer Tools
-<!--
-* [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-* [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-
-https://addons.mozilla.org/en-US/firefox/addon/react-devtools/
-
-React Developer Tools
-https://facebook.github.io/react/blog/2014/01/02/react-chrome-developer-tools.html
-https://facebook.github.io/react-native/docs/debugging.html
--->
 
 Microsoft React
 * [Microsoft ReactXP](https://microsoft.github.io/reactxp)
@@ -2415,12 +2107,6 @@ React Relay (React Stack)
 
 Reflux (React Stack)
 * [Reflux](https://github.com/reflux/refluxjs)
-
-Facebook- React Native (React Stack)
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-* [F8 2016 React-Native App](https://github.com/fbsamples/f8app) and [Building the F8 2016 App](http://makeitopen.com)
-* [Expo](https://expo.io)
 
 More
 
