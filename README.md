@@ -259,19 +259,6 @@ https://github.com/jw84/messenger-bot-tutorial
 https://github.com/WhiteHouse/fb_messenger_bot
 -->
 
-<!--
-Product Hunt
-https://www.producthunt.com/hackathon | Global Hackathon by Product Hunt
-https://www.producthunt.com/ask/5408-what-are-some-side-project-ideas-you-d-like-to-see-built | What are some side project ideas you'd like to see built? - Product Hunt
-https://twitter.com/rrhoover/status/924678180073455617
-https://aws.amazon.com/blogs/startups/product-hunt-hosts-its-first-global-hackathon | Product Hunt hosts its first global hackathon | AWS Startups Blog
-https://dribbble.com/stories/2017/10/23/product-hunt-global-hackathon | Dribbble - Show and tell for designers
-https://glitch.com/producthunt | Product Hunt
-Guides for Development
-https://twitter.com/rrhoover/status/922463706566467585 | Ryan Hoover on Twitter: "ATTN: Makers 🚨 We’re hosting a global, month-long hackathon. $250k+ in prizes, all online. Join us 👉🏼 https://t.co/ATPbPug53L https://t.co/U0wQmfsPZ6"
-https://blog.producthunt.com/the-product-hunt-global-hackathon-join-us-1cdee25c9608 | The Product Hunt Global Hackathon — Join Us! 🌎 – Product Hunt
--->
-
 #### Live Coding
 
 Live Coding
@@ -335,16 +322,12 @@ IBM Documentation
 
 Developer Surveys
 * [Stack Overflow Survey: What Programming Languages Are Used Most on Weekends?](https://stackoverflow.blog/2017/02/What-Programming-Languages-Weekends)
-* [Stack Overflow Developer Survey 2017](https://stackoverflow.com/insights/survey/2017)
-* [Stack Overflow Developer Survey 2016](http://stackoverflow.com/research/developer-survey-2016)
-* [Stack Overflow Developer Survey 2015](http://stackoverflow.com/research/developer-survey-2015)
 * [Free Code Camp: The 2016 New Coder Survey](https://github.com/FreeCodeCamp/2016-new-coder-survey)
 * ["5,000 developers talk about their salaries"](https://medium.freecodecamp.com/5-000-developers-talk-about-their-salaries-d13ddbb17fb8#.79lyv15kd)
 
 <!--
 https://about.gitlab.com/developer-survey/2018/ | GitLab 2018 Global Developer Report | GitLab
 https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Developer Report confirms 2018 is the year for open source and DevOps | GitLab
-https://research.hackerrank.com/developer-skills/2018/ | 2018 Developer Skills Report by HackerRank
 
 * [Stack Overflow Insights](https://stackoverflow.com/insights)
 * [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
