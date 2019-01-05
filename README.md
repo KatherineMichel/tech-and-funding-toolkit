@@ -92,13 +92,16 @@ Table of Content
   * [Schools of Thought](#schools-of-thought)
   * [Inventors, Economists, Philosophers](#inventors-economists-philosophers)
   * [Markets and Institutional Investing](#markets-and-institutional-investing)
-  * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
-* [Company and Product Databases](#company-and-product-databases)
-* [Unicorns, Companies, Industry and Product Classifications, Associations](#unicorns-companies-industry-and-product-classfications-associations)
 * [Venture](#venture)
   * [VC Theory](#vc-theory)
-  * [VC Firms, Accelerators, Resources](#vc-firms-accelerators-resources)
-* [Documents and Advice](#documents-and-advice)
+  * [VC Firms, Accelerators](#vc-firms-accelerators)
+  * [Venture Frameworks and Theses](#venture-frameworks-and-theses)
+  * [Company and Product Databases](#company-and-product-databases)
+  * [Unicorns](#unicorns)
+  * [Companies, Industry and Product Classifications, Associations](#companies-industry-and-product-classfications-associations)
+  * [VC Resources](#vc-firms-resources)
+  * [Documents and Advice](#documents-and-advice)
+* [Crowdfunding and Other Funding Opportunities](#crowdfunding-and-other-funding-opportunities)
 * [Economics, Models](#economics-models)
 * [Warren Buffet, Charlie Munger, Alphabet](#warren-buffet-charlie-munger-alphabet)
 * [Chance](#chance)
@@ -170,9 +173,6 @@ Stack Overflow
 * [Stack Overflow Documentation](http://stackoverflow.com/documentation)
 * [Stack Overflow Blog](https://stackoverflow.blog)
 * [Stack Overflow Badges](https://stackoverflow.com/help/badges)
-
-CodePen
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 Courses (See also MOOCs)
 * ["How many people have finished the FreeCodeCamp curriculum so far?"](https://www.quora.com/How-many-people-have-finished-the-FreeCodeCamp-curriculum-so-far)
@@ -277,9 +277,7 @@ Fave Pluralsight Authors
 * [Scott Allen](https://www.pluralsight.com/authors/scott-allen) and [Ode to Code](http://odetocode.com)
 * [Susan Simkins](https://www.pluralsight.com/authors/susan-simkins)
 
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
+Blogs
 * [Julia Evans](http://jvns.ca) and [Julia Evans Twitter](https://twitter.com/b0rk)
 
 ## People and Projects
@@ -287,13 +285,6 @@ The Practical Dev and Hackernoon
 Dear GitHub and Thank You GitHub
 * [Dear GitHub](https://github.com/dear-github/dear-github)
 * [Thank You GitHub](https://github.com/thank-you-github/thank-you-github)
-
-GitHub Trending Developers
-* [GitHub Trending Developers](https://github.com/search?utf8=%E2%9C%93&q=github+trending+developers&type=)
-
-<!--
-http://www.businessinsider.com/26-most-powerful-women-engineers-in-2016-2016-2 | 26 most powerful female engineers in 2016 - Business Insider
--->
 
 #### Programming Documentation and Standards
 
@@ -333,9 +324,7 @@ https://about.gitlab.com/2018/03/07/2018-global-developer-report/ | Global Devel
 * [Stack Overflow Trends](https://insights.stackoverflow.com/trends)
 * [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey)
 
-
 https://github.com/showcases/programming-languages | Programming languages
-https://stackoverflow.blog/2017/04/19/programming-languages-used-late-night/ | What programming languages are used late at night? - Stack Overflow Blog
 
 https://stackoverflow.blog/2017/08/22/world-mobile-development/#.WZxnRkDJWb4.twitter | Where in the World is Mobile Development? - Stack Overflow Blog
 https://stackoverflow.blog/2017/08/29/tale-two-industries-programming-languages-differ-wealthy-developing-countries/ | A Tale of Two Industries: How Programming Languages Differ Between Wealthy and Developing Countries - Stack Overflow Blog
@@ -462,10 +451,6 @@ Built With (Excluding Django; See also Squarespace)
 * [Made with Angular](https://www.madewithangular.com)  
 * [Built with Bootstrap](http://expo.getbootstrap.com)  
 * [Built with Jekyll GitHub](https://github.com/jekyll/jekyll/wiki/sites)  
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
 * [Built with Shopify](http://www.builtwithshopify.com)
 
 Product/Service Directories
@@ -526,10 +511,6 @@ History of Technology and Computer Science
 * [Outline of the Internet Wikipedia](http://en.wikipedia.org/wiki/Outline_of_the_Internet)
 * [Information Technology Wikipedia](https://en.wikipedia.org/wiki/Information_technology) and [Information and Communications Technology Wikipedia](https://en.wikipedia.org/wiki/Information_and_communications_technology)
 
-Computer Scientists
-* [List of Pioneers in Computer Science Wikipedia](https://en.wikipedia.org/wiki/List_of_pioneers_in_computer_science)
-* [List of Computer Scientists Wikipedia](https://en.wikipedia.org/wiki/List_of_computer_scientists)
-
 Computer Classes and Sizes
 * [Classes of Computers Wikipedia](http://en.wikipedia.org/wiki/Classes_of_computers)  
 * [List of Computer Size Categories Wikipedia](http://en.wikipedia.org/wiki/List_of_computer_size_categories)  
@@ -541,9 +522,6 @@ Smartphones (See also Mobile)
 
 Computer History Museum
 * [Computer History Museum](http://www.computerhistory.org) and [Computer History Museum Twitter](https://twitter.com/ComputerHistory)
-
-Computing Classification
-* [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](http://www.acm.org/about/class)
 
 Great Unsolved Problems in Computer Science
 * [Great Unsolved Problems in Computer Science Wikipedia](http://algeri-wong.com/yishan/great-unsolved-problems-in-computer-science.html) 
@@ -631,13 +609,6 @@ Anywhere on Earth
 * [Anywhere on Earth Wikipedia](https://en.wikipedia.org/wiki/Anywhere_on_Earth)
 
 <!--
-https://en.wikipedia.org/wiki/Bandwidth_(computing)
-https://en.wikipedia.org/wiki/Latency_(engineering)
-
-https://en.wikipedia.org/wiki/Alan_Turing
-https://en.wikipedia.org/wiki/Alonzo_Church
-https://en.wikipedia.org/wiki/Claude_Shannon
-
 https://en.wikipedia.org/wiki/Natural_user_interface
 https://en.wikipedia.org/wiki/Graphical_user_interface
 
@@ -2241,9 +2212,6 @@ Node.js Debugger
 http://nodejs.org/api/debugger.html#debugger_breakpoints
 http://nodejs.org/api/debugger.html
 
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
 https://github.com/airbnb/enzyme
 
 https://github.com/touchstonejs/touchstonejs
@@ -2343,9 +2311,6 @@ http://webassets.readthedocs.org/en/latest
 -->
 
 
-
-
-
 #### Programming Languages- General Concepts
 
 Programming Languages
@@ -2358,16 +2323,6 @@ Programming Languages- Usage in Popular Websites
 * [Programming Languages Used in Most Popular Websites Wikipedia](http://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites) 
 
 #### Back-End Programming Languages, MVCs
-
-Assembly 
-* [C Wikipedia](http://en.wikipedia.org/wiki/C_(programming_language))  
-* [C Wikibook](http://en.wikibooks.org/wiki/C_Programming)  
-* [Learn to Code the Hard Way- C](http://c.learncodethehardway.org) 
-
-<!--
-https://learncodethehardway.org/c/
-http://web.archive.org/web/20150203160832/http://c.learncodethehardway.org/book/
--->
 
 Programming Languages- Assembly (See also: C)
 * [C++ Wikipedia](http://en.wikipedia.org/wiki/C%2B%2B)  
@@ -3283,9 +3238,6 @@ https://github.com/aspnet/Mvc/tree/dev/samples
 #### Python and Django Toolkit
 
 <!--
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-model-utils
-
 https://gitter.im/twoscoopspress/packaging-workshop-march-10 | twoscoopspress/packaging-workshop-march-10 - Gitter
 https://www.meetup.com/es-ES/Medellin-Python-y-Django-Meetup/events/248261891/ | [Online] PyCon Colombia Packaging Tutorial | Medellín Python Meetup (Medellín, Colombia) | Meetup
 
@@ -3306,19 +3258,15 @@ https://blogs.msdn.microsoft.com/pythonengineering/2017/11/09/don-jayamanne-join
 
 https://github.com/mitsuhiko/flask-sqlalchemy
 
-* [PEP 0007 Style Guide for C Code](https://www.python.org/dev/peps/pep-0007)
 * [PEP 0515 Underscores in Numeric Literals](https://www.python.org/dev/peps/pep-0515)
 * [PEP 0020 The Zen of Python (>>> import this)](https://www.python.org/dev/peps/pep-0020)
 
 https://www.python.org/dev/peps/pep-0498
 
-https://www.python.org/dev/peps/pep-0557/ | PEP 557 -- Data Classes | Python.org
 http://www.python.org/dev/peps/pep-0328/
 http://www.python.org/dev/peps/pep-0386
 http://www.python.org/dev/peps/pep-0427/
 http://www.python.org/dev/peps/pep-0263/
-
-https://github.com/amontalenti/elements-of-python-style
 
 Philly
 http://wagtailmenus.readthedocs.io/en/stable/ | Welcome to the wagtailmenus documentation! — wagtailmenus 2.4 documentation
@@ -3382,35 +3330,9 @@ https://www.caktusgroup.com/blog/2016/02/02/writing-unit-tests-django-migrations
 -->
 
 Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
 * [Lawrence Journal World](http://en.wikipedia.org/wiki/Lawrence_Journal-World)  
 * [KU Sports](http://www2.kusports.com)  
 * [Ellington CMS](http://www.ellingtoncms.com)
-
-Python- Django- Major Organizations and Projects that Use Django (Excluding Templates)
-* [18F GitHub](https://github.com/18F)  
-* [Dallas Morning News (The)](https://github.com/DallasMorningNews)
-* [Disqus](https://github.com/disqus)
-* [Instagram GitHub](https://github.com/instagram)  
-* [Knight Foundation](http://www.knightfoundation.org/apps)  
-* [Mozilla GitHub](https://github.com/mozilla)
-* [National Geographic GitHub](https://github.com/natgeo)  
-* [Northwestern University Knight Lab GitHub](https://github.com/NUKnightLab)
-* [PBS GitHub](https://github.com/pbs)  
-* [Pinterest GitHub](https://github.com/pinterest)  
-* [Rdio GitHub](https://github.com/rdio)  
-* [Reddit GitHub](https://github.com/reddit)  
-* [Rover GitHub](https://github.com/roverdotcom)
-* [StyleSeat GitHub](https://github.com/styleseat) 
-* [The Spokesman Review](http://www.spokesman.com)
-* [Wharton GitHub](https://github.com/wharton)
-* [Wharton Learning Lab GitHub](https://github.com/whartonlearninglab)
-
-<!--
-http://www.spokesman.com/staff/
-http://www.spokesman.com/stories/2017/aug/14/what-the-web-a-family-owned-newspaper-and-a-silent/
--->
 
 Python- Python and Django People and Jobs
 * [Python Official Jobs Board](https://www.python.org/jobs)
@@ -3526,15 +3448,8 @@ Python (See also Data Science)
 <!--
 https://www.python.org/about/apps/ | Applications for Python | Python.org
 
-https://stackoverflow.blog/2017/09/06/incredible-growth-python | The Incredible Growth of Python - Stack Overflow Blog
-
 http://whypy3.com/#numeric-literals | Why Python 3?
-https://pythonclock.org Python 2.7 Countdown
-http://py3readiness.org/ | Python 3 Readiness - Python 3 support table for most popular Python packages
 -->
-
-CPython
-* [CPython GitHub](https://github.com/python/cpython) and [CPython (Supported Platforms) Wikipedia](http://en.wikipedia.org/wiki/CPython) 
 
 Pip
 * [Pip (PyPa Recommended Python Package Installer) GitHub](https://github.com/pypa/pip)  
@@ -3600,7 +3515,6 @@ Python- Django- Packages and Snippets (Unofficial)
 * [Django Snippets](https://djangosnippets.org) 
 
 
-
 #### Python and Django Templates and Microframeworks
 
 Python- Django- Pinax
@@ -3630,11 +3544,6 @@ https://github.com/audreyr/cookiecutter | audreyr/cookiecutter: A command-line u
 -->
 
 #### Python and Django Deployment
-
-
-
-Python- PEP 3333 (Python Web Server Gateway Interface)
-* [PEP 3333](https://www.python.org/dev/peps/pep-3333)  
 
 Python- Django- Django Girls Deployment (Heroku and Python Anywhere)
 * [Django Girls Tutorial- Python Anywhere GitHub](https://github.com/DjangoGirls/tutorial/blob/master/en/deploy/README.md)
@@ -3714,11 +3623,9 @@ Python- Django- Random SECRET_KEY
 * [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
 
 Python- Django- Debug Toolbar
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org)  
 * [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Toolbar GitHub](https://github.com/django-debug-toolbar/django-debug-toolbar)  
 
-Python- Django- Debug Toolbar
+Python- Django- Debug Panel
 * [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) 
 
 Python- Unipath
@@ -3748,14 +3655,11 @@ http://whitenoise.evans.io/en/stable/django.html#using-whitenoise-in-development
 https://docs.djangoproject.com/en/1.9/ref/contrib/staticfiles/
 -->
 
-CGI and WSGI (Web Server API)
-* [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
-* [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
-* [WSGI Read the Docs](http://wsgi.readthedocs.org/en/latest)  
-* [WSGI Google Code](https://code.google.com/p/modwsgi)  
-* [WSGI Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
-* [WSGI Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
-* [WSGI Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
+mod_wsgi
+* [mod_wsgi Google Code](https://code.google.com/p/modwsgi)  
+* [mod_wsgi Installation Instructions Google Code ](https://code.google.com/p/modwsgi/wiki/InstallationInstructions)  
+* [mod_wsgi Quick Installation Guide Google Code](https://code.google.com/p/modwsgi/wiki/QuickInstallationGuide)  
+* [mod_wsgi Integration with Django Google Code](https://code.google.com/p/modwsgi/wiki/IntegrationWithDjango)  
 
 Werkzeug (Flexible WSGI) (Security Flaw)
 * [Werkzeug GitHub](https://github.com/mitsuhiko/werkzeug)
@@ -3810,7 +3714,6 @@ Selenium
 -->
 
 
-
 #### Python and Django Useful Tools
 
 Python- Django Extensions
@@ -3818,7 +3721,6 @@ Python- Django Extensions
 
 Python- Django- Migrations
 * [South](http://south.aeracode.org) and [South Read the Docs](http://django-south.readthedocs.io)
-
 
 
 <!--
@@ -3981,40 +3883,6 @@ Python- Django- Other CMS and E-Commerce Options
 * [Oscar Read the Docs](http://django-oscar.readthedocs.org/en/latest) and [Oscar GitHub](https://github.com/tangentlabs/django-oscar)  
 * [Satchmo](https://bitbucket.org/chris1610/satchmo/src)  
  
-#### Python and Django Geo
-
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-Python- Python/Django- Internationalization and Localization, Translation
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation)  
-
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
 #### Python and Django Unique
 
 Python- Mobile
@@ -4945,11 +4813,6 @@ SSL
 * [SSL Test](https://www.ssllabs.com/ssltest)
 * [Configuration Generator](https://mozilla.github.io/server-side-tls/ssl-config-generator)
 
-SQL
-* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
-* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
-
 SQLite
 * [SQLite](http://sqlite.org)  
 * [SQLite Documentation](http://www.sqlite.org/docs.html)  
@@ -5003,86 +4866,6 @@ Nginx (High-Performance HTTP Server, Reverse Proxy, IMAP/POP3 Proxy Server/Versu
 * [Nginx GitHub](https://github.com/nginx/nginx)  
 * [Nginx Wikipedia](http://en.wikipedia.org/wiki/Nginx) 
 * [Nginx Wiki](http://wiki.nginx.org)
-
-#### Servers, Databases, Architectures
-
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
-
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Databases
-* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
-* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
-* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model)  
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-* [Comparison of Database Tools Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
-
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
-
-Types of Databases
-* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
-* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-* [Relational Database Wikipedia](http://en.wikipedia.org/wiki/Relational_database)  
-* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system)  
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
-* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
-* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
-<!--
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete
-
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
-
-http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
-http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
-http://en.wikipedia.org/wiki/SQL#Queries
--->
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
-
-Architectures
-* [Service Oriented Architecture Wikipedia](http://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-
-<!--
-https://en.wikipedia.org/wiki/Remote_Procedure_Call
-http://en.wikipedia.org/wiki/REST
-https://en.wikipedia.org/wiki/Representational_state_transfer
--->
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)  
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-
-
 
 #### More Back-end
 
@@ -5139,11 +4922,6 @@ Typeahead and Awesomeplete
 
 RRSSB
 * [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
-
-Cookies
-* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
-* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
-* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
 
 SAP
 * [SAP](http://go.sap.com/index.html)
@@ -5640,11 +5418,6 @@ https://www.plm.automation.siemens.com/en_us/products/nx/for-design/
 -->
 
 
-
-
-
-
-
 #### Appendix
 
 #### People
@@ -5900,21 +5673,11 @@ https://m.signalvnoise.com/@jasonfried
 
 #### Schools of Thought
 
-* [Alfred D. Chandler, Jr. Wikipedia](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.)
-* [Buckminster Fuller Wikipedia](https://en.wikipedia.org/wiki/Buckminster_Fuller)
-* [Claude Shannon Wikipedia](https://en.wikipedia.org/wiki/Claude_Shannon)
-* [W. Brian Arthur (books/articles recommended by Sonal) Wikipedia](https://en.wikipedia.org/wiki/W._Brian_Arthur)
-* [Michael Porter Wikipedia](https://en.wikipedia.org/wiki/Michael_Porter)
-* [Peter Drucker Wikipedia](http://en.wikipedia.org/wiki/Peter_Drucker)
-* [W. Edwards Deming Wikipedia](https://en.wikipedia.org/wiki/W._Edwards_Deming)
-* [Walter A. Shewhart Wikipedia](https://en.wikipedia.org/wiki/Walter_A._Shewhart)
-
 Awards
 * [MacArthur Foundation Fellows](https://www.macfound.org/programs/fellows)
 * [Nobel Prizes](http://www.nobelprize.org/nobel_prizes)
 * [Pulitzer Prizes](http://www.pulitzer.org)
 * [Thinkers50](http://thinkers50.com) and [Thinkers50 Daily](https://paper.li/thinkers50/1363603277)
-* [Turing Award Winners](http://amturing.acm.org/byyear.cfm) and [Turing Award Wikipedia](https://en.wikipedia.org/wiki/Turing_Award)
 
 <!--
 Nobel Peace Prize Winners, Economics
@@ -5934,7 +5697,6 @@ http://thinkers50.com/event/thinkers50-2017-awards-gala
 #### Inventors, Economists, Philosophers
 
 Philosophers and Psychologists
-* [List of Philosophers Wikipedia](http://en.wikipedia.org/wiki/Lists_of_philosophers)  
 * [Abraham Maslow Wikipedia](https://en.wikipedia.org/wiki/Abraham_Maslow)
 * [Arthur Schopenhauer Wikipedia](https://en.wikipedia.org/wiki/Arthur_Schopenhauer)
 * [Friedrich Nietzsche Wikipedia](http://en.wikipedia.org/wiki/Friedrich_Nietzsche)  
@@ -5942,9 +5704,6 @@ Philosophers and Psychologists
 * [Kurt Gödel Wikipedia](https://en.wikipedia.org/wiki/Kurt_G%C3%B6del)
 * [René Girard (Influenced Peter Thiel) Wikipedia](http://en.wikipedia.org/wiki/Ren%C3%A9_Girard) 
 * [Søren Kierkegaard Wikipedia](https://en.wikipedia.org/wiki/S%C3%B8ren_Kierkegaard)
-
-Inventors
-* [List of Inventors Wikipedia](https://en.wikipedia.org/wiki/List_of_inventors)
 
 Economists
 * [List of Economists Wikipedia](http://en.wikipedia.org/wiki/List_of_economists)  
@@ -5959,13 +5718,6 @@ Economists
 * [Philip Arthur Fisher Wikipedia](https://en.wikipedia.org/wiki/Philip_Arthur_Fisher)
 * [Richard Foster Wikipedia](http://en.wikipedia.org/wiki/Richard_N._Foster)  
 * [Richard Posner Wikipedia](http://en.wikipedia.org/wiki/Richard_Posner) 
-* [Seneca the Younger: Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
-
-<!--
-http://fourhourworkweek.com/2016/01/22/the-tao-of-seneca
-
-http://www.greatachievements.org
--->
 
 #### Markets and Institutional Investing 
 
@@ -6008,146 +5760,7 @@ https://twitter.com/jasonzweigwsj
 -->
 
 
-
-
-
-
 #### Venture
-
-#### Venture Frameworks and Theses
-
-Investor Frameworks
-* [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
-* [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
-* [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
-* [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
-* [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
-* [Sam Altman Framework](investor-frameworks/sam-altman-framework.md)
-
-Thesis
-* [Semil Shah](http://blog.semilshah.com/haystack)
-
-#### Company and Product Databases
-
-Database List
-* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
-* [Betalist](https://betalist.com)
-* [CB Insights](https://www.cbinsights.com)
-* [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
-* [Datafox](http://www.datafox.co)
-* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
-* [Makerbase](https://makerba.se) and [Makerbase Explore](https://makerba.se/explore)
-* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
-* [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
-
-<!--
-New
-https://www.producthunt.com/upcoming/upcoming
-https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
-
-
-https://betapage.co
-https://blog.betapage.co
-
-https://betalist.com/trends
-https://betalist.com/jobs/collections
-
-https://www.producthunt.com/tech
-https://www.producthunt.com/topics/developer-tools
-https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
-
-https://www.producthunt.com/tech/product-hunt-3-0
-https://www.producthunt.com/tech/product-hunt-2-0
-https://www.producthunt.com/live
-https://www.producthunt.com/collections
-https://www.producthunt.com/topics
-https://www.producthunt.com/shop
-https://www.producthunt.com/podcasts
-https://www.producthunt.com/apps/mac
-https://www.producthunt.com/apps/chrome
-
-https://angel.co/spv
-https://angel.co/track
-https://angel.co/angel-funds
-https://angel.co/freelancers
-http://blog.angel.co/post/131017147560/csc-upshot
-
-https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
-
-https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
--->
-
-Databases and Benchmarking- Freemium
-* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
-* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [A-List](https://alist.co), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
-* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
-* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
-* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
-* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
-* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
-* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt The 1000 Club](https://www.producthunt.com/e/the-1000-club), [Product Hunt The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club), [Product Hunt All-Time Leaderboard](http://yvoschaap.com/producthunt), [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters), and [Product Hunt Today](http://ph.needles.me)
-* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
-
-<!--
-https://www.amazon.com/b/ref=s9_acss_bw_cg_alcolsu2_2c1?node=14865665011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=KVXE9BWJ4FTAGQ6G16KF&pf_rd_t=101&pf_rd_p=2578969862&pf_rd_i=12034488011
-
-http://beondeck.co
--->
-
-Europe and U.K.
-* [AngelList U.K.](https://angel.co/uk)
-* [Tech EU App Database Companies](https://app.tech.eu/companies)
-
-Database APIs
-* [AngelList API](https://angel.co/api)
-* [CrunchBase API](https://developer.crunchbase.com)
-* [Mattermark API](https://mattermark.com/api)  
-* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
-
-#### Unicorns, Companies, Industry and Product Classifications, Associations
-
-Unicorns
-* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
-* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
-* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
-* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
-* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
-* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
-* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
-* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
-* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
-* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
-
-The Terms Behind the Unicorn Valuations
-* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
-
-Breakout Companies
-* [Breakout List](https://breakoutlist.com)
-
-Companies and Indices
-* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
-* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
-* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
-* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
-* [Inc. 5000](http://www.inc.com/inc5000)
-* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
-* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
-* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
-* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
-* [London Stock Exchange](http://www.londonstockexchange.com)
-* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
-* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
-* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
-
-Industry and Product Classifications
-* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
-* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
-* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
-* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
-* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
-
-Associations
-* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
 
 #### VC Theory
 
@@ -6260,90 +5873,11 @@ More
 https://en.wikipedia.org/wiki/Side_letter
 -->
 
-#### VC Firms, Accelerators, Resources
+#### VC Firms, Accelerators
 
 :) 
 * [Palo Alto, California](https://en.wikipedia.org/wiki/Palo_Alto,_California)
 * [Sand Hill Road](https://en.wikipedia.org/wiki/Sand_Hill_Road)
-
-Lists of VC Firms and Accelerators
-* [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [Venture Capital Firms (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Venture_capital_firms)
-* [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
-* [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
-* [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
-* [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
-* [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
-
-<!--
-http://pmarchive.com
-
-https://mattermark.com/want-learn-venture-capital
-https://mattermark.com/venture-capital-dictionary
-https://mattermark.com/about-venture-capital-returns-valuations
-
-http://distributionhacks.com/post-startup-launch-checklist
- 
-https://quip.com/92k3AGc5cvxp
-https://quip.com/QGdXAEsd04DE
-https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e
-https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc
-https://medium.com/startup-grind/all-the-venture-capital-fundraising-bloggers-you-should-be-following-6ea9817039c4
-https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e#.of31s43z3
-https://quip.com/92k3AGc5cvxp
-https://medium.com/startup-grind/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.4c02lfk8m
-https://medium.com/@sparkszilla/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.uvqdf3im3
-https://medium.com/@sparkszilla/help-build-the-open-guide-to-startup-fundraising-b1c206da808f
-https://medium.com/startup-grind/help-build-the-open-guide-to-startup-fundraising-b1c206da808f
-
-VCs + Angel Investors
-https://docs.google.com/spreadsheets/d/1ENQyDDk418SSMUU_INBCxCOUvrcF7tdkMYxt4kS6cxE/edit#gid=0
-VC Finder (New York only)
-https://docs.google.com/spreadsheets/d/1khvSN2pcnsc7O5dr9mq8TwJv0h_zJJYLzhiZZ_KDmfM/edit#gid=1550181509
-Senior VC Investment Team Members (updated 4:35pm 10/8/15)
-https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
-
-https://www.theinformation.com/bros-funding-bros-whats-wrong-with-venture-capital
-https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
-
-Women In Venture (WIV) Universe
-https://docs.google.com/spreadsheets/d/10LkI_0WmVJHBR68F2eah8hqnHIk2x60YCot0K8wOu40/edit#gid=1049644618
-https://medium.com/@sydneythomas/the-list-of-black-women-in-vc-dff25e8d52dc
-
-https://medium.com/@Samirkaji/mapping-out-the-institutional-seed-universe-c88e205bc829
-https://docs.google.com/spreadsheets/d/1AqgWfkkzggBay_U0EvN_nVQyxL8W8khh1WbjnE84KOk/edit#gid=0
-VC funds at / below $200M in size (new funds raised since 2011)
-https://docs.google.com/spreadsheets/d/1ebGZ6-ivf_3woBGC4Kz_3217DhjGsefoRu_5iP3nuFQ/edit#gid=0
-Funding RoundUp - Public
-https://docs.google.com/spreadsheets/d/1kwbnPdEtHdhNjVdNRKWZIZnEAgXhyHZnc462ASUodpc/edit#gid=0
-SAAS company data AJ
-https://docs.google.com/spreadsheets/d/1h4Pfv3NAP2veoRC0DBJNtghMa44Mjb_kM6oHUPzsHEs/edit#gid=0
-Enterprise Startups Funding Database
-https://docs.google.com/spreadsheets/d/1cr4Q6iIq_sw1DccEQywH7axP57KungpjeSRCrk_MY2s/edit#gid=0
-15 Years of Impact VC Fundraises, Investing and Exits
-https://docs.google.com/spreadsheets/d/1buv2c0Q-2A220IBnBeRgYCOF4EiuPofAEhmlLd_36iY/edit#gid=0
-Venture Capitalists (VCs) & Angel Investors in MENA [List]
-http://www.menabytes.com/mena-vcs-angels
-
-https://twitter.com/semil/status/876702158929903616 | Semil on Twitter: "Request for feedback #1 - Trying to revise & improve my "Pilot's Checklist" for making new seed investments. Critical feedback welcome! https://t.co/8Lvynj2cgM"
-https://twitter.com/semil/status/876703072679936001 | Semil on Twitter: "Request for feedback #2 - Want to start off a new investment w/ "How I Hope To Work W/ You" Onboarding Flow. Critical feedback welcomed! https://t.co/sVYHuZsXaP"
-
-List of VC/Angel Blogs
-https://docs.google.com/spreadsheets/d/1HBeAJAKXGAsQC6cfYEyIDHrX7of7Rwjo14AcOeKfk30/edit#gid=0
-
-https://github.com/leonar15/startup-checklist
-https://github.com/jlevy/og-equity-compensation
-https://github.com/holman/extended-exercise-windows
-
-https://medium.com/@gerstenzang/how-ill-be-investing-in-2017-da71450076be#.jjd54mflw
-https://medium.com/@besvinick/my-vc-code-8120b942f06#.w0a808sd8
-https://startupsventurecapital.com/my-vc-code-2-0-a2658d3f2cf7#.on7v1af5h
-
-http://www.thisisgoingtobebig.com/blog/2015/7/30/venture-capital-return-model
-
-http://versionone.vc/marketplace-fundraising
-http://versionone.vc/marketplace-deck
-http://versionone.vc/social-handbook
--->
 
 Angel Investors
 * [Jason Calcanis Syndicate](http://www.jasonssyndicate.com), [Jason Calcanis Syndicate AngelList](https://angel.co/jason/syndicate), [Launch Incubator](https://medium.com/@jason/are-you-ready-to-change-your-life-forever-d40d93e964ab), and [Office Hours](https://launch.submittable.com/submit/37635)
@@ -6371,10 +5905,258 @@ Startup Studios
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
 
+Lists of VC Firms and Accelerators
+* [List of VC Firms Wikipedia](http://en.wikipedia.org/wiki/List_of_venture_capital_firms) and [Venture Capital Firms (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Venture_capital_firms)
+* [Private Equity and Venture Capital Investors (Category) Wikipedia](https://en.wikipedia.org/wiki/Category:Private_equity_and_venture_capital_investors)
+* [European Startup Investors](https://docs.google.com/spreadsheets/d/10S7_jBpRoWuNMnOYpkjFJArt76dPhFw0tIR7E_ndgnk/edit#gid=0)
+* [VC Funds At/Below $200M in Size (New Funds Raised Since 2011)](https://docs.google.com/spreadsheet/ccc?key=0Ar2jKST-_k4GdGlaRFltQlZVWDlNUkZ6VldoVzVicGc&usp=drive_web#gid=0) 
+* [AngelList Syndicates](https://angel.co/syndicates) and [AngelLList Investing](https://angel.co/investing)
+* [CB Insights Periodic Table of Tech](https://www.cbinsights.com/blog/tech-periodic-table), [CB Insights Periodic Table of U.K. Tech](https://www.cbinsights.com/blog/periodic-table-uk), and [CB Insights Periodic Table of VC Blogs](https://www.cbinsights.com/blog/venture-capital-blogs-periodic-table)
+
+<!--
+VCs + Angel Investors
+https://docs.google.com/spreadsheets/d/1ENQyDDk418SSMUU_INBCxCOUvrcF7tdkMYxt4kS6cxE/edit#gid=0
+VC Finder (New York only)
+https://docs.google.com/spreadsheets/d/1khvSN2pcnsc7O5dr9mq8TwJv0h_zJJYLzhiZZ_KDmfM/edit#gid=1550181509
+Senior VC Investment Team Members (updated 4:35pm 10/8/15)
+https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
+
+https://medium.com/@Samirkaji/mapping-out-the-institutional-seed-universe-c88e205bc829
+Micro-VC - Google Sheets
+https://docs.google.com/spreadsheets/d/1AqgWfkkzggBay_U0EvN_nVQyxL8W8khh1WbjnE84KOk/edit#gid=0
+Funding RoundUp - Public
+https://docs.google.com/spreadsheets/d/1kwbnPdEtHdhNjVdNRKWZIZnEAgXhyHZnc462ASUodpc/edit#gid=0
+SAAS company data AJ
+https://docs.google.com/spreadsheets/d/1h4Pfv3NAP2veoRC0DBJNtghMa44Mjb_kM6oHUPzsHEs/edit#gid=0
+Enterprise Startups Funding Database
+https://docs.google.com/spreadsheets/d/1cr4Q6iIq_sw1DccEQywH7axP57KungpjeSRCrk_MY2s/edit#gid=0
+15 Years of Impact VC Fundraises, Investing and Exits
+https://docs.google.com/spreadsheets/d/1buv2c0Q-2A220IBnBeRgYCOF4EiuPofAEhmlLd_36iY/edit#gid=0
+Venture Capitalists (VCs) & Angel Investors in MENA [List]
+http://www.menabytes.com/mena-vcs-angels
+
+List of VC/Angel Blogs
+https://docs.google.com/spreadsheets/d/1HBeAJAKXGAsQC6cfYEyIDHrX7of7Rwjo14AcOeKfk30/edit#gid=0
+
+https://www.theinformation.com/bros-funding-bros-whats-wrong-with-venture-capital
+https://docs.google.com/spreadsheets/d/1GT5nUwbW7oPy0-dSAPCtmTF_rg5ug3CJRGpYFsGa-DQ/edit#gid=0
+
+Women In Venture (WIV) Universe
+https://docs.google.com/spreadsheets/d/10LkI_0WmVJHBR68F2eah8hqnHIk2x60YCot0K8wOu40/edit#gid=1049644618
+https://medium.com/@sydneythomas/the-list-of-black-women-in-vc-dff25e8d52dc
+-->
+
+VC Firm Newsletters
+* [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
+
+VC Firm Demo Days
+* [500 Startups Demo Day](http://500demoday.co)
+
+VC Firm Events
+* [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), [Warm Gun](http://warmgun.com), and [Marketing Hell Week](http://www.growth.500.co)
+
+VC Firm Apps
+* [First Round Pitch App](http://firstround.com/openapp)
+* [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
+
+#### Company and Product Databases
+
+Database List
+* [AngelList](https://angel.co), [AngelList Blog](http://blog.angel.co), and [AngelList Help](https://angel.co/help)
+* [Betalist](https://betalist.com)
+* [CB Insights](https://www.cbinsights.com)
+* [CrunchBase](http://www.crunchbase.com) and [Crunchbase Pro](https://www.crunchbase.com/app/info/pro)
+* [Datafox](http://www.datafox.co)
+* [GitHub Explore](https://github.com/explore) and [GitHub Showcases ](https://github.com/showcases) 
+* [Mattermark](http://mattermark.com), [Mattermark Companies](https://mattermark.com/companies), [Mattermark Google Sheet](https://mattermark.com/google-sheets), and [Mattermark for iOS](https://itunes.apple.com/us/app/mattermark/id947663909?mt=8)
+* [Product Hunt](http://www.producthunt.com) and [Product Hunt iTunes](https://itunes.apple.com/us/app/product-hunt-best-new-products/id904658671?mt=8)
+
+<!--
+https://www.producthunt.com/upcoming/upcoming
+https://blog.producthunt.com/how-to-launch-on-product-hunt-7c1843e06399
+
+https://betapage.co
+https://blog.betapage.co
+
+https://betalist.com/trends
+https://betalist.com/jobs/collections
+
+https://www.producthunt.com/tech
+https://www.producthunt.com/topics/developer-tools
+https://www.producthunt.com/@jackdweck/collections/product-picks-weekly-29
+
+https://www.producthunt.com/tech/product-hunt-3-0
+https://www.producthunt.com/tech/product-hunt-2-0
+https://www.producthunt.com/live
+https://www.producthunt.com/collections
+https://www.producthunt.com/topics
+https://www.producthunt.com/shop
+https://www.producthunt.com/podcasts
+https://www.producthunt.com/apps/mac
+https://www.producthunt.com/apps/chrome
+
+https://angel.co/spv
+https://angel.co/track
+https://angel.co/angel-funds
+https://angel.co/freelancers
+http://blog.angel.co/post/131017147560/csc-upshot
+
+https://chrome.google.com/webstore/detail/mattermark/iedfcbkaanfabmfmndgnogeghbellanl?hl=en
+
+https://chrome.google.com/webstore/detail/panda-4-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko?hl=en
+-->
+
+Databases and Benchmarking- Freemium
+* [Amazon Launchpad](http://www.amazon.com/b?ie=UTF8&node=12034488011)
+* [AngelList Markets](https://angel.co/markets), [AngelList Companies](https://angel.co/companies), [AngelList Intros](https://angel.co/intro), [AngelList Trending](https://angel.co/companies/trending), [AngelList Funds](https://angel.co/funds), [AngelList Leads](https://angel.co/people/leads), [AngelList Valuations](https://angel.co/valuations), [A-List](https://alist.co), [AngelList Salaries](https://angel.co/salaries), [AngelList Jobs](https://angel.co/jobs), and [AngelList Track](https://angel.co/track) 
+* [Betalist Markets](http://betalist.com/markets), and [Betalist Regions](http://betalist.com/regions)
+* [CB Insights Research Downround Tracker](https://www.cbinsights.com/research-downround-tracker)
+* [CrunchBase Business Graph](http://info.crunchbase.com/the-business-graph), [CrunchBase Leaderboard](http://www.crunchbase.com/investor-leaderboard)
+* [Datafox Blog- Featured Lists](http://www.datafox.co/blog/featured-lists) and [Datafox Google Docs- Featured Lists](https://docs.google.com/spreadsheets/d/1L7Ya4uPQpG7xlABeJmVQ5yj4KNPK7mMOQ_d7KschnAU/pubhtml)
+* [Mattermark Benchmarking](http://www.mattermark.com/app/benchmarking), [Mattermark Startup Indicators](http://mattermark.com/startup-success-indicators-version-0-1-of-the-mattermark-100)
+* [Product Hunt Collections](http://www.producthunt.com/collections), [Product Hunt Topics](https://www.producthunt.com/topics), [Product Hunt Books](https://www.producthunt.com/books), [Product Hunt Uber Hunters](http://www.producthunt.com/posts/uberhunters), and [Product Hunt Today](http://ph.needles.me)
+* [Wall Street Journal Startup Stocks to Watch](http://graphics.wsj.com/tech-startup-stocks-to-watch) 
+
+<!--
+https://www.amazon.com/b/ref=s9_acss_bw_cg_alcolsu2_2c1?node=14865665011&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=merchandised-search-6&pf_rd_r=KVXE9BWJ4FTAGQ6G16KF&pf_rd_t=101&pf_rd_p=2578969862&pf_rd_i=12034488011
+
+http://beondeck.co
+-->
+
+Europe and U.K.
+* [AngelList U.K.](https://angel.co/uk)
+* [Tech EU App Database Companies](https://app.tech.eu/companies)
+
+Database APIs
+* [AngelList API](https://angel.co/api)
+* [CrunchBase API](https://developer.crunchbase.com)
+* [Mattermark API](https://mattermark.com/api)  
+* [Product Hunt API Blog Post](https://rrhoover.typeform.com/to/U49PTQ), [Product Hunt API GitHub](https://github.com/producthunt/producthunt-api), [Product Hunt API Docs](https://api.producthunt.com/v1/docs)
+
+Blogs and Whatnot
+* [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
+* [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
+* [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
+* [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
+* [Product Hunt Blog](http://blog.producthunt.com)
+* [Tech EU Research](http://tech.eu/section/research)
+
+#### Venture Frameworks and Theses
+
+<!--
+Investor Frameworks
+* [Brad Feld Framework](investor-frameworks/brad-feld-framework.md) 
+* [Chris Dixon Framework](investor-frameworks/chris-dixon-framework.md) 
+* [Fred Wilson Framework](investor-frameworks/fred-wilson-framework.md)
+* [Mark Suster Framework](investor-frameworks/mark-suster-framework.md)
+* [Paul Graham Framework](investor-frameworks/paul-graham-framework.md) 
+* [Sam Altman Framework](investor-frameworks/sam-altman-framework.md)
+
+Thesis
+* [Semil Shah](http://blog.semilshah.com/haystack)
+-->
+
+#### Companies, Industry and Product Classifications, Associations
+
+Industry and Product Classifications
+* [Industry Wikipedia](https://en.wikipedia.org/wiki/Industry)
+* [Industry Classification Wikipedia](http://en.wikipedia.org/wiki/Industry_classification)
+* [Industry Classification Benchmark Structure and Definitions Document](http://www.icbenchmark.com/ICBDocs/Structure_Defs_English.pdf)
+* [Product Classification Wikipedia](http://en.wikipedia.org/wiki/Product_classification)
+* [UN Central Product Classification](http://unstats.un.org/unsd/cr/registry/cpc-2.asp)
+
+Associations
+* [Weddle's Association Directory](http://www.weddles.com/associations/index.cfm)
+
+Companies and Indices
+* [List of Stock Exchanges Wikipedia](https://en.wikipedia.org/wiki/List_of_stock_exchanges)
+* [Dow Jones Averages](http://www.djaverages.com) and [Dow Jones Industral Average Wikipedia](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average)
+* [Fortune 500](http://fortune.com/fortune500) and [Fortune 500 Wikipedia](https://en.wikipedia.org/wiki/Fortune_500)
+* [List of Fortune 500 Computer Software and Information Companies Wikipedia](https://en.wikipedia.org/wiki/List_of_Fortune_500_computer_software_and_information_companies)
+* [Inc. 5000](http://www.inc.com/inc5000)
+* [Standard & Poor's 500](http://www.standardandpoors.com) and [S&P 500 (Standard & Poor's 500) Index Wikipedia](https://en.wikipedia.org/wiki/S%26P_500) 
+* [NASDAQ Technology Company Listing](http://www.nasdaq.com/screening/companies-by-industry.aspx?industry=Technology)
+* [New York Stock Exchange](https://www.nyse.com) and [New York Stock Exchange Listings Directory](https://www.nyse.com/listings_directory/stock)
+* [FTSE 100 Index Wikipedia](https://en.wikipedia.org/wiki/FTSE_100_Index)
+* [London Stock Exchange](http://www.londonstockexchange.com)
+* [DAX Wikipedia](https://en.wikipedia.org/wiki/DAX)
+* [Hang Seng Index Wikipedia](https://en.wikipedia.org/wiki/Hang_Seng_Index)
+* [Nikkei 225 Wikipedia](https://en.wikipedia.org/wiki/Nikkei_225)
+
+## Unicorns
+
+Unicorns
+* [Aileen Lee: Welcome to the Unicorn Club](http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club)
+* [Atomico Explore Unicorns Founded Since 2003](http://atomico.com/explore-d3)  
+* [CB Insights Unicorn List](https://www.cbinsights.com/research-unicorn-companies) and [CB Insights 2014 Billion Dollar Valuations](https://www.cbinsights.com/blog/billion-dollar-valuation-startups-2014)  
+* [Datafox Blog Billion Dollar Startups](http://www.datafox.co/blog/billion-dollar-startups), [Datafox Billion Dollar Startups Slideshare](http://www.slideshare.net/datafoxco/datafox?ref=http://www.datafox.co/blog/billion-dollar-startups), and [Datafox Billion Dollar Startups Google Docs](https://docs.google.com/spreadsheets/d/1kBr6-yYNW1ZMTmFkv3tMnfSA9pYDV5Rj6fGT3gf5IjU/edit#gid=0)  
+* [Fortune Age of Unicorns](http://fortune.com/2015/01/22/the-age-of-unicorns) and [Fortune Unicorns List](http://fortune.com/unicorns)  
+* [TechCrunch Unicorn Leaderboard](http://techcrunch.com/unicorn-leaderboard)
+* [Wall Street Journal Billion Dollar Club](http://graphics.wsj.com/billion-dollar-club)  
+* [William Mougayar: The Global Unicorn Universe](http://startupmanagement.org/2014/04/20/the-global-unicorns-universe)  
+* [Fred Wilson: Billion Dollar Valuations For Vintage Years 2003-2014- Hackpad](https://hackpad.com/Billion-Dollar-Valuations-For-Vintage-Years-2003-2014-bJ98gaPN3EX)  
+* [OSV Research: Unicorns, Startups, and Giants](http://osvresearch.com)  
+
+The Terms Behind the Unicorn Valuations
+* [Fenwick and West LLP: The Terms Behind the Unicorn Valuations](http://www.fenwick.com/publications/pages/the-terms-behind-the-unicorn-valuations.aspx)
+
+Breakout Companies
+* [Breakout List](https://breakoutlist.com)
+
+## VC Resources
+
+<!--
+http://pmarchive.com
+
+https://mattermark.com/want-learn-venture-capital
+https://mattermark.com/venture-capital-dictionary
+https://mattermark.com/about-venture-capital-returns-valuations
+
+http://distributionhacks.com/post-startup-launch-checklist
+ 
+https://quip.com/92k3AGc5cvxp
+https://quip.com/QGdXAEsd04DE
+https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e
+https://medium.com/startup-grind/all-the-public-startup-pitch-decks-in-one-place-7d3ddff33bdc
+https://medium.com/startup-grind/all-the-venture-capital-fundraising-bloggers-you-should-be-following-6ea9817039c4
+https://medium.com/startup-grind/the-startup-fundraising-dictionary-a9aff88bee7e#.of31s43z3
+https://quip.com/92k3AGc5cvxp
+https://medium.com/startup-grind/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.4c02lfk8m
+https://medium.com/@sparkszilla/what-startup-fundraising-questions-do-you-have-fc3cc5c7269#.uvqdf3im3
+https://medium.com/@sparkszilla/help-build-the-open-guide-to-startup-fundraising-b1c206da808f
+https://medium.com/startup-grind/help-build-the-open-guide-to-startup-fundraising-b1c206da808f
+
+https://twitter.com/semil/status/876702158929903616 | Semil on Twitter: "Request for feedback #1 - Trying to revise & improve my "Pilot's Checklist" for making new seed investments. Critical feedback welcome! https://t.co/8Lvynj2cgM"
+https://twitter.com/semil/status/876703072679936001 | Semil on Twitter: "Request for feedback #2 - Want to start off a new investment w/ "How I Hope To Work W/ You" Onboarding Flow. Critical feedback welcomed! https://t.co/sVYHuZsXaP"
+
+https://github.com/leonar15/startup-checklist
+https://github.com/jlevy/og-equity-compensation
+https://github.com/holman/extended-exercise-windows
+
+https://medium.com/@gerstenzang/how-ill-be-investing-in-2017-da71450076be#.jjd54mflw
+https://medium.com/@besvinick/my-vc-code-8120b942f06#.w0a808sd8
+https://startupsventurecapital.com/my-vc-code-2-0-a2658d3f2cf7#.on7v1af5h
+
+http://www.thisisgoingtobebig.com/blog/2015/7/30/venture-capital-return-model
+
+http://versionone.vc/marketplace-fundraising
+http://versionone.vc/marketplace-deck
+http://versionone.vc/social-handbook
+-->
+
+Operating Manuals
+* [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
+* [Ramen Ventures Operating Manual](https://github.com/RamenVentures/Operating-Manual)
+
+<!--
+https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md | Manual/3 - Criteria for investing.md at master · Bloomberg-Beta/Manual
+https://github.com/Bloomberg-Beta/Investment-Documents | Bloomberg-Beta/Investment-Documents: Bloomberg Beta's Investment Documents for Series Seed, SAFEs, and Notes
+https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5 | We’re Publishing Our Investment Documents – Harley Sugarman – Medium
+-->
+
 Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [500 Startups Activity](http://500.co/activity), [500 Startups Video Archive](http://livestream.com/500SAcc), [500 Startups Livestream](http://original.livestream.com/500startups), [500 Startups Slideshare](http://www.slideshare.net/500startups), and [Dave McClure Slideshare](http://www.slideshare.net/dmc500hats)
 * [A16Z Blog](http://a16z.com), [A16Z Medium](https://medium.com/software-is-eating-the-world) [A16Z Slideshare](http://www.slideshare.net/a16z), and [A16Z Tweet Stormed](https://medium.com/tweet-stormed)
-* [Bloomberg Beta Manual GitHub](https://github.com/Bloomberg-Beta/Manual) 
 * [Bessemer Venture Partners Blog](http://www.bvp.com/blog)
 * [Felix Capital Manifesto](https://medium.com/@FelixCapital/our-manifesto-d12ea335e5ad)
 * [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Medium](https://medium.com/@firstround), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
@@ -6394,13 +6176,11 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [Venture Hacks](http://venturehacks.com), and [Venture Hacks Slideshare](http://www.slideshare.net/venturehacks) 
 * [The Macro](http://www.themacro.com), [YCombinator Alumni Investors](http://blog.ycombinator.com/alumni-investors), [YCombinator Fellowship](http://fellowship.ycombinator.com), and [YCombinator for Hardware](http://blog.ycombinator.com/yc-for-hardware)
 
-Blogs and Whatnot
-* [CB Insights Blog](https://www.cbinsights.com/blog), [CB Insights Twitter](https://twitter.com/CBinsights), and [CB Insights Slideshare](http://www.slideshare.net/CBInsights)
-* [CrunchBase Sitemap](https://www.crunchbase.com/sitemap)
-* [Datafox Blog](http://www.datafox.co/blog), [Datafox Twitter](https://twitter.com/datafoxco)
-* [Mattermark Slideshare](http://www.slideshare.net/Mattermark)
-* [Product Hunt Blog](http://blog.producthunt.com)
-* [Tech EU Research](http://tech.eu/section/research)
+VC and Tech Videos and Podcasts
+* [A16Z Podcasts](https://soundcloud.com/a16z)
+* [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
+* [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
+* [YCombinator The Macro](https://soundcloud.com/the-macro-y-combinator)
 
 RFS, Trends, Emerging Technologies
 * [Emerging Technologies Wikipedia](https://en.wikipedia.org/wiki/Emerging_technologies)
@@ -6432,21 +6212,6 @@ https://upverter.com/periodic-table
 http://www.startuptimelines.org
 -->
 
-VC Firm Newsletters
-* [A16Z Newsletter](http://us7.campaign-archive2.com/home/?u=35c671b34bb404149166bf755&amp;amp;amp;id=6da14709cd)
-
-VC Firm Demo Days
-* [500 Startups Demo Day](http://500demoday.co)
-
-VC Firm Events
-* [PreMoney](http://premoney.co/agenda), [PreMoney Resources](http://premoney.co/resources), [WMD](http://wmd.co), [Warm Gun](http://warmgun.com), and [Marketing Hell Week](http://www.growth.500.co)
-
-VC and Tech Videos and Podcasts
-* [A16Z Podcasts](https://soundcloud.com/a16z)
-* [Bothsides TV](https://www.youtube.com/user/BothsidesTV)
-* [KPCB Podcasts](https://soundcloud.com/kleinerperkins) and [Ventured Podcast](https://soundcloud.com/venturedpodcast)
-* [YCombinator The Macro](https://soundcloud.com/the-macro-y-combinator)
-
 <!--
 Master of scale, Startup School
 https://mastersofscale.com/wp-content/uploads/2017/05/moshandcraftedtranscript.pdf
@@ -6458,36 +6223,9 @@ https://itunes.apple.com/gb/podcast/twenty-minute-vc-venture-capital/id958230465
 https://open.spotify.com/show/40RELovLwSVQjp20DplIgV
 -->
 
-VC Firm Apps
-* [First Round Pitch App](http://firstround.com/openapp)
-* [KPCB Edge Office Hours](https://itunes.apple.com/us/app/kpcb-edge-office-hours/id1018492359?mt=8)
-
 VC Firm Alpha and Beta 
 * [Betaworks Openbeta](https://betaworks.com/openbeta)
 * [Lowercase Alpha](http://lowercasealpha.com)
-
-Crowdfunding
-* [Kickstarter](https://www.kickstarter.com) and [Kickstarter Live](https://live.kickstarter.com)
-* [Patreon](https://www.patreon.com)
-* [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
-* [Tilt](https://www.tilt.com) and [Tilt Open](https://open.tilt.com/preorders)
-
-<!--
-https://republic.co
-
-https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
--->
-
-Federal Opportunities and Funding
-* [Federal Business Opportunities](https://www.fbo.gov)  
-* [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
-* [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
-
-* [National Science Foundation Funding](https://www.nsf.gov/funding) and [National Science Foundation Award Search](https://www.nsf.gov/awardsearch)
-
-<!--
-Arvix
--->
 
 #### Documents and Advice
 
@@ -6608,6 +6346,25 @@ Equity Investment Simulation
 * [Equity Investment Simulation](http://www.ownyourventure.com/equitySim.html)
 
 
+## Crowdfunding and Other Funding Opportunities
+
+Crowdfunding
+* [Kickstarter](https://www.kickstarter.com) and [Kickstarter Live](https://live.kickstarter.com)
+* [Patreon](https://www.patreon.com)
+* [Reddit Crowdfunding](http://www.reddit.com/r/crowdfundingprojects)
+
+<!--
+https://republic.co
+
+https://www.kickstarter.com/blog/kickstarters-impact-on-the-creative-economy
+-->
+
+Federal Opportunities and Funding
+* [Federal Business Opportunities](https://www.fbo.gov)  
+* [DARPA: Wikipedia](http://en.wikipedia.org/wiki/DARPA), [DARPA Solicitations](http://www.darpa.mil/Opportunities/Solicitations/DARPA_Solicitations.aspx), and [DARPA Open Catalog](http://www.darpa.mil/opencatalog) 
+* [The Small Business Innovation Research (SBIR) Program](https://www.sbir.gov)
+
+* [National Science Foundation Funding](https://www.nsf.gov/funding) and [National Science Foundation Award Search](https://www.nsf.gov/awardsearch)
 
 #### Economics, Models
 
@@ -7144,8 +6901,6 @@ Digital Millennium Copyright Act
 * [Pinterest DMCA Wikipedia](http://en.wikipedia.org/wiki/Pinterest#Copyrighted_content)  
 
 
-
-
 #### Government Digital
 
 <!--
@@ -7213,8 +6968,6 @@ Estonian E-Residence
 
 U.S. Gov.: Code for America
 * [Code for America](http://www.codeforamerica.org), [Code for America Fellowship](https://www.codeforamerica.org/geeks/fellowship-apply), and [Code for America Incubator-Accelerator](http://www.codeforamerica.org/companies/incubator-accelerator)
-
-
 
 
 #### Government and International Data
@@ -7350,7 +7103,9 @@ Miscellaneous
 * [Balaji Srinivasan: Chess Boxing (Metaphor for Entrepreneurship)](http://en.wikipedia.org/wiki/Chess_boxing) 
 * [Dabbawala Wikipedia](http://en.wikipedia.org/wiki/Dabbawala)
 * [Doc Searls and David Weinberger: New Clues](http://cluetrain.com/newclues) 
+<!--
 * [Robert Scoble: Comparison of Social Media Networks](https://docs.google.com/spreadsheets/d/1dKOIqP0uHSPoKOWXt70wdhmtFcWMOcffbMSjhLcQMbA/htmlview?usp=sharing&amp;amp;amp;sle=true)
+-->
 * [Vinod Khosla: Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/wp-content/uploads/Gene_Pool_Engineering.pdf)
 
 Laws
@@ -7438,11 +7193,8 @@ http://www.amazon.com/The-Media-Equation-Computers-Television/dp/1575860538?ie=U
 https://en.m.wikipedia.org/wiki/Anthropomorphism
 -->
 
-
-
 Computer Lore
 * [Douglas C. Engelbart: The Mother of All Demos](http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html) 
-* [Scott Aaronson: Timeline of Computer Science](http://www.scottaaronson.com/blog/?p=524)
 
 #### Notable Interviews and Presentations
 
@@ -7460,10 +7212,6 @@ Famous
 Innovation and Excellence
 * [Amy Jo Kim: The 7 Habits of Breakthrough Innovators Slideshare](http://www.slideshare.net/amyjokim/the-7-habits-of-breakthrough-innovators)
 * [Tom Peters: 23 Part "Mother of All Presentations"](http://excellencenow.com), ["Master Presentation" Blog Post](http://tompeters.com/2014/09/new-annotated-master-presentation), [Leadership 43 Blog Post](http://tompeters.com/2015/09/the-leadership-43), and [Leadership 43 Presentation](chrome-extension://bpmcpldpdmajfigpchkicefoigmkfalc/views/app.html)
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 
 #### Notable Quotes
 
@@ -7615,15 +7363,10 @@ https://medium.com/@rabois/reading-list-604c88ecefa4#.ps3g315kj
 http://blakemasters.com/peter-thiels-cs183-startup | Notes Essays—Peter Thiel’s CS183: Startup—Stanford, Spring 2012
 http://blakemasters.com/ | Blake Masters
 
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
 Angela Duckworth Grit
 https://www.udemy.com/acumen-presents-angela-duckworth-on-building-grit | Acumen Presents: Angela Duckworth on Building Grit | Udemy
 
 http://www.thinkwrongbook.com/
-
-Marty Cagan Inspired
 
 Carol Dweck
 https://en.wikipedia.org/wiki/Carol_Dweck#.22Mindset.22
@@ -7639,23 +7382,10 @@ https://www.amazon.com/Power-Moments-Certain-Extraordinary-Impact/dp/1501147765
 https://en.wikipedia.org/wiki/Made_to_Stick
 https://en.wikipedia.org/wiki/Story_arc
 
-A Brief History of Existential Terror
-https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
-
-The Upside of Stress
-https://www.amazon.com/Upside-Stress-Why-Good-You/dp/1101982934
-http://online.stanford.edu/course/upside-stress
-https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq=file:pdf+the+upside+of+stress&source=bl&ots=pB-qx8QBs3&sig=MEKjM1dNzr5fbD5T6SwaguFhqhs&hl=en&sa=X&ved=0ahUKEwiqv7zg27rSAhUF0IMKHXadDvY4ChDoAQgkMAA#v=onepage&q=file%3Apdf%20the%20upside%20of%20stress&f=false
-https://www.amazon.com/dp/B00OI5PGWU/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
 https://www.coursera.org/learn/psychological-first-aid
 
 Venture Capital, Private Equity, and the Financing of Entrepreneurship
 https://www.amazon.com/Venture-Capital-Private-Financing-Entrepreneurship/dp/0470591439
-
-Nir Eyal
-https://www.nirandfar.com/download/hooked-workbook.pdf
-http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
 
 Carlota Perez
 Technological Revolutions, Paradigm Shifts and Socio-Institutional Change
@@ -7670,29 +7400,9 @@ New
 https://www.amazon.com/gp/product/1501180738 | Amazon.com: The TB12 Method: How to Achieve a Lifetime of Sustained Peak Performance (9781501180736): Tom Brady: Books
 -->
 
-
 <!--
 Masters of Scale with Reid Hoffman
 https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=1227971746&mt=2&ls=1&_branch_match_id=345698913933613519
-
-Blue Ocean
-https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
-https://en.wikipedia.org/wiki/Blue_Ocean_Strategy | Blue Ocean Strategy - Wikipedia
-
-https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
-https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow | Thinking, Fast and Slow - Wikipedia
-https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
-https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
-https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
-https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
-
-https://www.principles.com/ | Principles by Ray Dalio
-https://inside.bwater.com/publications/principles_excerpt | Principles by Ray Dalio - Summary
-https://www.cnbc.com/2017/11/16/billionaire-ray-dalio-5-steps-to-success.html | Billionaire Ray Dalio: 5 steps to success
-https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles: Life and Work: Ray Dalio: 9781501124020: Amazon.com: Books
-
-http://fourhourworkweek.com
-http://fourhourworkweek.com/sitemap.xml
 -->
 
 Best Books
@@ -7700,9 +7410,8 @@ Best Books
 * [Washington Post: Best books of 2017](https://www.washingtonpost.com/graphics/2017/entertainment/best-books)
 
 Books
-* [Andy Grove: High Output Management](http://www.amazon.com/High-Output-Management-Andrew-Grove/dp/0679762884)
-* [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
 * [Bill Janeway: Doing Capitalism in the Innovation Economy: Markets, Speculation and the State](http://www.amazon.com/Doing-Capitalism-Innovation-Economy-Speculation/dp/1107031257)
+* [Ben Horowitz: The Hard Thing About Hard Things](http://www.amazon.com/The-Hard-Thing-About-Things/dp/0062273205) and [Chapter 1 Annotated](http://genius.com/B-horowitz-the-hard-thing-about-hard-things-chapter-1-annotated) 
 * [Brad Feld and Jason Mendelsen: Venture Deals: Be Smarter Than Your Lawyer and Venture Capitalist](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)
 * [Carlota Perez: Technological Revolutions and Financial Capital: The Dynamics of Bubbles and Golden Ages](http://www.amazon.com/Technological-Revolutions-Financial-Capital-Dynamics/dp/1843763311)
 * [Dale Carnegie: How to Win Friends & Influence People](http://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034)
@@ -7710,53 +7419,8 @@ Books
 * [Howard Marks](http://www.amazon.com/Howard-Marks/e/B004LE5B00/ref=dp_byline_cont_book_1)
 * [John Brooks: Business Adventures, via Bill Gates](https://www.gatesnotes.com/Books/Business-Adventures)
 * [Michael Mauboussin Amazon](http://www.amazon.co.uk/s/ref=dp_byline_sr_book_1?ie=UTF8&text=Michael+Mauboussin&search-alias=books-uk&field-author=Michael+Mauboussin&sort=relevancerank)
-* [Nir Eyal: Hooked: How to Build Habit-Forming Products](http://www.amazon.com/dp/1591847788/?tag=hooked-us-20)
 * [Peter Thiel, with Blake Masters: Zero to One](http://www.amazon.com/gp/product/0804139296)
 * [Philip E. Tetlock (Author), Dan Gardner: Superforecasting](http://www.amazon.com/Superforecasting-Prediction-Philip-E-Tetlock-ebook/dp/B00RKO6MS8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1443512527&sr=1-1&keywords=superforecasters) and [Superforecasting](http://www.superforecasting.com)
-* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
-
-Tim Ferris
-* [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
-* [Tools of Titans](https://toolsoftitans.com) 
-* [Tribe of Mentors](https://tribeofmentors.com)
-* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
-
-<!--
-Tools of Titans
-http://tim.blog/2017/01/25/tools-of-titans-index/
-https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss#download
-https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss
-
-FreshBooks: Breaking the Time Barrier
-https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
-
-Rec from Tim Ferris
-Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
-http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
-https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-http://vagabonding.net
-https://en.wikipedia.org/wiki/Rolf_Potts
-https://en.wikipedia.org/wiki/The_Graveyard_Book
-https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
-
-https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
--->
-
-Learning
-* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
-* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
-* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
-
-<!--
-* [Daniel Kahneman Wikipedia](https://en.wikipedia.org/wiki/Daniel_Kahneman)
-* [Amos Tversky Wikipedia](https://en.wikipedia.org/wiki/Amos_Tversky)
-
-https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
-
-https://www.coursera.org/learn/learning-how-to-learn | Learning How to Learn: Powerful mental tools to help you master tough subjects | Coursera
-https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
--->
 
 Whole Earth Catalog
 * [Whole Earth Catalog Back Issues](http://www.wholeearth.com/back-issues.php)
@@ -7773,7 +7437,11 @@ Courses
 * [Sam Altman: YCombinator Stanford Startup Class](http://startupclass.samaltman.com) and [YouTube](https://www.youtube.com/channel/UCxIJaCMEptJjxmmQgGFsnCg) 
      
 MOOCs
-* [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance), [Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
+* [Michael R. Pratt: New Venture Finance: Startup Funding for Entrepreneurs](https://www.coursera.org/course/venturefinance)
+
+<!--
+[Overview](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Overview.pdf), [The Language of Early-Stage Finance](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_The%20Language%20of%20Early-Stage%20Finance.pdf), [Why Start With A Business Plan?](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Why%20Start%20With%20a%20Business%20Plan.pdf), [A “Good” Plan and What VC’s Look For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_A%20Good%20Plan%20and%20What%20VC%27s%20Look%20For.pdf), [Financial Statements for Investors](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Financial%20Statements%20for%20Investors.pdf), [Balance Sheets](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Balance%20Sheets.pdf), [What an Income Statement Presents](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20an%20Income%20Statement%20Presents.pdf), [Statement of Cash Flow](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Statement%20of%20Cash%20Flow.pdf), [Corporate Structure](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_Corporate%20Structure.pdf), and [What Investors Are Looking For](https://d396qusza40orc.cloudfront.net/venturefinance/NVF_What%20Investors%20Are%20Looking%20For.pdf)
+-->
 
 STEM and STEAM
 * [STEM to STEAM](http://stemtosteam.org)
@@ -7794,14 +7462,6 @@ https://pinboard.in/popular
 
 * [Charlie Rose](http://www.charlierose.com)
 * [This American Life](http://www.thisamericanlife.org)
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams](http://nuzzel.com/abrams/customfeeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Economics](http://nuzzel.com/pmarca/economics), [Finance](http://nuzzel.com/pmarca/finance), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-More News
-* [Nuzzel](nuzzel.com/KatiMichel) and [Nuzzel Lists (custom feeds)](http://nuzzel.com/KatiMichel/customfeeds)
-* Nuzzle Lists: [Venture Capitalists](http://nuzzel.com/KatiMichel/venture-capitalists), [Founders, Creative People](http://nuzzel.com/KatiMichel/founders-creative-people), [Tech Journalists](http://nuzzel.com/katimichel/tech-journalists), [Tech News](http://nuzzel.com/katimichel/tech-news), and [VC, Accelerator, Startups](http://nuzzel.com/katimichel/vc-accelerator-startups)
 -->
 
 Business News
@@ -7870,7 +7530,6 @@ http://www.nejm.org/ | The New England Journal of Medicine: Research & Review Ar
 -->
 
 Tech Aggregated, Question and Answer Forums
-* [Hacker News](https://news.ycombinator.com), [Hacker News News](https://news.ycombinator.com/news), [Hacker News Newest](https://news.ycombinator.com/newest), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
 * [Inside Tech](https://www.inside.com/tech)
 * [Launch Ticker](https://www.launchticker.com)
 * [LinkedIn Pulse Technology](https://www.linkedin.com/pulse/channel/technology)
@@ -7882,8 +7541,6 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
-https://lobste.rs
-
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
@@ -7942,24 +7599,11 @@ Aggregated News Sources
 * [Inside Top](https://www.inside.com/top)
 * [LinkedIn Pulse Discover](https://www.linkedin.com/pulse/discover)
 * [Matthew Keys](http://matthewkeys.net)
-* [Medium](https://medium.com), [Medium Top 100](https://medium.com/top-100), [Medium Top Stories](https://medium.com/top-stories), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
-* [Nuzzel (including Twitter List support)](http://nuzzel.com) 
-* [Pocket](https://getpocket.com)
 * [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
-* [Slideshare Slideshare](http://www.slideshare.net/Slideshare), [Explore Tab](http://www.slideshare.net/popular/category), and [Featured](http://www.slideshare.net/featured) 
-
-<!--
-http://nuzzel.com/newswire
-
-https://www.ribbonfarm.com/page/3/?s=roundup
-
-https://www.farnamstreetblog.com/newsletter
-https://www.farnamstreetblog.com/membership
--->
+* [Medium](https://medium.com), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
+* [Slideshare Slideshare](http://www.slideshare.net/Slideshare) 
 
 Off the Wall
-* [Farnam Street Blog](https://www.farnamstreetblog.com) and [Farnam Street Courses](https://fscourses.com)
-* [Nir Eyal](http://www.nirandfar.com)
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) and [Wait But Why Facebook](https://www.facebook.com/waitbutwhy) 
 * [Slate Star Codex](http://slatestarcodex.com)
@@ -7971,7 +7615,6 @@ Eccentric
 * [Praxtime](http://praxtime.com)
 * [Priceonomics](http://priceonomics.com)
 * [The School of Life](http://www.theschooloflife.com) and [The Book of Life](http://www.thebookoflife.org), via [Alain de Botton](https://twitter.com/alaindebotton)
-* [XKCD](http://xkcd.com)
 
 Directory of News Websites, Today's Front Pages, and NewsDiffs
 * [Guardian Directory of News Websites, Country-by-Country](http://www.theguardian.com/worldnewsguide/0,11376,620727,00.html) 
@@ -8083,23 +7726,8 @@ Advertising and Marketing
 * [Online Advertising Wikipedia](https://en.wikipedia.org/wiki/Online_advertising)
 * [Marketing Wikipedia](https://en.wikipedia.org/wiki/Marketing)
 
-Distribution, Digital Distribution and User-Generated Content
-* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
 Distribution, Growth, Sales Hacking
-* [Distribution Hacks](http://distributionhacks.com) 
-* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
 * [Saleshacker](http://www.saleshacker.com)
-
-<!--
-http://growth.ren/
-https://github.com/phodal/growth
-https://github.com/phodal/growth-ebook
-https://github.com/phodal/awesome-growth
-https://github.com/phodal/fe#%E5%85%B3%E4%BA%8E%E7%BB%83%E6%89%8B%E9%A1%B9%E7%9B%AE
--->
 
 Marketing and Search Engine Land
 * [Marketing Land](http://marketingland.com) and [Marketing Land Slideshare](http://www.slideshare.net/marketing-land)  
@@ -8311,13 +7939,6 @@ Google Docs and Research
 https://developers.google.com/apps-script
 -->
 
-<!--
-https://airtable.com
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
-https://github.com/zapier | Zapier
--->
-
 Google News Publisher
 * [Google News Publisher Help](https://support.google.com/news/publisher)
 
@@ -8520,17 +8141,6 @@ https://blog.slideshare.net/2015/12/18/the-must-read-slideshares-of-2015
 https://resources.workfront.com/project-management-blog/10-tips-for-designing-presentations-that-dont-suck-part-1
 -->
 
-Voice
-* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
-* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
-* [Google Chrome Speech Recognition Add-On](https://chrome.google.com/webstore/detail/speech-recognition/idmniglhlcjfkhncgbiiecmianekpheh?hl=en)
-* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
-
-<!--
-http://dictate.ms
--->
-
 Group Communication/Chat
 * [Glitter (Chat for GitHub](https://gitter.im)
 * [Google Groups](https://groups.google.com) and [Google Groups Overview](https://groups.google.com/forum/#!overview) 
@@ -8701,7 +8311,7 @@ https://news.21.co
 -->
 
 Crowd Sourced Internet Marketplace
-* [21](https://21.co)
+* [Earn](https://earn.com/)
 * [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) and [Amazon Mechanical Turk Wikipedia](http://en.wikipedia.org/wiki/Amazon_Mechanical_Turk) 
 * [Amazon Mechanical Turk Case Studies](https://requester.mturk.com/case_studies)
 * [Crowdflower](http://www.crowdflower.com)  
