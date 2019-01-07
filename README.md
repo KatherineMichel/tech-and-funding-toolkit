@@ -7541,6 +7541,8 @@ Tech Aggregated, Question and Answer Forums
 * [Yahoo Answers: Computer and Internet](https://answers.yahoo.com/dir/index?sid=396545660)
 
 <!--
+* [Hacker News](https://news.ycombinator.com), [Hacker News Top](https://github.com/rylans/hackernews-top), and [Hacker News API](http://blog.ycombinator.com/hacker-news-api)
+
 https://stackoverflow.com/users/login?returnurl=%2fquestions%2fask
 -->
 
@@ -7601,12 +7603,21 @@ Aggregated News Sources
 * [Matthew Keys](http://matthewkeys.net)
 * [REDEF](http://redef.com/channel/media) and [Originals](http://www.mediaredefined.com/Originals) 
 * [Medium](https://medium.com), [Medium Highlights](https://medium.com/@ev/highlights), and [Medium Matter](https://medium.com/matter)
-* [Slideshare Slideshare](http://www.slideshare.net/Slideshare) 
+* [Slideshare Explore Tab](http://www.slideshare.net/popular/category), [Slideshare Featured](http://www.slideshare.net/featured), and [Slideshare Slideshare](http://www.slideshare.net/Slideshare) 
 
 Off the Wall
 * [Ribbonfarm](http://www.ribbonfarm.com)
 * [Wait But Why](http://waitbutwhy.com) and [Wait But Why Facebook](https://www.facebook.com/waitbutwhy) 
 * [Slate Star Codex](http://slatestarcodex.com)
+
+<!--
+* [Farnam Street Courses](https://fscourses.com)
+
+https://www.farnamstreetblog.com/newsletter
+https://www.farnamstreetblog.com/membership
+
+https://www.ribbonfarm.com/page/3/?s=roundup
+-->
 
 Eccentric
 * [Brain Pickings](https://www.brainpickings.org)
