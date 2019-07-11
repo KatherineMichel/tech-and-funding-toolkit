@@ -3628,10 +3628,6 @@ Python- Django- Static File Serving
 * [Whitenoise](http://whitenoise.evans.io) and [Whitenoise GitHub](https://github.com/evansd/whitenoise)
 * [Whitenoise Python Warehouse](https://warehouse.python.org/project/whitenoise)
 
-Python- Django- DJ Static, DJ Database URL
-* [Kenneth Reitz: DJ Static GitHub](https://github.com/kennethreitz/dj-static)
-* [Kenneth Reitz: DJ Database URL GitHub](https://github.com/kennethreitz/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
 Python- Django- Static Storage
 
 <!--
@@ -3659,7 +3655,6 @@ Werkzeug (Flexible WSGI) (Security Flaw)
 
 More WSGI (See also Apache)
 * [mod_wsgi Wikipedia](https://en.wikipedia.org/wiki/Mod_wsgi)
-* [uWsgi GitHub](https://github.com/unbit/uwsgi) and [uWsgi Docs](http://uwsgi-docs.readthedocs.org/en/latest)
 
 <!--
 https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
