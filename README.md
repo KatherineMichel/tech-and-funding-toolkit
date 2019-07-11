@@ -3528,7 +3528,6 @@ Python- Microframeworks and Template Engines
 * [Jinja](http://jinja.pocoo.org) and [Jinja GitHub](https://github.com/mitsuhiko/jinja2)  
 * [Flask](http://flask.pocoo.org), [Flask GitHub](https://github.com/mitsuhiko/flask), and [Flask Blueprints](http://flask.pocoo.org/docs/0.12/blueprints)
 * [WebPy GitHub](https://github.com/webpy/webpy)
-* [Tornado](http://www.tornadoweb.org) and [GitHub Tornado](https://github.com/tornadoweb/tornado)
 
 Python- Django- Cookiecutter (See also Packages)
 * [Django Packages Cookiecutters](https://www.djangopackages.com/grids/g/cookiecutters)
@@ -3622,12 +3621,6 @@ Python- Django- Random SECRET_KEY
 * [Create a random SECRET_KEY to put it in the main settings](https://github.com/django/django/blob/master/django/core/management/commands/startproject.py)  
 * [Django SECRET_KEY Generator](http://www.miniwebtool.com/django-secret-key-generator) 
 
-Python- Django- Debug Toolbar
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-
-Python- Django- Debug Panel
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) 
-
 Python- Unipath
 * [Unipath PyPi](http://pypi.python.org/pypi/Unipath) and [Unipath GitHub](https://github.com/mikeorr/Unipath)
 
@@ -3672,47 +3665,23 @@ More WSGI (See also Apache)
 https://docs.djangoproject.com/en/dev/howto/deployment/wsgi/modwsgi/
 -->
 
-Gunicorn (Python WSGI HTTP Server for UNIX)
-* [Gunicorn](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn)  
-* [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
-
 Waitress (Production-Quality Pure-Python WSGI Server)
 * [Waitress Read the Docs](http://waitress.readthedocs.org/en/latest)  
 * [Waitress GitHub](https://github.com/Pylons/waitress)  
 * [Waitress PyPi](https://pypi.python.org/pypi/waitress)  
-
-Python- Django and Celery (Asynchronicity) (Also Example code)
-* [Celery](http://www.celeryproject.org)  
-* [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
 
 Python- Django- BCrypt (Not just for Django)
 * [BCrypt Wikipedia](http://en.wikipedia.org/wiki/Bcrypt)  
 * [BCrypt](http://pythonhosted.org/passlib/lib/passlib.hash.bcrypt.html)  
 * [BCrypt PyPi](https://pypi.python.org/pypi/bcrypt/1.0.1) 
 
-Python- Fabric
-* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
-
-<!--
-http://docs.fabfile.org/en/1.13/api/contrib/django.html
-
-https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
--->
-
 #### Python and Django Testing and Automation
 
 <!--
-http://www.pyinvoke.org/
-
 http://www.drmaciver.com/2017/09/python-coverage-could-be-fast/ | Python Coverage could be fast | David R. MacIver
 
 model mommy https://pypi.python.org/pypi/model_mommy
- 
-Selenium
-* [Selenium](http://www.seleniumhq.org)
 -->
-
 
 #### Python and Django Useful Tools
 
@@ -3721,33 +3690,6 @@ Python- Django Extensions
 
 Python- Django- Migrations
 * [South](http://south.aeracode.org) and [South Read the Docs](http://django-south.readthedocs.io)
-
-
-<!--
-https://github.com/kennethreitz/pip-purge
--->
-
-Python- Django- Records, Requests
-* [Kenneth Reitz: Records GitHub](https://github.com/kennethreitz/records)
-* [Kenneth Reitz: Requests PyPi](https://pypi.python.org/pypi/requests), [Requests Docs](http://docs.python-requests.org), [Requests GitHub](https://github.com/kennethreitz/requests), and [Requests: HTTP for Humans](http://docs.python-requests.org/en/master)
-
-<!--
-https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: Scrape the Twitter Frontend API without authentication.
-https://github.com/kennethreitz/requests-html | kennethreitz/requests-html: HTML Parsing for Humans™
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-
-https://github.com/kennethreitz/homebrew-pythons
-http://docs.python-guide.org/en/latest/ | The Hitchhiker's Guide to Python
-https://github.com/requests/requests | requests/requests: Python HTTP Requests for Humans™ ✨🍰✨
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
--->
-
-
 
 Python- Django- Python Social Auth
 * [django-registration-redux Read the Docs](https://django-registration-redux.readthedocs.io)
@@ -4918,7 +4860,7 @@ Event Tracking
 
 Typeahead and Awesomeplete
 * [Typeahead.js GitHub](https://github.com/twitter/typeahead.js)
-* [Awesomeplete GitHub](https://github.com/LeaVerou/awesomplete)
+* [Awesomplete GitHub](https://github.com/LeaVerou/awesomplete)
 
 RRSSB
 * [Ridiculously Responsive Social Sharing Buttons](http://kurtnoble.com/labs/rrssb) and [Ridiculously Responsive Social Sharing Buttons GitHub](https://github.com/kni-labs/rrssb) 
