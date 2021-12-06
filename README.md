@@ -140,7 +140,6 @@ Programming Groups
 * [Django Girls](https://djangogirls.org)
 * [Golang Bridge](http://golangbridge.org)
 * [Women Who Go](http://www.womenwhogo.org)
-* [Node Outreachy](https://nodejs.org/en/foundation/outreachy)
 * [Node Together](http://www.nodetogether.org)
 * [Rails Bridge](http://www.railsbridge.org)
 * [PHP Women](https://phpwomen.org)
@@ -188,7 +187,7 @@ Math and General Knowledge
 * [Feynman Lectures](http://www.feynmanlectures.caltech.edu) 
 
 Coding Competitions
-* [Code Jam](https://code.google.com/codejam)
+* [Code Jam](https://codingcompetitions.withgoogle.com/codejam)
 
 Twitch Creative- Accounts
 * [Twilio Twitch](http://www.twitch.tv/team/twilio)
@@ -217,7 +216,6 @@ Developer Playground/IDE, (Similar to Fiddle, Glitch, IFTTT Maker, etc.)
 * [Fiddle](https://fiddles.io)
 * [JSFiddle](http://jsfiddle.net)
 * [JS Bin](https://jsbin.com)
-* [Scratchpad](https://developer.mozilla.org/en-US/docs/Tools/Scratchpad)
 * [Codepen](http://codepen.io)
 * [Cloud9](https://c9.io)
 * [Runkit](https://runkit.com)
@@ -391,9 +389,6 @@ GitHub Design and Code StyleGuides
 Google Style Guides
 * [Google Style Guides](https://google.github.io/styleguide) and [Google Style Guides GitHub](https://github.com/google/styleguide)
 
-Mozilla Coding Style Guide
-* [Mozilla Coding Style Guide](https://developer.mozilla.org/en-US/docs/Mozilla/Developer_guide/Coding_Style)
-
 More Styleguide Examples
 * [Khan Style Guides GitHub](https://github.com/Khan/style-guides)
 * [Styleguide Boilerplate GitHub](https://github.com/bjankord/Style-Guide-Boilerplate)  
@@ -405,7 +400,6 @@ More Styleguide Examples
 * [Kissmetrics Styleguide GitHub](https://github.com/kissmetrics/styleguide) 
 * [Mozilla Styleguide](https://www.mozilla.org/en-US/styleguide)
 * [ProPublica Styleguide GitHub](https://github.com/propublica/guides)
-* [Reddit Styleguide GitHub](https://github.com/reddit/styleguide)
 * [Starbucks Styleguide](http://www.starbucks.com/static/reference/styleguide)
 * [Thoughtbot Styleguides GitHub](https://github.com/thoughtbot/guides/tree/master/style)
 * [Trello CSS Styleguide GitHub](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) 
@@ -414,7 +408,6 @@ More Styleguide Examples
 PHP Styleguides
 * [PHP FIG](http://www.php-fig.org), [PHP FIG Standards Recommendations](http://www.php-fig.org/psr), [PHP FIG Standars Accepted GitHub](https://github.com/php-fig/fig-standards/tree/master/accepted)
 * [PHP FIG PSR-2 Coding Style Guide](http://www.php-fig.org/psr/psr-2)
-* [Codeigniter PHP Style Guide](https://ellislab.com/codeigniter/user-guide/general/styleguide.html)
 * [Codeigniter PHP Style Guide](https://www.codeigniter.com/user_guide/general/styleguide.html)
 * [PEAR Coding Standards](http://pear.php.net/manual/en/standards.php)
 * [Zend Framework Coding Standard for PHP](http://framework.zend.com/manual/1.12/en/coding-standard.coding-style.html)
@@ -461,7 +454,7 @@ DevCenter (Developer Center/API)
 * [DevCenter Website](DevCenter.me)
 
 Code Search
-* [Search Code](https://searchcode.com) and [Search Code Server](https://searchcode.com/product)  
+* [Search Code](https://searchcode.com) 
 * [Nerdy Data](http://nerdydata.com) 
 
 Wayback Machine
@@ -736,7 +729,6 @@ cURL and Wget
 
 Nano and Pico
 * [Nano](http://www.nano-editor.org) and [Nano Wikipedia](https://en.wikipedia.org/wiki/GNU_nano)
-* [Nano Basics Guide](https://wiki.gentoo.org/wiki/Nano/Basics_Guide)
 * [Pico Wikipedia](https://en.wikipedia.org/wiki/Pico_(text_editor))
 
 Windows- PowerShell
@@ -754,7 +746,6 @@ Emacs and Vim (Text Editors)
 * [Emacs 24 Reference Card](https://spark-public.s3.amazonaws.com/startup/lecture_slides/emacs24-refcard.pdf)  
 * [Vi Wikipedia](https://en.wikipedia.org/wiki/Vi)
 * [Vim](http://www.vim.org) and [Vim (VimL Script) Wikipedia](http://en.wikipedia.org/wiki/Vim_(text_editor))  
-* [Learn to Use Vim](https://egghead.io/series/learn-to-use-vim)
 * [Vim Cheat Sheet](http://www.viemu.com/vi-vim-cheat-sheet.gif)
 * [Emacs vs. Vim](http://en.wikipedia.org/wiki/Editor_war)  
 
@@ -962,7 +953,6 @@ Dot Files
 * [Jacobian Dotfiles GitHub](https://github.com/jacobian/dotfiles) 
 * [Jeff Triplett Dotfiles GitHub](https://github.com/jefftriplett/dotfiles)
 * [Jessica Lord GitHub](https://github.com/jlord/dotfiles)
-* [Kenneth Reitz GitHub](https://github.com/kennethreitz/dotfiles)
 * [Mathias’s Dotfiles GitHub](https://github.com/mathiasbynens/dotfiles)
 * [Paul Irish Dotfiles GitHub](https://github.com/paulirish/dotfiles)
 * [Thoughtbot Dotfiles GitHub](https://github.com/thoughtbot/dotfiles)
@@ -1044,7 +1034,6 @@ Ubuntu- + Programs
 * [Ubuntu 14.04 Rails](https://gorails.com/setup/ubuntu/14.04)  
 * [Ubuntu VirtualBox](https://help.ubuntu.com/community/VirtualBox)  
 * [Ubuntu VirtualBox USB](https://help.ubuntu.com/community/VirtualBox/USB)  
-* [Ubuntu Virtual Server](https://help.ubuntu.com/community/UbuntuVirtualServer)  
 
 Linux- Other Popular Distributions
 * [List of Linux Distributions Wikipedia](http://en.wikipedia.org/wiki/List_of_Linux_distributions)  
@@ -1071,7 +1060,6 @@ Chromebook Ubuntu Installation
 * [Codestarter Ubuntu Installer Blog Post](http://blog.codestarter.org/post/93985346780/how-we-turn-199-chromebooks-into-ubuntu-based)  
 * [Codestarter Ubuntu Installer GitHub](https://github.com/codestarterorg/ubuntu-chromebook-installer)  
 * [Original Ubuntu Installer GitHub](https://github.com/eyecreate/ubuntu-chromebook-installer)  
-* [ChrUbuntu Installer GitHub](https://github.com/jay0lee/chrubuntu-script)  
 * [Crouton GitHub](https://github.com/dnschneid/crouton)  
 
 <!--
@@ -1223,7 +1211,6 @@ Facebook Developers
 * [Facebook Developers](https://developers.facebook.com) and [Facebook Developers Docs](https://developers.facebook.com/docs)
 * [Facebook Webmaster](https://developers.facebook.com/docs/sharing/webmasters)
 * [Facebook Crawler (Sharing Debugger)](https://developers.facebook.com/tools/debug)
-* [Facebook OpenGraph Debugger](https://developers.facebook.com/tools/debug/og/object)
 * [Facebook Platform Insights (Going away)](https://developers.facebook.com/docs/platforminsights)
 
 <!--
@@ -1280,8 +1267,8 @@ https://github.com/googleanalytics/ga-dev-tools
 -->
 
 Google Rich Snippets
-* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets), [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en), and [Use Structured Data for Rich Search Results](https://support.google.com/webmasters/topic/4598337?hl=en&amp;amp;amp;ref_topic=3309300) 
-
+* [Google Rich Snippets Official Testing Tool](http://www.google.com/webmasters/tools/richsnippets) and [About Rich Snippets and Structured Data for Rich Search Results](https://support.google.com/webmasters/answer/99170?hl=en)
+* 
 Google Mobile Analytics and Firebase
 * [Google Mobile Analytics](http://www.google.com/analytics/mobile) 
 * [Firebase](https://firebase.google.com)
@@ -1313,7 +1300,7 @@ Firefox SEO (See also Mozilla)
 * [SenSEO for Firefox (SenSEO score of 85+)](https://addons.mozilla.org/en-US/firefox/addon/senseo)
 
 Sharing Buttons
-* [AddThis](http://addthis.com), [AddThis Developer Support](http://support.addthis.com/customer/portal/topics/174660-developers/articles), and [AddThis Support](http://support.addthis.com)  
+* [AddThis](http://addthis.com)  
 * [AddToAny](https://www.addtoany.com) 
 * [ShareThis](http://sharethis.com), [ShareThis Developer](http://developer.sharethis.com), and [ShareThis Support](http://support.sharethis.com)
 
@@ -1361,7 +1348,7 @@ Pinterest
 * [Pinterest Search (Stats Research)](https://www.pinterest.com/search)
 
 Twitter Analytics, Ads, Marketing
-* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io), [Twitter Ads](https://ads.twitter.com/user), and [Twitter Video](https://video.twitter.com/faq) 
+* [Twitter Analytics](https://analytics.twitter.com), [Twitter Answers (Mobile Analytics)](http://answers.io) and [Twitter Video](https://video.twitter.com/faq) 
 * [Twitter Marketing](https://marketing.twitter.com)
 
 Yahoo and Bing- Ads
@@ -1386,7 +1373,6 @@ Portfolio and Community Websites
 * [Behance](https://www.behance.net)  
 * [Dribbble](https://dribbble.com) and [Dribble Shots](https://dribbble.com/shots)
 * [Hunie](http://hunie.co/designs) and [Hunie Twitter](https://twitter.com/hunieco)
-* [Zurb Tavern](http://zurb.com/tavern) 
 
 KPCB and John Maeda Design in Tech Report
 * [KPCB Design in Tech Report 2017](https://designintechreport.wordpress.com/2017/03/11/design-in-tech-report-2017)
@@ -1488,13 +1474,12 @@ Quickie Mobile Apps
 * [DWNLD](https://dwnld.me/info) and [DWNLD GitHub](https://github.com/dwnld)
 
 Turn Key Websites
-* [Wordpress VIP](http://vip.wordpress.com) [Wordpress VIP Staging](https://vip.wordpress.com/documentation/quickstart/staging-environment), and [Wordpress VIP Clients](http://vip.wordpress.com/clients)  
+* [Wordpress VIP](http://vip.wordpress.com)  
 
 Lipsum
 * [Lipsum](http://www.lipsum.com), [Cupcake Ipsum](http://www.cupcakeipsum.com), [Corporate Ipsum](http://www.cipsum.com), and [Lorem Dim Sum](http://loremdimsum.com)
 
 Photo Editing (See also Adobe)
-* [Nik Collection](https://www.google.com/nikcollection) 
 * [Serif](http://www.serif.com)
 
 Photo Placeholders
@@ -1597,7 +1582,6 @@ Good, Basic Templates, Themes
 * [BootstrapTaste](http://bootstraptaste.com)
 * [Bootswatch](http://bootswatch.com) and [Bootswatch GitHub](https://github.com/thomaspark/bootswatch) 
 * [Start Bootstrap](http://startbootstrap.com), [Start Bootstrap GitHub](https://github.com/BlackrockDigital/startbootstrap), and [Iron Summit GitHub](https://github.com/IronSummitMedia)
-* [Modern Business Template](http://startbootstrap.com/template-overviews/modern-business)
 * [Google-Styled Theme for Bootstrap GitHub](https://github.com/todc/todc-bootstrap)
 * [Trianglify (Background Generator)](http://qrohlf.com/trianglify)
 
@@ -1960,7 +1944,7 @@ Mobile and Web Analytics, Error Reporting, Logging, Instrumentation
 
 A/B Testing
 * [A/B Testing Wikipedia](http://en.wikipedia.org/wiki/A/B_testing) 
-* [Optimizely](https://www.optimizely.com), [Optimizely A/B Testing](https://www.optimizely.com/ab-testing), and [Optimizely Non-Profits](https://www.optimizely.com/nonprofits) 
+* [Optimizely](https://www.optimizely.com) and [Optimizely A/B Testing](https://www.optimizely.com/ab-testing)
 
 App Invites or Beta Testing
 * [Google App Invites](https://developers.google.com/app-invites)
@@ -2062,10 +2046,6 @@ React Relay (React Stack)
 Reflux (React Stack)
 * [Reflux](https://github.com/reflux/refluxjs)
 
-More
-
-TodoMVC (See also JavaScript)
-* [TodoMVC](http://todomvc.com), [TodoMVC Examples](http://todomvc.com/examples) 
 
 MVCs General, Backbone, Ember
 * [Backbone](http://backbonejs.org)  
@@ -2462,7 +2442,7 @@ Contributing to Ruby Guide
 -->
 
 Ruby- Executable Specification
-* [Ruby Executable Specification](http://rubyspec.org) and [Ruby Executable Specification GitHub](https://github.com/rubyspec/rubyspec)  
+* [Ruby Executable Specification](http://rubyspec.org)  
 * [Ruby Testing Tool](http://rspec.info)  
 
 Rails- Preferred Templates and Documents
@@ -4521,6 +4501,9 @@ SaaS- General and Alternatives to GoogleApps
 
 #### Dev Ops Tools
 
+Logit.io
+* [Logit.io](https://logit.io/) 
+
 VMware, Vagrant, VirtualBox
 * [VMware](http://www.vmware.com)  
 * [VMware Wikipedia](http://en.wikipedia.org/wiki/VMware)  
@@ -6099,7 +6082,7 @@ Accelerator, Angel, VC Firm Blogs and Learning Resources
 * [First Round Magazines](http://firstround.com/review/magazines), [First Round Review](http://firstround.com/review), [First Round Medium](https://medium.com/@firstround), [First Round Slideshare](http://www.slideshare.net/firstround), [First Round 2005-2015](http://10years.firstround.com) and [First Round Q1 LP Letter](http://www.scribd.com/doc/269788805/First-Round-Q1-LP-Letter)
 * [Founders Club Learn](https://fundersclub.com/learn)  
 * [Introducing Google Ventures Library](http://www.gv.com/news/introducing-the-gv-library), [Google Ventures Library](http://www.gv.com/library), [Google Ventures Library](https://library.gv.com), and [Google for Entrepreneurs](https://www.googleforentrepreneurs.com) 
-* [KPCB Articles](http://www.kpcb.com/articles), [KPCB Slideshare](http://www.slideshare.net/kleinerperkins), and [KPCB Fellows](http://kpcbfellows.com)
+* [KPCB Articles](http://www.kpcb.com/articles) and [KPCB Fellows](http://kpcbfellows.com)
 * [Nasdaq Entrepreneurial Center](http://thecenter.nasdaq.org)
 * [NEA](http://www.nea.com)
 * [NFX Guild Program](http://www.nfx.com/company/program)
