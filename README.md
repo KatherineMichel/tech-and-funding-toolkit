@@ -5822,6 +5822,10 @@ Startup Studios
 * [Expa](http://expa.com) and [Expa Labs](http://expa.com/labs)
 * [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 
+Crowd Investing
+* [OurCrowd]([https://www.ourcrowd.com/)
+* [EquityZen](https://equityzen.com)
+
 Other
 * [Silicon Valley Bank](http://www.svb.com) 
 
@@ -6122,9 +6126,6 @@ VC Firm Portfolios and Anti-Portfolios
 * [StartX Stanford Companies](http://startx.stanford.edu/companies) 
 * [Union Square Ventures Portfolio](https://www.usv.com/portfolio)
 * [YCList](http://yclist.com)
-
-EquityZen
-* [EquityZen](https://equityzen.com)
 
 <!--
 https://upverter.com/periodic-table
