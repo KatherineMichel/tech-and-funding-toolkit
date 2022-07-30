@@ -5823,7 +5823,7 @@ Startup Studios
 * [Scholas Labs (Launched by Pope Francis)](http://scholaslabs.org)
 
 Crowd Investing
-* [OurCrowd]([https://www.ourcrowd.com/)
+* [OurCrowd](https://www.ourcrowd.com/)
 * [EquityZen](https://equityzen.com)
 
 Other
