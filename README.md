@@ -8366,6 +8366,7 @@ https://nomadlist.com/about | Nomad List — About
 -->
 
 Remote
+* [OkJob](https://okjob.io/remote-4-day-work-week/)
 * [remoteok](https://remoteok.io)
 
 <!--
